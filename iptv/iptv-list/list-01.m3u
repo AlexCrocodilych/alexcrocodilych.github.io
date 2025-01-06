@@ -5,9 +5,6 @@
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 (HD)
-https://flussonic.salomtv.uz/Eurosport/video.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 (HD)
 http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 (HD)
@@ -16,25 +13,26 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 (HD)
 http://live.admuspeh.my/8014/
 
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! (HD)
+http://130.193.73.10:8937/play/a049
+
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://exec.remotecurl.appfxml.com/curl/img/match-tv.png" group-title="Спортивные",Матч ТВ (HD)
 http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://exec.remotecurl.appfxml.com/curl/img/match-tv.png" group-title="Спортивные",Матч ТВ (HD)
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDI0IDY6NTk6MTQgQU0maGFzaF92YWx1ZT1kU0xnbGJSWmNnM2s3QmFxeDdWNkx3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://staticdata.appfxml.com/staticfiles/fimg/1px.png" group-title="Спортивные",МАТЧ! Ультра (4K)
 http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый (HD ready)
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.one/img2/1755.png" group-title="Хобби и увлечения",НТВ Стиль (WSVGA)
+http://cdn2.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Хобби и увлечения",Бобёр (EDTV 576p)
+http://178.212.71.253:8002/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://epg.one/img2/2278.png" group-title="Музыкальные",Шансон ТВ (EDTV 576p)
 http://31.210.208.171:8080/shanson/index.m3u8?token=+W2MSER
-
-
-
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! (EDTV 576p)
-http://130.193.73.10:8937/play/a048
-
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! (HD)
-http://130.193.73.10:8937/play/a049
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery (HD)
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
@@ -42,11 +40,8 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="Познавательные",ID (HD)
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Хобби и увлечения",Бобёр (EDTV 576p)
-http://178.212.71.253:8002/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.one/img2/1755.png" group-title="Хобби и увлечения",НТВ Стиль (WSVGA)
-http://cdn2.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый (HD ready)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радио",Авторадио
 http://ic7.101.ru:8000/v3_1

@@ -25,6 +25,9 @@ http://82.215.111.227/1439/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (HD)
 http://s1.merlive.am:80/eurosport2/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (HD)
+rtmp://5.182.229.90//7203
+
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (HD)
 http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
 
@@ -32,6 +35,9 @@ http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
 http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 03 (HD)
+http://130.193.73.10:8937/play/a049
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 04 (HD)
 http://213.226.137.140:81/tl/l320/mpegts
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (4K)

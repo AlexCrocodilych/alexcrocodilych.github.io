@@ -10,8 +10,17 @@ http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 03 (HD)
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 2 - 04 (HD)
-http://live.admuspeh.my/8014/
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (HD)
+http://50.7.92.98:8887/8163/video.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (HD)
+http://s1.merlive.am:80/eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 03 (HD)
+http://62.231.191.65:8888/206
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 04 (HD)
+http://77.235.1.17/eurosport_2/index.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (HD)
 http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY

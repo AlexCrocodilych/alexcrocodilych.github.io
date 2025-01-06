@@ -1,53 +1,53 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:My
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 - 01 (HD)
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (HD)
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 - 02 (HD)
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 02 (HD)
 http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 - 03 (HD)
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 03 (HD)
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 - 04 (HD)
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 2 - 04 (HD)
 http://live.admuspeh.my/8014/
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (HD)
-http://130.193.73.10:8937/play/a049
-
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 02 (HD)
 http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://staticdata.appfxml.com/staticfiles/fimg/1px.png" group-title="Спортивные",МАТЧ! Ультра - 01 (4K)
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (4K)
 http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.one/img2/1755.png" group-title="Хобби и увлечения",НТВ Стиль - 01 (WSVGA)
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/ntv-style.png" group-title="Хобби и увлечения",НТВ Стиль - 01 (WSVGA)
 http://cdn2.ntv.ru/th_style/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Хобби и увлечения",Бобёр - 01 (EDTV 576p)
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/bober.png" group-title="Хобби и увлечения",Бобёр - 01 (EDTV 576p)
 http://178.212.71.253:8002/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="http://epg.one/img2/2278.png" group-title="Музыкальные",Шансон ТВ - 01 (EDTV 576p)
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/shanson-tv.png" group-title="Музыкальные",Шансон ТВ - 01 (EDTV 576p)
 http://31.210.208.171:8080/shanson/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery - 01 (HD)
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/discovery.png" group-title="Познавательные",Discovery - 01 (HD)
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый - 01 (HD ready)
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 (HD ready)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радио",Авторадио
+#EXTINF:-1 tvg-id="rossia" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/pervy.png" group-title="Общественные",Россия 1 - 01 (HD ready)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/avtoradio.png" group-title="Радио",Авторадио
 http://ic7.101.ru:8000/v3_1
 
-#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="Радио",Радио Шансон
+#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/radio-shanson.png" group-title="Радио",Радио Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
 
-#EXTINF:-1 tvg-id="radio-vania" tvg-logo="https://iptvx.one/picons/radio-vania.png" group-title="Радио",Радио Ваня
+#EXTINF:-1 tvg-id="radio-vania" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/radio-vania.png" group-title="Радио",Радио Ваня
 http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
 
-#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://iptvx.one/picons/retro-fm.png" group-title="Радио",Ретро FM
+#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/retro-fm.png" group-title="Радио",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 
-#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://iptvx.one/picons/xit-fm.png" group-title="Радио",Хит FM
+#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/hit-fm.png" group-title="Радио",Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3				

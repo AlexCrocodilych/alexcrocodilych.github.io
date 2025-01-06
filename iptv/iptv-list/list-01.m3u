@@ -22,14 +22,11 @@ http://82.215.111.227/1439/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (HD)
 http://s1.merlive.am:80/eurosport2/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (HD)
-http://s1.merlive.am:80/eurosport2/index.m3u8
-
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (HD)
 http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 02 (HD)
-
+http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (4K)
 http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
@@ -52,17 +49,20 @@ http://31.210.208.171:8080/shanson/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/discovery.png" group-title="Познавательные",Discovery - 01 (HD)
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 +4 (HD ready)
-https://rt-sib-krsk-htlive-cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 +4 (HD)
+http://dmi3y-tv.ru/hls/T2/CH_1TV_4.m3u8
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 02 (HD ready)
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 02 (HD)
+http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
+
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 03 (HD Ready)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 03 (HD ready)
-https://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
+#EXTINF:-1 tvg-id="russia1" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 01 +4 (HD)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
 
-#EXTINF:-1 tvg-id="russia1" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 01 (HD ready)
-https://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+#EXTINF:-1 tvg-id="russia1" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 02 (HD)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/avtoradio.png" group-title="Радио",Авторадио
 http://ic7.101.ru:8000/v3_1

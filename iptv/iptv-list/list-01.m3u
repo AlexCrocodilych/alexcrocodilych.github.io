@@ -28,8 +28,23 @@ http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 02 (HD)
 http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
 
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 03 (HD)
+http://130.193.73.10:8937/play/a049
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 04 (HD)
+http://213.226.137.140:81/tl/l320/mpegts
+
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (4K)
 http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч Арена - 01 (HD)
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч Игра - 01 (HD)
+http://213.226.137.140:81/tl/l304/mpegts
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч Планета - 01 (HD)
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://github.com/AlexCrocodilych/alexcrocodilych.github.io/blob/main/iptv/iptv-img/ntv-style.png" group-title="Хобби и увлечения",НТВ Стиль - 01 (WSVGA)
 http://cdn.ntv.ru/th_style/playlist.m3u8

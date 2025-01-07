@@ -37,13 +37,13 @@ http://213.226.137.140:81/tl/l320/mpegts
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (1080p)
 http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч Арена - 01 (1080p)
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена - 01 (1080p)
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч Игра - 01 (1080p)
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-igra.png" group-title="Спортивные",Матч Игра - 01 (1080p)
 http://213.226.137.140:81/tl/l304/mpegts
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч Планета - 01 (1080p)
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч Планета - 01 (1080p)
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 01 (576p)
@@ -96,6 +96,9 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 02 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+
+#EXTINF:-1 tvg-id="europa-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/europa-plus.png" group-title="Радио",Европа Плюс FM
+http://hitfm.hostingradio.ru/hitfm128.mp3			
 
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/avtoradio.png" group-title="Радио",Авторадио
 http://ic7.101.ru:8000/v3_1

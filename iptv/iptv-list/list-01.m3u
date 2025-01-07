@@ -46,6 +46,9 @@ http://213.226.137.140:81/tl/l304/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч Планета - 01 (576p)
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
+#EXTINF:-1 tvg-id="match-strana" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Страна - 01 (576p)
+http://213.226.137.140:81/tl/l73/mpegts
+
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 01 (576p)
 http://cdn.ntv.ru/th_style/playlist.m3u8
 
@@ -98,7 +101,7 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="europa-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/europa-plus.png" group-title="Радио",Европа Плюс FM
-http://hitfm.hostingradio.ru/hitfm128.mp3			
+http://ep128server.streamr.ru:8030/ep128
 
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/avtoradio.png" group-title="Радио",Авторадио
 http://ic7.101.ru:8000/v3_1

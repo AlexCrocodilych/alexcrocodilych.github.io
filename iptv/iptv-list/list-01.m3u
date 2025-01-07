@@ -28,22 +28,22 @@ http://s1.merlive.am:80/eurosport2/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (1080p)
 http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 02 (1080p)
-http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
-
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 03 (1080p)
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 03 (720p)
 http://213.226.137.140:81/tl/l320/mpegts
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (1080p)
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 03 (576p)
+http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (2160p)
 http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена - 01 (1080p)
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена - 01 (576p)
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-igra.png" group-title="Спортивные",Матч Игра - 01 (1080p)
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-igra.png" group-title="Спортивные",Матч Игра - 01 (720p)
 http://213.226.137.140:81/tl/l304/mpegts
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч Планета - 01 (1080p)
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч Планета - 01 (576p)
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 01 (576p)
@@ -61,10 +61,10 @@ http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bober.png" group-title="Общественные",Бобёр - 02 (576p)
 http://195.18.23.20:8000/play/1/index.m3u8
 
-#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 01 (576p)
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 01 (404p)
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 02 (576p)
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 02 (404p)
 http://31.210.208.171:8080/shanson/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",Discovery - 01 (1080p)
@@ -73,10 +73,10 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",Discovery - 02 (1080p)
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 +4 (1080p)
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 +4 (720p)
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 02 +4 (1080p)
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 02 +4 (576p)
 http://dmi3y-tv.ru/hls/T2/CH_1TV_4.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 (1080p)
@@ -88,7 +88,7 @@ http://tv.streams.baikal-telecom.net:8080/PerviyHD/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 03 (720p)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 01 +4 (1080p)
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 01 +4 (1080p)
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 01 (1080p)

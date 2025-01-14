@@ -76,6 +76,15 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",Discovery - 02 (1080p)
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature - 01 (2160p)
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild - 01 (1080p)
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Общественные",National Geographic - 01 (1080p)
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 +4 (720p)
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 
@@ -99,6 +108,9 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 02 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ - 01 (1080p)
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 
 #EXTINF:-1 tvg-id="europa-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/europa-plus.png" group-title="Радио",Европа Плюс FM
 http://ep128server.streamr.ru:8030/ep128

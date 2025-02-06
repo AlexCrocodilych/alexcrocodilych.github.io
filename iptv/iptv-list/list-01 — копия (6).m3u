@@ -11,19 +11,19 @@ http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 04 (1080p)
-http://live.admuspeh.my/8013/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://45.132.87.69:8080/eurosport1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 05 (1080p)
-http://194.26.229.213:3080/channel/10ccfa0/index.m3u8?q=963f66a62081211920e45aea3294bb9f
+http://45.132.87.69:8080/eurosport1/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 06 (1080p)
-https://cdn-nvm-chicago2.lolokoko.tv/Eurosport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 06 (576p)
+http://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 07 (1080p)
-https://tv.movielab.pro/145/video.m3u8?token=f1bd35f5b27d1736de5ed99c59afe127105e2537-d1de5edba35462df239f3e878aa78624-1738871895-1738785495
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 07 (576p)
+http://82.215.111.227/1439/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
-http://live.admuspeh.my/8013/index.m3u8?token=4gPHp5ZVYqDAR4oz
+http://s7.merlive.am/eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (576p)
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8

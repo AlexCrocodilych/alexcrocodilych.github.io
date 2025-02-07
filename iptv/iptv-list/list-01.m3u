@@ -58,6 +58,15 @@ http://live.admuspeh.my/8014/index.m3u8?token=test
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 12 (1080p)
 http://live.admuspeh.my/8014/index.m3u8?token=Tva7UspehTest25w
 
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 13 (1080p)
+http://s1.merlive.am:80/eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 14 (1080p)
+http://iptvtree.net:8080/F32628/09b7a855/1195
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 15 (576p)
+http://45.132.87.69:8080/eurosport2/mono.m3u8
+
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (720p)
 http://213.226.137.140:81/tl/l320/mpegts
 

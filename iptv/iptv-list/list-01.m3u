@@ -31,6 +31,9 @@ http://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 13 (576p)
 http://82.215.111.227/1439/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 14 (576p)
+http://live.admuspeh.my/8013/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
 http://ost.ru-tv.site/zdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mzo4ODg3LzgxNjMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjlkMTE3MjZiIiwicCI6IjlkMTE3MjZiMzgwYTRjODUiLCJjIjoiMTUzIiwidCI6ImQ1M2EyYjVlM2MzYmE2Yjc5YzczZjUzZjAyY2Q1NWYwIiwiZCI6IjI5MjQ5NiIsInIiOiIyOTgwMDUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuODEvODE2My9pbmRleC5tM3U4P3Rva2VuPVt/index.m3u8
 
@@ -66,6 +69,9 @@ http://iptvtree.net:8080/F32628/09b7a855/1195
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 15 (576p)
 http://45.132.87.69:8080/eurosport2/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 16 (576p)
+http://194.26.229.213:3080/channel/10ccfa1/index.m3u8?q=963f66a62081211920e45aea3294bb9f
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (720p)
 http://213.226.137.140:81/tl/l320/mpegts

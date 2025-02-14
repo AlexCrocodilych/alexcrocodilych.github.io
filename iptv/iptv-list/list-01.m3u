@@ -73,6 +73,24 @@ http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/5075/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 43 (1080p)
 http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/141/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 44 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/9247/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 45 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/31475/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 46 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/228/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 47 (1080p)
+http://ip1.orgip.net/200/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 48 (1080p)
+http://ip1.orgip.net/0200/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 49 (1080p)
+http://ost.ru-tv.site/zdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM1Ojg4ODcvODAxMy90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNzM3OGU3MmEiLCJwIjoiNzM3OGU3MmE0YTBjOGIzZCIsImMiOiIxMyIsInQiOiJmNDUzNWVhNGY5OTExMGU5NTFkMDRkNTZhZDc1Yzc5ZSIsImQiOiIzMTA1MDAiLCJyIjoiMzE2MDg5IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuODEvODAxMy9pbmRleC5tM3U4P3Rva2VuPVt/index.m3u8
+
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
 https://tv.movielab.pro/145/video.m3u8?token=2bf5aba5c81f5c8f44eeeb5ad4d4ba74e9e5491a-1c956081d024dd4336b35f9274d01bc5-1739606409-1739520009
 
@@ -135,6 +153,21 @@ http://view.my-tv.biz/tv/87920bc935/e4985ac924/video.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 33 (1080p)
 http://view.my-tv.biz/tv/87920bc935/32c2821f9f/video.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 41 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/234/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 42 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/5076/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 43 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/234/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 44 (1080p)
+http://ip1.orgip.net/201/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 45 (1080p)
+http://ost.ru-tv.site/zdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM1Ojg4ODcvODAxNC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNzM3OGU3MmEiLCJwIjoiNzM3OGU3MmE0YTBjOGIzZCIsImMiOiIxNCIsInQiOiJmNDUzNWVhNGY5OTExMGU5NTFkMDRkNTZhZDc1Yzc5ZSIsImQiOiIzMTA1MDAiLCJyIjoiMzE2MDg5IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuODEvODAxNC9pbmRleC5tM3U4P3Rva2VuPVt/index.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (720p)
 http://213.226.137.140:81/tl/l320/mpegts

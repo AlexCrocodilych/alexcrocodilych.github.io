@@ -337,5 +337,11 @@ https://media-hls-az1.wral.com/vodhttporigins3/_definst_/smil:amazons3/cbcnm-sta
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",WRAL-TV - 04 (1080p)
 https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/c.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live&pbs=0214b844775a42d8bc98a5f39b92ef2c
 
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",WRAL-TV - 04 (1080p)
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",WRAL-TV - 05 (1080p)
 https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/c.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live&pbs=09001bdd48124575bb0337eea7c03c54
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",WRAL-TV - 06 (1080p)
+https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/c.m3u8?
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",WRAL-TV - 07 (1080p)
+https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/d.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live&pbs=09001bdd48124575bb0337eea7c03c54

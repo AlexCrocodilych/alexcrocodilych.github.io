@@ -334,6 +334,9 @@ https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV Raleigh NC - 05 (720p)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0485
 
+#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV Raleigh NC - 06 (720p)
+https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
+
 #EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte NC - 01 (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
 

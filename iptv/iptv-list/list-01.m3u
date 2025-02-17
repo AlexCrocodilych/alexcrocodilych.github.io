@@ -322,8 +322,17 @@ http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV - 01 (720p)
 https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live&pbs=b51035c94f534543adcdc3f70e7709f3
 
+#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV - 02 (1080p)
+https://media-hls.wral.com/livehttporigin/_definst_/mp4:encoder25-medium/master.m3u8
+
 #EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV - 01 (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
 
 #EXTINF:-1 tvg-id="fox-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-5.png" group-title="Американские",FOX 5 Atlanta GA - 01 (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
+
+#EXTINF:-1 tvg-id="WXII-TV" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-5.png" group-title="Американские",WXII-TV News Winston-Salem NC - 01 (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXII.m3u8
+
+#EXTINF:-1 tvg-id="WFMY" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-5.png" group-title="Американские",CBS 2 Greensboro NC - 01 (1080p)
+https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8

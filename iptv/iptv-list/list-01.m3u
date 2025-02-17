@@ -322,8 +322,11 @@ http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="wral" tvc-guide-description="WRAL" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WRAL-TV - 01 (720p)
 https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live&pbs=b51035c94f534543adcdc3f70e7709f3
 
-#EXTINF:-1 tvg-id="WBTV" tvc-guide-description="WBTV" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WBTV-News - 01 (720p)
-https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=1787760&session=0ef1be423fd348fe9034a0556c676934
+#EXTINF:-1 tvg-id="WBTV" tvc-guide-description="WBTV" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",CC-TV - 01 (720p)
+https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WCNC" tvc-guide-description="WCNC" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WCNC-TV - 01 (720p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
+
+#EXTINF:-1 tvg-id="WCNC" tvc-guide-description="WCNC" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",STIRR City Raleigh Durham - 01 (720p)
+https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8

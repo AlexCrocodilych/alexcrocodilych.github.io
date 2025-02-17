@@ -322,14 +322,8 @@ http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="wral" tvc-guide-description="WRAL" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WRAL-TV - 01 (540p)
 https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/d.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live&pbs=09001bdd48124575bb0337eea7c03c54
 
-EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WRAL-TV - 02 (540p)
-https://media-hls-az1.wral.com/vodhttporigins3/_definst_/smil:amazons3/cbcnm-static-web-content/home/web/wral/public/asset/weather/2006/11/30/1076424/webwx-DMID1-6609ncq7k.smil/chunklist_b1440000_cfYW1hem9uczMvY2Jjbm0tc3RhdGljLXdlYi1jb250ZW50L2hvbWUvd2ViL3dyYWwvcHVibGljL2Fzc2V0L3dlYXRoZXIvMjAwNi8xMS8zMC8xMDc2NDI0L3dlYnd4LURNSUQxLTY2MDluY3E3ay52dHQ=.m3u8
-
-EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WRAL-TV - 03 (540p)
-https://media-hls.wral.com/vodhttporigins3/_definst_/smil:amazons3/cbcnm-static-web-content/home/web/wral/public/asset/weather/2006/11/30/1076424/webwx-DMID1-6609ncq7k.smil/playlist.m3u8
-
-EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WRAL-TV - 04 (540p)
-https://media-hls-az1.wral.com/vodhttporigins3/_definst_/smil:amazons3/cbcnm-static-web-content/home/web/wral/public/asset/weather/2006/11/30/1076424/webwx-DMID1-6609ncq7k.smil/chunklist_b512000_cfYW1hem9uczMvY2Jjbm0tc3RhdGljLXdlYi1jb250ZW50L2hvbWUvd2ViL3dyYWwvcHVibGljL2Fzc2V0L3dlYXRoZXIvMjAwNi8xMS8zMC8xMDc2NDI0L3dlYnd4LURNSUQxLTY2MDluY3E3ay52dHQ=.m3u8
-
-#EXTINF:-1 tvg-id="wral" tvc-guide-description="WRAL" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WRAL-TV - 05 (540p)
+#EXTINF:-1 tvg-id="wral" tvc-guide-description="WRAL" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WRAL-TV - 02 (720p)
 https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live&pbs=b51035c94f534543adcdc3f70e7709f3
+
+#EXTINF:-1 tvg-id="wral" tvc-guide-description="WRAL" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Общественные",WRAL-TV - 02 (720p)
+https://content-aeuf1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/a.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live&pbs=ade4767890a1468b80284a4e896d28f5

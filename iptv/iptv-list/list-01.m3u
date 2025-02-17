@@ -329,7 +329,10 @@ https://media-hls.wral.com/livehttporigin/_definst_/mp4:encoder25-medium/master.
 https://rr5---sn-5hnednss.googlevideo.com/videoplayback?expire=1739812211&ei=ExmzZ_i4KouF6dsPqO-F0As&ip=185.200.107.153&id=5zOTU7rpikw.2&itag=386&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1739790611%2C&mh=tf&mm=44%2C29&mn=sn-5hnednss%2Csn-5hne6nzk&ms=lva%2Crdu&mv=m&mvi=5&pl=24&rms=lva%2Clva&initcwndbps=605000&siu=1&bui=AUWDL3wMcvX_n_JjaZVnI7Kcm_RYC7-ZkOtql5n03bNPExpIBIk6IEHHUEXLLfayEa2nffL_uQ&spc=RjZbSTfKGpLk4DQRrgnKUXro4ccOX1Dz19z0tHUtblyi4r85lGidnsbIiwbkN24&vprv=1&live=1&hang=1&noclen=1&svpuc=1&xtags=lang%3Den%3Attkind%3Dasr&mime=text%2Fmp4&ns=2Ig9q0oj4ZD2nJ6B6zFI9VsQ&rqh=1&gir=yes&mt=1739790027&fvip=5&keepalive=yes&fexp=51326932%2C51355912&c=WEB&sefc=1&n=DIb5v6-saJ99Ww&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csiu%2Cbui%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Cgir&sig=AJfQdSswRgIhAJqyjrNNwq9QkubP7BZlFsEi-rlJoJ3WVtrCRAWDrrrSAiEAiBLYNF4JGOwLAhnRk9T2x-n5bpaG47rxs00UVMkV31A%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=AGluJ3MwRgIhAMCpIHLaSqgNnpe2gs5gAWZjwmt4Uxx2SmTF1DG12FrtAiEAvckkOgL8Hx7t8cdfO33HbbOg8r9-EZbNjmZXbGEkmA0%3D&alr=yes&cpn=5OpURhEW4SzifoKG&cver=2.20250213.05.00&sq=1188523&pot=MlvqmDGgUWvCYeqgE58BKqd1wJqm5pVl33gYhzoqhc4kNlwqbt2sbwE-iV8bIA_sN6hOPKu_A_5NuLdBVTVxeyaS8eAtSlu54gzk5ZJ9TWlG9a12ugS3-mSbyXez
 
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV Raleigh NC - 04 (720p)
-https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8
+https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8?
+
+#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV Raleigh NC - 05 (720p)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIUS0485
 
 #EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte NC - 01 (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8

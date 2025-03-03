@@ -1,0 +1,270 @@
+#EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG"
+#PLAYLIST:My
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 02 (1080p)
+http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 03 (1080p)
+http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 04 (1080p)
+http://194.26.229.213:3080/channel/10ccfa0/index.m3u8?q=963f66a62081211920e45aea3294bb9f
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 33 (1080p)
+https://7pal.short.gy/eusport4k
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 34 (1080p)
+http://view.my-tv.biz/tv/87920bc935/2967b719d3/video.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 41 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/228/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 42 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/5075/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 43 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/141/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 44 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/9247/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 45 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/31475/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 46 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/228/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 47 (1080p)
+http://ip1.orgip.net/200/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 48 (1080p)
+http://ip1.orgip.net/0200/video.m3u8?token=A3b61a999e
+
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
+http://ip1.orgip.net/0201/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (576p)
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 41 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/234/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 42 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/5076/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 43 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/234/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 44 (1080p)
+http://ip1.orgip.net/201/video.m3u8?token=A3b61a999e
+
+
+
+
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (1080p)
+http://ip1.orgip.net/207/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 02 (576p)
+http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 03 (1080p)
+http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (2160p)
+http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена - 01 (576p)
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-igra.png" group-title="Спортивные",Матч Игра - 01 (720p)
+http://213.226.137.140:81/tl/l304/mpegts
+
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч Планета - 01 (576p)
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="match-strana" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Страна - 01 (576p)
+http://213.226.137.140:81/tl/l73/mpegts
+
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)
+http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="match-futbol1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol1.png" group-title="Спортивные",Матч Футбол 1 - 01 (1080p)
+http://ip1.orgip.net/202/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="match-futbol2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol2.png" group-title="Спортивные",Матч Футбол 2 - 01 (1080p)
+http://ip1.orgip.net/203/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="match-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol3.png" group-title="Спортивные",Матч Футбол 3 - 01 (1080p)
+http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
+
+
+
+
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 01 (576p)
+http://cdn2.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 02 (576p)
+http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 03 (576p)
+http://cdn.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bober.png" group-title="Общественные",Бобёр - 01 (576p)
+http://178.212.71.253:8002/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bober.png" group-title="Общественные",Бобёр - 02 (576p)
+http://195.18.23.20:8000/play/1/index.m3u8
+
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 01 (404p)
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 02 (404p)
+http://31.210.208.171:8080/shanson/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/europa-plus-tv.png" group-title="Общественные",Europa Plus TV - 01 (576p)
+http://93.189.224.246:52900/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id="1hd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/1hd-music.png" group-title="Общественные",1HD Music (1080p)
+http://91.247.68.229:8000/play/eee/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery - 01 (1080p)
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery - 02 (1080p)
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery - 03 (1080p)
+http://ip1.orgip.net/401/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="viju-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="discovery",Viju+ Explore - 01 (1080p)
+http://ip1.orgip.net/417/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature - 01 (2160p)
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature - 02 (1080p)
+http://ip1.orgip.net/446/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild - 01 (1080p)
+http://ip1.orgip.net/403/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild - 02 (576p)
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Общественные",National Geographic - 01 (1080p)
+http://ip1.orgip.net/402/video.m3u8?token=A3b61a999e
+
+
+
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 +4 (720p)
+https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 02 +4 (576p)
+http://dmi3y-tv.ru/hls/T2/CH_1TV_4.m3u8
+
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 (1080p)
+
+
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 03 (720p)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 01 +4 (1080p)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 01 (1080p)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 - 02 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ - 01 (1080p)
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ - 02 (1080p)
+
+
+
+
+#EXTINF:-1 tvg-id="europa-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/europa-plus.png" group-title="Радио",Европа Плюс FM
+http://ep128server.streamr.ru:8030/ep128
+
+#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/avtoradio.png" group-title="Радио",Авторадио
+http://ic7.101.ru:8000/v3_1
+
+#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/radio-shanson.png" group-title="Радио",Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+
+#EXTINF:-1 tvg-id="radio-vania" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/radio-vania.png" group-title="Радио",Радио Ваня
+http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+
+#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/retro-fm.png" group-title="Радио",Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+
+#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hit-fm.png" group-title="Радио",Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+
+
+
+#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 - 01 (1080p)
+http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 - 02 (1080p)
+
+
+#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 - 01 (1080p)
+http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 - 02 (1080p)
+
+
+#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 KZ - 02 (1080p)
+http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 KZ - 03 (1080p)
+
+
+#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 KZ - 01 (1080p)
+
+
+#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 Eurasia - 01 (1080p)
+
+
+#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 Baltic - 01 (1080p)
+
+
+#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 Ukraine - 01 (1080p)
+http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 Ukraine - 01 (1080p)
+http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 Ukraine - 02 (1080p)
+
+
+#EXTINF:-1 tvg-id="oкко-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Общественные",Окко Футбол HD - 01 (1080p)
+http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="oкко-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Общественные",Окко Спорт HD - 01 (1080p)
+http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="megogo-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Megogo",Megogo Спорт HD - 01 (1080p)
+http://ip1.orgip.net/237/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="megogo-futbol1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol1.png" group-title="Megogo",Megogo Футбол 1 - 01 (1080p)
+http://ip1.orgip.net/233/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="megogo-futbol2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol2.png" group-title="Megogo",Megogo Футбол 2 - 01 (1080p)
+http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="megogo-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Megogo",Megogo Футбол 3 - 01 (1080p)
+http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="megogo-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Megogo",Atlanta Channel - 01 (1080p)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8

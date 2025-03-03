@@ -367,5 +367,5 @@ https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/index_1.m3u8
 #EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",CBS 2 Greensboro NC (WFMY) - 02 (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
 
-#EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",Огонь (1080p)
-https://iptv.prosto.tv/id504/video.m3u8?secret=z9uobpke
+#EXTINF:-1 tvg-id="atlanta-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",Atlanta Channel - 01 (720p)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8

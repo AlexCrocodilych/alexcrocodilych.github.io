@@ -348,7 +348,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 
 #EXTINF:-1 tvg-id="WYFFDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",NBC 4 Greenville SC (WYFF) - 01 (1080p)
-https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
+https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
 
 #EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",NBC 12 Winston-Salem NC (WXII) - 01 (1080p)
 https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
@@ -367,3 +367,6 @@ https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
 #EXTINF:-1  type="video" group-title="ТОП" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)
 http://vod.orgip.net/vod100/Im_Westen_nichts_Neues_2022/index.m3u8?token=A3b61a999e
+
+#EXTINF:-1  type="video" group-title="ТОП" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", Анора (2024)
+http://vod.orgip.net/vod100/Anora/index.m3u8?token=A3b61a999e

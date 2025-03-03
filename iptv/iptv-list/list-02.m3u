@@ -221,13 +221,13 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 - 02 (1080p)
-https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
+
 
 #EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 - 01 (1080p)
 http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 - 02 (1080p)
-https://77-247-178-24.livesports24.online/setantaplusru.m3u8
+
 
 #EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 KZ - 02 (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
@@ -248,7 +248,7 @@ http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 Ukraine - 02 (1080p)
-https://185-107-80-245.livesports24.online/setantaukraine.m3u8
+
 
 #EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 Ukraine - 01 (1080p)
 http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
@@ -275,7 +275,6 @@ http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
 http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="fox-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Megogo",FOX Sports - 01 (1080p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 
@@ -309,14 +308,46 @@ https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 #EXTINF:-1 tvg-id="atlanta-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",Atlanta Channel - 01 (720p)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",Fox News - 01 (720p)
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",MSNBC News - 01 (720p)
+
+
+#EXTINF:-1 tvg-id="NBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",NBC Washington News - 01 (720p)
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",CBS News - 01 (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",CNN News - 01 (720p)
+
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",CNBC - 01 (720p)
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",ABC News - 01 (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",ABC News - 02 (720p)
+https://livetv-fa.tubi.video/abc-news/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",ABC News - 02 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
 #EXTINF:-1 tvg-id="CBNNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",CBN News National - 01 (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",Fox News - 01 (720p)
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-id="WSOCDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",ABC 9 Charlotte NC (WSOC) - 01 (1080p)
+https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",Bloomberg TV - 01 (1080p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
+
+
 
 
 

@@ -265,17 +265,20 @@ http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
 
 
-#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV Raleigh NC - 01 (720p)
+#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-News Raleigh - 01 (720p)
 https://content-aeuf1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8?pbs=9121c071ca964fcab38baf0f25f7bafc
 
-#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV Raleigh NC - 02 (720p)
+#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-News Raleigh - 02 (720p)
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 
-#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte NC - 01 (1080p)
+#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte - 01 (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
 
-#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte NC - 02 (1080p)
+#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte - 02 (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
+
+#EXTINF:-1 tvg-id="WCNCDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",WCNC-TV Charlotte - 03 (1080p)
+https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
 
 #EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",CBS 2 Greensboro NC (WFMY) - 01 (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/index_1.m3u8
@@ -298,11 +301,8 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="GreensboroTV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",Greensboro TV - 01 (1080p)
 https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 
-#EXTINF:-1 tvg-id="WCNCDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",NBC 36 Charlotte - 01 (1080p)
-https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
-
 #EXTINF:-1 tvg-id="WTVDDT1247News.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",ABC 11 Raleigh-Durham (WTVD) - 01 (720p)
-https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
+https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 
 
 

@@ -100,12 +100,6 @@ http://cdn.admuspeh.my/8013/index.m3u8?token=qwFZqkLzC2pK6whe
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 53 (1080p)
 https://tv.movielab.pro/145/video.m3u8?token=bfb915564f297022b1640be808bc75b2a4a59089-9a869db34c7cf36af7e0d44614f14a07-1739778949-1739692549
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 61 (1080p)
-http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/eurosport_1/video.m3u8?token=dXpiZWs5MHx8ZFhwaVpXczVNRGs9
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 62 (1080p)
-http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/eurosport_1_cee/video.m3u8?token=dXpiZWs5MHx8ZFhwaVpXczVNRGs9
-
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
 https://tv.movielab.pro/145/video.m3u8?token=2bf5aba5c81f5c8f44eeeb5ad4d4ba74e9e5491a-1c956081d024dd4336b35f9274d01bc5-1739606409-1739520009
 

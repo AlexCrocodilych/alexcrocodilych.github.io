@@ -65,7 +65,6 @@ http://ip1.orgip.net/201/video.m3u8?token=A3b61a999e
 
 
 
-
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (1080p)
 http://ip1.orgip.net/207/video.m3u8?token=A3b61a999e
 
@@ -101,7 +100,6 @@ http://ip1.orgip.net/203/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="match-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol3.png" group-title="Спортивные",Матч Футбол 3 - 01 (1080p)
 http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
-
 
 
 
@@ -209,62 +207,3 @@ http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 
 #EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hit-fm.png" group-title="Радио",Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
-
-
-
-#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 - 01 (1080p)
-http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 - 02 (1080p)
-
-
-#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 - 01 (1080p)
-http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 - 02 (1080p)
-
-
-#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 KZ - 02 (1080p)
-http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 KZ - 03 (1080p)
-
-
-#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 KZ - 01 (1080p)
-
-
-#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 Eurasia - 01 (1080p)
-
-
-#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 Baltic - 01 (1080p)
-
-
-#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 Ukraine - 01 (1080p)
-http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 Ukraine - 01 (1080p)
-http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 Ukraine - 02 (1080p)
-
-
-#EXTINF:-1 tvg-id="oкко-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Общественные",Окко Футбол HD - 01 (1080p)
-http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="oкко-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Общественные",Окко Спорт HD - 01 (1080p)
-http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="megogo-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Megogo",Megogo Спорт HD - 01 (1080p)
-http://ip1.orgip.net/237/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="megogo-futbol1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol1.png" group-title="Megogo",Megogo Футбол 1 - 01 (1080p)
-http://ip1.orgip.net/233/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="megogo-futbol2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol2.png" group-title="Megogo",Megogo Футбол 2 - 01 (1080p)
-http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="megogo-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Megogo",Megogo Футбол 3 - 01 (1080p)
-http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="megogo-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Megogo",Atlanta Channel - 01 (1080p)
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8

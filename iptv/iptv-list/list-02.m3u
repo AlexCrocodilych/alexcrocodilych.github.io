@@ -44,13 +44,7 @@ http://ip1.orgip.net/200/video.m3u8?token=A3b61a999e
 http://ip1.orgip.net/0200/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 51 (1080p)
-http://188.113.190.12/82/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 52 (1080p)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 53 (1080p)
-https://hls1.sweet.tv/stream/8ev3skvmms5c59dghejb2pgkvdz92t4gv6bxnxguaqeih5mi46rfgcj4ghbf7i2eqw32yrkp67vuxic95x6x4g2cmqspsxyk44k839n8frrf7m4p9dgec2kqkdmwb7fgxzafzmrg98ucn===.m3u8
 
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
@@ -72,7 +66,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/234/index.m3u8
 http://ip1.orgip.net/201/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-https://hls1.sweet.tv/stream/83zqbrgbugqefh2m6j98jqdnb6zrw92xj866qgxjiwutxk8rvjewtr9zaskcyqky26gde44s7y5wxzrmye6xky9zjrghnteeri734enut8igue4uw4md4tbcu4s8a8ueimn555qzqx6pn===.m3u8
 
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (1080p)
@@ -168,7 +161,7 @@ http://ip1.orgip.net/403/video.m3u8?token=A3b61a999e
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild - 03 (1080p)
-https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+
 
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Общественные",National Geographic - 01 (1080p)
 http://ip1.orgip.net/402/video.m3u8?token=A3b61a999e
@@ -228,13 +221,13 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 - 02 (1080p)
-
+https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 - 01 (1080p)
 http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 - 02 (1080p)
-
+https://77-247-178-24.livesports24.online/setantaplusru.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 KZ - 02 (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
@@ -253,6 +246,9 @@ http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 Ukraine - 01 (1080p)
 http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="setanta-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 01 Ukraine - 02 (1080p)
+https://185-107-80-245.livesports24.online/setantaukraine.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Setanta",Setanta Sports 02 Ukraine - 01 (1080p)
 http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
@@ -277,6 +273,9 @@ http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="megogo-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Megogo",Megogo Футбол 3 - 01 (1080p)
 http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="fox-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Megogo",FOX Sports - 01 (1080p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 

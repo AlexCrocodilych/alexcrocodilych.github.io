@@ -13,13 +13,11 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 04 (1080p)
 http://194.26.229.213:3080/channel/10ccfa0/index.m3u8?q=963f66a62081211920e45aea3294bb9f
 
-
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 33 (1080p)
 https://7pal.short.gy/eusport4k
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 35 (1080p)
-https://7pal.short.gy/eusport1
-
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 34 (1080p)
+http://view.my-tv.biz/tv/87920bc935/2967b719d3/video.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 41 (1080p)
 http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/228/index.m3u8
@@ -46,9 +44,9 @@ http://ip1.orgip.net/200/video.m3u8?token=A3b61a999e
 http://ip1.orgip.net/0200/video.m3u8?token=A3b61a999e
 
 
+
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (576p)
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
-
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 41 (1080p)
 http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/234/index.m3u8
@@ -88,6 +86,8 @@ https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 tvg-id="match-strana" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Страна - 01 (576p)
 http://213.226.137.140:81/tl/l73/mpegts
 
+
+
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 01 (576p)
 http://cdn2.ntv.ru/th_style/playlist.m3u8
 
@@ -115,6 +115,8 @@ http://93.189.224.246:52900/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/1hd-music.png" group-title="Общественные",1HD Music (1080p)
 http://91.247.68.229:8000/play/eee/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery - 01 (1080p)
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
@@ -135,6 +137,8 @@ http://stream02.vnet.am/NatGeoWild/mono.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Общественные",National Geographic - 01 (576p)
 http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+
+
 
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 +4 (720p)
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
@@ -166,6 +170,8 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ - 02 (1080p)
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 
+
+
 #EXTINF:-1 tvg-id="europa-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/europa-plus.png" group-title="Радио",Европа Плюс FM
 http://ep128server.streamr.ru:8030/ep128
 
@@ -183,6 +189,8 @@ http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 
 #EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hit-fm.png" group-title="Радио",Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
+
+
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",Setanta Sports 01 - 01 (1080p)
 http://rhsbjv7k.tvclub.xyz/iptv/KD6YT2WWZRCKHB/5068/index.m3u8
@@ -220,26 +228,8 @@ http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",Setanta Sports 02 Ukraine - 02 (1080p)
 http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="oкко-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Общественные",Окко Футбол HD - 01 (1080p)
+#EXTINF:-1 tvg-id="oкко-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Общественные",Окко Футбол HD - 01 (1080p)
 http://158.101.211.157:2020/channel/n2388d82c/index.m3u8?q=fbd037f5f317272809a6470ae115f9fe
 
-#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV Raleigh NC - 01 (720p)
-https://content-aeuf1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8?pbs=9121c071ca964fcab38baf0f25f7bafc
-
-#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV Raleigh NC - 02 (720p)
-https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
-
-#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte NC - 01 (1080p)
-https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
-
-#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte NC - 02 (1080p)
-https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
-
-#EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",CBS 2 Greensboro NC (WFMY) - 01 (1080p)
-https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/index_1.m3u8
-
-#EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",CBS 2 Greensboro NC (WFMY) - 02 (1080p)
-https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
-
-#EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",Огонь (1080p)
-https://iptv.prosto.tv/id504/video.m3u8?secret=z9uobpke
+#EXTINF:-1 tvg-id="oкко-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Общественные",Окко Спорт HD - 01 (1080p)
+http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e

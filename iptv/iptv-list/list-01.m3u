@@ -50,6 +50,12 @@ http://ip1.orgip.net/0201/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (576p)
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
 
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 11 (720p)
+http://nodns1.top:8080/10170550054028/51739379482781/51962
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 12 (1080p)
+http://pro.ipcover.lol:8080/Alexis58174/857164/401957
+
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 41 (1080p)
 http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/234/index.m3u8
 
@@ -86,20 +92,8 @@ http://213.226.137.140:81/tl/l304/mpegts
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч Планета - 01 (576p)
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
-#EXTINF:-1 tvg-id="match-strana" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Страна - 01 (576p)
-http://213.226.137.140:81/tl/l73/mpegts
-
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)
-http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="match-futbol1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol1.png" group-title="Спортивные",Матч Футбол 1 - 01 (1080p)
-http://ip1.orgip.net/202/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="match-futbol2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol2.png" group-title="Спортивные",Матч Футбол 2 - 01 (1080p)
-http://ip1.orgip.net/203/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="match-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol3.png" group-title="Спортивные",Матч Футбол 3 - 01 (1080p)
-http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Страна - 01 (576p)
+http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjUgNzo1OToyMCBBTSZoYXNoX3ZhbHVlPWF5aWlTVzBobEVxcWZTNWZXd3VLL0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 
 
 

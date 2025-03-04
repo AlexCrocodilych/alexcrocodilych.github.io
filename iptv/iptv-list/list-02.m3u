@@ -1,29 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, http://www.teleguide.info/download/new3/xmltv.xml.gz, https://iptv-org.github.io/epg/guides/us.xml, http://gabbarit.drm-play.com/epg_14.xml.gz, https://iptvx.one/EPG"
 #PLAYLIST:My-02
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (1080p)
-http://ip1.orgip.net/207/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 02 (576p)
-http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
-
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 03 (1080p)
-http://91.205.199.3:80/matchtvhd/index.m3u8#_onlinetv_NoName_IPTV_BY
-
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (2160p)
-http://158.101.194.132:8080/channel/5235fe46/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена - 01 (576p)
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-
-#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-igra.png" group-title="Спортивные",Матч Игра - 01 (720p)
-http://213.226.137.140:81/tl/l304/mpegts
-
-#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч Планета - 01 (576p)
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Страна - 01 (576p)
-http://213.226.137.140:81/tl/l73/mpegts
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)
 http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
@@ -42,36 +19,17 @@ http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 01 (1080p)
 http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta sports 2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 02 (1080p)
-
-
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 - 01 (1080p)
 http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="setanta-sports-02" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 - 02 (1080p)
-
 
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 KZ - 01 (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 
-
-#EXTINF:-1 tvg-id="setanta-sports-01" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 Eurasia - 01 (1080p)
-
-
-#EXTINF:-1 tvg-id="setanta-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 Baltic - 01 (1080p)
-
-
 #EXTINF:-1 tvg-id="setanta-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 Ukraine - 01 (1080p)
 http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 Ukraine - 02 (1080p)
-
-
 #EXTINF:-1 tvg-id="setanta-sports2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 Ukraine - 01 (1080p)
 http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="setanta-sports2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 Ukraine - 02 (1080p)
-
 
 #EXTINF:-1 tvg-id="okko-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD - 01 (1080p)
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
@@ -149,38 +107,9 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
 
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
-http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjUgNzo1OToyMCBBTSZoYXNoX3ZhbHVlPWF5aWlTVzBobEVxcWZTNWZXd3VLL0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-
-#EXTINF:-1 group-title="Rutube (VPN)",ESPN
-https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=6D8C1hb1_K7PXhyodPhwVQ&e=1741161535&scheme=https
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
-http://94.230.240.17:8080/machtv/index.m3u8
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport Live HD
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eurosport 1 HD
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-
-
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
-http://nodns1.top:8080/10170550054028/51739379482781/51962
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
-http://pro.ipcover.lol:8080/Alexis58174/857164/401957
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD CEE
-http://nodns1.top:8080/38170638485767/91739876651327/51962
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/eurosport-hd-live-logo.png" tvg-id="no_epg_sport" group-title="Спортивные", live Eurosport GOLD
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч! Страна HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/nNn8eQGZcgag5qthdyCn-A,1741122014/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
 
 
 #EXTINF:-1  type="video" group-title="ТОП" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)

@@ -278,66 +278,80 @@ http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 
 
-#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-TV 5 Raleigh NBC [Neutral] (720p)
+#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-News Raleigh - 01 (720p)
+https://content-aeuf1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8?pbs=9121c071ca964fcab38baf0f25f7bafc
+
+#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral-tv.png" group-title="Американские",WRAL-News Raleigh - 02 (720p)
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 
 #EXTINF:-1 tvg-id="WTVDDT1247News.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",ABC 11 Raleigh-Durham (WTVD) - 01 (720p)
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 
-#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte (1080p)
+#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte - 01 (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
+
+#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte - 02 (1080p)
+https://livevideo01.wcnc.com/hls/live/2015505/newscasts/live.m3u8
 
 #EXTINF:-1 tvg-id="WCNCDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV Charlotte - 03 (1080p)
 https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
 
-#EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",CBS 2 Greensboro NC (WFMY) (1080p)
+#EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",CBS 2 Greensboro NC (WFMY) - 01 (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/index_1.m3u8
 
-#EXTINF:-1 tvg-id="WYFFDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wyff.png" group-title="Американские",NBC 4 Greenville SC (WYFF) [Neutral] - 01 (1080p)
-https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
-
-#EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxii.png" group-title="Американские",NBC 12 Winston-Salem NC (WXII) [Neutral] - 01 (1080p)
-https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
+#EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",CBS 2 Greensboro NC (WFMY) - 02 (1080p)
+https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
 
 #EXTINF:-1 tvg-id="GreensboroTV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",Greensboro TV - 01 (1080p)
 https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-washington.png" group-title="Американские",NBC Washington News [Democratic] (720p)
-https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvr.png" group-title="Американские",CBS 6 Richmond (WTVR) - 01 (1080p)
-https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
-
 #EXTINF:-1 tvg-id="atlanta-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",Atlanta Channel - 01 (720p)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",Fox News [Republican] - 01 (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",NBC News Now [Neutral] (1080p)
+#EXTINF:-1 tvg-id="MSNBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News  - 01 (720p)
+
+
+#EXTINF:-1 tvg-id="CNBCLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnbc.png" group-title="Американские",CNBC - 01 (720p)
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",NBC News Now - 01 (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] - 01 (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="NBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-washington.png" group-title="Американские",NBC Washington News - 01 (720p)
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] - 02 (720p)
-https://livetv-fa.tubi.video/abc-news/index.m3u8
-
-#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News [Neutral] - 01 (720p)
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News - 01 (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News [Neutral] - 02 (720p)
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News - 02 (720p)
 https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8
 
-#EXTINF:-1 tvg-id="MSNBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] - 01 (720p)
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] - 01 (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News - 01 (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News - 02 (720p)
+https://livetv-fa.tubi.video/abc-news/index.m3u8
+
+#EXTINF:-1 tvg-id="CBNNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbn-news.png" group-title="Американские",CBN News National - 01 (1080p)
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg.png" group-title="Американские",Bloomberg TV - 01 (1080p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
 
+#EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvr.png" group-title="Американские",CBS 6 Richmond (WTVR) - 01 (1080p)
+https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 
+#EXTINF:-1 tvg-id="WYFFDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wyff.png" group-title="Американские",NBC 4 Greenville SC (WYFF) - 01 (1080p)
+https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
+
+#EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxii.png" group-title="Американские",NBC 12 Winston-Salem NC (WXII) - 01 (1080p)
+https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
 
 
 

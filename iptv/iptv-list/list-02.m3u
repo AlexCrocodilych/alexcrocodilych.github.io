@@ -28,13 +28,13 @@ http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)
 http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="match-futbol1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol1.png" group-title="Спортивные",Матч Футбол 1 - 01 (1080p)
+#EXTINF:-1 tvg-id="match-futbol-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol1.png" group-title="Спортивные",Матч Футбол 1 - 01 (1080p)
 http://ip1.orgip.net/202/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="match-futbol2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol2.png" group-title="Спортивные",Матч Футбол 2 - 01 (1080p)
+#EXTINF:-1 tvg-id="match-futbol-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol2.png" group-title="Спортивные",Матч Футбол 2 - 01 (1080p)
 http://ip1.orgip.net/203/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="match-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol3.png" group-title="Спортивные",Матч Футбол 3 - 01 (1080p)
+#EXTINF:-1 tvg-id="match-futbol-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol3.png" group-title="Спортивные",Матч Футбол 3 - 01 (1080p)
 http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
 
 
@@ -87,17 +87,18 @@ http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="megogo-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Спортивные",Megogo Спорт HD - 01 (1080p)
 http://ip1.orgip.net/237/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="megogo-futbol1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol1.png" group-title="Спортивные",Megogo Футбол 1 - 01 (1080p)
+#EXTINF:-1 tvg-id="megogo-futbol-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol1.png" group-title="Спортивные",Megogo Футбол 1 - 01 (1080p)
 http://ip1.orgip.net/233/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="megogo-futbol2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol2.png" group-title="Спортивные",Megogo Футбол 2 - 01 (1080p)
+#EXTINF:-1 tvg-id="megogo-futbol-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol2.png" group-title="Спортивные",Megogo Футбол 2 - 01 (1080p)
 http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="megogo-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Спортивные",Megogo Футбол 3 - 01 (1080p)
+#EXTINF:-1 tvg-id="megogo-futbol-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Спортивные",Megogo Футбол 3 - 01 (1080p)
 http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="fox-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports.png" group-title="Спортивные",FOX Sports - 01 (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://lnc-fox-sports2.tubi.video/index.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Американские",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
@@ -129,9 +130,7 @@ https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 
 #EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsb.png" group-title="Американские",WSB-TV ABC 2 Atlanta GA [Neutral] (1080p)
-
-#EXTINF:-1 tvg-id="WAGADT1.us",FOX 5 Atlanta GA (WAGA-TV) (720p)
-https://apollo.production-public.tubi.io/live/ac-waga.m3u8
+https://lnc-wsb2.tubi.video/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, http://www.teleguide.info/download/new3/xmltv.xml.gz, https://iptv-org.github.io/epg/guides/us.xml, https://iptvx.one/EPG"
+#EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, http://www.teleguide.info/download/new3/xmltv.xml.gz, https://iptv-org.github.io/epg/guides/us.xml, http://gabbarit.drm-play.com/epg_14.xml.gz, https://iptvx.one/EPG"
 #PLAYLIST:My-02
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (1080p)
@@ -39,10 +39,10 @@ http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
 
 
 
-#EXTINF:-1 tvg-id="setanta-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 01 (1080p)
+#EXTINF:-1 tvg-id="setanta sports 1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 01 (1080p)
 http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-sports-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 02 (1080p)
+#EXTINF:-1 tvg-id="setanta sports 2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 02 (1080p)
 
 
 #EXTINF:-1 tvg-id="setanta-sports01" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 - 01 (1080p)
@@ -156,6 +156,24 @@ http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg.png" group-title="Американские",Bloomberg TV (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
 
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
+http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjUgNzo1OToyMCBBTSZoYXNoX3ZhbHVlPWF5aWlTVzBobEVxcWZTNWZXd3VLL0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+
+#EXTINF:-1 group-title="Rutube (VPN)",ESPN
+https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=6D8C1hb1_K7PXhyodPhwVQ&e=1741161535&scheme=https
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
+http://94.230.240.17:8080/machtv/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport Live HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eurosport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 
 

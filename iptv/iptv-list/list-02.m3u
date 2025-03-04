@@ -107,9 +107,11 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
 
 
-#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч! Страна HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://mhd128.iptv2022.com/p/nNn8eQGZcgag5qthdyCn-A,1741122014/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://mosi.ru/sites/default/files/conf/122013_Psihologia/sport-k_0.jpg" group-title="Спортивные",Спорт на Первом
+https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
+
+#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
+http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 
 
 #EXTINF:-1  type="video" group-title="ТОП" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)

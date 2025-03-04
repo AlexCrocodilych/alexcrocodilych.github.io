@@ -112,9 +112,6 @@ https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
 #EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",WFMY CBS 2 Greensboro NC [Neutral] (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/index_1.m3u8
 
-#EXTINF:-1 tvg-id="GreensboroTV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",Greensboro TV - 01 (1080p)
-https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
-
 #EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxii.png" group-title="Американские",WXII NBC 12 Winston-Salem NC [Neutral] (1080p)
 https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
 
@@ -126,9 +123,6 @@ https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvr.png" group-title="Американские",WTVR CBS 6 Richmond VA [Neutral] (1080p)
 https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
-
-#EXTINF:-1 tvg-id="atlanta-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",Atlanta Channel - 01 (720p)
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
@@ -146,6 +140,10 @@ https://livetv-fa.tubi.video/abc-news/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-id="MSNBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (720p)
+http://41.205.93.154/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="MSNBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (1080p)
+http://fl2.moveonjoy.com/MSNBC/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg.png" group-title="Американские",Bloomberg TV (1080p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8

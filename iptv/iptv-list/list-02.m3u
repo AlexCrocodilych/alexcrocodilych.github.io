@@ -96,7 +96,7 @@ http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="megogo-futbol3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Megogo",Megogo Футбол 3 - 01 (1080p)
 http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="fox-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Megogo",FOX Sports - 01 (1080p)
+#EXTINF:-1 tvg-id="fox-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports.png" group-title="Megogo",FOX Sports - 01 (720p)
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 
 
@@ -108,6 +108,9 @@ https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x
 
 #EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
+
+#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsoc.png" group-title="Американские",WSOC ABC 9 Charlotte NC [Neutral] (1080p)
+https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8
 
 #EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",WFMY CBS 2 Greensboro NC [Neutral] (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/index_1.m3u8
@@ -124,13 +127,16 @@ https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvr.png" group-title="Американские",WTVR CBS 6 Richmond VA [Neutral] (1080p)
 https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 
+#EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsb.png" group-title="Американские",WSB-TV ABC 2 Atlanta GA [Neutral] (1080p)
+https://apollo.production-public.tubi.io/live/ac-wsb2.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",Fox News [Republican] (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/atlanta-channel.png" group-title="Американские",NBC News Now [Neutral] (1080p)
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="Американские",NBC News Now [Neutral] (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] (720p)
@@ -142,10 +148,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="MSNBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (720p)
 http://41.205.93.154/MSNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="MSNBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (1080p)
-http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master&checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg.png" group-title="Американские",Bloomberg TV (1080p)
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg.png" group-title="Американские",Bloomberg TV (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
 
 
@@ -153,7 +156,8 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 
 
 
-
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",BeIN SPORTS XTRA (720p)
+https://apollo.production-public.tubi.io/live/ac-bein.m3u8
 
 
 

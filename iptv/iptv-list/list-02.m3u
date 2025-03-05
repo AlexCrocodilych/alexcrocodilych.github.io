@@ -113,6 +113,12 @@ https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 #EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://aif-s3.aif.ru/images/014/440/38e7a477752bf3c2b55d845674822b51.jpg" tvg-id="match-tv" group-title="Спортивные",Матч! Ультра
+http://87.99.87.203:2020/channel/35d085f4/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер HD
+http://195.18.23.20:8000/play/88/index.m3u8
+
 
 #EXTINF:-1  type="video" group-title="ТОП" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)
 http://vod.orgip.net/vod100/Im_Westen_nichts_Neues_2022/index.m3u8?token=A3b61a999e

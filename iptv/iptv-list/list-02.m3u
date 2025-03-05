@@ -110,32 +110,36 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
 
 
-
-#EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="ICN",Eurosport 1 HD
-http://45.11.139.43:8555/eurosport1/index.m3u8
-#EXTINF:-1 group-title="ICN",Матч! Арена
-http://45.11.139.43:8555/matcharena/index.m3u8
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD 000
+#EXTINF:-1 157" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/OZf9bRHk332nvnL8OaPfIA,1741208413/streaming/matchott/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
-http://94.230.240.17:8080/machtv/index.m3u8
+#EXTINF:-1 10167" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч! Страна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/WV2GYbAIIZ4r1J_TPmjKOw,1741208413/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 174" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч! Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/BG9KMRhHyUiJb4t6kEZ7QA,1741208413/streaming/match_igra/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 172" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч! Арена
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/zjjf0HFjE3GdUUh9DXZgsQ,1741208413/streaming/match_arena/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 175" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч! Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/qPLQ4NHJBVZdBRKE-sf4lA,1741208414/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 10234" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/bgJ85Tt4UjIrJDWRA_X5Bw,1741208414/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 10235" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/chuBjmE4M7pN_CpTu04fJA,1741208414/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 10236" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/T44z_sNJbXRZZc-jJ1VBhg,1741208414/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 10227" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч! Премьер HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/iqqS7jR-728H9hq4Z_01Bw,1741208414/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 10227" catchup="default" group-title="Lime (VPN 🇷🇺)", Матч! Премьер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/U_OQm6Vo0q_SZaptlYF_KQ,1741208414/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 
 
 

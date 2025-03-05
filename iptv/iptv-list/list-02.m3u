@@ -49,6 +49,9 @@ http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="megogo-futbol-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Спортивные",Megogo Футбол 3 - 01 (1080p)
 http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
+https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
+
 #EXTINF:-1 tvg-id="fox-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports.png" group-title="Спортивные",FOX Sports - 01 (720p)
 https://lnc-fox-sports2.tubi.video/index.m3u8?checkedby:iptvcat.com
 
@@ -107,17 +110,37 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://mosi.ru/sites/default/files/conf/122013_Psihologia/sport-k_0.jpg" group-title="Спортивные",Спорт на Первом
-https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 
-#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
-http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://aif-s3.aif.ru/images/014/440/38e7a477752bf3c2b55d845674822b51.jpg" tvg-id="match-tv" group-title="Спортивные",Матч! Ультра
-http://87.99.87.203:2020/channel/35d085f4/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
 
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер HD
-http://195.18.23.20:8000/play/88/index.m3u8
+#EXTINF:-1 group-title="ICN",Eurosport 1 HD
+http://45.11.139.43:8555/eurosport1/index.m3u8
+#EXTINF:-1 group-title="ICN",Матч! Арена
+http://45.11.139.43:8555/matcharena/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
+http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
+
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD 000
+https://mhd128.iptv2022.com/p/OZf9bRHk332nvnL8OaPfIA,1741208413/streaming/matchott/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
+http://94.230.240.17:8080/machtv/index.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1  type="video" group-title="ТОП" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)

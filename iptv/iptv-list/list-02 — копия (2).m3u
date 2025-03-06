@@ -113,33 +113,6 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 
 
 
-#EXTINF:0, tvg-logo="" group-title="",WRAL5
-http://media-hls-az1.wral.com/livehttporigin/_definst_/mp4:encoder25-high/chunklist.m3u8
-
-#EXTINF:0, tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg" group-title="News",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:0, tvg-logo="" group-title="News & Analysis",MSNBC
-https://llnw.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
-
-#EXTINF:0, tvg-logo="https://s16-us2.startpage.com/cgi-bin/serveimage?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcR3z5RFCT55iI1k55pBXocqvkoRuhMhcF2CYSEhObGOU1KZUjUmLP_er2LOSw%26s&sp=1ed797349576760be9cf33079be1b2ba&anticache=960086" group-title="News & Analysis",NBC News Now
-https://nbcnews2.akamaized.net/hls/live/723426/nbc-news0529092111-ua/master.m3u8
-
-#EXTINF:0, tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="",Bloomberg US
-https://www.bloomberg.com/media-manifest/streams/us.m3u8
-
-#EXTINF:0, tvg-logo="" group-title="",ABC News Digital
-https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
-
-#EXTINF:0, tvg-logo="https://cnet2.cbsistatic.com/img/NO6Tw1v97jkjnen0NF37aLC5tEg=/fit-in/570x0/2018/02/25/a3f3b2fc-9983-4232-b905-a96426f93fa5/hq-cb4-1400x788-live.jpg" group-title="Sports News",CBS Sports HQ
-https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
-
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Nfl_on_nbc_%28metallic%29.jpg" group-title="NFL",NFL on NBC
-http://sprtlive1.akamaized.net/hls/live/586250/nbc-sports0909143029-ua/master.m3u8
-
-#EXTINF:0, tvg-logo="https://worldarchery.org/sites/default/files/styles/responsive_crop_16_9custom_user_mobile_2x/public/news/images/main/olympic_channel_header.png?itok=lznOCcOV&timestamp=1472473694" group-title="Olympics",Olympics Channel
-https://live.olympicchannel.com/ocs/channel01b/master.m3u8
-
 
 
 

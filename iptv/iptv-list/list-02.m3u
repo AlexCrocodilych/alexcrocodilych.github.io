@@ -82,14 +82,16 @@ https://content-aeui1.uplynk.com/channel/a260e6e674f3429f874819f0f232eb08/f.m3u8
 #EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
 
+#EXTINF:-1 tvg-id="WSOCDT1.us",ABC 9 Charlotte NC (WSOC) (720p)
+https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8
 
 #EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",WFMY CBS 2 Greensboro NC [Neutral] (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/index_1.m3u8
 
-#EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxii.png" group-title="Американские",WXII NBC 12 Winston-Salem NC [Neutral] (1080p)
+#EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxii.png" group-title="Американские",WXII NBC 12 Winston-Salem NC [Neutral] (720p)
 https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
 
-#EXTINF:-1 tvg-id="WYFFDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wyff.png" group-title="Американские",WYFF NBC 4 Greenville SC [Neutral] (1080p)
+#EXTINF:-1 tvg-id="WYFFDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wyff.png" group-title="Американские",WYFF NBC 4 Greenville SC [Neutral] (720p)
 https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wrc.png" group-title="Американские",WRC-TV NBC 4 Washington DC [Neutral] (1080p)
@@ -98,11 +100,17 @@ https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="WUSADT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wusa.png" group-title="Американские",WUSA CBS 9 Washington DC [Neutral] (720p)
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
 
-#EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvr.png" group-title="Американские",WTVR CBS 6 Richmond VA [Neutral] (1080p)
+#EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvr.png" group-title="Американские",WTVR CBS 6 Richmond VA [Neutral] (720p)
 https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 
 #EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsb.png" group-title="Американские",WSB-TV ABC 2 Atlanta GA [Neutral] (1080p)
 https://apollo.production-public.tubi.io/live/ac-wsb2.m3u8
+
+#EXTINF:-1 tvg-id="WAGADT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/waga.png" group-title="Американские",WAGA FOX 5 Atlanta GA [Republican] (720p)
+https://apollo.production-public.tubi.io/live/ac-waga.m3u8
+
+#EXTINF:-1 tvg-id="WXIADT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxia.png" group-title="Американские",WXIA NBC 11 Atlanta GA [Neutral] (1080p)
+https://livetv-fa.tubi.video/wxia/live.m3u8
 
 #EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcau.png" group-title="Американские",WCAU NBC 10 Philadelphia PA [Neutral] (1080p)
 https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist1080.m3u8
@@ -141,31 +149,9 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CCTV.us",Charlotte County CC-TV (Charlotte County FA) (720p)
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WOLODT1.us",WOLO-DT1 ABC 25 (Columbia SC) (720p)
-http://143.244.60.30/ABC_EAST/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="WSOCDT1.us",ABC 9 Charlotte NC (WSOC) (720p)
-https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8
-#EXTINF:-1 tvg-id="WTVRDT1.us",CBS 6 Richmond VA (WTVR) (720p)
-https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
-#EXTINF:-1 tvg-id="WAGADT1.us",FOX 5 Atlanta GA (WAGA-TV) (720p)
-https://apollo.production-public.tubi.io/live/ac-waga.m3u8
-
-#EXTINF:-1 tvg-id="WYFFDT1.us",NBC 4 Greenville SC (WYFF) (720p)
-https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
-#EXTINF:-1 tvg-id="WXIADT1.us",NBC 11 Atlanta GA (WXIA) (1080p)
-https://livetv-fa.tubi.video/wxia/live.m3u8
-#EXTINF:-1 tvg-id="WXIIDT1.us",NBC 12 Winston-Salem NC (WXII) (720p)
-https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
-
-
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 
 

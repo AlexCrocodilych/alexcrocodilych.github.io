@@ -55,8 +55,14 @@ https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network USA (720p)
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
 #EXTINF:-1 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
@@ -66,12 +72,6 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-tv.png" group-title="Спортивные",NFL TV (720p)
 https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
-
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network USA (720p)
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
-https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Американские",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
@@ -92,14 +92,20 @@ https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
 #EXTINF:-1 tvg-id="WYFFDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wyff.png" group-title="Американские",WYFF NBC 4 Greenville SC [Neutral] (1080p)
 https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wrc.png" group-title="Американские",WRC-TV NBC4 Washington DC [Neutral] (720p)
-https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wrc.png" group-title="Американские",WRC-TV NBC 4 Washington DC [Neutral] (1080p)
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-id="WUSADT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wusa.png" group-title="Американские",WUSA CBS 9 Washington DC [Neutral] (720p)
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
 
 #EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvr.png" group-title="Американские",WTVR CBS 6 Richmond VA [Neutral] (1080p)
 https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 
 #EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsb.png" group-title="Американские",WSB-TV ABC 2 Atlanta GA [Neutral] (1080p)
 https://apollo.production-public.tubi.io/live/ac-wsb2.m3u8
+
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcau.png" group-title="Американские",WCAU NBC 10 Philadelphia PA [Neutral] (1080p)
+https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-id="CNNNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
@@ -124,8 +130,7 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 
-#EXTINF:-1 tvg-id="WUSADT1.us",CBS 9 Washington DC (WUSA) (1080p)
-https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CCTV.us",Charlotte County CC-TV (Charlotte County FA) (720p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
@@ -161,10 +166,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBSNewsPhilly.us",CBS News Philadelphia (720p)
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-#EXTINF:-1 tvg-id="",NBC Philadelphia News
-https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",NBC Washington News
-https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist1080.m3u8
+
 
 
 

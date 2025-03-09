@@ -55,17 +55,18 @@ https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 #EXTINF:-1 tvg-id="fox-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports.png" group-title="Спортивные",FOX Sports - 01 (720p)
 https://lnc-fox-sports2.tubi.video/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="",BeIN Sports XTRA (1080p)
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Американские",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
-https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8?pbs=f49c119df23c42deb11719609e939b57
+https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 
 #EXTINF:-1 tvg-id="WTVDDT1247News.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvd.png" group-title="Американские",WTVD ABC 11 Raleigh-Durham NC [Neutral] (720p)
 https://content-aeui1.uplynk.com/channel/a260e6e674f3429f874819f0f232eb08/f.m3u8?pbs=2c188923559248a6a968d283242c86ad
 
 #EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
-
-#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsoc.png" group-title="Американские",WSOC ABC 9 Charlotte NC [Neutral] (1080p)
 
 
 #EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",WFMY CBS 2 Greensboro NC [Neutral] (1080p)
@@ -107,8 +108,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg.png" group-title="Американские",Bloomberg TV+ (1080p)
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
-#EXTINF:-1 tvg-id="",BeIN Sports XTRA (1080p)
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="WUSADT1.us",CBS 9 Washington DC (WUSA) (1080p)
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8

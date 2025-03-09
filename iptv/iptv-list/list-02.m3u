@@ -107,11 +107,20 @@ https://apollo.production-public.tubi.io/live/ac-wsb2.m3u8
 #EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcau.png" group-title="Американские",WCAU NBC 10 Philadelphia PA [Neutral] (1080p)
 https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist1080.m3u8
 
+#EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/kyw-tv.png" group-title="Американские",KYW-TV CBS 3 Philadelphia PA [Neutral] (720p)
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+
 #EXTINF:-1 tvg-id="CNNNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",Fox News [Republican] (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",Fox News [Republican] (720p)0
+https://247.foxnews.com/hls/live/2003586/FNCHLSv3/primary_2692.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",FOX LiveNow [Republican] (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="Американские",NBC News Now [Neutral] (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
@@ -164,8 +173,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CBSNewsPhilly.us",CBS News Philadelphia (720p)
-https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+
 
 
 

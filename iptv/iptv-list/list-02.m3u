@@ -112,6 +112,21 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 
 
 
+#EXTINF:0 tvg-name="ABC News" tvg-language="English" tvg-country="US" tvg-id="ABC-News" group-title="News" tvg-logo="https://i.imgur.com/iy9K48Q.jpg",ABC News HD 2500
+https://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8
+
+#EXTINF:0 tvg-name="ABC News" tvg-language="English" tvg-country="US" tvg-id="ABC-News" group-title="News" tvg-logo="https://i.imgur.com/iy9K48Q.jpg",WBTV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Watch-List.m3u8
+
+#EXTINF:0,WSOC Charlotte
+https://amg00327-wsoc-channel-9-redbox.amagi.tv/playlist.m3u8
+#EXTINF:0,WSOC News CHarlotte
+https://cmg-wsocbreakingnews-redbox.amagi.tv/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1  type="video" group-title="ТОП" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)
 http://vod.orgip.net/vod100/Im_Westen_nichts_Neues_2022/index.m3u8?token=A3b61a999e

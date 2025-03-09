@@ -55,9 +55,17 @@ https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 #EXTINF:-1 tvg-id="fox-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports.png" group-title="Спортивные",FOX Sports - 01 (720p)
 https://lnc-fox-sports2.tubi.video/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="",BeIN Sports XTRA (1080p)
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Спортивные",NHL (1080p)
+https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Спортивные",NFL (720p)
+https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Спортивные",NHL (1080p)
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Спортивные",T2 Tennis Channel (1080p)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Американские",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
@@ -94,7 +102,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="Американские",NBC News Now [Neutral] (1080p)
-https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] (720p)
 https://livetv-fa.tubi.video/abc-news/index_1.m3u8
@@ -121,12 +129,6 @@ https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 #EXTINF:-1 tvg-id="WOLODT1.us",WOLO-DT1 ABC 25 (Columbia SC) (720p)
 http://143.244.60.30/ABC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="WTVDDT1247News.us",WTVD ABC 11 News (Raleigh-Durham NC) (720p)
-https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
-#EXTINF:-1 tvg-id="WTVQDT1.us",WTVQ ABC 36 News (Lexington KY) (720p)
-https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
-#EXTINF:-1 tvg-id="WWAYDT1.us",WWAY News (Willmington NC) (720p)
-https://dai.google.com/linear/hls/event/A7CgcBYNTuKfvFvW8rmiJA/master.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network USA
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us",Fox Sports 1
@@ -138,9 +140,8 @@ http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeEast.us",Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="SportsmanChannel.us",Sportsman Channel
-http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="StartTV.us",Start TV
-http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8 
+
 #EXTINF:-1 tvg-id="SwerveSports.us",Swerve Combat (1080p)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WSOCDT1.us",ABC 9 Charlotte NC (WSOC) (720p)
@@ -161,20 +162,10 @@ https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
 https://livetv-fa.tubi.video/wxia/live.m3u8
 #EXTINF:-1 tvg-id="WXIIDT1.us",NBC 12 Winston-Salem NC (WXII) (720p)
 https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
-#EXTINF:-1 tvg-id="NFLChannel.us",NFL (720p)
-https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us",NHL (1080p)
-https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us",Fox Sports 2 (720p)
-https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area (720p)
-https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us",NBC Sports Philadelphia (720p)
-https://tvpass.org/live/nbc-sports-philadelphia/hd
+
+
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 
 
@@ -188,10 +179,7 @@ https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/
 https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",NBC Washington News
 https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us",NHL
-https://nhl-firetv.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="TennisChannelPlus2.us",T2 Tennis Channel (1080p)
-https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
+
 
 
 

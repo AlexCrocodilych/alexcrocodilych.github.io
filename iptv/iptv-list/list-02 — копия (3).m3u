@@ -114,15 +114,18 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WUSADT1.us",CBS 9 Washington DC (WUSA) (1080p)
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
-
+#EXTINF:-1 tvg-id="WUSADT1.us",CBS 9 Washington DC (WUSA) (1080p)
+https://video.tegnaone.com/live/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV.us",Charlotte County CC-TV (Charlotte County FA) (720p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
 #EXTINF:-1 tvg-id="WXIADT1.us",NBC 11 Atlanta GA (1080p)
 https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
-
+#EXTINF:-1 tvg-id="WCNCDT1.us",NBC 36 Charlotte NC (WCNC-DT1) (1080p)
+https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
 #EXTINF:-1 tvg-id="WOLODT1.us",WOLO-DT1 ABC 25 (Columbia SC) (720p)
 http://143.244.60.30/ABC_EAST/index.m3u8
-
+#EXTINF:-1 tvg-id="WPVIDT1247News.us",WPVI ABC 6 News (Philadelphia PA) (720p)
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 #EXTINF:-1 tvg-id="WTVDDT1247News.us",WTVD ABC 11 News (Raleigh-Durham NC) (720p)
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 #EXTINF:-1 tvg-id="WTVQDT1.us",WTVQ ABC 36 News (Lexington KY) (720p)
@@ -196,9 +199,12 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us",T2 Tennis Channel (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us",SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannelPlus2.us",T2 Tennis Channel (1080p) +
-https://ttc-tennischannelus-firetv.amagi.tv/playlist288-p.m3u8
+#EXTINF:-1 tvg-id="SwerveSports.us",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
 
 
 

@@ -88,7 +88,7 @@ https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 #EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsb.png" group-title="Американские",WSB-TV ABC 2 Atlanta GA [Neutral] (1080p)
 https://apollo.production-public.tubi.io/live/ac-wsb2.m3u8
 
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
+#EXTINF:-1 tvg-id="CNNNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",Fox News [Republican] (720p)
@@ -112,17 +112,36 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 
 
 
-#EXTINF:-1 tvg-logo="https://s27.postimg.org/8q1kgsdxf/200px_Eurosport_Logo_svg.png" group-title="Esportes",Eurosport
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/w4ih3sa1h/image.png" group-title="Notícias",ABC News
-http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/h1gwl2erf/image.png" group-title="Notícias",WSOC 9 News
-http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.postimg.org/5a6epnt67/51759_1280x720.jpg" group-title="Notícias",6 ABC News
-http://208.86.19.123:8080/live/102.stream/index.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us",Bloomberg Originals (1080p)
+https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV US (720p)
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="BloombergTVLiveEvent.us",Bloomberg TV US Live Event (720p)
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPoliticsLiveEvent.us",Bloomberg TV US Politics Live Event (720p)
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg TV+ (1080p)
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive1.us",ABC News Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsPhilly.us",CBS News Philadelphia (720p)
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+#EXTINF:-1 tvg-id="",NBC Philadelphia News
+https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",NBC Washington News
+https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us",NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Origin Sports (1080p)
+https://raycom-originsports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Team USA (1080p)
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannelPlus2.us",T2 Tennis Channel (1080p)
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Willow Sports (1080p) [Geo-blocked]
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 
 
 

@@ -112,16 +112,17 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 
 
 
-#EXTINF:0 tvg-name="ABC News" tvg-language="English" tvg-country="US" tvg-id="ABC-News" group-title="News" tvg-logo="https://i.imgur.com/iy9K48Q.jpg",ABC News HD 2500
-https://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/8q1kgsdxf/200px_Eurosport_Logo_svg.png" group-title="Esportes",Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
-#EXTINF:0 tvg-name="ABC News" tvg-language="English" tvg-country="US" tvg-id="ABC-News" group-title="News" tvg-logo="https://i.imgur.com/iy9K48Q.jpg",WBTV
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Watch-List.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/w4ih3sa1h/image.png" group-title="Notícias",ABC News
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
 
-#EXTINF:0,WSOC Charlotte
-https://amg00327-wsoc-channel-9-redbox.amagi.tv/playlist.m3u8
-#EXTINF:0,WSOC News CHarlotte
-https://cmg-wsocbreakingnews-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/h1gwl2erf/image.png" group-title="Notícias",WSOC 9 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.postimg.org/5a6epnt67/51759_1280x720.jpg" group-title="Notícias",6 ABC News
+http://208.86.19.123:8080/live/102.stream/index.m3u8
 
 
 

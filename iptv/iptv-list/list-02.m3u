@@ -59,13 +59,17 @@ https://lnc-fox-sports2.tubi.video/index.m3u8?checkedby:iptvcat.com
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Спортивные",NHL (1080p)
-запасной-
-https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+/* https://apollo.production-public.tubi.io/live/ac-nhl.m3u8 */
 
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Спортивные",NFL (720p)
 https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
 
-
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Спортивные",T2 Tennis Channel (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
@@ -126,39 +130,19 @@ https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 
 #EXTINF:-1 tvg-id="CCTV.us",Charlotte County CC-TV (Charlotte County FA) (720p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
-#EXTINF:-1 tvg-id="WXIADT1.us",NBC 11 Atlanta GA (1080p)
-https://livevideo.tegnadigital.com/wxia/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA/elvs/live.m3u8
 
 #EXTINF:-1 tvg-id="WOLODT1.us",WOLO-DT1 ABC 25 (Columbia SC) (720p)
 http://143.244.60.30/ABC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network USA
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us",Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="Showtime2East.us",Showtime 2 East
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeEast.us",Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="SportsmanChannel.us",Sportsman Channel
-http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8 
 
-#EXTINF:-1 tvg-id="SwerveSports.us",Swerve Combat (1080p)
-https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WSOCDT1.us",ABC 9 Charlotte NC (WSOC) (720p)
 https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8
 #EXTINF:-1 tvg-id="WTVRDT1.us",CBS 6 Richmond VA (WTVR) (720p)
 https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 #EXTINF:-1 tvg-id="WAGADT1.us",FOX 5 Atlanta GA (WAGA-TV) (720p)
 https://apollo.production-public.tubi.io/live/ac-waga.m3u8
-#EXTINF:-1 tvg-id="FoxSports.us",Fox Sports (720p)
-https://apollo.production-public.tubi.io/live/fox-sports.m3u8
-#EXTINF:-1 tvg-id="GameShowCentral.us",Game Show Central (720p)
-https://aegis-cloudfront-1.tubi.video/db7dcb0b-3e7a-4d67-90a9-6c028ab2fc88/playlist.m3u8
-EXTINF:-1 tvg-id="NBATV.us",NBA (720p) [Geo-blocked]
-https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WYFFDT1.us",NBC 4 Greenville SC (WYFF) (720p)
 https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
 #EXTINF:-1 tvg-id="WXIADT1.us",NBC 11 Atlanta GA (WXIA) (1080p)

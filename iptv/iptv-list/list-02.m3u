@@ -187,11 +187,80 @@ http://fl2.moveonjoy.com/MTV_2/index.m3u8
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CBSNewsPhilly.us",CBS News Philadelphia
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a12d4db0-b63f-41f2-8f0d-d4faab762d0a
+#EXTINF:-1 tvg-id="WSBDT1.us",ABC 2 Atlanta GA (WSB-TV) (720p)
+https://apollo.production-public.tubi.io/live/ac-wsb2.m3u8
 
-#EXTINF:-1 tvg-id="CBSSportsHQ.us",CBS Sports HQ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 tvg-id="WSOCDT1.us",ABC 9 Charlotte NC (WSOC) (720p)
+https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8
+
+#EXTINF:-1 tvg-id="WJCLDT1.us",ABC 22 Savannah GA (WJCL) (720p)
+https://apollo.production-public.tubi.io/live/ac-wjcl.m3u8
+
+#EXTINF:-1 tvg-id="",BBC Earth (720p)
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+
+#EXTINF:-1 tvg-id="WTKRDT1.us",CBS 3 Norfolk VA (WTKR) (720p)
+https://apollo.production-public.tubi.io/live/ac-wtkr.m3u8
+
+#EXTINF:-1 tvg-id="WTVRDT1.us",CBS 6 Richmond VA (WTVR) (720p)
+https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
+
+#EXTINF:-1 tvg-id="WLKYDT1.us",CBS 32 Louisville KY (WLKY) (720p)
+https://apollo.production-public.tubi.io/live/ac-wlky.m3u8
+
+#EXTINF:-1 tvg-id="WAGADT1.us",FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://apollo.production-public.tubi.io/live/ac-waga.m3u8
+
+#EXTINF:-1 tvg-id="WTTGDT1.us",FOX 5 Washington DC (WTTG) (720p)
+https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
+
+#EXTINF:-1 tvg-id="WTXFDT1.us",FOX 29 Philadelphia PA (WTXF-TV) (720p)
+https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.us",Fox Sports (720p)
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us",Fubo Sports Network (1080p) [Geo-blocked]
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+
+#EXTINF:-1 tvg-id="GameShowCentral.us",Game Show Central (720p)
+https://aegis-cloudfront-1.tubi.video/db7dcb0b-3e7a-4d67-90a9-6c028ab2fc88/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MLB.us",MLB (720p) [Not 24/7]
+https://livetv-fa.tubi.video/mlb3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us",NBA (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WYFFDT1.us",NBC 4 Greenville SC (WYFF) (720p)
+https://apollo.production-public.tubi.io/live/ac-wyff.m3u8
+
+#EXTINF:-1 tvg-id="WGALDT1.us",NBC 8 Lancaster PA (WGAL) (720p)
+https://apollo.production-public.tubi.io/live/ac-wgal.m3u8
+
+#EXTINF:-1 tvg-id="WXIADT1.us",NBC 11 Atlanta GA (WXIA) (1080p)
+https://livetv-fa.tubi.video/wxia/live.m3u8
+
+#EXTINF:-1 tvg-id="WXIIDT1.us",NBC 12 Winston-Salem NC (WXII) (720p)
+https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
+
+#EXTINF:-1 tvg-id="WVTMDT1.us",NBC 13 Birmingham Al (WVTM) (720p)
+https://apollo.production-public.tubi.io/live/ac-wvtm.m3u8
+
+#EXTINF:-1 tvg-id="WLEXDT1.us",NBC 18 Lexington KY (WLEX) (720p)
+https://apollo.production-public.tubi.io/live/ac-wlex.m3u8
+
+#EXTINF:-1 tvg-id="NFLChannel.us",NFL (720p)
+https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+
+#EXTINF:-1 tvg-id="NHLNetwork.us",NHL (1080p)
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+
+#EXTINF:-1 tvg-id="",UFC (1080p)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
 
 

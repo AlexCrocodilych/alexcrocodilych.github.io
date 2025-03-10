@@ -273,7 +273,7 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p
 
 
 #EXTINF:-1 tvg-id="JOJSport.sk",JOJ Šport (720p)
-#EXTVLCOPT:http-referrer=https://media.joj.sk/
+http-referrer=https://media.joj.sk/
 
 
 

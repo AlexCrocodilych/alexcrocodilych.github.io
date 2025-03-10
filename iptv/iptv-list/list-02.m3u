@@ -251,7 +251,7 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)1
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские",MTV (1080p)
 http://fl2.moveonjoy.com/MTV/index.m3u8
@@ -271,12 +271,6 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
-
-#EXTINF:-1 tvg-id="TV2Sport1.no",TV 2 Sport 1 (720p)
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-
-#EXTINF:-1 tvg-id="Sport.sk",:Šport (1080p)
-http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOJSport.sk",JOJ Šport (720p)
 #EXTVLCOPT:http-referrer=https://media.joj.sk/

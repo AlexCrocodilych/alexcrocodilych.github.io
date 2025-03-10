@@ -62,6 +62,12 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network USA (720p)
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",TSN2 CA (720p)
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (1080p)
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
@@ -76,6 +82,9 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-tv.png" group-title="Спортивные",NFL TV (720p)
 https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB Network (720p)
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 
 
@@ -157,17 +166,18 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
-#EXTINF:-1 tvg-id="FoxSports1.us",Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="MLBNetwork.us",MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="NBATV.us",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us",CBS Sports Network USA
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TSN3.ca",TSN3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca",TSN4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca",TSN5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MTVLive.us",MTV Live
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
@@ -176,11 +186,9 @@ https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannel.us",Tennis Channel
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN2.ca",TSN2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="WGNDT1.us",WGN-DT1 (720p)
 http://fl2.moveonjoy.com/WGN/index.m3u8

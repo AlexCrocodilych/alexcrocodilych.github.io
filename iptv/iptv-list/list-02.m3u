@@ -63,7 +63,7 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports USA (1080p)
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN2 CA (1080p)
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
@@ -78,7 +78,7 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Спортивные",BeIN Sports XTRA (1080p)
-https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
@@ -111,7 +111,7 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)1
 #EXTINF:-1https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
@@ -177,7 +177,7 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://247.foxnews.com/hls/live/2003586/FNCHLSv3/primary_2692.m3u8
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",FOX LiveNow [Republican] (720p)
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="Американские",NBC News Now [Neutral] (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8

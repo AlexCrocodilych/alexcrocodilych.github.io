@@ -14,6 +14,15 @@ http://ip1.orgip.net/203/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol3.png" group-title="Спортивные",Матч Футбол 3 - 01 (1080p)
 http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
 
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
+https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
+
+#EXTINF:-1 tvg-id="okko-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD - 01 (1080p)
+http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD - 01 (1080p)
+http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
+
 
 
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 01 (1080p)
@@ -31,11 +40,7 @@ http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta-sports2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 Ukraine - 01 (1080p)
 http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="okko-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD - 01 (1080p)
-http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD - 01 (1080p)
-http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="megogo-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Спортивные",Megogo Спорт HD - 01 (1080p)
 http://ip1.orgip.net/237/video.m3u8?token=A3b61a999e
@@ -49,8 +54,7 @@ http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="megogo-futbol-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Спортивные",Megogo Футбол 3 - 01 (1080p)
 http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
-https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
+
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -73,6 +77,8 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-tv.png" group-title="Спортивные",NFL TV (720p)
 https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
 
+
+
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Американские",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 
@@ -82,8 +88,21 @@ https://content-aeui1.uplynk.com/channel/a260e6e674f3429f874819f0f232eb08/f.m3u8
 #EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
 
-#EXTINF:-1 tvg-id="WSOCDT1.us",ABC 9 Charlotte NC (WSOC) (720p)
+#EXTINF:-1 tvg-id="WSOCDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsoc.png" group-title="Американские",WSOC ABC 9 Charlotte NC [Neutral] (720p)
 https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/h1gwl2erf/image.png" group-title="Notícias",WSOC 9 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Charlotte NC (WSOC) (720p)
+https://lnc-wsoc.tubi.video/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WSOC-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8?checkedby:iptvcat.net
+
+#EXTINF:0,WSOC Charlotte
+https://amg00327-wsoc-channel-9-redbox.amagi.tv/playlist.m3u8
+#EXTINF:0,WSOC News CHarlotte
+https://cmg-wsocbreakingnews-redbox.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="Американские",WFMY CBS 2 Greensboro NC [Neutral] (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/index_1.m3u8
@@ -118,6 +137,8 @@ https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/kyw-tv.png" group-title="Американские",KYW-TV CBS 3 Philadelphia PA [Neutral] (720p)
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 
+
+
 #EXTINF:-1 tvg-id="CNNNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
 
@@ -144,7 +165,6 @@ http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg+.png" group-title="Американские",Bloomberg TV+ (1080p)
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-
 
 
 

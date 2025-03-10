@@ -80,6 +80,9 @@ http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fubo-sports.png" group-title="Спортивные",Fubo Sports Network (1080p)
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 
@@ -191,99 +194,31 @@ http://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Американские",BBC America (720p)
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="",BBC Earth (720p)
+#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (720p)
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us",Fubo Sports Network (1080p) [Geo-blocked]
-https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
-
-#EXTINF:-1 tvg-id="LoveNature.ca",Love Nature (1080p)
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca",Love Nature (1080p)1
-#EXTINF:-1https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel (720p)
-https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",BeIN Sports XTRA
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2.us",Fox Sports 2 (720p)
-https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca",CBC News
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2.us",Fox Sports 2 (360p)
-https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="FoxSports.us",FOX Sports [Geo-blocked]
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicHDEast.us",National Geographic HD East (720p)
-https://tvpass.org/live/NationalGeographicEast/hd
-#EXTINF:-1 tvg-id="NationalGeographicHDEast.us",National Geographic HD East (360p)
-https://tvpass.org/live/NationalGeographicEast/sd
-#EXTINF:-1 tvg-id="NationalGeographicWildHDEast.us",National Geographic Wild HD East (720p)
-https://tvpass.org/live/NationalGeographicWildEast/hd
-#EXTINF:-1 tvg-id="NationalGeographicWildHDEast.us",National Geographic Wild HD East (360p)
-https://tvpass.org/live/NationalGeographicWildEast/sd
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area (720p)
-https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area (360p)
-https://tvpass.org/live/nbc-sports-bay-area/sd
-#EXTINF:-1 tvg-id="NBCSportsBoston.us",NBC Sports Boston (1080p)
-https://tvpass.org/live/nbc-sports-boston/hd
-#EXTINF:-1 tvg-id="NBCSportsBoston.us",NBC Sports Boston (360p)
-https://tvpass.org/live/nbc-sports-boston/sd
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us",NBC Sports Philadelphia (720p)
-https://tvpass.org/live/nbc-sports-philadelphia/hd
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us",NBC Sports Philadelphia (360p)
-https://tvpass.org/live/nbc-sports-philadelphia/sd
+#EXTINF:-1 tvg-id="",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca",TSN1 (1080p)
-https://tvpass.org/live/tsn1/hd
-#EXTINF:-1 tvg-id="TSN1.ca",TSN1 (360p)
-https://tvpass.org/live/tsn1/sd
-#EXTINF:-1 tvg-id="TSN2.ca",TSN2 (1080p)
-https://tvpass.org/live/tsn2/hd
-#EXTINF:-1 tvg-id="TSN2.ca",TSN2 (360p)
-https://tvpass.org/live/tsn2/sd
-#EXTINF:-1 tvg-id="TSN3.ca",TSN3 (1080p)
-https://tvpass.org/live/tsn3/hd
-#EXTINF:-1 tvg-id="TSN3.ca",TSN3 (360p)
-https://tvpass.org/live/tsn3/sd
-#EXTINF:-1 tvg-id="TSN4.ca",TSN4 (720p)
-https://tvpass.org/live/tsn4/hd
-#EXTINF:-1 tvg-id="TSN4.ca",TSN4 (360p)
-https://tvpass.org/live/tsn4/sd
-#EXTINF:-1 tvg-id="TSN5.ca",TSN5 (1080p)
-https://tvpass.org/live/tsn5/hd
-#EXTINF:-1 tvg-id="TSN5.ca",TSN5 (360p)
-https://tvpass.org/live/tsn5/sd
-
-#EXTINF:-1 tvg-id="WABCDT1.us",WABC-DT1 (720p)
-https://tvpass.org/live/WABCDT1/hd
-#EXTINF:-1 tvg-id="WABCDT1.us",WABC-DT1 (360p)
-https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="WCBSDT1.us",WCBS-DT1 (720p)
-https://tvpass.org/live/WCBSDT1/hd
-#EXTINF:-1 tvg-id="WCBSDT1.us",WCBS-DT1 (360p)
-https://tvpass.org/live/WCBSDT1/sd
-#EXTINF:-1 tvg-id="WISDT2.us",WIS-DT2 (720p)
-https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
-#EXTINF:-1 tvg-id="WISDT2.us",WIS-DT2 (360p)
-https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-#EXTINF:-1 tvg-id="WNBCDT1.us",WNBC-DT1 (720p)
-https://tvpass.org/live/WNBCDT1/hd
-#EXTINF:-1 tvg-id="WNBCDT1.us",WNBC-DT1 (360p)
-https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1 tvg-id="WNETDT1.us",WNET-DT1 (1080p)
-https://tvpass.org/live/WNET/hd
-#EXTINF:-1 tvg-id="WNETDT1.us",WNET-DT1 (360p)
-https://tvpass.org/live/WNET/sd
-#EXTINF:-1 tvg-id="WNJUDT1.us",WNJU-DT1 (1080p)
-https://tvpass.org/live/TelemundoEast/hd
-#EXTINF:-1 tvg-id="WNJUDT1.us",WNJU-DT1 (360p)
-https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="WNYWDT1.us",WNYW-DT1 (720p)
-https://tvpass.org/live/WNYWDT1/hd
-#EXTINF:-1 tvg-id="WNYWDT1.us",WNYW-DT1 (360p)
-https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="",UFC
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 
 

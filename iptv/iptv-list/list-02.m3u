@@ -62,6 +62,9 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network USA (1080p)
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports USA (1080p)
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN2 CA (1080p)
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
 
@@ -73,6 +76,9 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN5 CA (1080p)
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Спортивные",BeIN Sports XTRA (1080p)
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
@@ -106,6 +112,9 @@ https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)1
+#EXTINF:-1https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Американские",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
@@ -194,31 +203,21 @@ http://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Американские",BBC America (720p)
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (720p)
-https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (720p)1
+#EXTINF:-1https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="",BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",BeIN Sports XTRA
-https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca",CBC News
-https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.us",FOX Sports [Geo-blocked]
-https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-id="",UFC
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 
 

@@ -73,20 +73,22 @@ http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 (1080p)1
 #EXTINF:-1http://109.233.89.170/Eleven_Sports_3_HD/index.m3u8
 
-
 #EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 (1080p)
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 (1080p)1
 #EXTINF:-1http://109.233.89.170/ELEVEN_SPORTS_4_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-plus-sport.png" group-title="Спортивные",Canal+ Sport (1080p)
+#EXTINF:-1 tvg-id="CanalPlusSport1.cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-plus-sport.png" group-title="Спортивные",Canal+ Sport CZ (1080p)
+http://78.130.250.2:8023/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-plus-sport.png" group-title="Спортивные",Canal+ Sport PL (1080p)
 http://178.219.128.68:64888/CANASPORHD
 
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-plus-sport.png" group-title="Спортивные",Canal+ Sport (1080p)1
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-plus-sport.png" group-title="Спортивные",Canal+ Sport PL (1080p)1
 #EXTINF:-1http://178.219.128.68:64889/CANASPORHD
 
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-plus-sport2.png" group-title="Спортивные",Canal+ Sport 2 (1080p)
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-plus-sport2.png" group-title="Спортивные",Canal+ Sport 2 PL (1080p)
 http://178.219.128.68:64888/CANASPOR2HD
 
 #EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport.png" group-title="Спортивные",Polsat Sport (1080p)
@@ -124,7 +126,7 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN5 CA (1080p)
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Спортивные",BeIN Sports XTRA (1080p)
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Спортивные",BeIN Sports XTRA US (1080p)
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
@@ -270,24 +272,14 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
 
+#EXTINF:-1 tvg-id="TV2Sport1.no",TV 2 Sport 1 (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
-#EXTINF:-1 tvg-id="EDGEsport.uk",EDGEsport (1080p)
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.sk",:Šport (1080p)
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRain.ru",Дождь (1080p) [Geo-blocked]
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalPlusSport1.cz",Canal+ Sport
-http://78.130.250.2:8023/play/a02v/index.m3u8
-
-#EXTINF:-1 tvg-id="CTSport.cz",ČT Sport (720p)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlfaSport.cy",Alfa Sport (1080p) [Not 24/7]
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-
-#EXTINF:-1 tvg-id="beINSportsHaber.tr",beIN Sports Haber
-https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
+#EXTINF:-1 tvg-id="JOJSport.sk",JOJ Šport (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
 
 
 

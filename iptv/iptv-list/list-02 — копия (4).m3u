@@ -172,6 +172,20 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA (1080p)1
 #EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
 
+#EXTINF:-1 tvg-id="4573" tvg-logo="http://epg.one/img2/4573.png" tvg-rec="0" group-title="СПОРТ ⚽",SKY SPORTS MIX
+http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/53706
+
+
+#EXTINF:-1 tvg-id="4571" tvg-logo="http://epg.one/img2/4571.png" tvg-rec="0" group-title="СПОРТ ⚽",SKY SPORTS MAIN EVENT UK
+http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/35243
+#EXTINF:-1 tvg-id="4572" tvg-logo="http://epg.one/img2/4572.png" tvg-rec="0" group-title="СПОРТ ⚽",SKY SPORTS ARENA UK
+http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/35238
+#EXTINF:-1 tvg-id="4569" tvg-logo="http://epg.one/img2/4569.png" tvg-rec="0" group-title="СПОРТ ⚽",SKY SPORTS PREMIER LEAGUE UK
+http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/53705
+#EXTINF:-1 tvg-id="4576" tvg-logo="http://epg.one/img2/4576.png" tvg-rec="0" group-title="СПОРТ ⚽",SKY SPORTS F1 UK
+http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/53704
+
+
 
 #EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
 http://stream01.vnet.am/Channel_131/mono.m3u8
@@ -340,6 +354,24 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="СПОРТ ⚽",SPORTS MAX 2
+http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/119471
+
 
 
 #EXTINF:-1 group-title="RELAX NATURE",TV Камин HD

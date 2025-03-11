@@ -25,9 +25,6 @@ http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5.png" group-title="Спортивные",Беларусь 5 (1080p)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-
-#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5.png" group-title="Спортивные",Беларусь 5 (1080p)0
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559814920_b2660000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="setanta-sport-hd-orig" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 01 (1080p)
@@ -343,6 +340,68 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p
 #EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Американские",TV Камин (1080p)
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
+
+
+#EXTINF:-1 group-title="Спорт", Okko Спорт
+http://89.23.113.132/oksphd/video.m3u8
+
+#EXTINF:-1 group-title="Спорт", Premier Sports 1
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1 group-title="Спорт", Premier Sports 2
+https://7pal.short.gy/prsport2
+
+#EXTINF:-1 group-title="Спорт", QazSport 🇰🇿
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт", Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+
+#EXTINF:-1 group-title="Спорт", Sky Sports 2 NZ
+https://7pal.short.gy/skyspt2nz
+
+#EXTINF:-1 group-title="Спорт", Sky Sports 3 NZ
+https://7pal.short.gy/skyspt3nz
+
+#EXTINF:-1 group-title="Спорт", Sky Sports 4 NZ
+https://7pal.short.gy/skyspt4nz
+
+#EXTINF:-1 group-title="Спорт" tvg-id="sky-sports-action", Sky Sports Action / NFL
+https://7pal.short.gy/ssportsat
+
+#EXTINF:-1 group-title="Спорт", Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+
+#EXTINF:-1 group-title="Спорт", Sky Sports F1
+https://7pal.short.gy/ssportsf1
+
+#EXTINF:-1 group-title="Спорт", Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 group-title="Спорт", Sky Sports Football
+https://7pal.short.gy/ssportsfb
+
+#EXTINF:-1 group-title="Спорт", Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+
+#EXTINF:-1 group-title="Спорт", Sky Sports News
+https://7pal.short.gy/ssportsnw
+
+#EXTINF:-1 group-title="Спорт", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+
+
+#EXTINF:-1 group-title="Спорт", TNT Sport 1
+https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 group-title="Спорт", TNT Sport 2
+https://7pal.short.gy/tntspts2
+
+#EXTINF:-1 group-title="Спорт", TNT Sport 3
+https://7pal.short.gy/tntspts3
+
+#EXTINF:-1 group-title="Спорт", TNT Sport 4
+https://7pal.short.gy/tntspts4
 
 
 

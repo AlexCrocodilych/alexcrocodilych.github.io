@@ -110,6 +110,8 @@ https://mhd128.iptv2022.com/p/nNn8eQGZcgag5qthdyCn-A,1741122014/streaming/nashsp
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Страна - 02 (576p)
 http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjUgNzo1OToyMCBBTSZoYXNoX3ZhbHVlPWF5aWlTVzBobEVxcWZTNWZXd3VLL0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Боец - 01 (576p)
+http://87.120.142.11:18000/Match!
 
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 01 (576p)
@@ -171,13 +173,13 @@ http://ip1.orgip.net/402/video.m3u8?token=A3b61a999e
 
 
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 +4 (720p)
-https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-41-TFrag-hd-5-20230906T091836init.mp4
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
 
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 02 +4 (576p)
 http://dmi3y-tv.ru/hls/T2/CH_1TV_4.m3u8
 
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 03 +4 (720p)
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
+
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый - 01 (1080p)
 

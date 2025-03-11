@@ -74,7 +74,7 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
 
 
-#EXTINF:-1 tvg-id="hr: sport klub 5 fhd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tvp-sport.png" group-title="Спортивные",TVP Sport PL (1080p)
+#EXTINF:-1 tvg-name="hr: sport klub 5 fhd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tvp-sport.png" group-title="Спортивные",TVP Sport PL (1080p)
 http://178.219.128.68:64888/TVPSPORHD
 
 
@@ -153,32 +153,32 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports USA (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 
-#EXTINF:-1 tvg-id="TSN 1 HD" tvg-logo="https://lighticons.art/storage/images/channels/1e5d694e3977fdc56b37a2a7b4bfd39e.png?d=1710398318" tvg-rec="0" group-title="СПОРТ ⚽",TSN 1 HD
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn1.png" group-title="Спортивные",TSN 1 CA (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN2 CA (1080p)
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN 2 CA (1080p)
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN 2 HD" tvg-logo="https://lighticons.art/storage/images/channels/f30cce1cc8f3b2d6e6f152e97d69f1e3.png?d=1710398332" tvg-rec="0" group-title="СПОРТ ⚽",TSN 2 HD
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15928.ts
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN 2 CA (1080p)1
+#EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15928.ts
 
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn3.png" group-title="Спортивные",TSN3 CA (1080p)
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn3.png" group-title="Спортивные",TSN 3 CA (1080p)
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN 3 HD" tvg-logo="https://lighticons.art/storage/images/channels/2b816a776863418b920ef0b4cee8ad11.png?d=1710398345" tvg-rec="0" group-title="СПОРТ ⚽",TSN 3 HD
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15927.ts
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn3.png" group-title="Спортивные",TSN 3 CA (1080p)1
+#EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15927.ts
 
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn4.png" group-title="Спортивные",TSN4 CA (1080p)
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn4.png" group-title="Спортивные",TSN 4 CA (1080p)
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN 4 HD" tvg-logo="https://lighticons.art/storage/images/channels/2b7bf969285fb5e8865268b659f875a9.png?d=1710398361" tvg-rec="0" group-title="СПОРТ ⚽",TSN 4 HD
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15926.ts
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn4.png" group-title="Спортивные",TSN 4 CA (1080p)1
+#EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15926.ts
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN5 CA (1080p)
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA (1080p)
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN 5 HD" tvg-logo="https://lighticons.art/storage/images/channels/91998d82473c92aa79906a0e930a0c42.png?d=1710398375" tvg-rec="0" group-title="СПОРТ ⚽",TSN 5 HD
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA (1080p)1
+#EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
 
 
 

@@ -333,7 +333,7 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
 
-#EXTINF:-1 group-title="RELAX NATURE",TV Камин HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Американские",TV Камин (1080p)
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 

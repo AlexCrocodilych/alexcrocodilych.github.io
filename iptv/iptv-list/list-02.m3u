@@ -56,29 +56,41 @@ http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
 http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
 
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 (1080p)
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)
 http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 (1080p)1
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)1
 #EXTINF:-1http://109.233.89.170/Eleven_Sports_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 (1080p)
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)2
+#EXTINF:-1http://178.219.128.68:64889/ELEVSPOR1HD
+
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)
 http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 (1080p)1
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)1
 #EXTINF:-1http://109.233.89.170/Eleven_Sports_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 (1080p)
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)2
+#EXTINF:-1http://178.219.128.68:64889/ELEVSPOR2HD
+
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)
 http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 (1080p)1
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)1
 #EXTINF:-1http://109.233.89.170/Eleven_Sports_3_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 (1080p)
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)2
+#EXTINF:-1http://178.219.128.68:64889/ELEVSPOR3HD
+
+#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 (1080p)1
+#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)1
 #EXTINF:-1http://109.233.89.170/ELEVEN_SPORTS_4_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)2
+#EXTINF:-1http://178.219.128.68:64888/ELEVSPOR4HD
 
 #EXTINF:-1 tvg-id="CanalPlusSport1.cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-plus-sport.png" group-title="Спортивные",Canal+ Sport CZ (1080p)
 http://78.130.250.2:8023/play/a02v/index.m3u8
@@ -331,19 +343,8 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
 
 
-#EXTINF:-1 tvg-id="2902" tvg-logo="http://epg.one/img2/2902.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Eleven Sports 1 HD PL
-http://178.219.128.68:64889/ELEVSPOR1HD
-#EXTINF:-1 tvg-id="2901" tvg-logo="http://epg.one/img2/2901.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Eleven Sports 2 HD PL
-http://178.219.128.68:64889/ELEVSPOR2HD
 
 
-#EXTINF:-1 tvg-id="Eleven Sports 3 Poland HD" tvg-logo="https://lighticons.art/storage/images/channels/40daf52c1294df8f0eb4084a1258dbb6.png?d=1707394743" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/40daf52c1294df8f0eb4084a1258dbb6/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Eleven Sports 3 Poland HD
-http://178.219.128.68:64889/ELEVSPOR3HD
-#EXTINF:-1 tvg-id="Eleven Sports 4 Poland HD" tvg-logo="https://lighticons.art/storage/images/channels/6f7d92052536c4bd79672d9cf0461b30.png?d=1707394784" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/6f7d92052536c4bd79672d9cf0461b30/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Eleven Sports 4 Poland HD
-http://178.219.128.68:64888/ELEVSPOR4HD
-
-#EXTINF:-1 tvg-name="hr: sport klub 5 fhd" group-title="СПОРТ ⚽",TVP Sport HD
-https://cdn-nvm-chicago3.lolokoko.tv/tvpsport.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="hr: sport klub 5 fhd" group-title="СПОРТ ⚽",TVP Sport FHD
 http://178.219.128.68:64888/TVPSPORHD
 
@@ -356,30 +357,21 @@ http://178.219.128.68:64888/CANASPOR2HD
 
 #EXTINF:-1 tvg-id="Polsat Sport Extra HD" tvg-logo="https://lighticons.art/storage/images/channels/b59429ef6a4889ff730db4004d5734dc.png?d=1707393879" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/b59429ef6a4889ff730db4004d5734dc/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Polsat Sport Extra FHD
 http://178.219.128.68:64889/POLSSPOREXTRHD
-#EXTINF:-1 tvg-id="Polsat Sport Extra HD" tvg-logo="https://lighticons.art/storage/images/channels/b59429ef6a4889ff730db4004d5734dc.png?d=1707393879" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/b59429ef6a4889ff730db4004d5734dc/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Polsat Sport Extra HD
-https://cdn-nvm-chicago3.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-logo="https://lighticons.art/storage/images/channels/b6400d19ce3382287d303c857c60a725.png?d=1710850030" tvg-rec="0" group-title="СПОРТ ⚽",Polsat Sport Fight HD
 http://178.219.128.68:64889/POLSSPORFIGHHD
 #EXTINF:-1 tvg-id="Polsat Sport HD" tvg-logo="https://lighticons.art/storage/images/channels/5dfb37b02467b5387ab559a6aa3f6698.png?d=1707393878" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/5dfb37b02467b5387ab559a6aa3f6698/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Polsat Sport FHD
 http://178.219.128.68:64889/POLSSPORHD
-#EXTINF:-1 tvg-id="Polsat Sport HD" tvg-logo="https://lighticons.art/storage/images/channels/5dfb37b02467b5387ab559a6aa3f6698.png?d=1707393878" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/5dfb37b02467b5387ab559a6aa3f6698/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Polsat Sport HD
-https://cdn-nvm-chicago3.lolokoko.tv/polsatsport.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="polsat sport news" tvg-logo="https://i.ibb.co/vxV0H9G/image-7.png" group-title="СПОРТ ⚽",Polsat Sport News
 http://178.219.128.68:64889/POLSSPORNEWSHD
-#EXTINF:-1 tvg-name="polsat sport news" tvg-logo="https://i.ibb.co/vxV0H9G/image-7.png" group-title="СПОРТ ⚽",Polsat Sport News 2 HD
-http://178.219.128.68:64889/POLSNEWS2
 
-#EXTINF:-1 tvg-id="Sky Sport UHD" tvg-logo="https://lighticons.art/storage/images/channels/51b1417b0107a1b7afc7a9c6c290bf80.png?d=1711532707" tvg-rec="0" group-title="СПОРТ ⚽",Sky Sport UHD
-http://181.78.105.146:2000/play/a08m/index.m3u8
 
 
 #EXTINF:-1 tvg-id="4573" tvg-logo="http://epg.one/img2/4573.png" tvg-rec="0" group-title="СПОРТ ⚽",SKY SPORTS MIX
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/53706
 
-#EXTINF:-1 tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0" group-title="СПОРТ ⚽",SKY SPORTS GOLF UK
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/35240
+
 #EXTINF:-1 tvg-id="4571" tvg-logo="http://epg.one/img2/4571.png" tvg-rec="0" group-title="СПОРТ ⚽",SKY SPORTS MAIN EVENT UK
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/35243
 #EXTINF:-1 tvg-id="4572" tvg-logo="http://epg.one/img2/4572.png" tvg-rec="0" group-title="СПОРТ ⚽",SKY SPORTS ARENA UK
@@ -391,12 +383,6 @@ http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/53704
 
 
 
-#EXTINF:-1 tvg-name="digi sport 1 hd" tvg-logo="https://i.ibb.co/mS7W3xF/image-12.png" group-title="СПОРТ ⚽",DIGI SPORT 1 HD
-http://91.218.51.176:8080/badea_petre/WgTdDpbwfaFlxn8yZKiDGwgdR9vF2g/8991
-#EXTINF:-1 tvg-name="digi sport 1 hd" tvg-logo="https://i.ibb.co/mS7W3xF/image-12.png" group-title="СПОРТ ⚽",DIGI SPORT 1 4K
-http://91.218.51.176:8080/badea_petre/WgTdDpbwfaFlxn8yZKiDGwgdR9vF2g/30239
-#EXTINF:-1 tvg-name="digi sport 2 hd" tvg-logo="https://i.ibb.co/mS7W3xF/image-12.png" group-title="СПОРТ ⚽",DIGI SPORT 2 HD
-http://91.218.51.176:8080/badea_petre/WgTdDpbwfaFlxn8yZKiDGwgdR9vF2g/8992
 
 #EXTINF:-1 group-title="СПОРТ ⚽",SPORTS NET West
 http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/57300

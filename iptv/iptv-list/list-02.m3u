@@ -32,16 +32,16 @@ http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 - 01 (1080p)
 http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 KZ - 01 (1080p)
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan - 01 (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 KZ - 02 (1080p)
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan - 02 (1080p)
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
 
-#EXTINF:-1 tvg-id="setanta-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 Ukraine - 01 (1080p)
+#EXTINF:-1 tvg-id="setanta-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Спортивные",Setanta Sports Ukraine - 01 (1080p)
 http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-sports2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 Ukraine - 01 (1080p)
+#EXTINF:-1 tvg-id="setanta-sports2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Спортивные",Setanta Sports Ukraine + - 01 (1080p)
 http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 
 

@@ -32,6 +32,14 @@ http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/31314/index.m3u8
 #EXTGRP:другие
 http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/31315/index.m3u8
 
+#EXTINF:0 tvg-rec="3",Eurosport 1 FHD orig
+#EXTGRP:спорт
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/9026/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Eurosport 1
+#EXTGRP:спорт
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/141/index.m3u8
+
 
 
 
@@ -81,6 +89,11 @@ http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta-kaz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="setanta-kaz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports 1 HD KZ (1080p)
+http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
+
+
 
 #EXTINF:-1 tvg-id="setanta-kz-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan + (1080p)
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8

@@ -33,6 +33,9 @@ http://93.189.224.246:52900/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5-internet.png" group-title="Спортивные",Беларусь 5 Интернет (1080p)
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559814920_b2660000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="tv-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tv-futbol.png" group-title="Спортивные",ТЕЛЕКАНАЛ ФУТБОЛ (1080p)
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+
 
 
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 (1080p)
@@ -237,14 +240,25 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
 #EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 MX (720p)3
 #EXTINF:-1http://212.102.60.10/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network USA (1080p)
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (1080p)
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports USA (1080p)
+#EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports US (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
+
+
 
 #EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
 http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1 tvg-id="ring" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring.png" group-title="Спортивные",Ring BG (1080p)
+http://195.24.90.119:800/play/a0b3
+
+#EXTINF:-1 tvg-id="scooore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/scooore.png" group-title="Спортивные",Scooore DE (1080p)
+https://jmp2.uk/sam-ATBD26000124P.m3u8
+
+#EXTINF:-1 tvg-id="star-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/star-sports1.png" group-title="Спортивные",Star Sports 1 IN (1080p)
+http://41.205.93.154/STARSPORTS1/index.m3u8
 
 
 
@@ -268,32 +282,35 @@ https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-id="dazn1-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 PT (1080p)
+#EXTINF:-1 tvg-id="dazn1-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 PT (720p)
 http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 
 #EXTINF:-1 tvg-id="dazn2-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn2.png" group-title="Спортивные",Dazn 2 PT (1080p)
 
-#EXTINF:-1 tvg-id="dazn-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn3.png" group-title="Спортивные",Dazn 3 PT (1080p)
+#EXTINF:-1 tvg-id="dazn-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn3.png" group-title="Спортивные",Dazn 3 PT (396p)
 http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
 
-#EXTINF:-1 tvg-id="dazn-4-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn4.png" group-title="Спортивные",Dazn 4 PT (1080p)
+#EXTINF:-1 tvg-id="dazn-4-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn4.png" group-title="Спортивные",Dazn 4 PT (396p)
 http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
 
 
 
-#EXTINF:-1 ,ESPN PREMIUM 🇦🇷
-http://190.102.246.93:9005/play/a00x
-#EXTINF:-1 ,ESPN 2 🇨🇴
+#EXTINF:-1 tvg-id="espn-premium-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-premium.png" group-title="Спортивные",ESPN DEPORTES US (1080p)
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="espn-premium-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-premium.png" group-title="Спортивные",ESPN Premium CO (1080p)
 http://190.102.246.93:9005/play/a029
-#EXTINF:-1 ,ESPN 3 🇨🇴
+
+#EXTINF:-1 tvg-id="espn3-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn3.png" group-title="Спортивные",ESPN 3 CO (720p)
 http://190.102.246.93:9005/play/a02l
-#EXTINF:-1 ,ESPN 4 🇨🇴
+
+#EXTINF:-1 tvg-id="espn4-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn4.png" group-title="Спортивные",ESPN 4 CO (720p)
 http://190.102.246.93:9005/play/a019
-#EXTINF:-1 ,ESPN 6 🇨🇴
+
+#EXTINF:-1 tvg-id="espn6-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn6.png" group-title="Спортивные",ESPN 6 CO (1080p)
 http://190.102.246.93:9005/play/a02m
-#
-#EXTINF:-1 ,ESPN 🇦🇷
-http://168.227.131.66:8000/play/tfc0/index.m3u8
+
+
 
 
 
@@ -315,7 +332,7 @@ https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)1
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)2
 #EXTINF:-1 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Спортивные",NBA TV (720p)
@@ -333,13 +350,13 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)
 https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)1
+#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)2
 #EXTINF:-1https://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)1
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)2
 #EXTINF:-1https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fifa+.png" group-title="Спортивные",FIFA+ (720p)
@@ -356,7 +373,7 @@ https://content-aeui1.uplynk.com/channel/a260e6e674f3429f874819f0f232eb08/f.m3u8
 #EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
 
-#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)1
+#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="Американские",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)2
 #EXTINF:-1https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
 
 #EXTINF:-1 tvg-id="WSOCDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsoc.png" group-title="Американские",WSOC ABC 9 Charlotte NC [Neutral] (720p)
@@ -403,9 +420,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 #EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",Fox News [Republican] (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",Fox News [Republican] (720p)0
-https://stream.livenewsplay.com:9443/hls/foxnews/foxhd.m3u8
-
 #EXTINF:-1 tvg-id="fox-live-now" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",FOX LiveNow [Republican] (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
 
@@ -438,7 +452,7 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (720p)1
+#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (720p)2
 #EXTINF:-1https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (1080p)
@@ -449,80 +463,13 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p
 #EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)1
+#EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)2
 #EXTINF:-1https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Американские",TV Камин (1080p)
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-
-
-
-
-
-#EXTINF:-1 ,Star Sports 1 IN
-http://41.205.93.154/STARSPORTS1/index.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,ESPN DEPORTES 🇺🇸
-http://190.92.10.66:4000/play/a003/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,EUROSPORT 1 🇪🇸
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 ,EUROSPORT 2 🇪🇸
-http://185.189.225.157/EuroSport2/index.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,CBS SPORT 🇺🇸
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-
-#EXTINF:-1 ,ТЕЛЕКАНАЛ ФУТБОЛ 🇷🇺
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-
-
-#EXTINF:-1 ,Ring 🇧🇬
-http://195.24.90.119:800/play/a0b3
-
-
-#EXTINF:-1 ,Scooore 🇩🇪
-https://jmp2.uk/sam-ATBD26000124P.m3u8
-
-
-
 
 
 

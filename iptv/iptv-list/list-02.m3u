@@ -174,6 +174,15 @@ https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1 (1080p)
 https://7pal.short.gy/ssportsf1
 
+#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
+http://181.78.109.49:8000/play/a06r/index.m3u8
+#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:8800/play/a07h
+
 
 
 #EXTINF:-1 tvg-id="sky-sport1-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport1-nz.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
@@ -181,6 +190,7 @@ https://7pal.short.gy/skyspt1nz
 
 #EXTINF:-1 tvg-id="sky-sport2-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport2-nz.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
 https://7pal.short.gy/skyspt2nz
+
 
 
 #EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn1.png" group-title="Спортивные",TSN 1 CA (1080p)
@@ -244,6 +254,23 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 
 #EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
 http://stream01.vnet.am/Channel_131/mono.m3u8
+
+
+
+#EXTINF:-1 ,Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1 ,Bein Sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+
+#EXTINF:-1 ,BeiN Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 ,Bein Sports 🇬🇧
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 ,BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Спортивные",BeIN Sports XTRA US (1080p)
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
@@ -421,36 +448,24 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Star Sports 1 IN
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-#EXTINF:-1 ,Bein Sports 1
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
-#EXTINF:-1 ,Bein Sports 2
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
 #EXTINF:-1 ,TnT Sports 3
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8
 
 
-#EXTINF:-1 ,BeiN Sports Extra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+
 
 #EXTINF:-1 ,ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 
 
-#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
-http://181.78.109.49:8000/play/a06r/index.m3u8
-#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:8800/play/a07h
 
 
-#EXTINF:-1 ,Bein Sports 🇬🇧
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+
 
 
 
@@ -469,8 +484,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 
 
 
-#EXTINF:-1 ,BEIN SPORT EXTRA Ñ 🇪🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
 
 
 

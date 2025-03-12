@@ -223,8 +223,15 @@ https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-id="super-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/supertennis.png" group-title="Спортивные",Super Tennis IT (1080p)
+#EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1 ,T10 A sports Live
+https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8
+#EXTINF:-1 ,RTA Sports HD Ban Vs AFG
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 ,TnT Sports 2 🇧🇩
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8

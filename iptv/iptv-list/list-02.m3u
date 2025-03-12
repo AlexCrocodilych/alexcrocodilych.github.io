@@ -30,7 +30,7 @@ http://89.23.113.132/oksphd/video.m3u8
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5.png" group-title="Спортивные",Беларусь 5 (1080p)
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559814920_b2660000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="setanta-sport-hd-orig" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 01 (1080p)
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 01 (1080p)
 http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 - 01 (1080p)
@@ -39,13 +39,13 @@ http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan - 01 (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan - 02 (1080p)
+#EXTINF:-1 tvg-id="	setanta-plus-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan+ (1080p)
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
 
-#EXTINF:-1 tvg-id="setanta-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Спортивные",Setanta Sports Ukraine (1080p)
+#EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Спортивные",Setanta Sports Ukraine (1080p)
 http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-sports2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Спортивные",Setanta Sports Ukraine + (1080p)
+#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Спортивные",Setanta Sports Ukraine + (1080p)
 http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 
 
@@ -332,7 +332,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="Американские",NBC News Now [Neutral] (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] (720p)
+#EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] (720p)
 https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News [Neutral] (720p)

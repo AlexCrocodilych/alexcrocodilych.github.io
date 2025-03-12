@@ -35,16 +35,16 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559
 
 
 
-#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 - 01 (1080p)
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 (1080p)
 http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 - 01 (1080p)
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 (1080p)
 http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-kaz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan - 01 (1080p)
+#EXTINF:-1 tvg-id="setanta-kaz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-kz-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan+ (1080p)
+#EXTINF:-1 tvg-id="setanta-kz-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan + (1080p)
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
 
 #EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Спортивные",Setanta Sports Ukraine (1080p)
@@ -139,22 +139,22 @@ http://178.219.128.68:64889/POLSSPORFIGHHD
 
 
 
-#EXTINF:-1 tvg-id="TNTSports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
+#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 
-#EXTINF:-1 tvg-id="tntsport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (1080p)
+#EXTINF:-1 tvg-id="tntsports2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
-#EXTINF:-1 tvg-id="tntsport-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
+#EXTINF:-1 tvg-id="tntsports-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
 
-#EXTINF:-1 tvg-id="tnt-sport-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
+#EXTINF:-1 tvg-id="tnt-sports-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 
 #EXTINF:-1 tvg-id="TNTSports4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)2
 #EXTINF:-1https://7pal.short.gy/tntspts4
 
-#EXTINF:-1 tvg-id="tnt-sport5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
+#EXTINF:-1 tvg-id="tnt-sports5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
 
 

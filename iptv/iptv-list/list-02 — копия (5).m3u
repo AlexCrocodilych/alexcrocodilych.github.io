@@ -18,14 +18,14 @@ http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD (1080p)
-http://89.23.113.132/oksphd/video.m3u8
-
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD (1080p)1
-#EXTINF:-1http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
-
 #EXTINF:-1 tvg-id="okko-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD - 01 (1080p)
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD - 01 (1080p)
+http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD - 02 (1080p)
+http://89.23.113.132/oksphd/video.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5.png" group-title="Спортивные",Беларусь 5 (1080p)
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559814920_b2660000_sleng.m3u8
@@ -218,16 +218,10 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
+
+
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Спортивные",BeIN Sports XTRA US (1080p)
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
-
-
-
-#EXTINF:-1 tvg-id="super-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/h264_1080p_manifest.m3u8
-
-#EXTINF:-1 tvg-id="super-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)0
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8

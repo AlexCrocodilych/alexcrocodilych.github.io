@@ -157,12 +157,15 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 #EXTINF:-1 tvg-id="tnt-sports5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
 
+#EXTINF:-1 ,TnT Sports 3
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8
 
 
-#EXTINF:-1 tvg-id="sky-sports-premier-league" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Спортивные",Sky Sports Premier League (1080p)
+
+#EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Спортивные",Sky Sports Premier League (1080p)
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="sky-sports-main-event" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Спортивные",Sky Sports Main Event (576p)
+#EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Спортивные",Sky Sports Main Event (576p)
 https://7pal.short.gy/skspmaine
 
 #EXTINF:-1 tvg-id="sky-sports-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-football.png" group-title="Спортивные",Sky Sports Football (1080p)
@@ -174,21 +177,12 @@ https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1 (1080p)
 https://7pal.short.gy/ssportsf1
 
-#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
-http://181.78.109.49:8000/play/a06r/index.m3u8
-#EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
-http://181.78.105.146:8800/play/a07h
-
 
 
 #EXTINF:-1 tvg-id="sky-sport1-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport1-nz.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
 https://7pal.short.gy/skyspt1nz
 
-#EXTINF:-1 tvg-id="sky-sport2-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport2-nz.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-select-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport2-nz.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
 https://7pal.short.gy/skyspt2nz
 
 
@@ -241,10 +235,10 @@ http://212.102.60.231/TSN_5/index.m3u8
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
 
 #EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)2
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)3
-http://212.102.60.10/FOX_Sports_1/index.m3u8
+#EXTINF:-1http://212.102.60.10/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network USA (1080p)
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -276,6 +270,32 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 
 
+#EXTINF:-1 ,Dazn 3 HD 🇵🇹
+http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
+
+
+#EXTINF:-1 ,Dazn 1 🇵🇹
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
+#EXTINF:-1 ,Dazn 4 🇵🇹
+http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
+
+
+
+#EXTINF:-1 ,ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a00x
+#EXTINF:-1 ,ESPN 2 🇨🇴
+http://190.102.246.93:9005/play/a029
+#EXTINF:-1 ,ESPN 3 🇨🇴
+http://190.102.246.93:9005/play/a02l
+#EXTINF:-1 ,ESPN 4 🇨🇴
+http://190.102.246.93:9005/play/a019
+#EXTINF:-1 ,ESPN 6 🇨🇴
+http://190.102.246.93:9005/play/a02m
+#
+#EXTINF:-1 ,ESPN 🇦🇷
+http://168.227.131.66:8000/play/tfc0/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
@@ -287,11 +307,18 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 ,TnT Sports 2 🇧🇩
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)2
+#EXTINF:-1https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fubo-sports.png" group-title="Спортивные",Fubo Sports (1080p)
 https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
@@ -450,8 +477,7 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 
 
 
-#EXTINF:-1 ,TnT Sports 3
-https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8
+
 
 
 
@@ -503,45 +529,18 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 http://195.24.90.119:800/play/a0b3
 
 
-#EXTINF:-1 ,SPORT ITALIA 🇮🇹
-http://46.232.186.35:35001/play/a01k
-#EXTINF:-1 ,SPORT ITALIA 🇮🇹
-http://46.232.186.35:35001/play/a037
-
 #EXTINF:-1 ,Scooore 🇩🇪
 https://jmp2.uk/sam-ATBD26000124P.m3u8
 
 
 
-#EXTINF:-1 ,TENNIS
-https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-#EXTINF:-1 ,TENNIS
-https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 
-#EXTINF:-1 ,Dazn 3 HD 🇵🇹
-http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
 
 
-#EXTINF:-1 ,Dazn 1 🇵🇹
-http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
-#EXTINF:-1 ,Dazn 4 🇵🇹
-http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
 
 
-#EXTINF:-1 ,ESPN PREMIUM 🇦🇷
-http://190.102.246.93:9005/play/a00x
-#EXTINF:-1 ,ESPN 2 🇨🇴
-http://190.102.246.93:9005/play/a029
-#EXTINF:-1 ,ESPN 3 🇨🇴
-http://190.102.246.93:9005/play/a02l
-#EXTINF:-1 ,ESPN 4 🇨🇴
-http://190.102.246.93:9005/play/a019
-#EXTINF:-1 ,ESPN 6 🇨🇴
-http://190.102.246.93:9005/play/a02m
-#
-#EXTINF:-1 ,ESPN 🇦🇷
-http://168.227.131.66:8000/play/tfc0/index.m3u8
+
 
 
 

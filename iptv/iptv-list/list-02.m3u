@@ -267,13 +267,16 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 
 
-#EXTINF:-1 ,Dazn 3 HD 🇵🇹
+
+#EXTINF:-1 tvg-id="dazn1-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 PT (1080p)
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
+
+#EXTINF:-1 tvg-id="dazn2-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn2.png" group-title="Спортивные",Dazn 2 PT (1080p)
+
+#EXTINF:-1 tvg-id="dazn-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn3.png" group-title="Спортивные",Dazn 3 PT (1080p)
 http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
 
-
-#EXTINF:-1 ,Dazn 1 🇵🇹
-http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
-#EXTINF:-1 ,Dazn 4 🇵🇹
+#EXTINF:-1 tvg-id="dazn-4-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn4.png" group-title="Спортивные",Dazn 4 PT (1080p)
 http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
 
 
@@ -294,24 +297,13 @@ http://168.227.131.66:8000/play/tfc0/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
+#EXTINF:-1 tvg-id="super-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
-#EXTINF:-1 ,T10 A sports Live
-https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8
-#EXTINF:-1 ,RTA Sports HD Ban Vs AFG
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 ,TnT Sports 2 🇧🇩
-https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
+#EXTINF:-1 tvg-id="tennis-cnl-plus-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)2

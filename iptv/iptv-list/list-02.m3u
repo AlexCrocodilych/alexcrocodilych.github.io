@@ -36,6 +36,9 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559
 #EXTINF:-1 tvg-id="tv-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tv-futbol.png" group-title="Спортивные",ТЕЛЕКАНАЛ ФУТБОЛ (1080p)
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 
+#EXTINF:-1 tvg-id="football-ru" group-title="Спортивные", Футбол
+http://93.189.224.246:52900/play/a00c/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 (1080p)
@@ -257,8 +260,12 @@ http://195.24.90.119:800/play/a0b3
 #EXTINF:-1 tvg-id="scooore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/scooore.png" group-title="Спортивные",Scooore DE (1080p)
 https://jmp2.uk/sam-ATBD26000124P.m3u8
 
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fubo-sports.png" group-title="Спортивные",Fubo Sports US (1080p)
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+
 #EXTINF:-1 tvg-id="star-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/star-sports1.png" group-title="Спортивные",Star Sports 1 IN (1080p)
 http://41.205.93.154/STARSPORTS1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="bein-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Спортивные",Bein Sports UK (720p)
@@ -307,7 +314,7 @@ http://190.102.246.93:9005/play/a02m
 
 
 
-#EXTINF:-1 tvg-id="super-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
+#EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
@@ -319,8 +326,40 @@ https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)2
 #EXTINF:-1https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fubo-sports.png" group-title="Спортивные",Fubo Sports (1080p)
-https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+
+
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://m.media-amazon.com/images/I/41NhI9FSeQL._AC_UL800_QL65_.png" group-title="Спортивные",TENNIS CHANNEL
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="arena-sport-1-sk" group-title="Спортивные", Arena Sport 1 [SK]
+http://78.130.250.2:8023/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="ct-sport" group-title="Спортивные", CT Sport
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1
+http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 CCE
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD CEE
+https://tv.movielab.pro/145/video.m3u8?token=2ce78ff687b9c5d291311ec825b79fe7ff542d59-8d14fc76e2a698aa3c6592445bf4c950-1741852416-1741766016
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
+http://pro.ipcover.lol:8080/Alexis58174/857164/401957
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD CEE
+http://nodns1.top:8080/38170638485767/91739876651327/51962
+
+
+
+
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
@@ -466,94 +505,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Спортивные", Матч Премьер
-  http://streamer1.ruslanatv.ru/russia/match_premier_sd_2023/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч Премьер HD
-  http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч Премьер HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
-#EXTINF:-1 group-title="Спортивные", Матч!
-  http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! 🟥
-  http://127.0.0.1:6878/hls/r/0a04b9a0fc12bd86ccdf8a9166255951d23ac30e/c25f3fe6713c9978311a31a1afa040c5.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! HD
-  http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:-1 group-title="Спортивные", Матч! HD 🟥
-  http://127.0.0.1:6878/hls/r/fae62ebb8af40bf0df6551307b0dcdc101408f27/2956e2b34a3806e7b161f258c7e3e7d1.m3u8  
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv", Матч! Full HD
-  http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv", Матч! Full HD 🟥
-  http://127.0.0.1:6878/ace/m/f69b2859510dce33b992dd1940f95254c6e6f51c/7d83256f035711468367aec67d4e1426.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Арена
-  http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Арена HD
-  http://bl.uma.media/live/126868/HLS/16128000_4/4/4/playlist.m3u8?v2.MdSdyTZAoFTbeN9TXhzoXkkVKn-L4OZ5dklViX_htFY.SedCYPGao43JYRE8hSw6CKCv9ZDSKUpGts5Cq2Ufo8E.1678549058.4800c174b1238131dc4a64c3a8562cc0
-#EXTINF:-1 group-title="Спортивные", Матч! Арена HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
-#EXTINF:-1 group-title="Спортивные", Матч! Боец
-  http://streamer1.ruslanatv.ru/russia/match_boets_sd_new_2023/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-boets", Матч! Боец HD
-  http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-boets", Матч! Боец HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
-#EXTINF:-1 group-title="Спортивные", Матч! Игра
-  https://federaltv-migra.cdnvideo.ru/migra/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Игра HD
-  http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Игра HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
-#EXTINF:-1 group-title="Спортивные", Матч! Планета
-  http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Планета 🟥   
-  http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
-#EXTINF:-1 group-title="Спортивные", Матч! Страна
-  http://streamer1.ruslanatv.ru/russia/match_strana_2023/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport", Матч! Страна HD
-  https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport", Матч! Страна HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1
-  http://streamer1.ruslanatv.ru/russia/match_futbol_1_2023/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1 HD
-  http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 1 HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2
-  http://streamer1.ruslanatv.ru/russia/match_futbol_2_2023/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2 HD
-  http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2 HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3
-  http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 HD
-  http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
-
-
-  #EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports", Setanta Sport 1 HD
-  http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports", Setanta Sport 1 HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
-#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus", Setanta Sport 2 HD
-  http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus", Setanta Sport 2 HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
-#EXTINF:-1 group-title="Спортивные", Setanta Qazaqstan
-  http://176.222.190.76/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
-
-
-  #EXTINF:-1 group-title="Спортивные", Eurosport 1
-  http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
-#EXTINF:-1 group-title="Спортивные", Eurosport 1 HD 🟥  
-  http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
-#EXTINF:-1 group-title="Спортивные", Eurosport 2
-  http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
-#EXTINF:-1 group-title="Спортивные", Eurosport 2 HD 🟥
-  http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
 
 
 

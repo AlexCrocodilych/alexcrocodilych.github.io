@@ -3,6 +3,33 @@
 #PLAYLIST:My-02
 
 
+
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="50FPS" tvg-id="okko-sport" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c9/Okko_%D0%A1%D0%BF%D0%BE%D1%80%D1%82_%282019%2C_%D1%84%D0%BE%D0%BD%29.jpg/revision/latest?cb=20190609081550&path-prefix=ru",Окко Спорт HD
+http://158.101.211.157:2020/channel/79f39dd7/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+
+#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="50FPS" tvg-id="okko-football" tvg-logo="http://158.101.211.157:2020/proxy/https://iptvx.one/picons/okko-football.png",Окко Футбол HD
+http://158.101.211.157:2020/channel/n2388d82c/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+
+#EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-1-hd.png",Setanta Sports 1 HD
+http://158.101.211.157:2020/channel/343fa46b/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-1-hd.png",Setanta Sports 1 HD Georgia
+http://158.101.211.157:2020/channel/n504ecebd/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-8338" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-2-hd.png",Setanta Sports 2 HD
+http://158.101.211.157:2020/channel/4c4bbede/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-8338" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-2-hd.png",Setanta Sports 2 HD Georgia
+http://158.101.211.157:2020/channel/n489d295e/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-1.png",Setanta Sports Moldova HD
+http://158.101.211.157:2020/channel/10c75807/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-55422" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-ukraine.png",Setanta Sports UA HD
+http://158.101.211.157:2020/channel/55bea1f0/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-52600" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-plus-hd.png",Setanta Sports+ UA HD
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)
 http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
 
@@ -24,7 +51,7 @@ http://89.23.113.132/oksphd/video.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD (1080p)2
 #EXTINF:-1http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="okko-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD (1080p)
+#EXTINF:-1 tvg-id="okko-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD (1080p)
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5.png" group-title="Спортивные",Беларусь 5 (1080p)
@@ -315,7 +342,7 @@ http://190.102.246.93:9005/play/a02m
 
 
 #EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/h264_1080p_manifest.m3u8
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
@@ -325,53 +352,6 @@ https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)2
 #EXTINF:-1https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 (HD)
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 (HD)
-http://xx001.vivat.live/t-1.0f6f.d/hd/00330/8m/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/260
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9541
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://dnsplay.xyz:80/aumdkodc/vgasdt13/34718
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-5/.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://190.110.99.102:8000/play/a010
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://190.110.99.102:8000/play/a02k
-
-
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86613
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://69.164.224.53:80/ESPN/mpegts
-
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102724
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://line.lemotv.cc:80/NSzSZZu945/2365659656326/387940.ts
-
 
 
 

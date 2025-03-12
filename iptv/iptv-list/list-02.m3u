@@ -85,7 +85,7 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
 http://178.219.128.68:64888/TVPSPORHD
 
 
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)
+#EXTINF:-1 tvg-id="eleven-sport1-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)
 http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)1
@@ -94,7 +94,7 @@ http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)2
 #EXTINF:-1http://178.219.128.68:64889/ELEVSPOR1HD
 
-#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)
+#EXTINF:-1 tvg-id="eleven-sport2-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)
 http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)1
@@ -103,7 +103,7 @@ http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)2
 #EXTINF:-1http://178.219.128.68:64889/ELEVSPOR2HD
 
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)
+#EXTINF:-1 tvg-id="eleven-sport3-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)
 http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)1
@@ -112,7 +112,7 @@ http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)2
 #EXTINF:-1http://178.219.128.68:64889/ELEVSPOR3HD
 
-#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)
+#EXTINF:-1 tvg-id="eleven-sport4-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)1
@@ -121,14 +121,18 @@ http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 #EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)2
 #EXTINF:-1http://178.219.128.68:64888/ELEVSPOR4HD
 
-#EXTINF:-1 tvg-id="CanalPlusSport1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport.png" group-title="Спортивные",Canal+ Sport PL (1080p)
+
+
+#EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport.png" group-title="Спортивные",Canal+ Sport PL (1080p)
 http://178.219.128.68:64888/CANASPORHD
 
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport.png" group-title="Спортивные",Canal+ Sport PL (1080p)1
-#EXTINF:-1http://178.219.128.68:64889/CANASPORHD
-
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport2.png" group-title="Спортивные",Canal+ Sport 2 PL (1080p)
+#EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport2.png" group-title="Спортивные",Canal+ Sport 2 PL (1080p)
 http://178.219.128.68:64888/CANASPOR2HD
+
+#EXTINF:-1 ,CANAL+ SPORT HD 🇵🇱
+http://185.236.229.62:9981/play/a04c
+#EXTINF:-1 ,CANAL+ SPORT 2 HD 🇵🇱
+http://185.236.229.62:9981/play/a05t
 
 #EXTINF:-1 tvg-id="Polsat Sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport1.png" group-title="Спортивные",Polsat Sport 1 (1080p)
 http://109.233.89.170/Polsat_Sport_HD/index.m3u8
@@ -217,15 +221,14 @@ http://212.102.60.231/TSN_5/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)2
+#EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
 
-#EXTINF:-1 ,FS 1 SPORT 🇺🇸
-http://212.102.60.10/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)2
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
+#EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)3
+http://212.102.60.10/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network USA (1080p)
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -445,10 +448,7 @@ http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 
 
-#EXTINF:-1 ,CANAL+ SPORT HD 🇵🇱
-http://185.236.229.62:9981/play/a04c
-#EXTINF:-1 ,CANAL+ SPORT 2 HD 🇵🇱
-http://185.236.229.62:9981/play/a05t
+
 
 
 

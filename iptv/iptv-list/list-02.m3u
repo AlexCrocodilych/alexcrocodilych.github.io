@@ -2,6 +2,19 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #PLAYLIST:My-02
 
+
+#EXTINF:-1 ,ahlakid.com - Website : ahlakid.com
+http://nvid101.cdnii.com/2021/1/20211149-720p.mp4
+#EXTINF:-1 ,ahlakid.com - Website : ahlakid.com
+https://ovhv47.twincdn.com/videos/21/21084/21084_720p.mp4
+#EXTINF:-1 ,ahlakid.com - Website : ahlakid.com
+http://nvid101.cdnii.com/2021/1/20211152-720p.mp4
+#EXTINF:-1 ,ahlakid.com - Website : ahlakid.com
+http://nvid101.cdnii.com/2021/1/20211661-720p.mp4
+#EXTINF:-1 ,ahlakid.com - Website : ahlakid.com
+https://ovhv47.twincdn.com/videos/21/21085/21085_720p.mp4
+
+
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 http://78.26.128.59:9876/play/89/index.m3u8
 

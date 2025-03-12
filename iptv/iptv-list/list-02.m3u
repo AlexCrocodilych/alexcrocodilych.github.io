@@ -65,23 +65,23 @@ http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="TNTSports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 
-#EXTINF:-1 tvg-id="TNTSports2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (1080p)
+#EXTINF:-1 tvg-id="tnt-sport2-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
-#EXTINF:-1 tvg-id="TNTSports3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
+#EXTINF:-1 tvg-id="tnt-sport-3-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
 
-#EXTINF:-1 tvg-id="TNTSports4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
+#EXTINF:-1 tvg-id="tnt-sport-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 
 #EXTINF:-1 tvg-id="TNTSports4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)1
 #EXTINF:-1https://7pal.short.gy/tntspts4
 
-#EXTINF:-1 tvg-id="TNTSports5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
+#EXTINF:-1 tvg-id="tnt-sport5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
 
 
-#EXTINF:-1 tvg-name="hr: sport klub 5 fhd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tvp-sport.png" group-title="Спортивные",TVP Sport PL (1080p)
+#EXTINF:-1 tvg-id="tvp-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tvp-sport.png" group-title="Спортивные",TVP Sport PL (1080p)
 http://178.219.128.68:64888/TVPSPORHD
 
 
@@ -151,6 +151,7 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 
 #EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport-fight.png" group-title="Спортивные",Polsat Sport Fight (1080p)
 http://178.219.128.68:64889/POLSSPORFIGHHD
+
 
 
 #EXTINF:-1 tvg-id="sky-sports-premier-league" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Спортивные",Sky Sports Premier League (1080p)

@@ -152,13 +152,13 @@ http://178.219.128.68:64889/POLSSPORFIGHHD
 #EXTINF:-1 tvg-id="sky-sports-premier-league" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Спортивные",Sky Sports Premier League (1080p)
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="sky-sports-main-event" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Спортивные",Sky Sports Main Event (1080p)
+#EXTINF:-1 tvg-id="sky-sports-main-event" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Спортивные",Sky Sports Main Event (576p)
 https://7pal.short.gy/skspmaine
 
 #EXTINF:-1 tvg-id="sky-sports-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-football.png" group-title="Спортивные",Sky Sports Football (1080p)
 https://7pal.short.gy/ssportsfb
 
-#EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-nfl.png" group-title="Спортивные",Sky Sports Action / NFL (1080p)
+#EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-action.png" group-title="Спортивные",Sky Sports Action (1080p)
 https://7pal.short.gy/ssportsat
 
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1 (1080p)
@@ -166,10 +166,10 @@ https://7pal.short.gy/ssportsf1
 
 
 
-#EXTINF:-1 tvg-id="sky-sports1-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports1-nz.png" group-title="Спортивные",Sky Sports 1 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport1-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport1-nz.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
 https://7pal.short.gy/skyspt1nz
 
-#EXTINF:-1 tvg-id="sky-sports2-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports2-nz.png" group-title="Спортивные",Sky Sports 2 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport2-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport2-nz.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
 https://7pal.short.gy/skyspt2nz
 
 
@@ -202,8 +202,6 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
 
 
-#EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
-http://stream01.vnet.am/Channel_131/mono.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 (720p)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -216,6 +214,9 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports USA (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
+
+#EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
+http://stream01.vnet.am/Channel_131/mono.m3u8
 
 
 
@@ -343,11 +344,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg+.png" group-title="Американские",Bloomberg TV+ (1080p)
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
-#EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)1
-#EXTINF:-1https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские",MTV (1080p)
 http://fl2.moveonjoy.com/MTV/index.m3u8
@@ -366,6 +363,15 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)1
+#EXTINF:-1https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Американские",TV Камин (1080p)

@@ -177,8 +177,14 @@ https://7pal.short.gy/skyspt2nz
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn1.png" group-title="Спортивные",TSN 1 CA (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 
+#EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn1.png" group-title="Спортивные",TSN 1 CA - 02 (1080p)
+http://212.102.60.231/TSN_1/index.m3u8
+
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN 2 CA (1080p)
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="tsn2-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN 2 CA - 02 (1080p)
+http://212.102.60.231/TSN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN 2 CA (1080p)1
 #EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15928.ts
@@ -186,17 +192,26 @@ http://fl5.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn3.png" group-title="Спортивные",TSN 3 CA (1080p)
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
 
+#EXTINF:-1 tvg-id="tsn3-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn3.png" group-title="Спортивные",TSN 3 CA - 02 (1080p)
+http://212.102.60.231/TSN_3/index.m3u8
+
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn3.png" group-title="Спортивные",TSN 3 CA (1080p)1
 #EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15927.ts
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn4.png" group-title="Спортивные",TSN 4 CA (1080p)
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 
+#EXTINF:-1 tvg-id="tsn4-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn4.png" group-title="Спортивные",TSN 4 CA - 02 (1080p)
+http://212.102.60.231/TSN_4/index.m3u8
+
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn4.png" group-title="Спортивные",TSN 4 CA (1080p)1
 #EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15926.ts
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA (1080p)
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA - 02 (1080p)
+http://212.102.60.231/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA (1080p)1
 #EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
@@ -452,16 +467,7 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 
-#EXTINF:-1 ,TSN 1 🇨🇦
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 ,TSN 2 🇨🇦
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 ,TSN 3 🇨🇦
-http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 ,TSN 4 🇨🇦
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 ,TSN 5 🇨🇦
-http://212.102.60.231/TSN_5/index.m3u8
+
 
 #EXTINF:-1 ,CBS SPORT 🇺🇸
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8

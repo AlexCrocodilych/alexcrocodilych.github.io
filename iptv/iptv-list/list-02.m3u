@@ -4,28 +4,33 @@
 
 
 
-#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="50FPS" tvg-id="okko-sport" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c9/Okko_%D0%A1%D0%BF%D0%BE%D1%80%D1%82_%282019%2C_%D1%84%D0%BE%D0%BD%29.jpg/revision/latest?cb=20190609081550&path-prefix=ru",Окко Спорт HD
-http://158.101.211.157:2020/channel/79f39dd7/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-
-#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="50FPS" tvg-id="okko-football" tvg-logo="http://158.101.211.157:2020/proxy/https://iptvx.one/picons/okko-football.png",Окко Футбол HD
-http://158.101.211.157:2020/channel/n2388d82c/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-
-#EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-1-hd.png",Setanta Sports 1 HD
-http://158.101.211.157:2020/channel/343fa46b/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-1-hd.png",Setanta Sports 1 HD Georgia
-http://158.101.211.157:2020/channel/n504ecebd/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-#EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-8338" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-2-hd.png",Setanta Sports 2 HD
-http://158.101.211.157:2020/channel/4c4bbede/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-8338" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-2-hd.png",Setanta Sports 2 HD Georgia
-http://158.101.211.157:2020/channel/n489d295e/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-1.png",Setanta Sports Moldova HD
-http://158.101.211.157:2020/channel/10c75807/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-55422" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-ukraine.png",Setanta Sports UA HD
-http://158.101.211.157:2020/channel/55bea1f0/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-#EXTINF:0 group-title="Спорт" tvg-id="hlsproxy-52600" tvg-logo="http://158.101.211.157:2020/logos/setanta-sports-plus-hd.png",Setanta Sports+ UA HD
 
 
 
+
+
+
+#EXTINF:0 tvg-rec="0",Fast Sports HD AM
+#EXTGRP:Հայկական
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/15507/index.m3u8
+
+
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:познавательные
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/16026/index.m3u8
+
+
+#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
+#EXTGRP:новости
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/9314/index.m3u8
+
+
+EXTINF:0 tvg-rec="0",Eurosport 1 HD DE
+#EXTGRP:другие
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/31314/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD DE
+#EXTGRP:другие
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/31315/index.m3u8
 
 
 

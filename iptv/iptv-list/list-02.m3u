@@ -24,6 +24,9 @@ http://89.23.113.132/oksphd/video.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD (1080p)1
 #EXTINF:-1http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
 
+#EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD (1080p)1
+http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
+
 #EXTINF:-1 tvg-id="okko-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD - 01 (1080p)
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
@@ -44,7 +47,7 @@ http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan - 01 (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="	setanta-plus-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan+ (1080p)
+#EXTINF:-1 tvg-id="setanta-plus-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan+ (1080p)
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
 
 #EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Спортивные",Setanta Sports Ukraine (1080p)

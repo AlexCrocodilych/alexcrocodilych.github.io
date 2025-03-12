@@ -41,6 +41,19 @@ http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/9026/index.m3u8
 http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/141/index.m3u8
 
 
+#EXTINF:0 tvg-rec="3" group-title="Channels",НТВ HD
+http://7341035e.edemist.com/iptv/5XWDYALXGH5EB7/213/index.m3u8
+
+#EXTINF:0 tvg-rec="3" group-title="Channels",Первый HD
+http://7341035e.edemist.com/iptv/5XWDYALXGH5EB7/204/index.m3u8
+#EXTINF:0 tvg-id="ort" group-title="Channels",Первый канал
+http://xristo2121.amazzin.pw/iptv/5XWDYALXGH5EB7/127/index.m3u8
+#EXTINF:0 tvg-rec="3" group-title="Channels",Россия HD
+http://7341035e.edemist.com/iptv/5XWDYALXGH5EB7/205/index.m3u8
+#EXTINF:0 tvg-id="rtr" group-title="Channels",Россия 1
+http://xristo2121.amazzin.pw/iptv/5XWDYALXGH5EB7/504/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)
@@ -58,13 +71,13 @@ http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD (1080p)
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт (1080p)
 http://89.23.113.132/oksphd/video.m3u8
 
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD (1080p)2
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт (1080p)2
 #EXTINF:-1http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="okko-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD (1080p)
+#EXTINF:-1 tvg-id="okko-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол (1080p)
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5.png" group-title="Спортивные",Беларусь 5 (1080p)
@@ -87,13 +100,8 @@ http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 (1080p)
 http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-kaz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan (1080p)
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="setanta-kaz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports 1 HD KZ (1080p)
-http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
-
-
 
 #EXTINF:-1 tvg-id="setanta-kz-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan + (1080p)
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
@@ -106,7 +114,7 @@ http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 
 
 
-#EXTINF:-1 tvg-id="megogo-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Спортивные",Megogo Спорт HD (1080p)
+#EXTINF:-1 tvg-id="megogo-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Спортивные",Megogo Спорт (1080p)
 http://ip1.orgip.net/237/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="megogo-football-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol1.png" group-title="Спортивные",Megogo Футбол 1 (1080p)

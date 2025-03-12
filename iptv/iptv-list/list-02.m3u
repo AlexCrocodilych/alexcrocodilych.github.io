@@ -24,7 +24,7 @@ http://89.23.113.132/oksphd/video.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт HD (1080p)1
 #EXTINF:-1http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="okko-futball" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD - 01 (1080p)
+#EXTINF:-1 tvg-id="okko-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол HD - 01 (1080p)
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5.png" group-title="Спортивные",Беларусь 5 (1080p)
@@ -67,10 +67,12 @@ http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="megogo-football-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Спортивные",Megogo Футбол 3 (1080p)
 http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
+
+
 #EXTINF:-1 tvg-id="TNTSports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 
-#EXTINF:-1 tvg-id="tnt-sport2-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (1080p)
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
 #EXTINF:-1 tvg-id="tnt-sport-3-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
@@ -93,37 +95,37 @@ http://178.219.128.68:64888/TVPSPORHD
 #EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)
 http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)1
+#EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)1
 #EXTINF:-1http://109.233.89.170/Eleven_Sports_1_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)2
+#EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)2
 #EXTINF:-1http://178.219.128.68:64889/ELEVSPOR1HD
 
 #EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)
 http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)1
+#EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)1
 #EXTINF:-1http://109.233.89.170/Eleven_Sports_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)2
+#EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports2.png" group-title="Спортивные",Eleven Sports 2 PL (1080p)2
 #EXTINF:-1http://178.219.128.68:64889/ELEVSPOR2HD
 
 #EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)
 http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)1
+#EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)1
 #EXTINF:-1http://109.233.89.170/Eleven_Sports_3_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)2
+#EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports3.png" group-title="Спортивные",Eleven Sports 3 PL (1080p)2
 #EXTINF:-1http://178.219.128.68:64889/ELEVSPOR3HD
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)1
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)1
 #EXTINF:-1http://109.233.89.170/ELEVEN_SPORTS_4_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)2
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)2
 #EXTINF:-1http://178.219.128.68:64888/ELEVSPOR4HD
 
 
@@ -138,7 +140,7 @@ http://178.219.128.68:64888/CANASPOR2HD
 #EXTINF:-1 tvg-id="polsat-sport-pr1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport1.png" group-title="Спортивные",Polsat Sport 1 (1080p)
 http://109.233.89.170/Polsat_Sport_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="polsat-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport1.png" group-title="Спортивные",Polsat Sport 1 (1080p)0
+#EXTINF:-1 tvg-id="polsat-sport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport1.png" group-title="Спортивные",Polsat Sport 1 (1080p)0
 http://109.233.89.170/Polsat_Sport_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="polsat-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport1.png" group-title="Спортивные",Polsat Sport 1 (1080p)1

@@ -105,8 +105,8 @@ http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 
-#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)2
-#EXTINF:-1http://109.233.89.170/ELEVEN_SPORTS_4_HD/index.m3u8
+0#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)2
+http://109.233.89.170/ELEVEN_SPORTS_4_HD/index.m3u8
 
 0#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)3
 http://178.219.128.68:64888/ELEVSPOR4HD

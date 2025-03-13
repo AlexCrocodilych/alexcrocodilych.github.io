@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, https://iptvx.one/EPG, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/nz/epg.xml.gz, http://gabbarit.drm-play.com/epg_1.xml.gz"
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #PLAYLIST:My-02
 
@@ -218,7 +218,7 @@ https://7pal.short.gy/skyspt6nz
 #EXTINF:-1 tvg-id="sky-sport-hd7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport7-nz.png" group-title="Спортивные",Sky Sport 7 NZ (1080p)
 https://7pal.short.gy/skyspt7nz
 
-#EXTINF:-1 tvg-id="sky-sport-pl-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Sports | NZ", Sky Sport Premier League (1080p)
+#EXTINF:-1 tvg-id="sky-sport-pl-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Спортивные", Sky Sport Premier League (1080p)
 https://7pal.short.gy/skyspt8nz
 
 --- 📺 Sports | TSN CANADA

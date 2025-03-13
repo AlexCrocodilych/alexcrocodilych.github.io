@@ -170,7 +170,10 @@ https://7pal.short.gy/skspmaine
 #EXTINF:-1 tvg-id="sky-sports-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-football.png" group-title="Спортивные",Sky Sports Football (1080p)
 https://7pal.short.gy/ssportsfb
 
-#EXTINF:-1 tvg-id="sky-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-plus.png" group-title="Спортивные",Sky Sports + (1080p)
+#EXTINF:-1 tvg-id="sky-sports-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-tennis.png" group-title="Спортивные",Sky Sports Tennis (1080p)
+https://7pal.short.gy/ssportstn
+
+#EXTINF:-1 tvg-id="	sky-sports-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-plus.png" group-title="Спортивные",Sky Sports + (1080p)
 https://7pal.short.gy/ssportplus
 
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-action.png" group-title="Спортивные",Sky Sports Action (1080p)
@@ -178,9 +181,6 @@ https://7pal.short.gy/ssportsat
 
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1 (1080p)
 https://7pal.short.gy/ssportsf1
-
-#EXTINF:-1 tvg-id="sky-sports-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-tennis.png" group-title="Спортивные",Sky Sports Tennis (1080p)
-https://7pal.short.gy/ssportstn
 
 --- 📺 Sports | Sky Sport NEW ZEALAND
 

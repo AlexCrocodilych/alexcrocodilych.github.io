@@ -522,27 +522,18 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p
 #EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 
-0#EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)2
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-
-#EXTINF:-1 group-title="OTT Pink 🇺🇦",Дождь HD
+#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dozhd.png" group-title="Новости",Дождь (1080p)
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 
-#EXTINF:-1 group-title="С сайтов" ,Дождь HD
-https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b5909690.m3u8
-
-#EXTINF:-1 tvg-id="dozhd" group-title="Новости", Дождь ТВ [СМИ иногент]
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Дождь
-http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4
-
-#EXTINF:-1 group-title="OTT Pink 🇺🇦",Настоящее время HD
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nastoyaschee-vremia.png" group-title="Новости",Настоящее время (1080p)
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
 
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="Новости",Настоящее время HD [СМИ иногент]
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Релакс",TV Камин (1080p)
+
+#EXTINF:-1 tvg-id="fireplace" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Релакс",TV Камин (1080p)
 https://river-1.rutube.ru/hls-vod/iM4pevvdbmTpCWon-kkSag/1741987494/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
 
 

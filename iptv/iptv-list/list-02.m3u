@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #PLAYLIST:My-02
 
 --- 📺 Sports | RUSSIA

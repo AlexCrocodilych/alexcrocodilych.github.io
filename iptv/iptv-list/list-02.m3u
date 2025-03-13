@@ -33,9 +33,6 @@ http://93.189.224.246:52900/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5-internet.png" group-title="Спортивные",Беларусь 5 Интернет (1080p)
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559814920_b2660000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="tv-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tv-futbol.png" group-title="Спортивные",ТЕЛЕКАНАЛ ФУТБОЛ (1080p)
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-
 #EXTINF:-1 tvg-id="football-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/futbol.png" group-title="Спортивные",Футбол (1080p)
 http://93.189.224.246:52900/play/a00c/index.m3u8
 
@@ -286,11 +283,11 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
 
 --- 📺 Sports | USA
 
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (1080p)
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="Sports | US", CBS Sport Network
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)
 https://7pal.short.gy/cbssptnw
+
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)2
+#EXTINF:-1http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports US (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8

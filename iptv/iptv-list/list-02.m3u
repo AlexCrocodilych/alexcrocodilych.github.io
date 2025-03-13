@@ -289,32 +289,8 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports US (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 
-
---- 📺 Sports | WORLD
-
-#EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
-#EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Спортивные",Ring BG (1080p)
-http://195.24.90.119:800/play/a0b3
-
-#EXTINF:-1 tvg-id="sportdigital-fussball" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sportdigital-fussball.png" group-title="Спортивные",Sportdigital Fussball DE (1080p)
-https://jmp2.uk/sam-ATBD26000124P.m3u8
-
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fubo-sports.png" group-title="Спортивные",Fubo Sports US (1080p)
 https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
-
-#EXTINF:-1 tvg-id="star-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/star-sports1.png" group-title="Спортивные",Star Sports 1 IN (1080p)
-http://41.205.93.154/STARSPORTS1/index.m3u8
-
-#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/supersport-laliga.png" group-title="Спортивные",Supersport Laliga (1080p)
-https://7pal.short.gy/sperspllg
-
-#EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/astro-football.png" group-title="Спортивные",Astro Football (1080p)
-https://7pal.short.gy/astross4
-
-#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/v-sport.png" group-title="Спортивные",V Sport (1080p)
-https://7pal.short.gy/VSportUHD
 
 --- 📺 Sports | Bein
 
@@ -332,15 +308,15 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 --- 📺 Sports | Dazn PORTUGAL
 
-#EXTINF:-1 tvg-id="dazn1-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 PT (720p)
+#EXTINF:-1 tvg-id="dazn1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 PT (720p)
 http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 
-#EXTINF:-1 tvg-id="dazn2-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn2.png" group-title="Спортивные",Dazn 2 PT (1080p)
+#EXTINF:-1 tvg-id="dazn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn2.png" group-title="Спортивные",Dazn 2 PT (1080p)
 
-#EXTINF:-1 tvg-id="dazn-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn3.png" group-title="Спортивные",Dazn 3 PT (396p)
+#EXTINF:-1 tvg-id="dazn3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn3.png" group-title="Спортивные",Dazn 3 PT (396p)
 http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
 
-#EXTINF:-1 tvg-id="dazn-4-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn4.png" group-title="Спортивные",Dazn 4 PT (396p)
+#EXTINF:-1 tvg-id="dazn4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn4.png" group-title="Спортивные",Dazn 4 PT (396p)
 http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
 
 --- 📺 Sports | ESPN
@@ -365,6 +341,20 @@ http://190.102.246.93:9005/play/a019
 
 #EXTINF:-1 tvg-id="espn6-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn6.png" group-title="Спортивные",ESPN 6 CO (1080p)
 http://190.102.246.93:9005/play/a02m
+
+--- 📺 Sports | WORLD
+
+#EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Спортивные",Ring BG (1080p)
+http://195.24.90.119:800/play/a0b3
+
+#EXTINF:-1 tvg-id="sportdigital-fussball" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sportdigital-fussball.png" group-title="Спортивные",Sportdigital Fussball DE (1080p)
+https://jmp2.uk/sam-ATBD26000124P.m3u8
+
+#EXTINF:-1 tvg-id="astro-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/astro-football.png" group-title="Спортивные",Astro Football MY (1080p)
+https://7pal.short.gy/astross4
 
 --- 📺 Sports | Tennis
 

@@ -111,7 +111,7 @@ http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)3
 #EXTINF:-1http://178.219.128.68:64888/ELEVSPOR4HD
 
---- 📺 Sports | Canal+ POLAND
+
 
 #EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport.png" group-title="Спортивные",Canal+ Sport PL (1080p)
 http://178.219.128.68:64888/CANASPORHD
@@ -295,6 +295,7 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 
 #EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", MSG
 https://7pal.short.gy/msgusa
+
 #EXTINF:-1 tvg-id="MSG.Plus.us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", MSG+
 https://7pal.short.gy/msgsn
 

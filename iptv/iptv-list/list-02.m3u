@@ -2,8 +2,7 @@
 #PLAYLIST:My-02
 
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
-https://7pal.short.gy/SSMEuhd
+
 
 #EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports | 4K UHD",V Sport UltraHD
 https://7pal.short.gy/VSportUHD
@@ -18,78 +17,9 @@ https://7pal.short.gy/eusport4k
 #EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="Sports | EPL", Astro Football FHD
 https://7pal.short.gy/astross4
 
---- 📺 Sports | UK
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports | UK", SkySports_MainEvent-FHD
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports | UK", SkySports_PremierLeague-FHD
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="Sports | UK", SkySports_Football-FHD
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="Sports | UK", SkySports_F1-FHD
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="Sports | UK", SkySports_Tennis-FHD
-https://7pal.short.gy/ssportstn
-#EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="Sports | UK", SkySports+FHD
-https://7pal.short.gy/ssportplus
 
 
 
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="Sports | UK", SkySports_Action-FHD
-https://7pal.short.gy/ssportsat
-
-
-
---- 📺 Sports | NZ
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ", Sky Sport1 NZ FHD
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ", Sky Sport2 NZ FHD
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ", Sky Sport3 NZ FHD
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ", Sky Sport4 NZ FHD
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports | NZ", Sky Sport5 NZ FHD
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports | NZ", Sky Sport6 NZ FHD
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports | NZ", Sky Sport7 NZ FHD
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports | NZ", Sky Sport Premier League FHD
-https://7pal.short.gy/skyspt8nz
-
---- 📺 Sports | AU
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="Sports | AU", Fox Sports 501
-https://7pal.short.gy/fox501au
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="Sports | AU", Fox Sports 502
-https://7pal.short.gy/fox502au
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="Sports | AU", Fox Sports 503
-https://7pal.short.gy/fox503au
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="Sports | AU", Fox Sports 504
-https://7pal.short.gy/fox504au
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://i.imgur.com/pnrLdcb.png" group-title="Sports | AU", Fox Sports 505
-https://7pal.short.gy/fox505au
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://i.imgur.com/XkOpNPe.png group-title="Sports | AU", Fox Sports 506
-https://7pal.short.gy/fox506au
-#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="Sports | AU", Fox Sports 507
-https://7pal.short.gy/fox507au
-
-
---- 📺 Sports | CA
-
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="Sports | CA", Sportsnet 360
-https://7pal.short.gy/sptsnet360
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/VUPAGWN.png" group-title="Sports | CA", TSN1
-https://7pal.short.gy/tsn1ca
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/SWscg4w.png" group-title="Sports | CA", TSN2
-https://7pal.short.gy/tsn2ca
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/KBQSJxA.png" group-title="Sports | CA", TSN3
-https://7pal.short.gy/tsn3ca
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/ofAoWIg.png" group-title="Sports | CA", TSN4
-https://7pal.short.gy/tsn4ca
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/6M4zAci.png" group-title="Sports | CA", TSN5
-https://7pal.short.gy/tsn5ca
 
 
 --- 📺 Sports | US
@@ -102,66 +32,17 @@ https://7pal.short.gy/msgsn
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://i.imgur.com/XKBiWym.jpg" group-title="Sports | US", NFL Network
 https://7pal.short.gy/nflnw
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports | US", ESPN 
-https://7pal.short.gy/espnus
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Sports | US" ESPN2 
-https://7pal.short.gy/espn2
 
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="Sports | US", WWE Network
-https://7pal.short.gy/wwenw
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="Sports | US", NBA TV
-https://7pal.short.gy/nbatvus
-#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports | US", MLB Network
-https://7pal.short.gy/mlbnw
-#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png" group-title="Sports | US", NHL Network
-https://7pal.short.gy/nhlnw
-#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-logo="https://i.imgur.com/74er6Jm.png" group-title="Sports | US", UFC 24/7
-https://7pal.short.gy/ufc247
-#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="Sports | US", Tennis Channel
-https://7pal.short.gy/tennisc
-#EXTINF:-1 tvg-id="SEC.Network.us" tvg-logo="https://i.imgur.com/Syh6HDB.png" group-title="Sports | US", SEC Network
-https://7pal.short.gy/secnw
-#EXTINF:-1 tvg-id="YES.Network.us" tvg-logo="https://i.imgur.com/TNICRph.png" group-title="Sports | US", YES Network
-https://7pal.short.gy/yesnw
+
+
+
 
 
 --- 📺 Sports | World
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports | World", PremierSports1-FHD
-https://7pal.short.gy/prsport1
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports | World", PremierSports2-FHD
-https://7pal.short.gy/prsport2
 
-#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="Sports | World", Supersport_Premier_League-FHD
-https://7pal.short.gy/spersppl
-#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" group-title="Sports | World", Supersport_Football-FHD
-https://7pal.short.gy/sperspfb
 #EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="Sports | World", Supersport_Laliga-FHD
 https://7pal.short.gy/sperspllg
-#EXTINF:-1 tvg-id="PSL.za" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" group-title="Sports | World", Supersport_PSL-FHD
-https://7pal.short.gy/spersppsl
-#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-logo="https://i.imgur.com/WpL99ea.png" group-title="Sports | World", Supersport_Motosport-FHD
-https://7pal.short.gy/sperspmts
-#EXTINF:-1 tvg-id="ACTION.za" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" group-title="Sports | World", Supersport_Action-FHD
-https://7pal.short.gy/sperspat
-#EXTINF:-1 tvg-id="RUGBY.za" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" group-title="Sports | World", Supersport_Rugby-FHD
-https://7pal.short.gy/spersprb
-#EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="Sports | World", Supersport_Golf-FHD
-https://7pal.short.gy/sperspgf
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="hhttps://i.imgur.com/SfYpvJj.png" group-title="Sports | World", Supersport_Tennis-FHD
-https://7pal.short.gy/spersptns
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | World",Ziggo Sport FHD
-https://7pal.short.gy/zigosfhd
-
---- 📺 Sports | Events
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
-https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 3
-https://7pal.short.gy/event3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
-https://7pal.short.gy/event4
 
 
 
@@ -169,7 +50,7 @@ https://7pal.short.gy/event4
 
 
 
-
+--- 📺 Sports | Russia
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)
 http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
@@ -207,7 +88,7 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="Спортивные", Футбол
 http://93.189.224.246:52900/play/a00c/index.m3u8
 
-
+--- 📺 Sports | Setanta
 
 #EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports1.png" group-title="Спортивные",Setanta Sports 01 (1080p)
 http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
@@ -227,7 +108,7 @@ http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Спортивные",Setanta Sports Ukraine + (1080p)
 http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 
-
+--- 📺 Sports | Megogo
 
 #EXTINF:-1 tvg-id="megogo-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Спортивные",Megogo Спорт (1080p)
 http://ip1.orgip.net/237/video.m3u8?token=A3b61a999e
@@ -241,11 +122,10 @@ http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="megogo-football-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol3.png" group-title="Спортивные",Megogo Футбол 3 (1080p)
 http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
-
+--- 📺 Sports | Poland
 
 #EXTINF:-1 tvg-id="tvp-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tvp-sport.png" group-title="Спортивные",TVP Sport PL (1080p)
 http://178.219.128.68:64888/TVPSPORHD
-
 
 #EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports1.png" group-title="Спортивные",Eleven Sports 1 PL (1080p)
 http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
@@ -283,7 +163,7 @@ http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)3
 #EXTINF:-1http://178.219.128.68:64888/ELEVSPOR4HD
 
-
+--- 📺 Sports | Canal+ POLAND
 
 #EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport.png" group-title="Спортивные",Canal+ Sport PL (1080p)
 http://178.219.128.68:64888/CANASPORHD
@@ -291,7 +171,7 @@ http://178.219.128.68:64888/CANASPORHD
 #EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport2.png" group-title="Спортивные",Canal+ Sport 2 PL (1080p)
 http://178.219.128.68:64888/CANASPOR2HD
 
-
+--- 📺 Sports | Polsat
 
 #EXTINF:-1 tvg-id="polsat-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport1.png" group-title="Спортивные",Polsat Sport 1 (1080p)
 http://109.233.89.170/Polsat_Sport_HD/index.m3u8
@@ -311,7 +191,7 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 #EXTINF:-1 tvg-id="polsat-sport-fight" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport-fight.png" group-title="Спортивные",Polsat Sport Fight (1080p)
 http://178.219.128.68:64889/POLSSPORFIGHHD
 
-
+--- 📺 Sports | TNT Sports UK
 
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
@@ -331,13 +211,19 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 #EXTINF:-1 tvg-id="tnt-sports5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
 
-
+--- 📺 Sports | Sky Sports UK
 
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Спортивные",Sky Sports Premier League (1080p)
 https://7pal.short.gy/ssportspl
 
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Спортивные",Sky Sports Main Event (576p)
 https://7pal.short.gy/skspmaine
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports | UK", SkySports_MainEvent-FHD
+https://7pal.short.gy/SkSpMainE
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD (2160p)
+https://7pal.short.gy/SSMEuhd
 
 #EXTINF:-1 tvg-id="sky-sports-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-football.png" group-title="Спортивные",Sky Sports Football (1080p)
 https://7pal.short.gy/ssportsfb
@@ -349,6 +235,17 @@ https://7pal.short.gy/ssportsat
 https://7pal.short.gy/ssportsf1
 
 
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="Sports | UK", SkySports_Tennis-FHD
+https://7pal.short.gy/ssportstn
+
+#EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="Sports | UK", SkySports+FHD
+https://7pal.short.gy/ssportplus
+
+
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.
+
+--- 📺 Sports | NZ
 
 #EXTINF:-1 tvg-id="sky-sport1-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport1-nz.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
 https://7pal.short.gy/skyspt1nz
@@ -356,13 +253,57 @@ https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 tvg-id="sky-sport-select-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport2-nz.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
 https://7pal.short.gy/skyspt2nz
 
+#EXTINF:-1 tvg-id="sky-sport3-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport3-nz.png" group-title="Спортивные",Sky Sport 3 NZ (1080p)
+https://7pal.short.gy/skyspt3nz
 
+#EXTINF:-1 tvg-id="sky-sport4-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport4-nz.png" group-title="Спортивные",Sky Sport 4 NZ (1080p)
+https://7pal.short.gy/skyspt4nz
+
+#EXTINF:-1 tvg-id="sky-sport5-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport5-nz.png" group-title="Спортивные",Sky Sport 5 NZ (1080p)
+https://7pal.short.gy/skyspt5nz
+
+#EXTINF:-1 tvg-id="sky-sport6-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport6-nz.png" group-title="Спортивные",Sky Sport 6 NZ (1080p)
+https://7pal.short.gy/skyspt6nz
+
+#EXTINF:-1 tvg-id="sky-sport7-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport7-nz.png" group-title="Спортивные",Sky Sport 7 NZ (1080p)
+https://7pal.short.gy/skyspt7nz
+
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-PL.png" group-title="Sports | NZ", Sky Sport Premier League (1080p)
+https://7pal.short.gy/skyspt8nz
+
+--- 📺 Sports | AUSTRALIA
+
+#EXTINF:-1 tvg-id="fox-sports-501" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports-501.png" group-title="Спортивные",Fox Sports 501 AU (1080p)
+https://7pal.short.gy/fox501au
+
+#EXTINF:-1 tvg-id="fox-sports-502" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports-502.png" group-title="Спортивные",Fox Sports 502 AU (1080p)
+https://7pal.short.gy/fox502au
+
+#EXTINF:-1 tvg-id="fox-sports-503" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports-503.png" group-title="Спортивные",Fox Sports 503 AU (1080p)
+https://7pal.short.gy/fox503au
+
+#EXTINF:-1 tvg-id="fox-sports-504" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports-504.png" group-title="Спортивные",Fox Sports 504 AU (1080p)
+https://7pal.short.gy/fox504au
+
+#EXTINF:-1 tvg-id="fox-sports-505" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports-505.png" group-title="Спортивные",Fox Sports 505 AU (1080p)
+https://7pal.short.gy/fox505au
+
+#EXTINF:-1 tvg-id="fox-sports-506" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports-506.png" group-title="Спортивные",Fox Sports 506 AU (1080p)
+https://7pal.short.gy/fox506au
+
+#EXTINF:-1 tvg-id="fox-sports-507" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sports-507.png" group-title="Спортивные",Fox Sports 507 AU (1080p)
+https://7pal.short.gy/fox507au
+
+--- 📺 Sports | CA
 
 #EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn1.png" group-title="Спортивные",TSN 1 CA (1080p)
 http://212.102.60.231/TSN_1/index.m3u8
 
 #EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn1.png" group-title="Спортивные",TSN 1 CA (720p)2
 #EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
+
+#EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn1.png" group-title="Спортивные",TSN 1 CA (720p)3
+#EXTINF:-1https://7pal.short.gy/tsn1ca
 
 #EXTINF:-1 tvg-id="tsn2-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN 2 CA (1080p)
 http://212.102.60.231/TSN_2/index.m3u8
@@ -373,6 +314,9 @@ http://212.102.60.231/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN 2 CA (1080p)3
 #EXTINF:-1http://fl5.moveonjoy.com/TSN_2/index.m3u8
 
+#EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn2.png" group-title="Спортивные",TSN 2 CA (1080p)4
+#EXTINF:-1https://7pal.short.gy/tsn2ca
+
 #EXTINF:-1 tvg-id="tsn3-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn3.png" group-title="Спортивные",TSN 3 CA (1080p)
 http://212.102.60.231/TSN_3/index.m3u8
 
@@ -382,6 +326,9 @@ http://212.102.60.231/TSN_3/index.m3u8
 #EXTINF:-1 tvg-id="tsn3-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn3.png" group-title="Спортивные",TSN 3 CA (1080p)3
 #EXTINF:-1http://fl5.moveonjoy.com/TSN_3/index.m3u8
 
+#EXTINF:-1 tvg-id="tsn3-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn3.png" group-title="Спортивные",TSN 3 CA (1080p)4
+#EXTINF:-1https://7pal.short.gy/tsn3ca
+
 #EXTINF:-1 tvg-id="tsn4-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn4.png" group-title="Спортивные",TSN 4 CA (1080p)
 http://212.102.60.231/TSN_4/index.m3u8
 
@@ -389,7 +336,10 @@ http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15926.ts
 
 #EXTINF:-1 tvg-id="tsn4-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn4.png" group-title="Спортивные",TSN 4 CA (1080p)3
-#EXTINF:-1 http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1http://fl5.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="tsn4-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn4.png" group-title="Спортивные",TSN 4 CA (1080p)4
+#EXTINF:-1https://7pal.short.gy/tsn4ca
 
 #EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA (1080p)
 http://212.102.60.231/TSN_5/index.m3u8
@@ -400,7 +350,13 @@ http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA (1080p)3
 #EXTINF:-1http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
+#EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA (1080p)4
+#EXTINF:-1https://7pal.short.gy/tsn5ca
 
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",Sportsnet 360 CA (1080p)
+https://7pal.short.gy/sptsnet360
+
+--- 📺 Sports | Fox Sports
 
 #EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 MX (720p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
@@ -417,7 +373,7 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports US (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 
-
+--- 📺 Sports | World
 
 #EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
 http://stream01.vnet.am/Channel_131/mono.m3u8
@@ -434,7 +390,7 @@ https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 #EXTINF:-1 tvg-id="star-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/star-sports1.png" group-title="Спортивные",Star Sports 1 IN (1080p)
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-
+--- 📺 Sports | CA
 
 #EXTINF:-1 tvg-id="bein-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Спортивные",Bein Sports UK (720p)
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
@@ -448,7 +404,7 @@ https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="bein-sports-xtra-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra-n.png" group-title="Спортивные",BeIN Sports XTRA Ñ ES (1080p)
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-
+--- 📺 Sports | Dazn
 
 #EXTINF:-1 tvg-id="dazn1-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 PT (720p)
 http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
@@ -461,7 +417,13 @@ http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
 #EXTINF:-1 tvg-id="dazn-4-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn4.png" group-title="Спортивные",Dazn 4 PT (396p)
 http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
 
+--- 📺 Sports | ESPN
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-us.png" group-title="Спортивные",ESPN US (1080p)
+https://7pal.short.gy/espnus
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-us2.png" group-title="Спортивные",ESPN 2 US (1080p)
+https://7pal.short.gy/espn2
 
 #EXTINF:-1 tvg-id="espn-premium-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-premium.png" group-title="Спортивные",ESPN DEPORTES US (1080p)
 http://190.92.10.66:4000/play/a003/index.m3u8
@@ -478,9 +440,7 @@ http://190.102.246.93:9005/play/a019
 #EXTINF:-1 tvg-id="espn6-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn6.png" group-title="Спортивные",ESPN 6 CO (1080p)
 http://190.102.246.93:9005/play/a02m
 
-
-
-
+--- 📺 Sports | Tennis
 
 #EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
@@ -488,13 +448,16 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)2
+#EXTINF:-1https://7pal.short.gy/tennisc
+
 #EXTINF:-1 tvg-id="tennis-cnl-plus-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)2
 #EXTINF:-1https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
-
+--- 📺 Sports | US 
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8

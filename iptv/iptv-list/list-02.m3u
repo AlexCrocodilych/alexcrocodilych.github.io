@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/blob/master/all/epg.xml.gz"
-#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
+
 #PLAYLIST:My-02
 
 --- 📺 Sports | RUSSIA
@@ -157,7 +156,7 @@ http://178.219.128.68:64889/POLSSPORFIGHHD
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (1080p)
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (720p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
 #EXTINF:-1 tvg-id="tntsports-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)

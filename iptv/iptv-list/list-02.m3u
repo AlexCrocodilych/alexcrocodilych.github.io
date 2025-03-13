@@ -44,10 +44,10 @@ http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports2.png" group-title="Спортивные",Setanta Sports 02 (1080p)
 http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan (1080p)
+#EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-kz-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan + (1080p)
+#EXTINF:-1 tvg-id="setanta2-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan + (1080p)
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
 
 #EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Спортивные",Setanta Sports Ukraine (1080p)
@@ -185,7 +185,7 @@ https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="sky-sports-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-tennis.png" group-title="Спортивные",Sky Sports Tennis (1080p)
 https://7pal.short.gy/ssportstn
 
-#EXTINF:-1 tvg-id="	sky-sports-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-plus.png" group-title="Спортивные",Sky Sports + (1080p)
+#EXTINF:-1 tvg-id="sky-sports-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-plus.png" group-title="Спортивные",Sky Sports + (1080p)
 https://7pal.short.gy/ssportplus
 
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-action.png" group-title="Спортивные",Sky Sports Action (1080p)
@@ -196,25 +196,25 @@ https://7pal.short.gy/ssportsf1
 
 --- 📺 Sports | Sky Sport NEW ZEALAND
 
-#EXTINF:-1 tvg-id="sky-sport1-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport1-nz.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-bl1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport1-nz.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
 https://7pal.short.gy/skyspt1nz
 
 #EXTINF:-1 tvg-id="sky-sport-select-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport2-nz.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
 https://7pal.short.gy/skyspt2nz
 
-#EXTINF:-1 tvg-id="sky-sport3-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport3-nz.png" group-title="Спортивные",Sky Sport 3 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-nz3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport3-nz.png" group-title="Спортивные",Sky Sport 3 NZ (1080p)
 https://7pal.short.gy/skyspt3nz
 
-#EXTINF:-1 tvg-id="sky-sport4-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport4-nz.png" group-title="Спортивные",Sky Sport 4 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-nz4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport4-nz.png" group-title="Спортивные",Sky Sport 4 NZ (1080p)
 https://7pal.short.gy/skyspt4nz
 
 #EXTINF:-1 tvg-id="sky-sport5-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport5-nz.png" group-title="Спортивные",Sky Sport 5 NZ (1080p)
 https://7pal.short.gy/skyspt5nz
 
-#EXTINF:-1 tvg-id="sky-sport6-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport6-nz.png" group-title="Спортивные",Sky Sport 6 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-hd6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport6-nz.png" group-title="Спортивные",Sky Sport 6 NZ (1080p)
 https://7pal.short.gy/skyspt6nz
 
-#EXTINF:-1 tvg-id="sky-sport7-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport7-nz.png" group-title="Спортивные",Sky Sport 7 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-hd7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport7-nz.png" group-title="Спортивные",Sky Sport 7 NZ (1080p)
 https://7pal.short.gy/skyspt7nz
 
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Sports | NZ", Sky Sport Premier League (1080p)
@@ -292,16 +292,16 @@ http://212.102.60.10/FOX_Sports_1/index.m3u8
 
 --- 📺 Sports | USA
 
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)
+#EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)
 https://7pal.short.gy/cbssptnw
 
-0#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)2
+0#EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)2
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCSports.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbb-sports.png" group-title="Спортивные",NBC Sports US (1080p)
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 
-#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fubo-sports.png" group-title="Спортивные",Fubo Sports US (1080p)
+#EXTINF:-1 tvg-id="fubo-sports-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fubo-sports.png" group-title="Спортивные",Fubo Sports US (1080p)
 https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 
 --- 📺 Sports | Bein
@@ -387,40 +387,40 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 --- 📺 Sports | US 
 
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
+#EXTINF:-1 tvg-id="nhl-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)2
+#EXTINF:-1 tvg-id="nhl-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)2
 #EXTINF:-1 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Спортивные",NBA TV (720p)
+#EXTINF:-1 tvg-id="nba-tv-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Спортивные",NBA TV (720p)
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-tv.png" group-title="Спортивные",NFL TV (720p)
+#EXTINF:-1 tvg-id="nfl-network" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-tv.png" group-title="Спортивные",NFL TV (720p)
 https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-network.png" group-title="Спортивные",NFL Network (720p)
+#EXTINF:-1 tvg-id="nfl-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-network.png" group-title="Спортивные",NFL Network (720p)
 https://7pal.short.gy/nflnw
 
-0#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-network.png" group-title="Спортивные",NFL Network (720p)2
+0#EXTINF:-1 tvg-id="nfl-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-network.png" group-title="Спортивные",NFL Network (720p)2
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)
+#EXTINF:-1 tvg-id="mlb-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)
 https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 
-0#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)2
+0#EXTINF:-1 tvg-id="mlb-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)2
 https://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)
+#EXTINF:-1 tvg-id="ufc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1920x1080.m3u8
 
-0#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)2
+0#EXTINF:-1 tvg-id="ufc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)2
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fifa+.png" group-title="Спортивные",FIFA+ (720p)
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/ad1da90d-93b3-4f8c-b376-b6283a433584/2.m3u8
 
-
+--- 📺 News | US 
 
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="Американские",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
 https://content.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8

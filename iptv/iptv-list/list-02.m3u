@@ -1,4 +1,4 @@
-
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml"
 #PLAYLIST:My-02
 
 --- 📺 Sports | RUSSIA
@@ -173,6 +173,9 @@ https://7pal.short.gy/tntspts4
 
 #EXTINF:-1 tvg-id="tnt-sports5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
+
+#EXTINF:-1 tvg-id="tnt-sports5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)0
+https://7pal.short.gy/tntspts5
 
 --- 📺 Sports | Sky Sports UNITED KINGDOM
 

@@ -13,12 +13,6 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 04 (1080p)
 http://194.26.229.213:3080/channel/10ccfa0/index.m3u8?q=963f66a62081211920e45aea3294bb9f
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 33 (1080p)
-https://7pal.short.gy/eusport4k
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 34 (1080p)
-http://view.my-tv.biz/tv/87920bc935/2967b719d3/video.m3u8
-
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 41 (1080p)
 http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/228/index.m3u8
 
@@ -69,6 +63,9 @@ http://ip1.orgip.net/201/video.m3u8?token=A3b61a999e
 http://pro.ipcover.lol:8080/Alexis58174/857164/401957
 
 
+
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",EuroSport 4K RO (1080p)
+https://7pal.short.gy/eusport4k
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 ES (1080p)
 http://185.189.225.157/EuroSport1/index.m3u8

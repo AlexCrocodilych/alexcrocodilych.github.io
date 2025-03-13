@@ -267,9 +267,6 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 0#EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn5.png" group-title="Спортивные",TSN 5 CA (1080p)4
 https://7pal.short.gy/tsn5ca
 
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sportsnet-360.png" group-title="Спортивные",Sportsnet 360 CA (1080p)
-https://7pal.short.gy/sptsnet360
-
 --- 📺 Sports | Fox Sports MEXICO
 
 #EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport1.png" group-title="Спортивные",Fox Sports 1 MX (720p)
@@ -293,22 +290,15 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_5.m3u8
 
 
-#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", MSG
-https://7pal.short.gy/msgusa
-
-#EXTINF:-1 tvg-id="MSG.Plus.us" tvg-logo="https://i.imgur.com/OLFLQi1.jpg" group-title="Sports | US", MSG+
-https://7pal.short.gy/msgsn
-
-
 --- 📺 Sports | WORLD
 
 #EXTINF:-1 tvg-id="FastSports.am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Спортивные",Fast Sports AM (1080p)
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
-#EXTINF:-1 tvg-id="ring" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring.png" group-title="Спортивные",Ring BG (1080p)
+#EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Спортивные",Ring BG (1080p)
 http://195.24.90.119:800/play/a0b3
 
-#EXTINF:-1 tvg-id="scooore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/scooore.png" group-title="Спортивные",Scooore DE (1080p)
+#EXTINF:-1 tvg-id="sportdigital-fussball" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sportdigital-fussball.png" group-title="Спортивные",Sportdigital Fussball DE (1080p)
 https://jmp2.uk/sam-ATBD26000124P.m3u8
 
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fubo-sports.png" group-title="Спортивные",Fubo Sports US (1080p)

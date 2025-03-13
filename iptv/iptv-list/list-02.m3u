@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/blob/master/all/epg.xml.gz"
+
 #PLAYLIST:My-02
 
 --- 📺 Sports | RUSSIA
@@ -525,7 +527,7 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Американские",TV Камин (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Релакс",TV Камин (1080p)
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
@@ -538,8 +540,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1  type="video" group-title="ТОП" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)
+#EXTINF:-1  type="video" group-title="Кмно" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)
 http://vod.orgip.net/vod100/Im_Westen_nichts_Neues_2022/index.m3u8?token=A3b61a999e
 
-#EXTINF:-1  type="video" group-title="ТОП" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", Анора (2024)
+#EXTINF:-1  type="video" group-title="Кино" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", Анора (2024)
 http://vod.orgip.net/vod100/Anora/index.m3u8?token=A3b61a999e

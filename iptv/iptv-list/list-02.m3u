@@ -394,7 +394,7 @@ https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="nhl-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)2
 #EXTINF:-1 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
-#EXTINF:-1 tvg-id="nba-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Спортивные",NBA TV (720p)
+#EXTINF:-1 tvg-id="nba-tv-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Спортивные",NBA TV (720p)
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="nfl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-tv.png" group-title="Спортивные",NFL TV (720p)
@@ -491,7 +491,7 @@ https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News [Neutral] (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
-#EXTINF:-1 tvg-id="MSNBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (720p)
+#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (720p)
 http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg+.png" group-title="Американские",Bloomberg TV+ (1080p)
@@ -533,6 +533,9 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
 
 #EXTINF:-1 tvg-id="fireplace" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Релакс",TV Камин (1080p)
 https://river-1.rutube.ru/hls-vod/iM4pevvdbmTpCWon-kkSag/1741987494/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
+
+#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://epg.iptvx.one/picons/msnbc-us.png" group-title="США",MSNBC (HD ready)
+http://41.205.93.154/MSNBC/index.m3u8
 
 
 

@@ -525,22 +525,29 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/strea
 0#EXTINF:-1 tvg-id="DWRussian.de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)2
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
+#EXTINF:-1 group-title="OTT Pink 🇺🇦",Дождь HD
+https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+
+#EXTINF:-1 group-title="С сайтов" ,Дождь HD
+https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b5909690.m3u8
+
+#EXTINF:-1 tvg-id="dozhd" group-title="Новости", Дождь ТВ [СМИ иногент]
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Дождь
+http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4
+
+#EXTINF:-1 group-title="OTT Pink 🇺🇦",Настоящее время HD
+https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Релакс",TV Камин (1080p)
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+https://river-1.rutube.ru/hls-vod/iM4pevvdbmTpCWon-kkSag/1741987494/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1  type="video" group-title="Кмно" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)
+#EXTINF:-1  type="video" group-title="Кино" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", На Западном фронте без перемен (2022)
 http://vod.orgip.net/vod100/Im_Westen_nichts_Neues_2022/index.m3u8?token=A3b61a999e
 
 #EXTINF:-1  type="video" group-title="Кино" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", Анора (2024)

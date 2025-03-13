@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/blob/master/all/epg.xml.gz"
-
+#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 #PLAYLIST:My-02
 
 --- 📺 Sports | RUSSIA
@@ -157,11 +157,14 @@ http://178.219.128.68:64889/POLSSPORFIGHHD
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 
-#EXTINF:-1 tvg-id="tntsports2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (1080p)
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
 #EXTINF:-1 tvg-id="tntsports-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK", TNT Sports 3 FHD
+https://7pal.short.gy/tntspts3
 
 #EXTINF:-1 tvg-id="tnt-sports-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
@@ -534,19 +537,8 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
 #EXTINF:-1 tvg-id="fireplace" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Релакс",TV Камин (1080p)
 https://river-1.rutube.ru/hls-vod/iM4pevvdbmTpCWon-kkSag/1741987494/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
 
-#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://epg.iptvx.one/picons/msnbc-us.png" group-title="США",MSNBC (HD ready)
-http://41.205.93.154/MSNBC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png" group-title="США",NBC News NOW (HD)
-https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="США",LiveNOW from FOX (HD)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="США",Fox News (HD ready)
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.iosplayer.ru/zeko/premium347/mono.m3u8
+#EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://epg.iptvx.one/picons/espn2-us.png" group-title="США",ESPN 2 (HD ready)
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 
 

@@ -3,45 +3,117 @@
 #PLAYLIST:My-02
 
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
-https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 ,Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 ,Bein Sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 ,Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
 
-#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="Sports",beIN4k
-https://7pal.short.gy/bein-uhd
+#EXTINF:-1 group-title="Bics MoveOnJoy US", BEIN SPORTS
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="Sports",TNTSport_Ultimate-4K_HDR
-https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 group-title="Bics MoveOnJoy US", CNN
+http://fl2.moveonjoy.com/CNN/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SkySportsF1UHD
-https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN
+http://fl2.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/20065/index.m3u
+#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX NEWS CHANNEL
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX SOCCER PLUS [Not Working]
+http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8 
+#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX SPORTS 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX SPORTS 2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",
-https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", TENNIS CHANNEL
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",
-https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 01
+http://190.185.121.102:58092/play/a00t
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 02
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 03
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES FUTBOL", FUTBOL 04
+http://181.78.105.146:8800/play/a07h
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",S
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/270/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: TUBI FOX SPORTS
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", MX: TUBI FOX SPORTS
+https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS BALTIC 1,
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/20081/index.m3u
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS GE 1,
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7169/index.m3u
+#EXTINF:-1 group-title="Bics DEPORTES",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN Deportes
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/6446
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5779
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3031
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3032
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/295304
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS GE 2,
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7168/index.m3u
+#EXTINF:-1 group-title="Bics DEPORTES", SKY LA LIGA
+http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS HD_,
-http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/271/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS KZ 1,
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/20064/index.m3u
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
+http://hzcdn.vood.top:80/hls/309458_.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN
+http://190.60.32.178:8178/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN VIVO
+http://38.51.233.85:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
+http://181.78.8.90:16123/play/ch17
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
+http://38.51.233.85:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
+http://190.60.32.178:8178/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
+http://181.78.8.90:16123/play/ch18
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 3 HD
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 4 HD
+http://190.60.32.178:8178/play/a0ab/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
+http://181.78.8.90:16123/play/ch19
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 5
+http://190.60.32.178:8178/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 6
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
+http://209.45.20.210:50001/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
+http://190.60.32.178:8178/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 7
+http://190.60.32.178:8178/play/a0ad/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN Premium HD
+http://209.45.20.210:50001/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES",FOX DEPORTES
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
+
+#EXTINF:-1 group-title="Bics DEPORTES", US: DAZN_1
+https://fl4.moveonjoy.com/DAZN_1/index.m3u8
+#EXTINF:-1 group-title="Bics DEPORTES", US: DAZN_2
+https://fl4.moveonjoy.com/DAZN_2/index.m3u8
 
 
 

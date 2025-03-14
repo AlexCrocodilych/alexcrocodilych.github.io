@@ -19,11 +19,14 @@ http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.
 #EXTINF:-1,Первый канал (+4)
 http://dmi3y-tv.ru/hls/T2/CH_1TV_4.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)1
-https://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/lDKyZaCwBiKBkQcllndy8w/1742556673/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)2
-http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)
+http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ +4 (1080p)
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 
 
 

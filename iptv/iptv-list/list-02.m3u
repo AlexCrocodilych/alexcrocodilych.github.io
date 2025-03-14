@@ -2,6 +2,49 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,http://epg.org.nz/freeview.xml.gz,https://7pal.short.gy/alex-epg" tvg-shift=0
 #PLAYLIST:My-02
 
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySports_MainEventUHD
+https://7pal.short.gy/SSMEuhd
+
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/ZYpUQ3w.png" group-title="Sports",beIN4k
+https://7pal.short.gy/bein-uhd
+
+#EXTINF:-1 tvg-id="TNT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="Sports",TNTSport_Ultimate-4K_HDR
+https://7pal.short.gy/TNTUltimate
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SkySportsF1UHD
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/20065/index.m3u
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",S
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/270/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS BALTIC 1,
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/20081/index.m3u
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS GE 1,
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7169/index.m3u
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS GE 2,
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7168/index.m3u
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS HD_,
+http://37403135.cbilant.com/iptv/ZP6CPSLL6GVWT2/271/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports",SETANTA SPORTS KZ 1,
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/20064/index.m3u
+
+
+
+
 --- 📺 Sports | RUSSIA
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)

@@ -15,6 +15,11 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
 https://bl.video.matchtv.ru/feed/start/na_824ba7d718d2b1347d2d07a908e2b19c/17_76666997491217f4514cc1c9316ab99d/2704c43f3ce575fa52e99abbf68a589d/4795154086?sr=13&type_id=&width=100%25&height=100%25&lang=ru&skin_name=matchtv&ref=https%3A%2F%2Fmatchtv.ru%2Fchannel%2Figra&seek_back=21615&uid=43X7T4MH-H8QE-7KV0-S7QW-OFWRETV9Q2BT&locale=ru
 
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://i.imgur.com/YhhfBno.png" group-title="Sports | UK", Eurosport 1 FHD
+https://7pal.short.gy/eusport1
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://i.imgur.com/3GbcYUG.png" group-title="Sports | UK", Eurosport 2 FHD 
+https://7pal.short.gy/eusport2
+
 
 
 --- 📺 Sports | RUSSIA

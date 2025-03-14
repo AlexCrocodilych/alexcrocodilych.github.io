@@ -4,36 +4,23 @@
 
 
 
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Первый HD
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru",НТВ
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
-https://streaming.televizor-24-tochka.ru/live/210.m3u8
 
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал (+4)
 http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD +4
-https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 
 #EXTINF:-1,Первый канал (+4)
 http://dmi3y-tv.ru/hls/T2/CH_1TV_4.m3u8
 
 
-EXTINF:-1 group-title="РОСІЯ 🇷🇺",Первый канал HD
-http://31.134.132.245:8080/ort_hd/tracks-v1a1/mono.m3u8
-EXTINF:-1 group-title="РОСІЯ 🇷🇺",Первый канал FHD
-http://91.192.168.251:5050
+
 
 
 

@@ -210,17 +210,14 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 0#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 (1080p)2
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 
-#EXTINF:-1 tvg-id="ntv-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ +4 (576p)
-https://cdn.ntv.ru/ntv4/playlist.m3u8
+0#EXTINF:-1 tvg-id="ntv-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ +4 (576p)2
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 
 0#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)2
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-
-0#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
-https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 --- 📺 Radio | RUSSIA
 

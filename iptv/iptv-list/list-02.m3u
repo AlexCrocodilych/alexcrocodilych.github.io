@@ -3,23 +3,52 @@
 #PLAYLIST:My-02
 
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
-http://94.230.240.17:8080/machtv/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="belarus5-inet" ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
-https://bl.video.matchtv.ru/feed/start/na_824ba7d718d2b1347d2d07a908e2b19c/17_76666997491217f4514cc1c9316ab99d/2704c43f3ce575fa52e99abbf68a589d/4795154086?sr=13&type_id=&width=100%25&height=100%25&lang=ru&skin_name=matchtv&ref=https%3A%2F%2Fmatchtv.ru%2Fchannel%2Figra&seek_back=21615&uid=43X7T4MH-H8QE-7KV0-S7QW-OFWRETV9Q2BT&locale=ru
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://i.imgur.com/YhhfBno.png" group-title="Sports | UK", Eurosport 1 FHD
 https://7pal.short.gy/eusport1
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://i.imgur.com/3GbcYUG.png" group-title="Sports | UK", Eurosport 2 FHD 
 https://7pal.short.gy/eusport2
 
+
+#EXTINF:-1, Матч! Футбол 1 HD 🇷🇺
+http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
+
+#EXTINF:-1, Матч! Футбол 2 HD 🇷🇺
+http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
+
+#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
+
+#EXTINF:-1, Okko Спорт 🇷🇺
+http://89.23.113.132/oksphd/video.m3u8
+
+#EXTINF:-1, Футбол 1 HD 🇷🇺
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+
+#EXTINF:-1, Футбол 1 HD 🇷🇺
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+
+#EXTINF:-1, Футбол 1 HD 🇷🇺
+http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
+
+#EXTINF:-1, Матч! Футбол 1 🇷🇺
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+
+#EXTINF:-1, МАТЧ! Футбол2 🇷🇺
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+
+#EXTINF:-1, Матч! Футбол 3 HD 🇷🇺
+http://185.57.68.33/110/mpegts
+
+#EXTINF:-1, Setanta Sports 1 🇺🇦
+https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
+
+#EXTINF:-1,EUROSPORT 1 🇪🇸
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:-1,EUROSPORT 2 🇪🇸
+http://185.189.225.157/EuroSport2/index.m3u8
 
 
 --- 📺 Sports | RUSSIA
@@ -49,7 +78,7 @@ http://89.23.113.132/oksphd/video.m3u8
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5.png" group-title="Спортивные",Беларусь 5 (1080p)
-http://93.189.224.246:52900/play/a005/index.m3u8
+https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w71084103_b2660000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5-internet.png" group-title="Спортивные",Беларусь 5 Интернет (1080p)
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559814920_b2660000_sleng.m3u8

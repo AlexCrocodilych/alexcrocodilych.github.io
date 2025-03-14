@@ -78,7 +78,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (1080p)
 https://m3u8.video.matchtv.ru/media/playlist/ch_ba37c01ea6de2354e3b7f73e92068138/17_86669241/1080/8b16653532e428828790e39879bfad83/1741981200.m3u8
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (1080p)2
+0#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (576p)2
 http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (1080p)3
@@ -88,30 +88,27 @@ http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
  
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена (1080p)
-https://bl.video.matchtv.ru/media/playlist/ch_ce28bd7a82c9d7023fdbe4114dc536d3/17_72477605/1080/94582c55d2fc2ba4c3e2de94ab8a0ba4/1742010600.m3u8
 
-0#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена (576p)2
+
+0#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч! Арена (576p)2
 http://194.143.148.28:8080/MatchArena/mpegts
 
-0#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена (576p)3
+0#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч! Арена (576p)3
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 
-0#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена (576p)4
+0#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч! Арена (576p)4
 http://91.205.199.3/2x2tv/index.m3u8
 
-#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-igra.png" group-title="Спортивные",Матч Игра (720p)
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-igra.png" group-title="Спортивные",Матч! Игра (720p)
 http://213.226.137.140:81/tl/l304/mpegts
 
-#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч Планета (576p)
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч! Планета (576p)
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Страна - 01 (1080p)
-https://mhd128.iptv2022.com/p/nNn8eQGZcgag5qthdyCn-A,1741122014/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Страна - 02 (1080p)
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч! Страна (1080p)
 https://bl.video.matchtv.ru/media/playlist/ch_ce28bd7a82c9d7023fdbe4114dc536d3/17_72477605/1080/94582c55d2fc2ba4c3e2de94ab8a0ba4/1742010600.m3u8
 
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч Боец - 01 (576p)
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч! Боец - 01 (576p)
 http://87.120.142.11:18000/Match!
 
 

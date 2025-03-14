@@ -3,32 +3,10 @@
 #PLAYLIST:My-02
 
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (1080p)
-http://91.205.199.3/matchtvhd/index.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",Арена
-http://91.205.199.3/2x2tv/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
-http://77.235.1.17/match/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",! планета
-http://77.235.1.17/match_planeta/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",! Арена
-http://77.235.1.17/match_arena/index.m3u8
 
 #EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Арена HD
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Футбол 1 HD 
-http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="Матч! Футбол 1 HD" tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/94de502ffcf196ab78801841206c642d/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Футбол 1 HD 50
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 tvg-id="Матч! Футбол 1 HD" tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/94de502ffcf196ab78801841206c642d/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Футбол 1 HD
-
-#EXTINF:-1 tvg-id="Матч! Футбол 2 HD" tvg-logo="https://lighticons.art/storage/images/channels/82173d67718d9564d91739037224daee.png?d=1709804175" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/82173d67718d9564d91739037224daee/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="СПОРТ ⚽",Матч! Футбол 2 HD
-http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 
 
 
@@ -43,16 +21,16 @@ http://185.23.80.29:8080/MATCH!_HD/index.m3u8?token=test
 
 --- 📺 Sports | RUSSIA
 
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер (1080p)
 http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol1.png" group-title="Спортивные",Матч Футбол 1 - 01 (1080p)
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol1.png" group-title="Спортивные",Матч! Футбол 1 (1080p)
 http://ip1.orgip.net/202/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol2.png" group-title="Спортивные",Матч Футбол 2 - 01 (1080p)
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol2.png" group-title="Спортивные",Матч! Футбол 2 (1080p)
 http://ip1.orgip.net/203/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol3.png" group-title="Спортивные",Матч Футбол 3 - 01 (1080p)
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol3.png" group-title="Спортивные",Матч! Футбол 3 (1080p)
 http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)

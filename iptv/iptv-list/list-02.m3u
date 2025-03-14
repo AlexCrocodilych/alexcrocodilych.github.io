@@ -5,23 +5,13 @@
 
 
 
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BEIN SPORTS
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX SPORTS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TENNIS CHANNEL
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
-http://38.51.233.85:8000/play/a03s/index.m3u8
 
 
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч  (1080p)
@@ -33,14 +23,6 @@ https://bl.video.matchtv.ru/media/playlist/ch.m3u8
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Страна (1080p)
 https://cdn.video.matchtv.ru/matchtv/matchtv_msk/1080/1741/94/28/1741942848527.ts?cachetype=live
 
-#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Информационные",РБК (HD)
-http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал (HD ready)
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал (HD ready)
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -50,12 +32,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/+4/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/-1/russia1-hd/1080p.m3u8
-
-#EXTINF:-1 group-title="Общероссийские" tvg-id="ntv" tvg-logo="https://epgx.site/p/ntv.png",НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 group-title="Спорт" tvg-id="match-premier" tvg-logo="https://epgx.site/p/match-premiere.png",Матч Премьер HD
-http://185.37.150.40:8092/Nash_futbol_HD/playlist.m3u8
 
 --- 📺 Sports | RUSSIA
 
@@ -403,6 +379,9 @@ https://7pal.short.gy/espn2
 0#EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn2.png" group-title="Спортивные",ESPN 2 US (720p)2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
+#EXTINF:-1 group-title="Bics DEPORTES",ESPN 2 HD
+http://38.51.233.85:8000/play/a03s/index.m3u8
+
 #EXTINF:-1 tvg-id="espn-premium-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-deportes.png" group-title="Спортивные",ESPN DEPORTES US (1080p)
 http://190.92.10.66:4000/play/a003/index.m3u8
 
@@ -596,6 +575,9 @@ https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=9445009889576578422036
 
 0#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nastoyaschee-vremia.png" group-title="Новости",Настоящее время (1080p)2
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
+
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/rbk.png" group-title="Новости",РБК (1080p)
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="fireplace" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Релакс",TV Камин (1080p)
 https://river-1.rutube.ru/hls-vod/iM4pevvdbmTpCWon-kkSag/1741987494/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480

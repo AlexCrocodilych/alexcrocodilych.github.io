@@ -3,19 +3,17 @@
 #PLAYLIST:My-02
 
 
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
+http://94.230.240.17:8080/machtv/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="belarus5-inet" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 
-
-#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-
-
-
-
-#EXTINF:-1 group-title="Спорт", Матч!00000
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спорт", Матч! HD
-http://185.23.80.29:8080/MATCH!_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Матч! HD
+https://bl.video.matchtv.ru/feed/start/na_824ba7d718d2b1347d2d07a908e2b19c/17_76666997491217f4514cc1c9316ab99d/2704c43f3ce575fa52e99abbf68a589d/4795154086?sr=13&type_id=&width=100%25&height=100%25&lang=ru&skin_name=matchtv&ref=https%3A%2F%2Fmatchtv.ru%2Fchannel%2Figra&seek_back=21615&uid=43X7T4MH-H8QE-7KV0-S7QW-OFWRETV9Q2BT&locale=ru
 
 
 

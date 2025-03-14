@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,http://epg.org.nz/freeview.xml.gz,https://7pal.short.gy/alex-epg" tvg-shift=0
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,http://epg.org.nz/freeview.xml.gz"
 #PLAYLIST:My-02
 
 --- 📺 Sports | RUSSIA
@@ -31,25 +30,11 @@ http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5.png" group-title="Спортивные",Беларусь 5 (1080p)
 http://93.189.224.246:52900/play/a005/index.m3u8
 
-#EXTINF:-1 29569" catchup="default" group-title="Lime (VPN 🇷🇺)", Беларусь 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/NKlw_wphPi6PdVfZ-cvnTg,1741813222/streaming/belarus5_by/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="belarus5-inet" ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus5-internet.png" group-title="Спортивные",Беларусь 5 Интернет (1080p)
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559814920_b2660000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="football-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/futbol.png" group-title="Спортивные",Футбол (1080p)
 http://93.189.224.246:52900/play/a00c/index.m3u8
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Телеканал Футбол
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDI1IDc6NTg6MzUgQU0maGFzaF92YWx1ZT1iMkJRdjAvZzI4Z1d6YWk4bmdNTFFRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
-
 
 --- 📺 Sports | Setanta
 
@@ -223,13 +208,13 @@ https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 tvg-id="sky-sport-select-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport2-nz.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
 https://7pal.short.gy/skyspt2nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport3-nz.png" group-title="Спортивные",Sky Sport 3 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-nz3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport3-nz.png" group-title="Спортивные",Sky Sport 3 NZ (1080p)
 https://7pal.short.gy/skyspt3nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport4-nz.png" group-title="Спортивные",Sky Sport 4 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-nz4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport4-nz.png" group-title="Спортивные",Sky Sport 4 NZ (1080p)
 https://7pal.short.gy/skyspt4nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport5-nz.png" group-title="Спортивные",Sky Sport 5 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport5-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport5-nz.png" group-title="Спортивные",Sky Sport 5 NZ (1080p)
 https://7pal.short.gy/skyspt5nz
 
 #EXTINF:-1 tvg-id="sky-sport-hd6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport6-nz.png" group-title="Спортивные",Sky Sport 6 NZ (1080p)
@@ -342,14 +327,15 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 --- 📺 Sports | Dazn PORTUGAL
 
 #EXTINF:-1 tvg-id="dazn1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 PT (720p)
-
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 
 #EXTINF:-1 tvg-id="dazn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn2.png" group-title="Спортивные",Dazn 2 PT (1080p)
 
 #EXTINF:-1 tvg-id="dazn3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn3.png" group-title="Спортивные",Dazn 3 PT (396p)
+http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
 
 #EXTINF:-1 tvg-id="dazn4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn4.png" group-title="Спортивные",Dazn 4 PT (396p)
-
+http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
 
 --- 📺 Sports | ESPN
 

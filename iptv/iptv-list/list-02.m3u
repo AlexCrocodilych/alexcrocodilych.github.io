@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,http://epg.org.nz/freeview.xml.gz,https://7pal.short.gy/alex-epg" tvg-shift=0
-# EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-# EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=zh-hant&date=20250103&channel_id=271945"
-# EXTM3U x-tvg-url="https://bit.ly/moj-epg"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,http://epg.org.nz/freeview.xml.gz,https://7pal.short.gy/alex-epg,https://assets.livednow.com/epg.xml,https://epg.pw/api/epg.xml?lang=zh-hant&date=20250103&channel_id=271945,https://bit.ly/moj-epg" tvg-shift=0
 #PLAYLIST:My-02
 
 
@@ -10,10 +7,6 @@
 
 #EXTINF:-1 group-title="Bics MoveOnJoy US", BEIN SPORTS
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
-
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 
 
@@ -27,14 +20,15 @@ http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 http://38.51.233.85:8000/play/a03s/index.m3u8
 
 
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: DAZN_1
-https://fl4.moveonjoy.com/DAZN_1/index.m3u8
-
-#EXTINF:-1 group-title="Bics DEPORTES", US: DAZN_2
-https://fl4.moveonjoy.com/DAZN_2/index.m3u8
+#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч  (1080p)
+https://m3u8.video.matchtv.ru/media/playlist/ch_ba37c01ea6de2354e3b7f73e92068138/17_86669241/1080/8b16653532e428828790e39879bfad83/1741981200.m3u8?sr=14&seek=1741936200
+
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Страна (1080p)
+https://bl.video.matchtv.ru/media/playlist/ch_ba73edb3a2dea447b91e8f677adf0112/17_72477605/1080/1539e42528969fe2acc3dc28454cf382/1741981200.m3u8?sr=14&seek=1741936200&uid=43X7T4MH-H8QE-7KV0-S7QW-OFWRETV9Q2BT&ref=https%3A%2F%2Fmatchtv.ru%2Fchannel%2Fstrana
 
 --- 📺 Sports | RUSSIA
 
@@ -193,7 +187,7 @@ http://178.219.128.68:64889/POLSSPORFIGHHD
 
 --- 📺 Sports | TNT Sports UNITED KINGDOM
 
-#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
+#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports1.png" group-title="Спортивные",TNT Sports 1 UK (576p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports2.png" group-title="Спортивные",TNT Sports 2 UK (720p)
@@ -201,9 +195,6 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
 #EXTINF:-1 tvg-id="tntsports-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK", TNT Sports 3 FHD
-https://7pal.short.gy/tntspts3
 
 #EXTINF:-1 tvg-id="tnt-sports-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
@@ -361,15 +352,17 @@ https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="bein-sports-xtra-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra-n.png" group-title="Спортивные",BeIN Sports XTRA Ñ ES (1080p)
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
---- 📺 Sports | Dazn PORTUGAL
+--- 📺 Sports | Dazn USA
 
-#EXTINF:-1 tvg-id="dazn1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 PT (720p)
+#EXTINF:-1 tvg-id="dazn1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 US (1080p)
+https://fl4.moveonjoy.com/DAZN_1/index.m3u8
 
-#EXTINF:-1 tvg-id="dazn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn2.png" group-title="Спортивные",Dazn 2 PT (1080p)
+#EXTINF:-1 tvg-id="dazn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn2.png" group-title="Спортивные",Dazn 2 US (1080p)
+https://fl4.moveonjoy.com/DAZN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="dazn3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn3.png" group-title="Спортивные",Dazn 3 PT (396p)
+#EXTINF:-1 tvg-id="dazn3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn3.png" group-title="Спортивные",Dazn 3 US (1080p)
 
-#EXTINF:-1 tvg-id="dazn4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn4.png" group-title="Спортивные",Dazn 4 PT (396p)
+#EXTINF:-1 tvg-id="dazn4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn4.png" group-title="Спортивные",Dazn 4 US (1080p)
 
 
 --- 📺 Sports | ESPN

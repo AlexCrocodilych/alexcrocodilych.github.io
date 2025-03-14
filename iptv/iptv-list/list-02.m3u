@@ -30,26 +30,20 @@ https://m3u8.video.matchtv.ru/media/playlist/ch_ba37c01ea6de2354e3b7f73e92068138
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Страна (1080p)
 https://bl.video.matchtv.ru/media/playlist/ch_ba73edb3a2dea447b91e8f677adf0112/17_72477605/1080/1539e42528969fe2acc3dc28454cf382/1741981200.m3u8
 
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Игра (1080p)
-https://m3u8.video.matchtv.ru/media/playlist/ch_f7f22eb43011003ec1e00a3f54bf17ba/17_86669241/1080/afec4ce2f452350d6b657fd4fcd9febb/1741982400.m3u8
-
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Информационные",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал (HD ready)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал (HD ready)
-https://cdn10.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Россия 1
-https://cnt-odcv-itv05.svc.iptv.rt.ru/api/v2/user/epg?start_time=1741885200&end_time=1741971599&channels_ids=302835258
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Россия 1
-https://cnt-odcv-itv05.svc.iptv.rt.ru/api/v3/user/channels/nc/slug/vsyo-tv?with_epg=true&epg_limit=1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/1080p.m3u8
 
 --- 📺 Sports | RUSSIA
 

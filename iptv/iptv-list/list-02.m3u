@@ -4,16 +4,23 @@
 
 
 
+https://bl.video.matchtv.ru/media/playlist/ch_ce28bd7a82c9d7023fdbe4114dc536d3/17_72477605/1080/94582c55d2fc2ba4c3e2de94ab8a0ba4/1742010600.m3u8
 
 
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч  (1080p)
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (1080p)
 https://m3u8.video.matchtv.ru/media/playlist/ch_ba37c01ea6de2354e3b7f73e92068138/17_86669241/1080/8b16653532e428828790e39879bfad83/1741981200.m3u8
 
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ - 01 (1080p)
+https://m3u8.video.matchtv.ru/media/playlist/ch_c9e65fbf02a7639a1ce7afe72d26499e/17_86669241/1080/32a1b224b0c32ec18b0a0dc59584abe8/1742010000.m3u8
+
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Страна (1080p)
-https://bl.video.matchtv.ru/media/playlist/ch.m3u8
+https://bl.video.matchtv.ru/media/playlist/ch_ce28bd7a82c9d7023fdbe4114dc536d3/17_72477605/1080/94582c55d2fc2ba4c3e2de94ab8a0ba4/1742010600.m3u8
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Страна (1080p)
 https://cdn.video.matchtv.ru/matchtv/matchtv_msk/1080/1741/94/28/1741942848527.ts?cachetype=live
+
+#EXTINF:-1 group-title="СПОРТ ⚽",МАТЧ! 
+http://89.23.113.132/matc/video.m3u8
 
 --- 📺 Sports | RUSSIA
 

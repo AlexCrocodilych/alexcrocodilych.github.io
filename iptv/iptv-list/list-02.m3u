@@ -37,28 +37,8 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559
 #EXTINF:-1 tvg-id="football-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/futbol.png" group-title="Спортивные",Футбол (1080p)
 http://93.189.224.246:52900/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5 (HD)
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8 
-#EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 HD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int.smil/chunklist_w278966610_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 Интернет
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",RING HD [Bulgarian]
-http://87.246.60.6:11021
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер HD
-http://195.18.23.20:8000/play/88/index.m3u8
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=e68fcbbdfe2a4ea4cade2991d477e20c27b70eb1-6b2a062b5b9664acd36f5be4273ccbd1-1741334454-1741248054
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч Футбол 1 HD
-http://31.148.48.15/Match_Futbol_1_HD/mono.m3u8
-
-#EXTINF:-1 tvg-id="football-ru" group-title="Спортивные", Футбол
-http://185.23.80.29:8080/Football/index.m3u8?token=test
 
 
 
@@ -200,9 +180,6 @@ https://7pal.short.gy/tntspts4
 #EXTINF:-1 tvg-id="tnt-sports5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
 
-#EXTINF:-1 tvg-id="tnt-sports5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)0
-https://7pal.short.gy/tntspts5
-
 --- 📺 Sports | Sky Sports UNITED KINGDOM
 
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Спортивные",Sky Sports Premier League (1080p)
@@ -228,7 +205,7 @@ https://7pal.short.gy/ssportsf1
 
 --- 📺 Sports | Sky Sport NEW ZEALAND
 
-#EXTINF:-1 tvg-id="sky-sport-hd1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport1-nz.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport1-nz.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
 https://7pal.short.gy/skyspt1nz
 
 #EXTINF:-1 tvg-id="sky-sport-hd2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport2-nz.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
@@ -249,7 +226,7 @@ https://7pal.short.gy/skyspt6nz
 #EXTINF:-1 tvg-id="sky-sport-hd7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport7-nz.png" group-title="Спортивные",Sky Sport 7 NZ (1080p)
 https://7pal.short.gy/skyspt7nz
 
-#EXTINF:-1 tvg-id="sky-sport-pl-nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Спортивные", Sky Sport Premier League (1080p)
+#EXTINF:-1 tvg-id="sky-sport-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Спортивные", Sky Sport Premier League (1080p)
 https://7pal.short.gy/skyspt8nz
 
 --- 📺 Sports | TSN CANADA
@@ -354,7 +331,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="dazn1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn1.png" group-title="Спортивные",Dazn 1 PT (720p)
 
-
 #EXTINF:-1 tvg-id="dazn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn2.png" group-title="Спортивные",Dazn 2 PT (1080p)
 
 #EXTINF:-1 tvg-id="dazn3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn3.png" group-title="Спортивные",Dazn 3 PT (396p)
@@ -395,6 +371,9 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 
 #EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Спортивные",Ring BG (1080p)
 http://195.24.90.119:800/play/a0b3
+
+0#EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Спортивные",Ring BG (1080p)2
+http://87.246.60.6:11021
 
 #EXTINF:-1 tvg-id="sportdigital-fussball" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sportdigital-fussball.png" group-title="Спортивные",Sportdigital Fussball DE (1080p)
 https://jmp2.uk/sam-ATBD26000124P.m3u8
@@ -518,13 +497,13 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="Американские",NBC News Now [Neutral] (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 
-#EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] (720p)
+#EXTINF:-1 tvg-id="abc-news-live" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] (720p)
 https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News [Neutral] (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
-#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (720p)
+#EXTINF:-1 tvg-id="msnbc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (720p)
 http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg+.png" group-title="Американские",Bloomberg TV+ (1080p)

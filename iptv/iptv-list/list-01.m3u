@@ -213,8 +213,19 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)0
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)1
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ (HD)2
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD3
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+
+
 
 --- 📺 Radio | RUSSIA
 

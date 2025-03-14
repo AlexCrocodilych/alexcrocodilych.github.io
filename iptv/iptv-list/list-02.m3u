@@ -30,6 +30,12 @@ https://m3u8.video.matchtv.ru/media/playlist/ch_ba37c01ea6de2354e3b7f73e92068138
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Страна (1080p)
 https://bl.video.matchtv.ru/media/playlist/ch_ba73edb3a2dea447b91e8f677adf0112/17_72477605/1080/1539e42528969fe2acc3dc28454cf382/1741981200.m3u8?sr=14&seek=1741936200&uid=43X7T4MH-H8QE-7KV0-S7QW-OFWRETV9Q2BT&ref=https%3A%2F%2Fmatchtv.ru%2Fchannel%2Fstrana
 
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Страна (1080p)2
+https://bl.video.matchtv.ru/media/playlist/ch_ba73edb3a2dea447b91e8f677adf0112/17_72477605/1080/1539e42528969fe2acc3dc28454cf382/1741981200.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Страна (1080p)3
+https://cdn.video.matchtv.ru/matchtv/matchtv_country_msk/1080/1741/93/86/1741938655217.ts?cachetype=live
+
 --- 📺 Sports | RUSSIA
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер - 01 (1080p)

@@ -3,17 +3,36 @@
 #PLAYLIST:My-02
 
 
+#EXTINF:-1 tvg-id="NTV.ru",НТВ
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Russia1.ru",Россия 1 (VGTRK Official)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 
-#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",National Geographic
-http://stream02.vnet.am/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/210.m3u8
 
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
 
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/30.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
 
-
-
+#EXTINF:-1 tvg-id="",Россия РТР
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/211.m3u8
+#EXTINF:-1 tvg-id="",Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
 
 --- 📺 Sports | RUSSIA
 
@@ -49,6 +68,9 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559
 
 #EXTINF:-1 tvg-id="football-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/futbol.png" group-title="Спортивные",Футбол (1080p)
 http://93.189.224.246:52900/play/a00c/index.m3u8
+
+0#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",2 Спорт 2 (1080p)
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 
 --- 📺 Sports | Setanta
 

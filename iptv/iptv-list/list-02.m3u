@@ -1,8 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG, https://7pal.short.gy/alex-epg" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
-
 #EXTALBUMARTURL:https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png
-#PLAYLIST:My-02
+#PLAYLIST:My-03
 
 
 0#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3

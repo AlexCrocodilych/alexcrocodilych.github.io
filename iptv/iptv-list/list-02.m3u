@@ -3,11 +3,25 @@
 #PLAYLIST:My-03
 
 
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
-https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",fox
+https://stream01.vnet.am/Fox/mono.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",fox2
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",fox3
+https://zekonew.koskoros.ru/zeko/premium347/mono.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",fox4
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",fox5
+https://tvpass.org/live/FoxNewsChannel/hd
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",fox6
+https://tvpass.org/live/FoxNewsChannel/sd
 
 --- 📺 Sports | RUSSIA
 

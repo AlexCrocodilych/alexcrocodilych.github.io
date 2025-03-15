@@ -143,7 +143,7 @@ http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
 http://ip1.orgip.net/417/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature (1080p)
-http://78.130.250.2:8023/play/a02m/index.m3u8
+
 
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/animal-planet.png" group-title="Общественные",Animal Planet (1080p)
 http://stream01.vnet.am/AnimalPlanet/index.m3u8
@@ -197,6 +197,8 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 
 0#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
 https://cdn.ntv.ru/ntv0/playlist.m3u8
+
+https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
 
 --- 📺 Radio | RUSSIA
 

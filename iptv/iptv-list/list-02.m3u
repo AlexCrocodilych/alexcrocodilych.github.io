@@ -1,11 +1,13 @@
-#EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG, https://7pal.short.gy/alex-epg" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
-#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
-#EXTALBUMARTURL:https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png
+#EXTM3U x-tvg-url="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG, https://7pal.short.gy/alex-epg" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png
 #PLAYLIST:My-03
 
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
 https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 
 --- 📺 Sports | RUSSIA
 
@@ -233,16 +235,6 @@ https://7pal.short.gy/skyspt8nz
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ", Sky Sport2 NZ FHD
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ", Sky Sport3 NZ FHD
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ", Sky Sport4 NZ FHD
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports | NZ", Sky Sport5 NZ FHD
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports | NZ", Sky Sport6 NZ FHD
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports | NZ", Sky Sport7 NZ FHD
-https://7pal.short.gy/skyspt7nz
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports | NZ", Sky Sport Premier League FHD
 https://7pal.short.gy/skyspt8nz
 

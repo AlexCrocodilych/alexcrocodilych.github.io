@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 #PLAYLIST:My-02
 
 --- 📺 Sports | RUSSIA
@@ -202,7 +203,7 @@ https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-id="sky-sport-hd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-1.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
 https://7pal.short.gy/skyspt1nz
 
-#EXTINF:-1 tvg-id="sky-sport-aus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-2.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-hd2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-2.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
 https://7pal.short.gy/skyspt2nz
 
 #EXTINF:-1 tvg-id="sky-sport-hd3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-3.png" group-title="Спортивные",Sky Sport 3 NZ (1080p)

@@ -68,6 +68,7 @@ http://pro.ipcover.lol:8080/Alexis58174/857164/401957
 
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (576p)
+http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
 
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (2160p)

@@ -44,7 +44,7 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Спортивные",Setanta Sports 01 (1080p)
 http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Спортивные",Setanta Sports 02 (1080p)
+#EXTINF:-1 tvg-id="setanta2-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Спортивные",Setanta Sports 02 (1080p)
 http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan (1080p)
@@ -531,7 +531,7 @@ https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature INT (1080p)
+#EXTINF:-1 tvg-id="love-nature" audio-track-num"5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature INT (1080p)
 http://78.130.250.2:8023/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (2160p)

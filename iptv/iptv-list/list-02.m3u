@@ -7,11 +7,8 @@
 
 
 
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
-http://stream01.vnet.am/AnimalPlanet/index.m3u8
-
-#EXTINF:-1 group-title="Rutube (VPN)",National Geographic
-https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=b9CxQsSuja3_uANOZFs7Pw&e=1741852592&scheme=https
+#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",National Geographic
+http://stream02.vnet.am/NationalGeographic/index.m3u8
 
 
 

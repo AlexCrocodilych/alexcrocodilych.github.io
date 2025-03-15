@@ -4,7 +4,7 @@
 #PLAYLIST:My-03
 
 
-0#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
 https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
 
 --- 📺 Sports | RUSSIA

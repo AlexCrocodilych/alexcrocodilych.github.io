@@ -225,13 +225,6 @@ https://7pal.short.gy/skyspt7nz
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Спортивные", Sky Sport Premier League (1080p)
 https://7pal.short.gy/skyspt8nz
 
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ", Sky Sport1 NZ FHD
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ", Sky Sport2 NZ FHD
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports | NZ", Sky Sport Premier League FHD
-https://7pal.short.gy/skyspt8nz
-
 --- 📺 Sports | TSN CANADA
 
 #EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Спортивные",TSN 1 CA (1080p)
@@ -378,10 +371,10 @@ http://190.102.246.93:9005/play/a02m
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
 #EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Спортивные",Ring BG (1080p)
-http://195.24.90.119:800/play/a0b3
+http://87.246.60.6:11021
 
 0#EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Спортивные",Ring BG (1080p)2
-http://87.246.60.6:11021
+http://195.24.90.119:800/play/a0b3
 
 #EXTINF:-1 tvg-id="scooore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/scooore.png" group-title="Спортивные",Scooore DE (1080p)
 https://jmp2.uk/sam-ATBD26000124P.m3u8

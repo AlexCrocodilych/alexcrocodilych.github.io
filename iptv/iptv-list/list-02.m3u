@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 #PLAYLIST:My-02
 
 --- 📺 Sports | RUSSIA
@@ -531,7 +531,7 @@ https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-id="love-nature" audio-track-num"5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature INT (1080p)
+#EXTINF:-1 tvg-id="love-nature" audio-track"ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature INT (1080p)
 http://78.130.250.2:8023/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (2160p)

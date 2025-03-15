@@ -3,36 +3,7 @@
 #PLAYLIST:My-02
 
 
-#EXTINF:-1 tvg-id="NTV.ru",НТВ
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Russia1.ru",Россия 1 (VGTRK Official)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
-https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
-
-#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/210.m3u8
-
-#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
-https://streaming.televizor-24-tochka.ru/live/210.m3u8
-
-#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/30.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
-https://streaming.televizor-24-tochka.ru/live/30.m3u8
-
-#EXTINF:-1 tvg-id="",Россия РТР
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/211.m3u8
-#EXTINF:-1 tvg-id="",Россия РТР
-https://streaming.televizor-24-tochka.ru/live/211.m3u8
 
 --- 📺 Sports | RUSSIA
 

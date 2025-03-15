@@ -5,33 +5,18 @@
 
 
 
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Viju Explore
-http://130.193.73.10:8937/play/a01j
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+http://stream01.vnet.am/AnimalPlanet/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Viju Explore
-http://185.50.148.2:7703/ViasatExplorer/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
+http://77.235.1.17/viasat_explorer/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
-http://130.193.73.10:8937/play/a01l
 
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat Explore HD
-https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat Nature HD
-https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viju+ Planet HD
-https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Первый HD
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Animal Planet HD
-https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Discovery channel HD
-https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
 
 
 

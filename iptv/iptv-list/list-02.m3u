@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG"
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png
 
@@ -318,27 +318,27 @@ https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 
 --- 📺 Sports | Bein
 
-#EXTINF:-1 tvg-id="bein-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Спортивные",Bein Sports UK (720p)
+#EXTINF:-1 tvg-id="bein-sports-1-en" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Спортивные",Bein Sports UK (720p)
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="bein-sports" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Спортивные",Bein Sports QA (540p)
+#EXTINF:-1 tvg-id="bein-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Спортивные",Bein Sports QA (540p)
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bein-sports-xtra-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Спортивные",BeIN Sports XTRA US (1080p)
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-id="bein-sports-xtra-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra-n.png" group-title="Спортивные",BeIN Sports XTRA Ñ ES (1080p)
+#EXTINF:-1 tvg-id="bein-sports-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra-n.png" group-title="Спортивные",BeIN Sports XTRA Ñ ES (1080p)
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 --- 📺 Sports | Dazn USA
 
-#EXTINF:-1 tvg-id="dazn1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-1.png" group-title="Спортивные",Dazn 1 US (1080p)
+#EXTINF:-1 tvg-id="dazn1-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-1.png" group-title="Спортивные",Dazn 1 US (1080p)
 https://fl4.moveonjoy.com/DAZN_1/index.m3u8
 
-#EXTINF:-1 tvg-id="dazn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-2.png" group-title="Спортивные",Dazn 2 US (1080p)
+#EXTINF:-1 tvg-id="dazn-laliga2-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-2.png" group-title="Спортивные",Dazn 2 US (1080p)
 https://fl4.moveonjoy.com/DAZN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="dazn3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-3.png" group-title="Спортивные",Dazn 3 US (1080p)
+#EXTINF:-1 tvg-id="dazn-f1-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-3.png" group-title="Спортивные",Dazn 3 US (1080p)
 
 #EXTINF:-1 tvg-id="dazn4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-4.png" group-title="Спортивные",Dazn 4 US (1080p)
 
@@ -348,7 +348,7 @@ https://fl4.moveonjoy.com/DAZN_2/index.m3u8
 #EXTINF:-1 tvg-id="espn-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn.png" group-title="Спортивные",ESPN US (1080p)
 https://7pal.short.gy/espnus
 
-#EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Спортивные",ESPN 2 US (1080p)
+#EXTINF:-1 tvg-id="espn1-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Спортивные",ESPN 2 US (1080p)
 https://7pal.short.gy/espn2
 
 0#EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Спортивные",ESPN 2 US (720p)2
@@ -357,13 +357,13 @@ http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Спортивные",ESPN 2 (1080p)
 http://38.51.233.85:8000/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-id="espn-premium-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-deportes.png" group-title="Спортивные",ESPN DEPORTES US (1080p)
+#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-deportes.png" group-title="Спортивные",ESPN DEPORTES US (1080p)
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="espn-premium-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-premium.png" group-title="Спортивные",ESPN Premium CO (1080p)
 http://190.102.246.93:9005/play/a029
 
-#EXTINF:-1 tvg-id="espn3-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-3.png" group-title="Спортивные",ESPN 3 CO (720p)
+#EXTINF:-1 tvg-id="espn3-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-3.png" group-title="Спортивные",ESPN 3 CO (720p)
 http://190.102.246.93:9005/play/a02l
 
 #EXTINF:-1 tvg-id="espn4-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-4.png" group-title="Спортивные",ESPN 4 CO (720p)

@@ -1,14 +1,6 @@
-#EXTM3U x-tvg-url="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG, https://7pal.short.gy/alex-epg" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTM3U x-tvg-url="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png
-#PLAYLIST:My-03
-
-
-
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",fox
-https://stream01.vnet.am/Fox/mono.m3u8
-
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",fox2
-https://livevideo.tegnadigital.com/wcnc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC/elvs/live.m3u8
 
 
 --- 📺 Sports | RUSSIA

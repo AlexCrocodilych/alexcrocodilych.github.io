@@ -6,26 +6,32 @@
 
 
 
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild СНГ HD
-http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju Explore
+http://130.193.73.10:8937/play/a01j
 
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
-http://45.159.74.14:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild CEE
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju Explore
+http://185.50.148.2:7703/ViasatExplorer/index.m3u8
 
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery EU
-http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju+ Planet HD
+http://130.193.73.10:8937/play/a01l
 
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
-http://45.159.74.14:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat Explore HD
+https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat Nature HD
+https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viju+ Planet HD
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic CEE
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Первый HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild HD (6 ЯЗЫКОВ)
-http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Animal Planet HD
+https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Discovery channel HD
+https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
 
 
 
@@ -552,6 +558,9 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 
 0#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (720p)2
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)
+http://78.130.250.2:8023/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature INT (1080p)
 http://78.130.250.2:8023/play/a02m/index.m3u8

@@ -377,7 +377,7 @@ http://87.246.60.6:11021
 #EXTINF:-1 tvg-id="scooore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/scooore.png" group-title="Спортивные",Scooore DE (1080p)
 https://jmp2.uk/sam-ATBD26000124P.m3u8
 
-#EXTINF:-1 tvg-id="astro-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/astro-football.png" group-title="Спортивные",Astro Football MY (1080p)
+#EXTINF:-1 tvg-id="astro-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/astro-football.png" group-title="Спортивные",Astro Football MY (1080p)
 https://7pal.short.gy/astross4
 
 --- 📺 Sports | Tennis
@@ -385,7 +385,7 @@ https://7pal.short.gy/astross4
 #EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
-#EXTINF:-1 tvg-id="tennis-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 0#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)2
@@ -432,7 +432,7 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 0#EXTINF:-1 tvg-id="ufc-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Спортивные",UFC (1080p)2
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fifa-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fifa+.png" group-title="Спортивные",FIFA+ PL (720p)
+#EXTINF:-1 tvg-id="fifa+" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fifa+.png" group-title="Спортивные",FIFA+ PL (720p)
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/ad1da90d-93b3-4f8c-b376-b6283a433584/2.m3u8
 
 --- 📺 News Regional | US
@@ -496,10 +496,10 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="fox-live-now" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-live-now.png" group-title="Американские",FOX LiveNow [Republican] (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="Американские",NBC News Now [Neutral] (1080p)
+#EXTINF:-1 tvg-id="nbc-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="Американские",NBC News Now [Neutral] (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 
-#EXTINF:-1 tvg-id="abc-news-live" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] (720p)
+#EXTINF:-1 tvg-id="abc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] (720p)
 https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 
 #EXTINF:-1 tvg-id="cbc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News [Neutral] (720p)
@@ -513,10 +513,10 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские",MTV (1080p)
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские",MTV (720p)
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="mtv-2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv2.png" group-title="Американские",MTV2 (1080p)
+#EXTINF:-1 tvg-id="mtv2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv-2.png" group-title="Американские",MTV2 (720p)
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 tvg-id="bbc-america" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Американские",BBC America (720p)

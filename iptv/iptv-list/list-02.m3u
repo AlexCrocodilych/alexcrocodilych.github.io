@@ -513,7 +513,7 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mtv-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские",MTV (1080p)
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские",MTV (1080p)
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="mtv-2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv2.png" group-title="Американские",MTV2 (1080p)
@@ -531,7 +531,7 @@ https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-id="love-nature" audio-track"ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature INT (1080p)
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские" audio-track"ru",Love Nature INT (1080p)
 http://78.130.250.2:8023/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (2160p)

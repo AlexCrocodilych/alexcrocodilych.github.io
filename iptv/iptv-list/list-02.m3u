@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG, https://7pal.short.gy/alex-epg" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 #PLAYLIST:My-02
 
 --- 📺 Sports | RUSSIA
@@ -221,6 +222,23 @@ https://7pal.short.gy/skyspt6nz
 https://7pal.short.gy/skyspt7nz
 
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Спортивные", Sky Sport Premier League (1080p)
+https://7pal.short.gy/skyspt8nz
+
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports | NZ", Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports | NZ", Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports | NZ", Sky Sport3 NZ FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports | NZ", Sky Sport4 NZ FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports | NZ", Sky Sport5 NZ FHD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports | NZ", Sky Sport6 NZ FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports | NZ", Sky Sport7 NZ FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="Sports | NZ", Sky Sport Premier League FHD
 https://7pal.short.gy/skyspt8nz
 
 --- 📺 Sports | TSN CANADA

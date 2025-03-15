@@ -15,6 +15,9 @@ http://stream01.vnet.am/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
 http://77.235.1.17/viasat_explorer/index.m3u8
 
+#EXTINF:-1 group-title="Rutube (VPN)",National Geographic
+https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=b9CxQsSuja3_uANOZFs7Pw&e=1741852592&scheme=https
+
 
 
 

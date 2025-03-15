@@ -92,7 +92,7 @@ http://213.226.137.140:81/tl/l304/mpegts
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-strana.png" group-title="Спортивные",Матч! Страна (1080p)
 https://bl.video.matchtv.ru/media/playlist/ch_ce28bd7a82c9d7023fdbe4114dc536d3/17_72477605/1080/94582c55d2fc2ba4c3e2de94ab8a0ba4/1742010600.m3u8
 
-#EXTINF:-1 tvg-id="match-tv-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-planeta.png" group-title="Спортивные",Матч! Планета (576p)
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-planeta.png" group-title="Спортивные",Матч! Планета (576p)
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-boets" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-boets.png" group-title="Спортивные",Матч! Боец - 01 (576p)

@@ -199,28 +199,28 @@ https://7pal.short.gy/ssportsf1
 
 --- 📺 Sports | Sky Sport NEW ZEALAND
 
-#EXTINF:-1 tvg-id="sky-sport-hd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-1.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-1.png" group-title="Спортивные",Sky Sport 1 NZ (1080p)
 https://7pal.short.gy/skyspt1nz
 
-#EXTINF:-1 tvg-id="sky-sport-aus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-2.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-2.png" group-title="Спортивные",Sky Sport 2 NZ (1080p)
 https://7pal.short.gy/skyspt2nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-3.png" group-title="Спортивные",Sky Sport 3 NZ (1080p)
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-3.png" group-title="Спортивные",Sky Sport 3 NZ (1080p)
 https://7pal.short.gy/skyspt3nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-4.png" group-title="Спортивные",Sky Sport 4 NZ (1080p)
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-4.png" group-title="Спортивные",Sky Sport 4 NZ (1080p)
 https://7pal.short.gy/skyspt4nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-5.png" group-title="Спортивные",Sky Sport 5 NZ (1080p)
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-5.png" group-title="Спортивные",Sky Sport 5 NZ (1080p)
 https://7pal.short.gy/skyspt5nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-6.png" group-title="Спортивные",Sky Sport 6 NZ (1080p)
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-6.png" group-title="Спортивные",Sky Sport 6 NZ (1080p)
 https://7pal.short.gy/skyspt6nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-7.png" group-title="Спортивные",Sky Sport 7 NZ (1080p)
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-7.png" group-title="Спортивные",Sky Sport 7 NZ (1080p)
 https://7pal.short.gy/skyspt7nz
 
-#EXTINF:-1 tvg-id="sky-sport-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Спортивные", Sky Sport Premier League (1080p)
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Спортивные", Sky Sport Premier League (1080p)
 https://7pal.short.gy/skyspt8nz
 
 --- 📺 Sports | TSN CANADA
@@ -531,7 +531,7 @@ https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские" audio-track"ru",Love Nature INT (1080p)
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature INT (1080p)
 http://78.130.250.2:8023/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (2160p)

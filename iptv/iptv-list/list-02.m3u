@@ -2,46 +2,45 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 #PLAYLIST:My-02
 
-#EXTINF:-1 ,Футбол 1 HD 🇷🇺
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 ,Футбол 1 HD 🇷🇺
-http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
-#EXTINF:-1 ,Матч! Футбол 3 HD 🇷🇺
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 ,Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-#EXTINF:-1 ,Setanta Sports 1 🇷🇺
-http://82.215.111.227/1263/index.m3u8
-#EXTINF:-1 ,Setanta Sports 2 🇷🇺
-http://82.215.111.227/1264/index.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 (HD)
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 (HD)
+http://xx001.vivat.live/t-1.0f6f.d/hd/00330/8m/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 07 (1080p)
-https://cdn-nvm-chicago2.lolokoko.tv/Eurosport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Хобби и увлечения",Viju EXPLORE (EDTV)
+http://xx001.vivat.live/t-1.0f6f.d/sd/00321/1m/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 11 (1080p)
-http://45.132.87.69:8080/eurosport1/mono.m3u8
+#EXTINF:-1 group-title="СПОРТ ⚽",Eurosport 1 HD
+http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 13 (1080p)
-http://82.215.111.227/1439/index.m3u8
+#EXTINF:-1 group-title="СПОРТ ⚽",Фокс
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 21 (1080p)
-http://95.142.88.250:80/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 group-title="СПОРТ ⚽",Россия 24
+https://live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 07 (1080p)
-https://cdn-nvm-chicago2.lolokoko.tv/Eurosport2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
+http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 13 (1080p)
-http://s1.merlive.am:80/eurosport2/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 14 (1080p)
-http://iptvtree.net:8080/F32628/09b7a855/1195
+#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч! Боец
+http://api.peers.tv/timeshift/boets/16/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 15 (1080p)
-http://45.132.87.69:8080/eurosport2/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 22 (1080p)
-http://95.142.88.250:80/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра
+http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8
 
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч Страна
+http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер HD
+https://tv.movielab.pro/250/video.m3u8
+
+#EXTINF:-1 tvg-id="setanta-kz" group-title="Спортивные", Setanta Казахстан
+https://tv.movielab.pro/5094/video.m3u8
+
+#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные", Сетанта Спорт 2 HD
+https://tv.movielab.pro/943/video.m3u8
 
 --- 📺 Sports | RUSSIA
 
@@ -532,6 +531,9 @@ https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/
 #EXTINF:-1 tvg-id="CNNNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn-news.png" group-title="Американские",CNN News [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 group-title="Новости", CNN
+http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",Fox News [Republican] (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
@@ -596,6 +598,9 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
 
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/rbk.png" group-title="Новости",РБК (1080p)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/rossia-24.png" group-title="Новости",Россия 24 (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="fireplace" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Релакс",TV Камин (1080p)
 https://river-1.rutube.ru/hls-vod/iM4pevvdbmTpCWon-kkSag/1741987494/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480

@@ -506,7 +506,7 @@ https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 #EXTINF:-1 tvg-id="cbc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News [Neutral] (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
-#EXTINF:-1 tvg-id="msnbc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (720p)
+#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="Американские",MSNBC News [Democratic] (720p)
 http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg+.png" group-title="Американские",Bloomberg TV+ (1080p)
@@ -514,19 +514,19 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MTV" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские",MTV (1080p)
+#EXTINF:-1 tvg-id="mtv-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские",MTV (1080p)
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV2East.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv2.png" group-title="Американские",MTV2 (1080p)
+#EXTINF:-1 tvg-id="mtv-2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv2.png" group-title="Американские",MTV2 (1080p)
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Американские",BBC America (720p)
+#EXTINF:-1 tvg-id="bbc-america" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Американские",BBC America (720p)
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (1080p)
+#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 
-0#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (720p)2
+0#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Американские",BBC Earth (720p)2
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)

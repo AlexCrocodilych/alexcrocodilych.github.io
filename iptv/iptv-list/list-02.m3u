@@ -2,23 +2,12 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 #PLAYLIST:My-02
 
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч страна
-http://cdn.iptv.monster/play/134/A94E407714F99C3/video.m3u8
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",FOX Sports 2 HD[1920x1080]
+http://190.61.43.117:45000/play/a01g
 
 
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч страна[1024x576]
-http://78.26.128.59:9876/play/89/index.m3u8
-
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч страна
-http://78.26.128.59:9876/play/161/index.m3u8
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Setanta UA HD[1920x1080]
-http://85.223.221.130:8000/play/a085
-
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Setanta Sports plus HD UA[1920x1080]
-http://85.223.221.130:8000/play/a06k
-
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",МSetanta Sports+[1920x1080]
-http://78.26.128.59:9876/play/4/index.m3u8
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Nat Geo HD[1920x1080]
+http://38.41.8.1:8000/play/a01p
 
 --- 📺 Sports | RUSSIA
 

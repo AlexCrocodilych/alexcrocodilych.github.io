@@ -2,6 +2,20 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png
 
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://i.imgur.com/6EJdkR4.png" group-title="Sports | 4K UHD",TNT Sport Ultimate
+https://7pal.short.gy/TNTUltimate
+
+#EXTINF:-1 group-title="Спорт", TNT Sport 1
+https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 group-title="Спорт", TNT Sport 2
+https://7pal.short.gy/tntspts2
+
+#EXTINF:-1 group-title="Спорт", TNT Sport 3
+https://7pal.short.gy/tntspts3
+
+#EXTINF:-1 group-title="Спорт", TNT Sport 4
+https://7pal.short.gy/tntspts4
 
 --- 📺 Sports | RUSSIA
 

@@ -3,28 +3,18 @@
 #PLAYLIST:My-02
 
 
-#EXTINF:-1,TENNIS CHANNEL
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1,Discovery Channel HD
 http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
 
 #EXTINF:-1,National Geographic
 http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
+
 #EXTINF:-1,National Geographic WILD
 http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
 
-#EXTINF:-1 group-title="Чехия",Love Nature HD INT
-http://78.130.250.2:8023/play/a02m/index.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",МАТЧ 
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",МАТЧ HD
-http://91.205.199.3/matchtvhd/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
-http://77.235.1.17/match/index.m3u8
 
 
 --- 📺 Sports | RUSSIA
@@ -414,6 +404,9 @@ http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 0#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)2
 https://7pal.short.gy/tennisc
 
+0#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)3
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+
 #EXTINF:-1 tvg-id="tennis-plus-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
@@ -551,7 +544,11 @@ https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (1080p)2
+http://78.130.250.2:8023/play/a02m/index.m3u8
 
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Американские",Love Nature (2160p)3
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="Новости",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8

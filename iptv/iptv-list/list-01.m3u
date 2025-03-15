@@ -141,6 +141,9 @@ http://ip1.orgip.net/417/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature (1080p)
 http://78.130.250.2:8023/play/a02m/index.m3u8
 
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Animal Planet (1080p)
+http://stream01.vnet.am/AnimalPlanet/index.m3u8
+
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 

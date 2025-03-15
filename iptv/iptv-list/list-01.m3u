@@ -125,25 +125,26 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery - 01 (1080p)
-http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery - 02 (1080p)
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="viju-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="discovery",Viju+ Explore - 01 (1080p)
+0#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)2
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+0#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)3
+http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
+
+#EXTINF:-1 tvg-id="viju-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="discovery",Viju+ Explore (1080p)
 http://ip1.orgip.net/417/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature - 01 (2160p)
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature - 01 (1080p)
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature (1080p)
 http://78.130.250.2:8023/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild - 01 (576p)
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (576p)
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Общественные",National Geographic - 01 (1080p)
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Общественные",National Geographic (1080p)
 http://ip1.orgip.net/402/video.m3u8?token=A3b61a999e
 
 --- 📺 TV | RUSSIA

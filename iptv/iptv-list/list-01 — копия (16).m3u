@@ -59,9 +59,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/234/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 44 (1080p)
 http://ip1.orgip.net/201/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
-http://pro.ipcover.lol:8080/Alexis58174/857164/401957
-
 --- 📺 Матч | RUSSIA
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (1080p)
@@ -70,31 +67,31 @@ https://m3u8.video.matchtv.ru/media/playlist/ch_ba37c01ea6de2354e3b7f73e92068138
 0#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (576p)2
 
 
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (2160p)
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (2160p)
  
 
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч Арена (1080p)
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч Арена (1080p)
 
 
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч! Арена (576p)
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч! Арена (576p)
 http://194.143.148.28:8080/MatchArena/mpegts
 
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tarena.png" group-title="Спортивные",Матч! Арена (576p)3
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч! Арена (576p)3
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч! Арена (576p)4
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-arena.png" group-title="Спортивные",Матч! Арена (576p)4
 http://91.205.199.3/2x2tv/index.m3u8
 
-#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-igra.png" group-title="Спортивные",Матч! Игра (720p)
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-igra.png" group-title="Спортивные",Матч! Игра (720p)
 http://213.226.137.140:81/tl/l304/mpegts
 
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-strana.png" group-title="Спортивные",Матч! Страна (1080p)
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч! Страна (1080p)
 https://bl.video.matchtv.ru/media/playlist/ch_ce28bd7a82c9d7023fdbe4114dc536d3/17_72477605/1080/94582c55d2fc2ba4c3e2de94ab8a0ba4/1742010600.m3u8
 
-#EXTINF:-1 tvg-id="match-tv-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-planeta.png" group-title="Спортивные",Матч! Планета (576p)
+#EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-planeta.png" group-title="Спортивные",Матч! Планета (576p)
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="match-boets" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-boets.png" group-title="Спортивные",Матч! Боец - 01 (576p)
+#EXTINF:-1 tvg-id="match-boets" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv-strana.png" group-title="Спортивные",Матч! Боец - 01 (576p)
 http://87.120.142.11:18000/Match!
 
 --- 📺 Дом | RUSSIA

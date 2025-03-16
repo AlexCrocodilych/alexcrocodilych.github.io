@@ -27,7 +27,7 @@ https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/track_105_26b8d2e7/chunklist.m3u8
 
 
-
+#EXTGRP:Sports | RUSSIA
 --- 📺 Sports | RUSSIA
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч Премьер (1080p)
@@ -66,6 +66,7 @@ http://93.189.224.246:52900/play/a00c/index.m3u8
 # EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",2 Спорт 2 (1080p)
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 
+#EXTGRP: Sports | Setanta
 --- 📺 Sports | Setanta
 
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Спортивные",Setanta Sports 01 (1080p)
@@ -141,6 +142,8 @@ http://109.233.89.170/ELEVEN_SPORTS_4_HD/index.m3u8
 # EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Спортивные",Eleven Sports 4 PL (1080p)3
 http://178.219.128.68:64888/ELEVSPOR4HD
 
+
+#EXTGRP:Canal+ POLAND
 --- 📺 Sports | Canal+ POLAND
 
 #EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport.png" group-title="Спортивные",Canal+ Sport PL (1080p)

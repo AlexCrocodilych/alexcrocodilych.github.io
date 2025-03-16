@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://7pal.short.gy/alex-epg" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTM3U m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
@@ -10,7 +10,6 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Sports | UK", TNT Sports 4 FHD
 https://7pal.short.gy/tntspts4
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"
 
 --- 📺 Sports | RUSSIA
 

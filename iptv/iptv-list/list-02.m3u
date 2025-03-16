@@ -580,81 +580,81 @@ https://river-1.rutube.ru/hls-vod/iM4pevvdbmTpCWon-kkSag/1741987494/1899/0x5000c
 
 --- 📺 NHL | USA
 
-#EXTINF:-1 tvg-id="nhl-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 1",NHL 1 (720p)
+#EXTINF:-1 tvg-id="nhl-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 1",NHL 1 (720p)
 http://fl2.moveonjoy.com/NHL_1/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 2",NHL 2 (720p)
+#EXTINF:-1 tvg-id="nhl-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 2",NHL 2 (720p)
 http://fl5.moveonjoy.com/NHL_2/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 3",NHL 3 (720p)
+#EXTINF:-1 tvg-id="nhl-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 3",NHL 3 (720p)
 http://fl2.moveonjoy.com/NHL_3/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 4",NHL 4 (720p)
+#EXTINF:-1 tvg-id="nhl-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 4",NHL 4 (720p)
 http://fl2.moveonjoy.com/NHL_4/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 5",NHL 5 (720p)
+#EXTINF:-1 tvg-id="nhl-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 5",NHL 5 (720p)
 http://fl2.moveonjoy.com/NHL_5/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 6",NHL 6 (720p)
+#EXTINF:-1 tvg-id="nhl-6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 6",NHL 6 (720p)
 http://fl2.moveonjoy.com/NHL_6/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 7",NHL 7 (720p)
+#EXTINF:-1 tvg-id="nhl-7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 7",NHL 7 (720p)
 http://fl2.moveonjoy.com/NHL_7/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-8" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 8",NHL 8 (720p)
+#EXTINF:-1 tvg-id="nhl-8" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 8",NHL 8 (720p)
 http://fl5.moveonjoy.com/NHL_8/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-9" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 9",NHL 9 (720p)
+#EXTINF:-1 tvg-id="nhl-9" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 9",NHL 9 (720p)
 http://fl2.moveonjoy.com/NHL_9/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-10" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 10",NHL 10 (720p)
+#EXTINF:-1 tvg-id="nhl-10" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 10",NHL 10 (720p)
 http://fl5.moveonjoy.com/NHL_10/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-12" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 11",NHL 11 (720p)
+#EXTINF:-1 tvg-id="nhl-12" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 11",NHL 11 (720p)
 http://fl5.moveonjoy.com/NHL_11/index.m3u8
 
-#EXTINF:-1 tvg-id="nhl-13" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl.png" group-title="NHL" tvg-name="NHL 13",NHL 13 (720p)
+#EXTINF:-1 tvg-id="nhl-13" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="NHL" tvg-name="NHL 13",NHL 13 (720p)
 http://fl5.moveonjoy.com/NHL_13/index.m3u8
 
 --- 📺 NBA | USA
 
-#EXTINF:-1 tvg-id="nba-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 1",NBA 1 (720p)
+#EXTINF:-1 tvg-id="nba-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 1",NBA 1 (720p)
 http://fl5.moveonjoy.com/NBA_1/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 2",NBA 2 (720p)
+#EXTINF:-1 tvg-id="nba-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 2",NBA 2 (720p)
 http://fl5.moveonjoy.com/NBA_2/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 3",NBA 3 (720p)
+#EXTINF:-1 tvg-id="nba-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 3",NBA 3 (720p)
 http://fl5.moveonjoy.com/NBA_3/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 4",NBA 4 (720p)
+#EXTINF:-1 tvg-id="nba-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 4",NBA 4 (720p)
 http://fl5.moveonjoy.com/NBA_4/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 5",NBA 5 (720p)
+#EXTINF:-1 tvg-id="nba-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 5",NBA 5 (720p)
 http://fl5.moveonjoy.com/NBA_5/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 6",NBA 6 (720p)
+#EXTINF:-1 tvg-id="nba-6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 6",NBA 6 (720p)
 http://fl5.moveonjoy.com/NBA_6/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 7",NBA 7 (720p)
+#EXTINF:-1 tvg-id="nba-7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 7",NBA 7 (720p)
 http://fl5.moveonjoy.com/NBA_7/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-8" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 8",NBA 8 (720p)
+#EXTINF:-1 tvg-id="nba-8" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 8",NBA 8 (720p)
 http://fl5.moveonjoy.com/NBA_8/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-9" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 9",NBA 9 (720p)
+#EXTINF:-1 tvg-id="nba-9" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 9",NBA 9 (720p)
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-10" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 10",NBA 10 (720p)
+#EXTINF:-1 tvg-id="nba-10" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 10",NBA 10 (720p)
 http://fl5.moveonjoy.com/NBA_10/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-11" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 11",NBA 11 (720p)
+#EXTINF:-1 tvg-id="nba-11" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 11",NBA 11 (720p)
 http://fl5.moveonjoy.com/NBA_11/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-12" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 12",NBA 12 (720p)
+#EXTINF:-1 tvg-id="nba-12" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 12",NBA 12 (720p)
 http://fl5.moveonjoy.com/NBA_12/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-13" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba.png" group-title="NBA" tvg-name="NBA 13",NBA 13 (720p)
+#EXTINF:-1 tvg-id="nba-13" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA" tvg-name="NBA 13",NBA 13 (720p)
 http://fl5.moveonjoy.com/NBA_13/index.m3u8
 
 --- 📺 Films | RUSSIA

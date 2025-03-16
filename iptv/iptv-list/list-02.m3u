@@ -9,33 +9,48 @@ https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK" tvg-name="TNT.Sports.1.HD.uk" tvg-id="", TNT Sports 3 FHD
 https://7pal.short.gy/tntspts3
 
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Спортивные",Матч (1080p)
-https://m3u8.video.matchtv.ru/media/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://epg.it999.ru/img2/4678.png",Спортивный HD
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="http://epg.it999.ru/img2/2364.png",Setanta Sports 1
 #EXTGRP:⛹🏿‍ Спортивные
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:0 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img2/2729.png",Матч! Футбол 1 (50)
+https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="http://epg.it999.ru/img2/2813.png",Setanta Sports 2
 #EXTGRP:⛹🏿‍ Спортивные
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
-#EXTINF:0 tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img2/2742.png",Матч! Футбол 2 (50)
+https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://epg.it999.ru/img2/2052.png",Eurosport 1 HD
 #EXTGRP:⛹🏿‍ Спортивные
-http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
-#EXTINF:0 tvg-id="match-football3" tvg-logo="http://epg.it999.ru/img2/2730.png",Матч! Футбол 3 (50)
+https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://epg.it999.ru/img2/4313.png",Eurosport 2 HD
 #EXTGRP:⛹🏿‍ Спортивные
-http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
-#EXTINF:-1 tvg-id="match-football1" tvg-logo="http://epg.it999.ru/img/2729.png",Матч! Футбол 1 HD
-#EXTGRP:⛹🏿‍ Спортивные
-http://bl.uma.media/live/126863/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img/2742.png",Матч! Футбол 2 HD
-#EXTGRP:⛹🏿‍ Спортивные
-http://bl.uma.media/live/126864/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="match-football3" tvg-logo="http://epg.it999.ru/img/2730.png",Матч! Футбол 3 HD
-#EXTGRP:⛹🏿‍ Спортивные
-http://bl.uma.media/live/126865/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="match-tv-hd-orig" tvg-logo="http://epg.it999.ru/img2/2735.png",Матч! HD
-#EXTGRP:⛹🏿‍ Спортивные
-http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
+
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15877/logo_256_1670913510.png",Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/track_105_26b8d2e7/chunklist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия HD
+#EXTGRP:🇷🇺 Эфирные
+http://cdnmg.secure.live.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
+#EXTGRP:🇷🇺 Эфирные
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
+#EXTGRP:🇷🇺 Эфирные
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png" group-title="Федеральные",Матч ТВ
+http://91.142.158.107:8092/play/33/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Федеральные",Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21
+
 
 
 --- 📺 Sports | RUSSIA

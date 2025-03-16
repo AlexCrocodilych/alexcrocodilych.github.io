@@ -163,13 +163,13 @@ http://178.219.128.68:64889/POLSSPORFIGHHD
 
 --- 📺 Sports | TNT Sports UNITED KINGDOM
 
-#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Спортивные",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Спортивные",TNT Sports 2 UK (720p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
-#EXTINF:-1 tvg-id="tntsports-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
 
 #EXTINF:-1 tvg-id="tnt-sports-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
@@ -192,7 +192,7 @@ https://7pal.short.gy/skspmaine
 #EXTINF:-1 tvg-id="sky-sports-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-football.png" group-title="Спортивные",Sky Sports Football (1080p)
 https://7pal.short.gy/ssportsfb
 
-#EXTINF:-1 tvg-id="sky-sports-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-tennis.png" group-title="Спортивные",Sky Sports Tennis (1080p)
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-tennis.png" group-title="Спортивные",Sky Sports Tennis (1080p)
 https://7pal.short.gy/ssportstn
 
 #EXTINF:-1 tvg-id="sky-sports-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-plus.png" group-title="Спортивные",Sky Sports + (1080p)
@@ -203,10 +203,6 @@ https://7pal.short.gy/ssportsat
 
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Спортивные",Sky Sports F1 (1080p)
 https://7pal.short.gy/ssportsf1
-
-#EXTINF:-1 tvg-id="sky-sports-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-news.png" group-title="Спортивные",Sky Sports News (1080p)
-#EXTINF:-1 group-title="Спорт", Sky Sports News
-https://7pal.short.gy/ssportsnw
 
 --- 📺 Sports | Sky Sport NEW ZEALAND
 
@@ -219,13 +215,13 @@ https://7pal.short.gy/skyspt2nz
 #EXTINF:-1 tvg-id="sky-sport-hd3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-3.png" group-title="Спортивные",Sky Sport 3 NZ (1080p)
 https://7pal.short.gy/skyspt3nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-4.png" group-title="Спортивные",Sky Sport 4 NZ (1080p)
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-4.png" group-title="Спортивные",Sky Sport 4 NZ (1080p)
 https://7pal.short.gy/skyspt4nz
 
 #EXTINF:-1 tvg-id="sky-sport-hd5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-5.png" group-title="Спортивные",Sky Sport 5 NZ (1080p)
 https://7pal.short.gy/skyspt5nz
 
-#EXTINF:-1 tvg-id="sky-sport-hd6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-6.png" group-title="Спортивные",Sky Sport 6 NZ (1080p)
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-6.png" group-title="Спортивные",Sky Sport 6 NZ (1080p)
 https://7pal.short.gy/skyspt6nz
 
 #EXTINF:-1 tvg-id="sky-sport-hd7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-7.png" group-title="Спортивные",Sky Sport 7 NZ (1080p)
@@ -309,7 +305,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
 
 --- 📺 Sports | USA
 
-#EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)
 https://7pal.short.gy/cbssptnw
 
 0#EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)2

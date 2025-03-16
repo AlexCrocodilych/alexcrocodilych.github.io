@@ -1,4 +1,4 @@
-#EXTM3U m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTM3U
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 

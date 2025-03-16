@@ -377,10 +377,10 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
 #EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Спортивные",Ring BG (1080p)
-http://87.246.60.6:11021
+http://195.24.90.119:800/play/a0b3
 
 # EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Спортивные",Ring BG (1080p)2
-http://195.24.90.119:800/play/a0b3
+http://87.246.60.6:11021
 
 #EXTINF:-1 tvg-id="scooore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/scooore.png" group-title="Спортивные",Scooore DE (1080p)
 https://jmp2.uk/sam-ATBD26000124P.m3u8

@@ -413,13 +413,13 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 --- 📺 Sports | USA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
+#EXTINF:-1 tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные" tvg-id="",NHL TV (1080p)
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="nhl-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)2
 #EXTINF:-1 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Спортивные",NBA TV (720p)
+#EXTINF:-1 tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Спортивные" tvg-id="",NBA TV (720p)
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="nfl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-tv.png" group-title="Спортивные",NFL TV (720p)

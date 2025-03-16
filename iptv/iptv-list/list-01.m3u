@@ -183,6 +183,9 @@ https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 +4 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/track_105_650d6e7a/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 +4 (1080p)2
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+
 0#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 +4 (1080p)2
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
 
@@ -205,13 +208,7 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sibir-24.png" group-title="Общественные",Сибирь 24 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/track_105_26b8d2e7/chunklist.m3u8
-
-#EXTINF:-1,novosibirsk sibir24 +7
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-
-#EXTINF:-1,novosibirsk sibir24 +71
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/chunklist.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/track_105_650d6e7a/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd

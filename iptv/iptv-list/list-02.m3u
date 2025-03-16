@@ -6,20 +6,10 @@
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports | UK", TNT Sports 2 FHD
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK"  tvg-name="TNT.Sports.1.HD.uk" tvg-id="", TNT Sports 3 FHD
+#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK" tvg-name="TNT.Sports.1.HD.uk" tvg-id="", TNT Sports 3 FHD
 https://7pal.short.gy/tntspts3
 
-#EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ICN",Матч! Арена
-http://45.11.139.43:8555/matcharena/index.m3u8
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-
-#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! FHD
-http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTYxMzUxMCwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQxMDA4NzEwLCJzZXNzaW9uX2lkIjoiNjc3ZThiMjcwMDlmNjdhYTFkMmI5ZGRhNjRjODExYzEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uMfVA3B75Tbst0XY1JyF8WI2IUKgE0DMgjPVvIJykpk&curPos=03032025121452&sid=5cb4f3e5-b67f-49db-8802-fb85389d2061
 
 
 --- 📺 Sports | RUSSIA
@@ -45,7 +35,7 @@ http://89.23.113.132/oksphd/video.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт (1080p)2
 #EXTINF:-1http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="okko-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол (1080p)
+#EXTINF:-1 tvg-id="okko-futball" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол (1080p)
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus-5.png" group-title="Спортивные",Беларусь 5 (1080p)
@@ -340,8 +330,10 @@ https://fl4.moveonjoy.com/DAZN_1/index.m3u8
 https://fl4.moveonjoy.com/DAZN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="eleven-sport3-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-3.png" group-title="Спортивные",Dazn 3 US (1080p)
+https://fl4.moveonjoy.com/DAZN_3/index.m3u8
 
 #EXTINF:-1 tvg-id="eleven-sport4-pt" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-4.png" group-title="Спортивные",Dazn 4 US (1080p)
+https://fl4.moveonjoy.com/DAZN_4/index.m3u8
 
 --- 📺 Sports | ESPN
 

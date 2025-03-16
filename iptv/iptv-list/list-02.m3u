@@ -2,10 +2,7 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png
 
-#EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1",FS1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2",FS2
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
+
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Love.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-name="LOVE NATURE",LOVE NATURE
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
@@ -13,11 +10,7 @@ http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="MSNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC",MSNBC
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/143.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="mtvU.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV
-http://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="MTV.2.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" tvg-name="MTV2",MTV2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
@@ -52,8 +45,6 @@ http://fl5.moveonjoy.com/NBA_8/index.m3u8
 http://fl5.moveonjoy.com/NBA_9/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="(no tvg-id)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 1",NHL 1
 http://fl2.moveonjoy.com/NHL_1/index.m3u8
@@ -144,7 +135,7 @@ http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="setanta-plus-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan + (1080p)
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Спортивные",Setanta Sports Qazaqstan + (1080p)
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
 
 #EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Спортивные",Setanta Sports Ukraine (1080p)
@@ -382,16 +373,19 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 0#EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-5.png" group-title="Спортивные",TSN 5 CA (1080p)4
 https://7pal.short.gy/tsn5ca
 
---- 📺 Sports | Fox Sports MEXICO
+--- 📺 Sports | Fox Sports USA
 
-#EXTINF:-1 tvg-id="fox-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Спортивные",Fox Sports 1 MX (720p)
+#EXTINF:-1 tvg-id="fox-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Спортивные" tvg-name="FS1",Fox Sports 1 US (720p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
 
-0#EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Спортивные",Fox Sports 1 MX (720p)2
+0#EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Спортивные",Fox Sports 1 US (720p)2
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-0#EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Спортивные",Fox Sports 1 MX (720p)3
+0#EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Спортивные",Fox Sports 1 US (720p)3
 http://212.102.60.10/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-2.png" group-title="Спортивные" tvg-name="FS2",Fox Sports 2 US (560p)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
 
 --- 📺 Sports | USA
 
@@ -613,10 +607,10 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские",MTV (720p)
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Американские" tvg-name="MTV",MTV (720p)
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="mtv-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv-2.png" group-title="Американские",MTV2 (720p)
+#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv-2.png" group-title="Американские" tvg-name="MTV2",MTV2 (720p)
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 tvg-id="bbc-america-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Американские",BBC America (720p)

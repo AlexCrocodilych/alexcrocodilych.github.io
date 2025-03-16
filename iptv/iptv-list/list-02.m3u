@@ -171,10 +171,10 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Спортивные",TNT Sports 2 UK (720p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
 
-#EXTINF:-1 tvg-id="tnt-sports-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 
 0#EXTINF:-1 tvg-id="TNTSports4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)2
@@ -307,7 +307,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
 
 --- 📺 Sports | USA
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)
 https://7pal.short.gy/cbssptnw
 
 0#EXTINF:-1 tvg-id="cbs-sports-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Спортивные",CBS Sports Network US (720p)2

@@ -37,7 +37,6 @@ http://ip1.orgip.net/200/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 48 (1080p)
 http://ip1.orgip.net/0200/video.m3u8?token=A3b61a999e
 
-
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
 http://ip1.orgip.net/0201/video.m3u8?token=A3b61a999e
 
@@ -127,8 +126,7 @@ http://93.189.224.246:52900/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/1hd-music.png" group-title="Общественные",1HD Music (1080p)
 http://91.247.68.229:8000/play/eee/index.m3u8
 
-
-
+--- 📺 Science | RUSSIA
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
@@ -139,8 +137,17 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 0#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)3
 http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
 
-#EXTINF:-1 tvg-id="viju-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="discovery",Viju+ Explore (1080p)
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="discovery",Viju+ Explore (1080p)
 http://ip1.orgip.net/417/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="viasat-explore-cee" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="discovery",Viju+ Explore (1080p)2
+http://185.50.148.2:7703/ViasatExplorer/index.m3u8
+
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Viasat Explore HD
+https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Viju Explore
+http://130.193.73.10:8937/play/a01j
 
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature (1080p)
 

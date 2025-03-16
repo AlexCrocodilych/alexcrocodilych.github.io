@@ -69,6 +69,8 @@ http://pro.ipcover.lol:8080/Alexis58174/857164/401957
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (576p)
 http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
 
+0#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (576p)2
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (2160p)
  
@@ -201,6 +203,9 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 
 0#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
 https://cdn.ntv.ru/ntv0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sibir-24.png" group-title="Общественные",Сибирь 24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/track_105_26b8d2e7/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd

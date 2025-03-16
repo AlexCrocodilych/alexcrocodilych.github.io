@@ -35,7 +35,7 @@ http://89.23.113.132/oksphd/video.m3u8
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт (1080p)2
 #EXTINF:-1http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="okko-futball" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол (1080p)
+#EXTINF:-1 tvg-id="okko-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол (1080p)
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus-5.png" group-title="Спортивные",Беларусь 5 (1080p)
@@ -504,6 +504,11 @@ https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/
 
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn.png" group-title="Американские",CNN [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn.png" group-title="Американские",CNN [Democratic] (720p)2
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
 
 #EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="Американские",Fox News [Republican] (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8

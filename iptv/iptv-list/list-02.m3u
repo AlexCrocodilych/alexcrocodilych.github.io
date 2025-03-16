@@ -1,10 +1,6 @@
-#EXTM3U url-tvg="https://7pal.short.gy/alex-epg"
+#EXTM3U url-tvg="https://7pal.short.gy/alex-epg" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
-
-
-
-
 
 
 

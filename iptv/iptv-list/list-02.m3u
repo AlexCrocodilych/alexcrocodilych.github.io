@@ -171,16 +171,16 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Спортивные",TNT Sports 2 UK (720p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Спортивные",TNT Sports 3 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
+#EXTINF:-1 tvg-id="tnt-sports4-hd-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 
 0#EXTINF:-1 tvg-id="TNTSports4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Спортивные",TNT Sports 4 UK (1080p)2
 https://7pal.short.gy/tntspts4
 
-#EXTINF:-1 tvg-id="tnt-sports5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
+#EXTINF:-1 tvg-id="tnt-sports5-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Спортивные",TNT Sports 5 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
 
 --- 📺 Sports | Sky Sports UNITED KINGDOM
@@ -431,7 +431,7 @@ https://7pal.short.gy/nflnw
 0#EXTINF:-1 tvg-id="nfl-network" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-network.png" group-title="Спортивные",NFL Network (720p)2
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)
+#EXTINF:-1 tvg-id="mlb-network" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)
 https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 
 0#EXTINF:-1 tvg-id="mlb-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)2

@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG"
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
@@ -6,7 +6,7 @@
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports | UK", TNT Sports 2 FHD
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK", TNT Sports 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK", TNT Sports 3 FHD
 https://7pal.short.gy/tntspts3
 
 
@@ -413,13 +413,13 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 --- 📺 Sports | USA
 
-#EXTINF:-1 tvg-id="nhl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="nhl-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Спортивные",NHL TV (1080p)2
 #EXTINF:-1 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
-#EXTINF:-1 tvg-id="nba-tv-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Спортивные",NBA TV (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Спортивные",NBA TV (720p)
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="nfl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-tv.png" group-title="Спортивные",NFL TV (720p)
@@ -431,7 +431,7 @@ https://7pal.short.gy/nflnw
 0#EXTINF:-1 tvg-id="nfl-network" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-network.png" group-title="Спортивные",NFL Network (720p)2
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="mlb-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)
 https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 
 0#EXTINF:-1 tvg-id="mlb-network-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Спортивные",MLB (720p)2

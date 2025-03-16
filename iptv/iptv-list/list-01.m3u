@@ -198,7 +198,8 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 0#EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)3
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
-https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
+https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 
 --- 📺 Radio | RUSSIA
 

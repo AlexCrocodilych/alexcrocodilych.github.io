@@ -9,6 +9,18 @@ https://7pal.short.gy/tntspts2
 #EXTINF:-1 tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports | UK"  tvg-name="TNT.Sports.1.HD.uk" tvg-id="", TNT Sports 3 FHD
 https://7pal.short.gy/tntspts3
 
+#EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ICN",Матч! Арена
+http://45.11.139.43:8555/matcharena/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
+http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
+
+#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! FHD
+http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTYxMzUxMCwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQxMDA4NzEwLCJzZXNzaW9uX2lkIjoiNjc3ZThiMjcwMDlmNjdhYTFkMmI5ZGRhNjRjODExYzEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uMfVA3B75Tbst0XY1JyF8WI2IUKgE0DMgjPVvIJykpk&curPos=03032025121452&sid=5cb4f3e5-b67f-49db-8802-fb85389d2061
+
 
 --- 📺 Sports | RUSSIA
 

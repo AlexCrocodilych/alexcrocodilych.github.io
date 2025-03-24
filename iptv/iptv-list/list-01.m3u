@@ -30,7 +30,7 @@ http://ip1.orgip.net/201/video.m3u8?token=A3b61a999e
 http://pro.ipcover.lol:8080/Alexis58174/857164/401957
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные" audio-track="qam" audio-track-num="3",Eurosport 2 - ES (1080p)
-https://alexcrocodilych.github.io/iptv/iptv-list/es2.m3u
+http://185.189.225.157/EuroSport2/tracks-a2/mono.m3u8
 
 --- 📺 Матч | RUSSIA
 

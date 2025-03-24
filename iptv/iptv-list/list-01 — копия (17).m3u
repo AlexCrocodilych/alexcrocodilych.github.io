@@ -13,101 +13,29 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 04 (1080p)
 http://194.26.229.213:3080/channel/10ccfa0/index.m3u8?q=963f66a62081211920e45aea3294bb9f
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 11 (1080p)
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 41 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/228/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 42 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/5075/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 43 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/141/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 44 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/X8WSYE5XPNXQA2/9247/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 45 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/31475/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 46 (1080p)
+http://rhsbjv7k.tvclub.xyz/iptv/PKAZ2GTD29Y9CQ/228/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 47 (1080p)
 http://ip1.orgip.net/200/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 12 (1080p)
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 48 (1080p)
 http://ip1.orgip.net/0200/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 21 (1080p)
-http://178.212.71.253:8000/play/143/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
-http://185.189.225.157/EuroSport2/index.m3u8
-
-#EXTINF:0 tvg-id="esp2" group-title="RU Sport" timeshift="7",EUROSPORT 2 HD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/6556/index.m3u8
-
-#EXTINF:0 tvg-id="esp-hd" group-title="RU Sport" timeshift="7",Eurosport 1 HD
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/228/index.m3u8
-#EXTINF:0 tvg-id="esp-4k" group-title="RU Sport" timeshift="7",Eurosport 4K
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/4004/index.m3u8
-#EXTINF:0 tvg-id="esp2" group-title="RU Sport" timeshift="7",Eurosport 2 North-East HD orig
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/5076/index.m3u8
-#EXTINF:0 tvg-id="esp2" group-title="RU Sport" timeshift="7",Eurosport 2 North-East HD
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/234/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="RO Sport" timeshift="7",Eurosport 1 HD RO
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/6992/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RO Sport" timeshift="7",Eurosport 2 HD RO
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/6993/index.m3u8
-
-#EXTINF:0 tvg-id="esp-hd" group-title="United Kingdom" timeshift="3",EUROSPORT 1 HD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/6557/index.m3u8
-#EXTINF:0 tvg-id="esp2" group-title="United Kingdom" timeshift="3",EUROSPORT 2 HD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/6556/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 3 HD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14180/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 3 SD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14181/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 4 HD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14182/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 4 SD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14183/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 5 HD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14184/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 5 SD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14185/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 6 HD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14186/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 6 SD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14187/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 7 HD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14188/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 7 SD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14189/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 8 HD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14190/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 8 SD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14191/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Eurosport 9 SD UK
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14192/index.m3u8
-
-#EXTINF:0 tvg-id="esp2" group-title="Israel" timeshift="3",Eurosport 2 HD
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/7203/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="France",EuroSport 360 1 HD FR
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14193/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="France",EuroSport 360 2 HD FR
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14194/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="France",EuroSport 360 3 HD FR
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14195/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="France",EuroSport 360 4 HD FR
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14196/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="France",EuroSport 360 5 HD FR
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14197/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="France",EuroSport 360 6 HD FR
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14198/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="France",EuroSport 360 7 HD FR
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14199/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="France",EuroSport 360 8 HD FR
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14200/index.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="Poland",Eurosport 3 HD PL
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14201/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Eurosport 4 HD PL
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14202/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Eurosport 5 HD PL
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14203/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Eurosport 6 HD PL
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14204/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Eurosport 7 HD PL
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14205/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Eurosport 8 HD PL
-http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/14206/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",Eurosport 9 HD PL
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
 http://ip1.orgip.net/0201/video.m3u8?token=A3b61a999e

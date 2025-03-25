@@ -16,7 +16,7 @@ http://ip1.orgip.net/203/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-3.png" group-title="Спортивные",Матч! Футбол 3 (1080p)
 http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
+# EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Спортивные",Спорт на Первом (1080p)
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт (1080p)
@@ -28,7 +28,7 @@ http://89.23.113.132/oksphd/video.m3u8
 #EXTINF:-1 tvg-id="okko-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол (1080p)
 http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="okko-football" group-title="Спортивные",Окко Футбол HD
+# EXTINF:-1 tvg-id="okko-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Спортивные",Окко Футбол (1080p)2
 http://89.23.113.132/okfuthd/video.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus-5.png" group-title="Спортивные",Беларусь 5 (1080p)
@@ -47,6 +47,12 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Спортивные",Setanta Sports 01 (1080p)
 http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
+
+# EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Спортивные",Setanta Sports 01 (1080p) - образец
+http://ip1.orgip.net/220/tracks-v1a1/mono.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Спортивные",Setanta Sports 01 (1080p) - тест
+http://54.38.180.159/220/tracks-v1a1/mono.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta2-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Спортивные",Setanta Sports 02 (1080p)
 http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
@@ -390,22 +396,22 @@ https://7pal.short.gy/astross4
 
 --- 📺 Sports | Tennis
 
-#EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Спортивные",Super Tennis IT (1080p)
+#EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Теннис",Super Tennis IT (1080p)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
-#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Теннис",Tennis Channel (720p)
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-# EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)2
+# EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Теннис",Tennis Channel (720p)2
 https://7pal.short.gy/tennisc
 
-# EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Спортивные",Tennis Channel (720p)3
+# EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Теннис",Tennis Channel (720p)3
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="tennis-plus-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)
+#EXTINF:-1 tvg-id="tennis-plus-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Теннис",T2 Tennis (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist1080-p.m3u8
 
-# EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Спортивные",T2 Tennis (1080p)2
+# EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Теннис",T2 Tennis (1080p)2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 --- 📺 Sports | USA
@@ -512,7 +518,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-id="nbc-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="Американские",NBC News Now [Neutral] (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 
-#EXTINF:-1 tvg-id="abc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news.png" group-title="Американские",ABC News [Neutral] (720p)
+#EXTINF:-1 tvg-id="abc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news-live.png" group-title="Американские",ABC News Live [Neutral] (720p)
 https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 
 #EXTINF:-1 tvg-id="cbc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="Американские",CBS News [Neutral] (720p)

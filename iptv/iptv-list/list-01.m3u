@@ -102,13 +102,10 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 --- 📺 Science | RUSSIA
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
-
-# EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)2
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
-# EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)3
-http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
+# EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)2
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="discovery",Viju Explore (576p)
 https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8

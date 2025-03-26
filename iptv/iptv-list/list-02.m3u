@@ -29,45 +29,6 @@ http://41.205.93.154/MSNBC/index.m3u8
 http://78.130.250.2:8023/play/a02e/index.m3u8
 
 
-#EXTINF:-1 group-title="Общие" tvg-logo="http://loganet.ru/images/channels/First-HD.png", Первый канал HD +4
-https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-
-
-#EXTINF:-1 group-title="Общие",Первый канал
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1 HD
-http://185.184.120.14:2020/channel/n71dac8cc/index.m3u8?q=14a14b4b4299a144f5dc952ba7dfbddd
-#EXTINF:-1 group-title="Общие",Россия 1
-http://185.23.80.29:8080/Rossiya1/index.m3u8?token=test
-#EXTINF:-1 group-title="Общие",НТВ HD
-http://s1.merlive.am/ntvhd/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
-https://telemania.tv/eurosport2/index.m3u8
-
-
-#EXTINF:-1 group-title="Спорт",Матч!
-https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт",Матч! Боец
-http://87.120.142.11:18000/Match!
-#EXTINF:-1 group-title="Спорт",Матч! Игра
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 group-title="Спорт",Матч! Планета
-http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
-
-#EXTINF:-1 group-title="Познавательные",History HD
-http://stream01.vnet.am/Channel_123/mono.m3u8
-
-#EXTINF:-1 group-title="Польша",Eurosport1 HD
-http://178.219.128.68:64889/EURO1HD
-#EXTINF:-1 group-title="Польша",Eurosport2 HD
-http://178.219.128.68:64889/EURO2HD
-
-
 
 
 

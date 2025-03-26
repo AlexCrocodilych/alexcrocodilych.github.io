@@ -11,8 +11,7 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт (HD)
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="Детские",СТС Kids (EDTV)
-http://stream02.vnet.am/DisneyChannel/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png" group-title="Познавательные",History (HD)
 http://xx001.vivat.live/t-1.0f6f.d/hd/00419/8m/index.m3u8
@@ -25,73 +24,78 @@ http://185.50.148.2:7703/ViasatHistory/index.m3u8
 http://41.205.93.154/MSNBC/index.m3u8
 
 
-#EXTINF:-1,ИСТОРИЯ
-http://dmi3y-tv.ru/hls/CH_ISTORIYA.m3u8
-#EXTINF:-1,National Geographic
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
-#EXTINF:-1,National Geographic WILD
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
-
-#EXTINF:-1,Discovery Channel HD
-http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
-
-
-
-
-#EXTINF:-1 group-title="USA",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6",NASA TV Public (720p)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+# EXTINF:-1 group-title="Чехия",Nat Geo HD
+http://78.130.250.2:8023/play/a02e/index.m3u8
 
 #EXTINF:-1 group-title="Чехия",Nat Geo HD
-http://78.130.250.2:8023/play/a02e/index.m3u8
-#EXTINF:-1 group-title="Чехия",National Geographic Wild HD
+http://78.130.250.2:8023/play/a02e/lwecvdz4.ts
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
+http://nodns1.top:8080/10170550054028/51739379482781/51962
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
+http://pro.ipcover.lol:8080/Alexis58174/857164/401957
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD CEE
+http://nodns1.top:8080/38170638485767/91739876651327/51962
+
+#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра
+http://87.120.142.11:18000/Match!Igra
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер HD
+http://195.18.23.20:8000/play/88/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч Футбол 1 HD
+http://31.148.48.15/Match_Futbol_1_HD/mono.m3u8
+
+#EXTINF:- 1tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2 HD
+http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч Футбол 3 HD
+http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
+http://45.159.74.14:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild CEE
+http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild SD
+https://tv.movielab.pro/162/video.m3u8?token=8d3d6af4491992b8c23c0853b2c8b1cee3954592-9131656dff297e0edf0b031fee7b584e-1741334454-1741248054
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild СНГ HD
 http://78.130.250.2:8023/play/a02c/index.m3u8
-#EXTINF:-1 group-title="Чехия",Love Nature HD INT
-http://78.130.250.2:8023/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
+http://45.159.74.14:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic SD
+https://tv.movielab.pro/143/video.m3u8?token=0524b9b53587c18ae4d12e0a39c96cb335c2ef70-38180807ab82dab1be9146ed2c3e2fc7-1741334454-1741248054
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic CEE
+http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery HD
+http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery-Channel HD
+http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
+https://tv.movielab.pro/147/video.m3u8?token=b39552e5ee026ce1b86e78ec35ecc1ecc5b7be38-f4223ec9e12a1f01ff4f61dfbb3f0786-1741334454-1741248054
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra Европа
+http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery EU
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="history" group-title="Познавательные", History
+http://45.159.74.14:80/Channel_123/manifest.m3u8
+#EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
+http://stream01.vnet.am/Channel_123/mono.m3u8
+
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель Международный
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+
+#EXTINF:-1 group-title="Детские",СТС Kids HD
+http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDEzNzEzODAsImlhdCI6MTc0MTI4NDk4MCwiY2lkIjo2LCJ1aWQiOjg5ODk5MjQxMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.DwTsnvkQR52jP29VfUTpJBk86wg8sOZB83p4hWTw0Zg&offset=3
+https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 
 
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History HD [RU-EN-CZ]
-http://95.67.12.81:10619?key=fas-tv.com
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History 2 HD [RU-EN-CZ]
-http://95.67.12.81:10620?key=fas-tv.com
-
-
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History
-http://45.159.74.14:80/Channel_123/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",Футбол 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="SPORT 🏆",КХЛ
-http://178.124.152.238:8088/khl
-
-
-#EXTINF:-1 group-title="SPORT 🏆",МАТЧ 
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",RING HD [Bulgarian]
-http://87.246.60.6:11021
-
-#EXTINF:-1 group-title="CHILDREN'S",Мульт и музыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
-
-#EXTINF:-1 group-title="CHILDREN'S",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
-
-#EXTINF:-1 group-title="CHILDREN'S",Мульт ᴴᴰ
-http://stream01.vnet.am/Mult/mono.m3u8
-
-#EXTINF:-1 group-title="CHILDREN'S",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-
-#EXTINF:-1 tvg-id="pervy" tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" group-title="Эфирные",Первый канал HD
-https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTYxMzUxMCwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQxMDA4NzEwLCJzZXNzaW9uX2lkIjoiNjc3ZThiMjcwMDlmNjdhYTFkMmI5ZGRhNjRjODExYzEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uMfVA3B75Tbst0XY1JyF8WI2IUKgE0DMgjPVvIJykpk&curPos=03032025121452&sid=5cb4f3e5-b67f-49db-8802-fb85389d2061
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-
-
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - PL (1080p)
+http://178.219.128.68:64889/EURO1H-D
+http://41.205.93.154/EUROSPORT1/index.m3u8
 
 
 

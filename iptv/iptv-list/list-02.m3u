@@ -15,18 +15,17 @@ http://148.113.190.252/espn2hd/index.m3u8
 #EXTINF:-1,ESPN 5
 http://168.196.127.18:6001/play/a08j/index.m3u8
 
-#EXTINF:-1,Eurosport 1
+#EXTINF:-1,Eurosport 1 PL
 http://178.219.128.68:64889/EURO1HD
 
+#EXTINF:-1,Eurosport 1 FR
+http://41.205.93.154/EUROSPORT1/index.m3u8
 
-#EXTINF:-1,Eurosport 1 UK
-http://41.205.93.154/EUROSPORT1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Eurosport 2
+#EXTINF:-1,Eurosport 2 PL
 http://91.217.198.226:8000/udp/239.100.10.95:2234
 
-#EXTINF:-1,Eurosport 2 UK
-http://41.205.93.154/EUROSPORT2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Eurosport 2 FR
+http://41.205.93.154/EUROSPORT2/index.m3u8
 
 #EXTINF:-1,Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8

@@ -35,24 +35,16 @@ http://87.120.142.11:18000/Match!Igra
 
 
 
-#EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 5 FHD
-https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju History
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
 
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat history
+http://77.235.1.17/viasat_history/index.m3u8
 
-
-#EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 5 FHD0
-http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-
-
-#EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 5 FHD1
-http://31.134.132.245:8080/ort_hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 5 FHD2
-http://91.192.168.251:5050
-
-
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",Матч Премьер (1080p)
-http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
+#EXTINF:-1 group-title="SPORT 🏆",МАТЧ HD
+http://91.205.199.3/matchtvhd/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Арена
+http://91.205.199.3/2x2tv/index.m3u8
 
 
 --- 📺 Sports | RUSSIA

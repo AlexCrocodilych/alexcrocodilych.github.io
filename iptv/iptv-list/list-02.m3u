@@ -5,52 +5,28 @@
 
 
 
-#EXTINF:-1 tvg-name="Первый канал" group-title="Новости", Первый канал
-#EXTGRP:Новости
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
-
-
-#EXTINF:-1,BBC America
-http://208.79.153.192:80/teleup-bbca/mpegts
-
-
-#EXTINF:-1,BBC Earth
-http://178.219.128.68:64888/BBCEARTHD
 
 #EXTINF:-1,CBSN Philadelphia
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 
-#EXTINF:-1,CT Sport
-http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
-
-#EXTINF:-1,Discovery Bulgaria
-http://78.128.125.60:9981/play/a00z/index.m3u8
-
-#EXTINF:-1,Discovery Historia
-http://178.219.128.68:64889/DISCHIST
-
 #EXTINF:-1,ESPN 2
 http://148.113.190.252/espn2hd/index.m3u8
+
 #EXTINF:-1,ESPN 5
 http://168.196.127.18:6001/play/a08j/index.m3u8
 
-
-#EXTINF:-1,Euronews Serbia
-https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/chunks.m3u8
 #EXTINF:-1,Eurosport 1
 http://178.219.128.68:64889/EURO1HD
 
 
 #EXTINF:-1,Eurosport 1 FR
-http://41.205.93.154/EUROSPORT1/index.m3u8
+http://41.205.93.154/EUROSPORT1/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1,Eurosport 2
 http://91.217.198.226:8000/udp/239.100.10.95:2234
-#EXTINF:-1,Eurosport 2 FR
-http://41.205.93.154/EUROSPORT2/index.m3u8
 
-
-#EXTINF:-1,Folx Slovenija
-https://cdne.folxplay.tv/fxt/streams/ch-5/master.m3u8
+#EXTINF:-1,Eurosport 2 UK
+http://41.205.93.154/EUROSPORT2/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1,Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -59,25 +35,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 http://41.205.93.154/MSNBC/index.m3u8
 
 
-#EXTINF:-1,NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1,NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
-#EXTINF:-1,NBC 6 South Florida
-http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
-
-#EXTINF:-1,Sky News Australia
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-
-
-#EXTINF:-1,TSports
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1,TSports 2
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-
-
-#EXTINF:-1,TVL Sport
-https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/chunks.m3u8
 
 
 

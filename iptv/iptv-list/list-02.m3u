@@ -6,14 +6,9 @@
 
 
 
-#EXTINF:-1,CBSN Philadelphia
-https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 
-#EXTINF:-1,ESPN 2
-http://148.113.190.252/espn2hd/index.m3u8
 
-#EXTINF:-1,ESPN 5
-http://168.196.127.18:6001/play/a08j/index.m3u8
+
 
 #EXTINF:-1,Eurosport 1 PL
 http://178.219.128.68:64889/EURO1HD
@@ -27,30 +22,8 @@ http://91.217.198.226:8000/udp/239.100.10.95:2234
 #EXTINF:-1,Eurosport 2 FR
 http://41.205.93.154/EUROSPORT2/index.m3u8
 
-#EXTINF:-1,Fox News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1,MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
 
 
-#EXTINF:-1,NBC
-http://4.59.210.197:8815/udp/127.0.0.1:6009
-
-
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://epg.it999.ru/img/2801.png",Love Nature 4k
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 group-title="TEST (VPN)",Матч Премьер
-http://195.18.23.20:8000/play/88/index.m3u8
-
-#EXTINF:-1 group-title="TEST (VPN)",Бобёр
-http://195.18.23.20:8000/play/1/index.m3u8
-
-
-
-#EXTINF:-1 group-title="ICN",Матч! Арена
-http://45.11.139.43:8555/matcharena/index.m3u8
 
 
 
@@ -58,20 +31,33 @@ http://45.11.139.43:8555/matcharena/index.m3u8
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 
 
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Детские",Nickelodeon (HD)
+http://stream01.vnet.am/Channel_114/mono.m3u8
 
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал (+4)
-http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт (HD)
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
-#EXTINF:-1 group-title="Байкал-Телеком (VPN)",ПЕРВЫЙ КАНАЛ HD
-http://194.143.148.28:8080/PerviyHD/mpegts
+#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="Детские",СТС Kids (HD)
+http://130.193.73.10:8937/play/a017
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png" group-title="Познавательные",History (HD)
+http://xx001.vivat.live/t-1.0f6f.d/hd/00419/8m/index.m3u8
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viju HISTORY (EDTV)
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="США",BBC World News North America (HD)
+http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Информационные",Euronews (HD)
+https://stream01.vnet.am/Channel_119/mono.m3u8
+
+#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://epg.iptvx.one/picons/msnbc-us.png" group-title="США",MSNBC (HD ready)
+http://41.205.93.154/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png" group-title="США",NBC News NOW (HD)
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+
 
 
 
@@ -114,6 +100,9 @@ https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w1559
 
 #EXTINF:-1 tvg-id="football-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/futbol.png" group-title="Sports",Футбол (1080p)
 http://93.189.224.246:52900/play/a00c/index.m3u8
+
+# EXTINF:-1 tvg-id="khl-prime" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/khl-prime.png" group-title="Sports",KHL Prime (720p)
+http://194.143.148.28:8080/KHL_HD/mpegts
 
 # EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Sports",2 Спорт 2 (1080p)
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
@@ -423,6 +412,12 @@ http://190.102.246.93:9005/play/a029
 #EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 CO (1080p)
 http://38.51.233.85:8000/play/a03s/index.m3u8
 
+#EXTINF:-1,ESPN 2
+http://148.113.190.252/espn2hd/index.m3u8
+
+#EXTINF:-1,ESPN 5
+http://168.196.127.18:6001/play/a08j/index.m3u8
+
 #EXTINF:-1 tvg-id="espn3-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-3.png" group-title="Sports",ESPN 3 CO (720p)
 http://190.102.246.93:9005/play/a02l
 
@@ -537,7 +532,20 @@ https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/kyw-tv.png" group-title="US-local",KYW-TV CBS 3 Philadelphia PA [Neutral] (720p)
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 
---- 📺 News | US 
+--- 📺 News | US
+
+#EXTINF:-1,CBSN Philadelphia
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+
+#EXTINF:-1,Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1,MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
+
+
+#EXTINF:-1,NBC
+http://4.59.210.197:8815/udp/127.0.0.1:6009
 
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn.png" group-title="US-news",CNN [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com

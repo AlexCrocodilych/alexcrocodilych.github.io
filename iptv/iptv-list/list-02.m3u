@@ -3,199 +3,83 @@
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
 
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
 
-#EXTINF:-1 tvg-id="Mezhdunet.ru" tvg-logo="https://i.imgur.com/lFwhJJU.png" group-title="Undefined",Между.Net (Междуреченск) (720p) [Not 24/7]
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NashaSibir.ru" tvg-logo="https://i.imgur.com/uXOz2d9.png" group-title="Travel",Наша Сибирь / Кемерово (1080p) [Not 24/7]
-https://strm.yandex.ru/kal/sibir/sibir0.m3u8
-
-#EXTINF:-1 tvg-id="RadioShanson.ru" tvg-logo="https://i.imgur.com/NwuwdPS.png" group-title="Music",Радио Шансон (720p) [Not 24/7]
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-
-#EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.imgur.com/tHVc8on.png" group-title="Sports",1+1 Спорт (720p) [Not 24/7]
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BoomerangEMEA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Slovenia
-http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
-
-#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
-https://insighttv-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MusicBoxRussia.ru" tvg-logo="https://i.imgur.com/iWJdeD1.png" group-title="Music",Music Box Russia (1080p)
-https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-
-#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicRussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-
-#EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/pcUXHLR.png" group-title="Music",RU.TV (1080p) [Geo-blocked]
-https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кузбасс 1 (1080p) [Not 24/7]
-https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Бобёр" group-title="Познавательные", Бобёр
-#EXTGRP:Познавательные
-http://109.200.130.124:7006/play/a02g
-
-
-#EXTINF:-1 tvg-name="Love Nature 4K UHD" group-title="Познавательные", Love Nature 4K UHD
-#EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8?version=2
-
-
-#EXTINF:-1 tvg-name="National Geographic Wild HD" group-title="Познавательные", National Geographic Wild HD
-#EXTGRP:Познавательные
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 tvg-name="National Geographic (okko tv)" group-title="Познавательные", National Geographic (okko tv)
-#EXTGRP:Познавательные
-http://okkotv-live.cdnvideo.ru/channel/NGC_HD/720p.m3u8
-#EXTINF:-1 tvg-name="National Geographic HD (okko tv)" group-title="Познавательные", National Geographic HD (okko tv)
-#EXTGRP:Познавательные
-http://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild (okko tv)" group-title="Познавательные", Nat Geo Wild (okko tv)
-#EXTGRP:Познавательные
-https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
-
-
-
-#EXTINF:-1 tvg-name="Al Kass Sports 1 HD" group-title="Спортивные", Al Kass Sports 1 HD
-#EXTGRP:Спортивные
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1 tvg-name="Al Kass Sports 4 HD" group-title="Спортивные", Al Kass Sports 4 HD
-#EXTGRP:Спортивные
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-name="Al Kass Спортs 1" group-title="Спортивные", Al Kass Спортs 1
-#EXTGRP:Спортивные
-http://www.elahmad.com/tv/m3u8
-#EXTINF:-1 tvg-name="Alsace 20" group-title="Спортивные", Alsace 20
-#EXTGRP:Спортивные
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Arryadia Спорт" group-title="Спортивные", Arryadia Спорт
-#EXTGRP:Спортивные
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-name="Arryadia Спорт HD" group-title="Спортивные", Arryadia Спорт HD
-#EXTGRP:Спортивные
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-name="BRT Sport" group-title="Спортивные", BRT Sport
-#EXTGRP:Спортивные
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:-1 tvg-name="Combat Go" group-title="Спортивные", Combat Go
-#EXTGRP:Спортивные
-http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
-#EXTINF:-1 tvg-name="FootballHub" group-title="Спортивные", FootballHub
-#EXTGRP:Спортивные
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Qazsport" group-title="Спортивные", Qazsport
-#EXTGRP:Спортивные
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports HD" group-title="Спортивные", Setanta Sports HD
-#EXTGRP:Спортивные
-http://myott.tv/stream/E9LYLBWT7X/234.m3u8
-
-#EXTINF:-1 tvg-name="Игра FHD" group-title="Спортивные", Игра FHD
-#EXTGRP:Спортивные
-https://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8
-
-#EXTINF:-1 tvg-name="Евроспорт 4к" group-title="Спортивные", Евроспорт 4к
-#EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
-
-
-#EXTINF:-1 tvg-name="Eurosport 1" group-title="Спортивные", Eurosport 1
-#EXTGRP:Спортивные
-http://188.113.190.12/82/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="http://tricolor-38.ru/KANALY_3/Eurosport-1-HD.png" group-title="Спортивные", Eurosport 1 HD
-#EXTGRP:Спортивные
-https://hls1.sweet.tv/stream/8ev3skvmms5c59dghejb2pgkvdz92t4gv6bxnxguaqeih5mi46rfgcj4ghbf7i2eqw32yrkp67vuxic95x6x4g2cmqspsxyk44k839n8frrf7m4p9dgec2kqkdmwb7fgxzafzmrg98ucn===.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="http://tricolor-38.ru/KANALY_3/Eurosport_2_HD.png" group-title="Спортивные", Eurosport 2 HD
-#EXTGRP:Спортивные
-https://hls1.sweet.tv/stream/83zqbrgbugqefh2m6j98jqdnb6zrw92xj866qgxjiwutxk8rvjewtr9zaskcyqky26gde44s7y5wxzrmye6xky9zjrghnteeri734enut8igue4uw4md4tbcu4s8a8ueimn555qzqx6pn===.m3u8
-#EXTINF:-1 tvg-name="Eurosport 4K HD" tvg-logo="https://ic.wampi.ru/2021/04/14/1b5e824af7194487b0f094d652aa5a84.png" group-title="Спортивные", Eurosport 4K HD
-#EXTGRP:Спортивные
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
-
-
-#EXTINF:-1 tvg-name="Setanta Sport Ukraine [FHD]" group-title="Спортивные", Setanta Sport Ukraine [FHD]
-#EXTGRP:Спортивные
-https://185-107-80-245.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 1 [FHD]" group-title="Спортивные", Setanta Sports 1 [FHD]
-#EXTGRP:Спортивные
-https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports 2 [FHD]" group-title="Спортивные", Setanta Sports 2 [FHD]
-#EXTGRP:Спортивные
-https://77-247-178-24.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports HD" group-title="Спортивные", Setanta Sports HD
-#EXTGRP:Спортивные
-https://95-213-172-213.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports Ukraine [FHD]" group-title="Спортивные", Setanta Sports Ukraine [FHD]
-#EXTGRP:Спортивные
-https://77-247-178-24.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports Ukraine HD" tvg-logo="http://only4.tv/ch/5511.png" group-title="Спортивные", Setanta Sports Ukraine HD
-#EXTGRP:Спортивные
-https://hls1.sweet.tv/stream/ywrqrkcppthkuwa64z5r9qaddpcqde3fhd76cpgkjhqzxs2jp6u2aix7cmmz2uv7m6fxy93qgt97x8jsk6adyffd5expnehfbftpei3i7ncnbrbfjxkjyfen3pgrtctx9b4pctiygx4vuf2=.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports+ Ukraine HD" tvg-logo="http://only4.tv/ch/6268.png" group-title="Спортивные", Setanta Sports+ Ukraine HD
-#EXTGRP:Спортивные
-https://hls1.sweet.tv/stream/8e9dv8bv2wg7qa25i2z56q7ihwe692xnurazwyra98kq4259fcr5j4scqmx6sfp773m3y8pafgntqjbfrmwseh7m8utg885uvk93v8jwaesu42k8htvj7vye884vt6gpnfm5fitywutd2===.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="Eurosport 1 [RU] [SD]" group-title="Спортивные", Eurosport 1 [RU] [SD]
-#EXTGRP:Спортивные
-https://185-107-80-245.livesports24.online/eurosport1ru.m3u8
-
-
-#EXTINF:-1 tvg-name="Россия 24 HD" group-title="Новости", Россия 24 HD
-#EXTGRP:Новости
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
 #EXTINF:-1 tvg-name="Первый канал" group-title="Новости", Первый канал
 #EXTGRP:Новости
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 
 
-#EXTINF:-1 tvg-name="Первый канал HD" group-title="Новости", Первый канал HD
-#EXTGRP:Новости
-http://78.58.133.179:28000/play/a002/index.m3u8
+#EXTINF:-1,BBC America
+http://208.79.153.192:80/teleup-bbca/mpegts
 
 
-#EXTINF:-1 tvg-name="НТВ HD" group-title="Развлекательные", НТВ HD
-#EXTGRP:Развлекательные
-http://78.58.133.179:28000/play/a001/index.m3u8
+#EXTINF:-1,BBC Earth
+http://178.219.128.68:64888/BBCEARTHD
+
+#EXTINF:-1,CBSN Philadelphia
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+
+#EXTINF:-1,CT Sport
+http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1,Discovery Bulgaria
+http://78.128.125.60:9981/play/a00z/index.m3u8
+
+#EXTINF:-1,Discovery Historia
+http://178.219.128.68:64889/DISCHIST
+
+#EXTINF:-1,ESPN 2
+http://148.113.190.252/espn2hd/index.m3u8
+#EXTINF:-1,ESPN 5
+http://168.196.127.18:6001/play/a08j/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Игра FHD" group-title="HD", Игра FHD
-#EXTGRP:HD
-https://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8
+#EXTINF:-1,Euronews Serbia
+https://media-euronews-portal.ott.solutions/euronews-rs/public_stream/chunks.m3u8
+#EXTINF:-1,Eurosport 1
+http://178.219.128.68:64889/EURO1HD
 
 
-#EXTINF:-1 tvg-name="Первый канал HD" group-title="HD", Первый канал HD
-#EXTGRP:HD
-https://plmgr-moretv.cdnvideo.ru/1tvstream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Дождь FHD" group-title="HD", Дождь FHD
-#EXTGRP:HD
-https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
-
-
-#EXTINF:-1 tvg-name="Лес FHD" group-title="HD", Лес FHD
-#EXTGRP:HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1,Eurosport 1 FR
+http://41.205.93.154/EUROSPORT1/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://91.217.198.226:8000/udp/239.100.10.95:2234
+#EXTINF:-1,Eurosport 2 FR
+http://41.205.93.154/EUROSPORT2/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Eurosport 1 HD" group-title="HD", Eurosport 1 HD
-#EXTGRP:HD
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-#EXTINF:-1 tvg-name="Eurosport 2 HD" group-title="HD", Eurosport 2 HD
-#EXTGRP:HD
-https://livetv.mylifeisgood.ml/channels/eurosport2
+#EXTINF:-1,Folx Slovenija
+https://cdne.folxplay.tv/fxt/streams/ch-5/master.m3u8
+
+#EXTINF:-1,Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1,MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
+
+
+#EXTINF:-1,NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1,NBC
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+#EXTINF:-1,NBC 6 South Florida
+http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
+
+#EXTINF:-1,Sky News Australia
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+
+
+#EXTINF:-1,TSports
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1,TSports 2
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+
+
+#EXTINF:-1,TVL Sport
+https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/chunks.m3u8
+
+
 
 
 

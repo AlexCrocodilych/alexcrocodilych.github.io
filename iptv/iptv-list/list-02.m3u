@@ -11,7 +11,8 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт (HD)
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
-
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель Международный
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png" group-title="Познавательные",History (HD)
 http://xx001.vivat.live/t-1.0f6f.d/hd/00419/8m/index.m3u8
@@ -34,58 +35,22 @@ http://87.120.142.11:18000/Match!Igra
 
 
 
-#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель Международный
-https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
-
-#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель Международный
-https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel-avc1_3000000=9.m3u8
-
-#EXTINF:-1 group-title="Детские",СТС Kids HD
-https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
-
-
-#EXTINF:-1 tvg-id="setanta-sport-ua-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-ua-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports UA HD
-http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
-
-#EXTINF:-1 tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Setanta Ukraine Plus HD
-http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
-
-
-#EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1 Georgia HD
-http://158.101.214.187:8080/channel/n504ecebd/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
-#EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 2 Georgia HD
-http://158.101.214.187:8080/channel/n489d295e/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
-
-#EXTINF:-1 group-title="СПОРТ ⚽",КХЛ
-http://stream01.vnet.am/Channel_113/mono.m3u8
-
-
-#EXTINF:-1 group-title="RELAX NATURE",TV Relax Stardust 4K
-http://200.26.188.39:80/play/live.php?mac=00:1A:79:7E:1A:A8&stream=809414&extension=ts
-
-#EXTINF:-1 group-title="RELAX NATURE",TV Камин HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Sunset Space HD
-https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
-
-#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-
 #EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 5 FHD
 https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist.m3u8
 
 
-EXTINF:-1 group-title="РОСІЯ 🇷🇺",Россия 1 FHD
+EXTINF:-1 group-title="РОСІЯ",Россия 1 FHD
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 
-EXTINF:-1 group-title="РОСІЯ 🇷🇺",Первый канал HD
+EXTINF:-1 group-title="РОСІЯ",Первый канал HD
 http://31.134.132.245:8080/ort_hd/tracks-v1a1/mono.m3u8
-EXTINF:-1 group-title="РОСІЯ 🇷🇺",Первый канал FHD
+
+EXTINF:-1 group-title="РОСІЯ",Первый канал FHD
 http://91.192.168.251:5050
 
 
-
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",Матч Премьер (1080p)
+http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
 
 
 --- 📺 Sports | RUSSIA

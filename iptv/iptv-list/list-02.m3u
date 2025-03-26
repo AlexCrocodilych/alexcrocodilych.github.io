@@ -38,7 +38,155 @@ http://41.205.93.154/MSNBC/index.m3u8
 http://4.59.210.197:8815/udp/127.0.0.1:6009
 
 
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
+
+#EXTINF:-1 group-title="TEST ⓵",FAST SPORTS
+http://45.159.74.14:80/Channel_131/manifest.m3u8
+
+
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://epg.it999.ru/img/2801.png",Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 group-title="TEST (VPN)",Матч Премьер
+http://195.18.23.20:8000/play/88/index.m3u8
+
+#EXTINF:-1 group-title="TEST (VPN)",Бобёр
+http://195.18.23.20:8000/play/1/index.m3u8
+
+
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/ec/3d/ec3d950ca1dbeac9c8017df68179aa35.jpg", Камин
+https://river-1.rutube.ru/hls-vod/iM4pevvdbmTpCWon-kkSag/1741987494/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
+
+
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/d0/e6/d0e61eaaf75c5de99cce846c6fc6d9ba.jpg", Razer Sharp 4K
+https://river-1.rutube.ru/hls-vod/R7zwfHWER5PDn-x5viw1gA/1741987504/1859/0x5000c500e5356d38/0e29af94ffe3489d83504c1f5a3d12fc.mp4.m3u8?i=3840x2160_14068
+
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/ce/01/ce01d4f2b1984d8dc9468e192f5816e9.jpg", Океан В 4К Релакс
+https://river-1.rutube.ru/hls-vod/itFQbNFESiajtMKSaGKN7A/1741987543/1788/0x5000c500c939412d/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg", Лес В 4К
+https://river-1.rutube.ru/hls-vod/RHpCn9xRJkkbyU8IRPJpVA/1741987544/1846/0x5000c500c921884f/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
+
+#EXTINF:-1 group-title="ICN",Матч! Арена
+http://45.11.139.43:8555/matcharena/index.m3u8
+
+
+#EXTINF:-1 group-title="Persik.by",Первый канал
+http://93.189.224.246:52900/play/a011/index.m3u8
+#EXTINF:-1 group-title="Persik.by",НТВ
+http://93.189.224.246:52900/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="Persik.by",Россия 24
+http://93.189.224.246:52900/play/a00o/index.m3u8
+
+
+#EXTINF:-1 group-title="Persik.by",Футбол
+http://93.189.224.246:52900/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Беларусь 5
+http://93.189.224.246:52900/play/a005/index.m3u8
+#EXTINF:-1 group-title="Persik.by",Матч ТВ
+http://93.189.224.246:52900/play/a00x/index.m3u8
+
+#EXTINF:-1 group-title="Белтелеком_2",Шансон ТВ
+http://178.124.152.238:8088/shanson
+
+
+#EXTINF:-1 group-title="Hetzner Online",Discovery Channel
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Hetzner Online",History
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+
+
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg",Relaxon
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+
+
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg",Дожди
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+
+
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg",Лес
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg",Огонь
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+
+#EXTINF:-1 group-title="Caspel",Первый канал HD
+http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Caspel",НТВ HD
+http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+
+
+#EXTINF:-1 group-title="Caspel",Investigation Discovery
+http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Viasat History
+http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel" aspect-ratio="16:9",Viasat Nature
+http://mfe01.cliptv.az/dash/Viasat_Nature_SDdffd567ua.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Animal Planet HD
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Discovery Channel HD
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",History HD
+http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Big Planet
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:-1 group-title="Caspel",Travel+Adventure
+http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
+
+
+#EXTINF:-1 group-title="С сайтов" ,Бобер
+#EXTVLCOPT:http-referrer=https://bober.ru
+https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
+
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал (+4)
+http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+
+
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="КРЭЛКОМ (VPN)",БОБЁР
+http://109.200.130.123:7537/play/a02c
+
+#EXTINF:-1 group-title="Байкал-Телеком (VPN)",ПЕРВЫЙ КАНАЛ HD
+http://194.143.148.28:8080/PerviyHD/mpegts
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! Футбол 1
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+
+#EXTINF:-1 group-title="Селектел (VPN)" ,Первый канал HD
+http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=m3VIth-Rou_bM1
+
+#EXTINF:-1 group-title="Селектел (VPN)" ,НТВ HD
+http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
+http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
+
+#EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=dB4-Nnuea_osAU9nAv1kqw&e=1741852588&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=2oDrK6g-ZPRAp_k9tApuaA&e=1741852589&scheme=https
+
+#EXTINF:-1 group-title="Rutube (VPN)",Матч ТВ HD
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=G3J604RId2cjckYRTWT8qw&e=1741852662&scheme=https
+
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆" tvg-id="2051", Матч! HD
+http://94.230.240.17:8080/machtv/index.m3u8
 
 
 

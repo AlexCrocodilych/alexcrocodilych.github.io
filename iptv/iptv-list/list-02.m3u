@@ -544,13 +544,13 @@ https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature (2160p)
+#EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="US-public",Love Nature (2160p)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-# EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature (1080p)2
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature (1080p)2
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
-# EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature (1080p)3
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Общественные",Love Nature (1080p)3
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 --- 📺 News | RUSSIA

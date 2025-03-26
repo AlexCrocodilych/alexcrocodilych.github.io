@@ -24,78 +24,66 @@ http://185.50.148.2:7703/ViasatHistory/index.m3u8
 http://41.205.93.154/MSNBC/index.m3u8
 
 
-# EXTINF:-1 group-title="Чехия",Nat Geo HD
+#EXTINF:-1 group-title="Чехия",Nat Geo HD
 http://78.130.250.2:8023/play/a02e/index.m3u8
 
-#EXTINF:-1 group-title="Чехия",Nat Geo HD
-http://78.130.250.2:8023/play/a02e/lwecvdz4.ts
 
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
-http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
-http://nodns1.top:8080/10170550054028/51739379482781/51962
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
-http://pro.ipcover.lol:8080/Alexis58174/857164/401957
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD CEE
-http://nodns1.top:8080/38170638485767/91739876651327/51962
 
 #EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер HD
-http://195.18.23.20:8000/play/88/index.m3u8
 
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч Футбол 1 HD
-http://31.148.48.15/Match_Futbol_1_HD/mono.m3u8
-
-#EXTINF:- 1tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2 HD
-http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
-
-#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч Футбол 3 HD
-http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
-http://45.159.74.14:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild CEE
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild SD
-https://tv.movielab.pro/162/video.m3u8?token=8d3d6af4491992b8c23c0853b2c8b1cee3954592-9131656dff297e0edf0b031fee7b584e-1741334454-1741248054
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild СНГ HD
-http://78.130.250.2:8023/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
-http://45.159.74.14:80/NationalGeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic SD
-https://tv.movielab.pro/143/video.m3u8?token=0524b9b53587c18ae4d12e0a39c96cb335c2ef70-38180807ab82dab1be9146ed2c3e2fc7-1741334454-1741248054
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic CEE
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery HD
-http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery-Channel HD
-http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
-https://tv.movielab.pro/147/video.m3u8?token=b39552e5ee026ce1b86e78ec35ecc1ecc5b7be38-f4223ec9e12a1f01ff4f61dfbb3f0786-1741334454-1741248054
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra Европа
-http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery EU
-http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="history" group-title="Познавательные", History
-http://45.159.74.14:80/Channel_123/manifest.m3u8
-#EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
-http://stream01.vnet.am/Channel_123/mono.m3u8
 
 #EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель Международный
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель Международный
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel-avc1_3000000=9.m3u8
+
 #EXTINF:-1 group-title="Детские",СТС Kids HD
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDEzNzEzODAsImlhdCI6MTc0MTI4NDk4MCwiY2lkIjo2LCJ1aWQiOjg5ODk5MjQxMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.DwTsnvkQR52jP29VfUTpJBk86wg8sOZB83p4hWTw0Zg&offset=3
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - PL (1080p)
-http://178.219.128.68:64889/EURO1H-D
-http://41.205.93.154/EUROSPORT1/index.m3u8
+#EXTINF:-1 tvg-id="setanta-sport-ua-hd-orig" tvg-logo="http://static.g-cdn.app/streams/setanta-sport-ua-hd-orig.png" tvg-rec="1" catchup_days="7" group-title="СПОРТ ⚽",Setanta Sports UA HD
+http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
+
+#EXTINF:-1 tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="1" catchup_days="3" group-title="СПОРТ ⚽",Setanta Ukraine Plus HD
+http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
+
+
+#EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 1 Georgia HD
+http://158.101.214.187:8080/channel/n504ecebd/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
+#EXTINF:-1 group-title="СПОРТ ⚽",Setanta Sports 2 Georgia HD
+http://158.101.214.187:8080/channel/n489d295e/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
+
+#EXTINF:-1 group-title="СПОРТ ⚽",КХЛ
+http://stream01.vnet.am/Channel_113/mono.m3u8
+
+
+#EXTINF:-1 group-title="RELAX NATURE",TV Relax Stardust 4K
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:7E:1A:A8&stream=809414&extension=ts
+
+#EXTINF:-1 group-title="RELAX NATURE",TV Камин HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",Sunset Space HD
+https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
+
+#EXTINF:-1 group-title="ПІЗНАВАЛЬНІ🌍",History
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="БІЛОРУСІЯ 🇧🇾",Беларусь 5 FHD
+https://edge60.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist.m3u8
+
+
+EXTINF:-1 group-title="РОСІЯ 🇷🇺",Россия 1 FHD
+http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+
+EXTINF:-1 group-title="РОСІЯ 🇷🇺",Первый канал HD
+http://31.134.132.245:8080/ort_hd/tracks-v1a1/mono.m3u8
+EXTINF:-1 group-title="РОСІЯ 🇷🇺",Первый канал FHD
+http://91.192.168.251:5050
+
 
 
 

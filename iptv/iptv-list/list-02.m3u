@@ -709,10 +709,10 @@ http://fl5.moveonjoy.com/NBA_13/index.m3u8
 
 --- 📺 Kids | RUSSIA
 
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Kids",Мульт (HD)
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Kids",Мульт (1080p)
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Kids", Карусель Международный
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/carousel.png" group-title="Kids",Карусель (1080p)
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 
 --- 📺 Films | RUSSIA

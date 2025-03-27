@@ -19,6 +19,49 @@ http://5.182.228.84/iptv/DLVYET7HYU7U2G/404/1743066915000.ts?md5=WMLcdKFXk7cnDAu
 #EXTGRP:Познавательные
 http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/9313/index.m3u8
 
+#EXTINF:-1 tvg-name="BCU History HD [RU]" group-title="♻️ Торрент ТВ ♻️", BCU History HD [RU]
+#EXTGRP:♻️ Торрент ТВ ♻️
+http://127.0.0.1:6878/ace/getstream?infohash=3a43c9534e29fe4bced0b6b52d84208e8731a1c6
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Познавательные",Viasat History HD
+http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAxNTA5ODAsImlhdCI6MTc0MDA2NDU4MCwiY2lkIjo2LCJ1aWQiOjg5NTQzMjMwOCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.gV6CTL7ChkHm5Iqvqaeuv86Hu_q45NhvrUF3xx2idZ0&offset=3
+
+#EXTINF:-1 group-title="Познавательные",Viju History
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные", Viasat Nature/History HD
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
+
+#EXTINF:-1 tvg-id="history" group-title="Познавательные", History
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
+http://stream01.vnet.am/Channel_123/mono.m3u8
+
+#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/3e2691191bd090085b7c_60x60.jpg" tvg-id="hlsproxy-10257",History 2HD
+http://87.99.87.203:2007/channel/5ff8d8a3/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1b18266bff594af339b9_60x60.png" tvg-id="hlsproxy-95",History HD
+http://87.99.87.203:2007/channel/4d6b2267/index.m3u8?q=66a6423f297e15732552f053875b2722
+
+#EXTINF:-1 group-title="BeeTV" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b39fef11291da9460741_60x60.jpg" tvg-id="hlsproxy-196",viju History HD
+http://87.99.87.203:2007/channel/n58f3c895/index.m3u8?q=66a6423f297e15732552f053875b2722
+
+#EXTINF:-1 group-title="StarNet" tvg-id="hlsproxy-196" tvg-logo="http://158.101.211.157:2020/logos/viasat-history.png",Viju History HD
+http://87.99.87.203:2007/channel/4ba305bf/index.m3u8?q=66a6423f297e15732552f053875b2722
+
+#EXTINF:0 tvg-name="HISTORY" group-title="Германия" tvg-logo="https://streaming-elbrus.su/img/logos/DE/history.png" tvg-id="hlsproxy-95",HISTORY
+http://87.99.87.203:2007/channel/n4dfdd20f/index.m3u8?q=66a6423f297e15732552f053875b2722
+
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-10257" tvg-logo="http://158.101.211.157:2020/logos/history-2-hd.png",H2 HD
+http://158.101.211.157:2020/channel/309fd0af/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-95" tvg-logo="http://158.101.211.157:2020/logos/history-hd.png",History HD
+http://158.101.211.157:2020/channel/6588358b/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+
+#EXTINF:-1 group-title="Caspel",History HD
+http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
+
 
 
 

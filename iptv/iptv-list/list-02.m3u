@@ -8,11 +8,7 @@
 #EXTINF:-1 group-title="Hetzner Online",History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт (HD)
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Детские", Карусель Международный
-https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png" group-title="Познавательные",History (HD)
 http://xx001.vivat.live/t-1.0f6f.d/hd/00419/8m/index.m3u8
@@ -21,12 +17,8 @@ http://xx001.vivat.live/t-1.0f6f.d/hd/00419/8m/index.m3u8
 http://185.50.148.2:7703/ViasatHistory/index.m3u8
 
 
-#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://epg.iptvx.one/picons/msnbc-us.png" group-title="США",MSNBC (HD ready)
-http://41.205.93.154/MSNBC/index.m3u8
 
 
-#EXTINF:-1 group-title="Чехия",Nat Geo HD
-http://78.130.250.2:8023/play/a02e/index.m3u8
 
 
 
@@ -561,6 +553,9 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 # EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="US-public",BBC Earth (720p)2
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
+#EXTINF:-1 tvg-id="nat-geo" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo.png" group-title="Общественные",Nat Geo (1080p)
+http://78.130.250.2:8023/play/a02e/index.m3u8
+
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
@@ -572,6 +567,9 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p
 
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="US-public",Love Nature US (540p)
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+
+
+
 
 --- 📺 News | RUSSIA
 
@@ -708,6 +706,14 @@ http://fl5.moveonjoy.com/NBA_12/index.m3u8
 
 #EXTINF:-1 tvg-id="nba-13" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 13 (720p)
 http://fl5.moveonjoy.com/NBA_13/index.m3u8
+
+--- 📺 Kids | RUSSIA
+
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Kids",Мульт (HD)
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/822.png" group-title="Kids", Карусель Международный
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 
 --- 📺 Films | RUSSIA
 

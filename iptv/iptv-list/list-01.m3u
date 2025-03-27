@@ -114,13 +114,13 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 --- 📺 Science | RUSSIA
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history.png" group-title="discovery",History - 01 (1080p)
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/9313/index.m3u8
+http://ip1.orgip.net/414/video.m3u8?token=M4f082ab4c
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history.png" group-title="discovery",History - 02 (1080p)
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/231/index.m3u8
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/45221/hls/pl.m3u8
 
-#EXTINF:-1 tvg-id="history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history.png" group-title="discovery",History 2 - 01 (1080p)
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/2033/index.m3u8
+#EXTINF:-1 tvg-id="history2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history2.png" group-title="discovery",History 2 - 01 (1080p)
+http://rr2.73mtv.org/109e1a3c05fcad5b22d13b9453dc0db5122/47392/hls/pl.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="discovery",Discovery (1080p)
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8

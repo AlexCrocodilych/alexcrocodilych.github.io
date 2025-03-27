@@ -25,6 +25,9 @@ http://178.219.128.68:64889/EURO1HD
 # EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - FR (1080p)
 http://41.205.93.154/EUROSPORT1/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 51 (1080p)
+http://ottrb.crd-s.net/789/75d43273db2bba771463/
+
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
 http://ip1.orgip.net/0201/video.m3u8?token=A3b61a999e
@@ -35,6 +38,9 @@ http://ip1.orgip.net/201/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 11 (1080p)
 http://pro.ipcover.lol:8080/Alexis58174/857164/401957
 
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
+http://ottrb.crd-s.net/790/75d43273db2bba771463/
+
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - UK (1080p)
 http://185.189.225.157/EuroSport2/tracks-v1a2/mono.m3u8
 
@@ -43,6 +49,8 @@ http://91.217.198.226:8000/udp/239.100.10.95:2234
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - FR (1080p)
 http://41.205.93.154/EUROSPORT2/index.m3u8
+
+
 
 --- 📺 Матч | RUSSIA
 

@@ -3,34 +3,22 @@
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
 
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
-http://78.26.128.59:9876/play/337/index.m3u8
 
-#EXTINF:0 group-title="Спорт"  tvg-id="match-igra" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_igra.png",Матч! Игра
-#EXTGRP:Спорт
-http://ip1.orgip.net/205/video.m3u8?token=M4f082ab4c
-#EXTINF:0 group-title="Спорт"  tvg-id="match-arena" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_arena.png",Матч! Арена
-#EXTGRP:Спорт
-http://ip1.orgip.net/206/video.m3u8?token=M4f082ab4c
-#EXTINF:0 group-title="Спорт"  tvg-id="match-planeta" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_planeta.png",Матч! Планета
-#EXTGRP:Спорт
-http://ip1.orgip.net/211/video.m3u8?token=M4f082ab4c
-#EXTINF:0 group-title="Спорт"  tvg-id="match-nash-sport" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-strana-ru.png",МАТЧ! СТРАНА
-#EXTGRP:Спорт
-http://ip1.orgip.net/209/video.m3u8?token=M4f082ab4c
 
-#EXTINF:-1 tvg-logo="../Channel/Logo/Истоки.png" tvg-id="-738589577_istoria",История
-#EXTGRP:Познавательные
-http://109.239.208.82:80/history/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat History.png" tvg-id="-738589577_history-ru",History HD
-#EXTGRP:Познавательные
-http://88.135.128.20:7272/PK41HvJyzlbR8XZ
 
 #EXTINF:-1 tvg-id="History2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 (1080p)
 http://109.233.89.166/History_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="History.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History (1080p)
 http://109.233.89.166/History_HD/index.m3u8
+
+
+#EXTINF:0 channel-id="327" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="history" tvg-logo="https://mvvv.eu/b/templates/ottch/history.png" tvg-name="History",History
+#EXTGRP:Развлекательные (SD)
+http://ottrb.crd-s.net/387/75d43273db2bba771463/
+
+#EXTINF:0 channel-id="423" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (HD)" tvg-id="history-hd" tvg-logo="https://mvvv.eu/b/templates/ottch/history-hd.png" tvg-name="History HD",History HD
+#EXTGRP:Развлекательные (HD)
+http://ottrb.crd-s.net/316/75d43273db2bba771463/live.m3u8
 
 
 

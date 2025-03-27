@@ -114,10 +114,10 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 --- 📺 Science | RUSSIA
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history.png" group-title="discovery",History - 01 (1080p)
-http://ip1.orgip.net/414/video.m3u8?token=M4f082ab4c
+http://ottrb.crd-s.net/316/75d43273db2bba771463/live.m3u8
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history.png" group-title="discovery",History - 02 (1080p)
-
+http://ip1.orgip.net/414/video.m3u8?token=M4f082ab4c
 
 #EXTINF:-1 tvg-id="history2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history2.png" group-title="discovery",History 2 - 01 (1080p)
 

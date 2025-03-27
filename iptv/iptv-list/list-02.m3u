@@ -12,33 +12,6 @@ http://109.233.89.166/History_2_HD/index.m3u8
 http://109.233.89.166/History_HD/index.m3u8
 
 
-#EXTINF:0 channel-id="546" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/match.png" tvg-name="Матч!",Матч!
-#EXTGRP:Спорт (SD)
-http://ottrb.crd-s.net/158/75d43273db2bba771463/
-#EXTINF:0 channel-id="547" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-arena" tvg-logo="https://mvvv.eu/b/templates/ottch/match-arena.png" tvg-name="Матч! Арена",Матч! Арена
-#EXTGRP:Спорт (SD)
-http://ottrb.crd-s.net/265/75d43273db2bba771463/
-#EXTINF:0 channel-id="548" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-football1" tvg-logo="https://mvvv.eu/b/templates/ottch/match-football-1.png" tvg-name="Матч! Футбол 1",Матч! Футбол 1
-#EXTGRP:Спорт (SD)
-http://ottrb.crd-s.net/200/75d43273db2bba771463/
-#EXTINF:0 channel-id="549" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-football2" tvg-logo="https://mvvv.eu/b/templates/ottch/match-football-2.png" tvg-name="Матч! Футбол 2",Матч! Футбол 2
-#EXTGRP:Спорт (SD)
-http://ottrb.crd-s.net/333/75d43273db2bba771463/
-#EXTINF:0 channel-id="550" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-football3" tvg-logo="https://mvvv.eu/b/templates/ottch/match-football-3.png" tvg-name="Матч! Футбол 3",Матч! Футбол 3
-#EXTGRP:Спорт (SD)
-http://ottrb.crd-s.net/377/75d43273db2bba771463/
-#EXTINF:0 channel-id="551" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-nash-sport" tvg-logo="https://mvvv.eu/b/templates/ottch/match-nash-sport.png" tvg-name="Матч! Страна",Матч! Страна
-#EXTGRP:Спорт (SD)
-http://ottrb.crd-s.net/267/75d43273db2bba771463/
-#EXTINF:0 channel-id="552" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-igra" tvg-logo="https://mvvv.eu/b/templates/ottch/match-igra.png" tvg-name="Матч! Игра",Матч! Игра
-#EXTGRP:Спорт (SD)
-http://ottrb.crd-s.net/283/75d43273db2bba771463/
-#EXTINF:0 channel-id="553" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-planeta" tvg-logo="https://mvvv.eu/b/templates/ottch/match-planeta.png" tvg-name="Матч! Планета",Матч! Планета
-#EXTGRP:Спорт (SD)
-http://ottrb.crd-s.net/167/75d43273db2bba771463/
-#EXTINF:0 channel-id="554" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-premier" tvg-logo="https://mvvv.eu/b/templates/ottch/match-premiere.png" tvg-name="Матч! Премьер",Матч! Премьер
-#EXTGRP:Спорт (SD)
-http://ottrb.crd-s.net/185/75d43273db2bba771463/
 
 #EXTINF:0 channel-id="567" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Спорт (HD)" tvg-id="match-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/match.png" tvg-name="Матч! HD",Матч! HD
 #EXTGRP:Спорт (HD)
@@ -60,6 +33,27 @@ http://ottrb.crd-s.net/650/75d43273db2bba771463/live.m3u8
 #EXTINF:0 channel-id="593" tvg-rec="0" group-title="Спорт (HD)" tvg-id="setanta-sports-plus" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta-sports-plus.png" tvg-name="Setanta Sports 2 (Orig) HD",Setanta Sports 2 (Orig) HD
 #EXTGRP:Спорт (HD)
 http://ottrb.crd-s.net/1091/75d43273db2bba771463/
+#EXTINF:0 channel-id="594" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Спорт (HD)" tvg-id="setanta1-by" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta1-by.png" tvg-name="Setanta Sports 1 Беларусь HD",Setanta Sports 1 Беларусь HD
+#EXTGRP:Спорт (HD)
+http://ottrb.crd-s.net/647/75d43273db2bba771463/live.m3u8
+#EXTINF:0 channel-id="595" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Спорт (HD)" tvg-id="setanta-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta-sports-ua.png" tvg-name="Setanta Sports UA HD",Setanta Sports UA HD
+#EXTGRP:Спорт (HD)
+http://ottrb.crd-s.net/785/75d43273db2bba771463/live.m3u8
+#EXTINF:0 channel-id="596" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Спорт (HD)" tvg-id="setanta-plus-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta-plus-ua.png" tvg-name="Setanta Sports+ UA HD",Setanta Sports+ UA HD
+#EXTGRP:Спорт (HD)
+http://ottrb.crd-s.net/1108/75d43273db2bba771463/live.m3u8
+#EXTINF:0 channel-id="597" tvg-rec="0" group-title="Спорт (HD)" tvg-id="setanta-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta-sports.png" tvg-name="Setanta Казахстан HD",Setanta Казахстан HD
+#EXTGRP:Спорт (HD)
+http://ottrb.crd-s.net/802/75d43273db2bba771463/
+#EXTINF:0 channel-id="598" tvg-rec="0" group-title="Спорт (HD)" tvg-id="setanta1-ge" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta1-ge.png" tvg-name="Setanta Sports 1 Georgia HD",Setanta Sports 1 Georgia HD
+#EXTGRP:Спорт (HD)
+http://ottrb.crd-s.net/1447/75d43273db2bba771463/
+#EXTINF:0 channel-id="599" tvg-rec="0" group-title="Спорт (HD)" tvg-id="setanta2-ge" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta2-ge.png" tvg-name="Setanta Sports 2 Georgia HD",Setanta Sports 2 Georgia HD
+#EXTGRP:Спорт (HD)
+http://ottrb.crd-s.net/1454/75d43273db2bba771463/
+#EXTINF:0 channel-id="600" tvg-rec="0" group-title="Спорт (HD)" tvg-id="setanta3-ge" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta3-ge.png" tvg-name="Setanta Sports 3 Georgia HD",Setanta Sports 3 Georgia HD
+#EXTGRP:Спорт (HD)
+http://ottrb.crd-s.net/1450/75d43273db2bba771463/
 
 
 

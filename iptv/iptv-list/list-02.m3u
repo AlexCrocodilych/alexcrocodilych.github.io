@@ -17,92 +17,71 @@ http://xx001.vivat.live/t-1.0f6f.d/hd/00419/8m/index.m3u8
 http://185.50.148.2:7703/ViasatHistory/index.m3u8
 
 
+#EXTINF:0,History
+https://93.91.113.8:9999/play/a06z/index.m3u8
 
+#EXTINF:0,History
+https://176.15.172.22:1/udp/233.33.221.24:5050
 
+#EXTINF:0,History
+https://95.25.23.213:34040/udp/233.33.221.24:5050
 
-#EXTINF:-1 group-title="Познавательные", История
-http://109.239.208.82:80/history/index.m3u8
+#EXTINF:0,History
+https://37.145.105.82:34040/udp/233.33.221.24:5050
 
-#EXTINF:-1 group-title="Познавательные", History
-http://195.211.27.149:8887/8356/index.m3u8?token=test
+#EXTINF:0,History
+https://37.144.116.67:2323/udp/233.33.221.24:5050
 
-#EXTINF:-1 group-title="Познавательные", Nat Geo Wild 
-http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:0,History
+https://95.27.162.89:8080/udp/233.33.221.24:5050
 
-#EXTINF:-1 group-title="Познавательные", National Geographic HD
-http://81.7.108.21:9000/play/NatGeoHD-DVBC402-sti4400018360108
+#EXTINF:0,History
+https://95.28.198.133:34040/udp/233.33.221.24:5050
 
+#EXTINF:0,History
+https://128.68.167.210:34040/udp/233.33.221.24:5050
 
-#EXTINF:-1 group-title="Познавательные", Viju History
-http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные", Viju History HD
-http://141.95.55.143/CH3871/index.m3u8
+#EXTINF:0,History
+https://128.68.75.155:1/udp/233.33.221.24:5050
 
+#EXTINF:0,History HD
+https://95.28.198.133:34040/udp/233.33.221.23:5050
 
-#EXTINF:-1 group-title="Новости", CNN
-http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+#EXTINF:0,History HD
+https://128.68.167.210:34040/udp/233.33.221.23:5050
 
+#EXTINF:0,History HD
+https://37.144.116.67:2323/udp/233.33.221.23:5050
 
-#EXTINF:-1 group-title="Спорт", Матч!
-http://streamer2.fokks.ru:10003/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! HD
-http://tv.streams.baikal-telecom.net:8080/MatchHD/mpegts
+#EXTINF:0,History HD
+https://95.28.198.133:34040/udp/233.33.221.23:5050
 
+#EXTINF:0,History HD
+https://176.15.172.22:1/udp/233.33.221.23:5050
 
-#EXTINF:-1 group-title="Спорт", Матч! Арена HD
-http://188.113.190.15/325/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Боец 
-http://188.113.190.11/126/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Боец HD
-http://188.134.76.176:81/udp/235.10.10.142:1234
-#EXTINF:-1 group-title="Спорт", Матч! Игра 
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 group-title="Спорт", Матч! Игра HD
-http://188.113.190.15/326/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://188.113.190.15/103/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://188.134.76.176:81/udp/235.10.10.182:1234
-#EXTINF:-1 group-title="Спорт", Матч! Страна
-http://188.113.190.15/95/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://188.113.190.15/176/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
-http://45.93.46.27:8887/8237/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
-http://188.113.190.15/177/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
-http://45.93.46.27:8887/8238/video.m3u8
+#EXTINF:0,History HD
+https://176.15.172.22:1/udp/233.33.221.23:5050
 
+#EXTINF:0,History HD
+https://128.68.75.155:1/udp/233.33.221.23:5050
 
-#EXTINF:-1 group-title="Спорт", Футбол
-https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:0,History HD
+https://95.25.23.213:34040/udp/233.33.221.23:5050
 
+#EXTINF:0,History HD
+https://37.145.105.82:34040/udp/233.33.221.23:5050
 
-#EXTINF:-1 group-title="Спорт", Eurosport 2 HD 
-http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
+#EXTINF:0,History HD
+https://128.68.167.210:34040/udp/233.33.221.23:5050
 
+#EXTINF:0,History HD
+https://37.144.116.67:2323/udp/233.33.221.23:5050
 
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD 
-https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:0,History HD
+https://128.68.75.155:1/udp/233.33.221.23:5050
 
-
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1
-http://185.163.194.185:6987/150/mpegts
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-http://45.93.46.27:8887/8565/video.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2
-http://185.163.194.185:6987/151/mpegts
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-https://stream2.itv.uz/1264/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports Ukraine
-http://185.163.194.185:6987/149/mpegts
+#EXTINF:0,History HD
+https://95.25.23.213:34040/udp/233.33.221.23:5050
 
 
 
@@ -453,22 +432,19 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="espn-premium-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-premium.png" group-title="Sports",ESPN Premium CO (1080p)
 http://190.102.246.93:9005/play/a029
 
-#EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 CO (1080p)
-http://38.51.233.85:8000/play/a03s/index.m3u8
-
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-3.png" group-title="Sports",ESPN 2 MX (720p)
 http://148.113.190.252/espn2hd/index.m3u8
 
-#EXTINF:-1,ESPN 5
-http://168.196.127.18:6001/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 CO (1080p)
+http://38.51.233.85:8000/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-id="espn3-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-3.png" group-title="Sports",ESPN 3 CO (720p)
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-3.png" group-title="Sports",ESPN 3 CO (720p)
 http://190.102.246.93:9005/play/a02l
 
-#EXTINF:-1 tvg-id="espn4-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-4.png" group-title="Sports",ESPN 4 CO (720p)
+#EXTINF:-1 tvg-id="espn4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-4.png" group-title="Sports",ESPN 4 CO (720p)
 http://190.102.246.93:9005/play/a019
 
-#EXTINF:-1 tvg-id="espn6-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-6.png" group-title="Sports",ESPN 6 CO (1080p)
+#EXTINF:-1 tvg-id="espn6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-6.png" group-title="Sports",ESPN 6 CO (1080p)
 http://190.102.246.93:9005/play/a02m
 
 --- 📺 Sports | Bein

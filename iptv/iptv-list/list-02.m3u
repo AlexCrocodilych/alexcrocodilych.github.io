@@ -4,14 +4,19 @@
 
 
 #EXTINF:-1 group-title="Познавательные",History HD
-http://stream01.vnet.am/Channel_123/mono.m3u8
+http://213.226.69.130/iptv/BF9GWX8VNPYM9X/203/index.m3u8
 
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="http://epg.one/img2/1394.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",History HD
-http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/45221/hls/pl.m3u8
+#EXTINF:-1 group-title="Познавательные",History HD2
+http://187.95.95.247/History/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",History HD3
+http://cdn2.connectbr.com.br/History/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные",History HD4
+http://38.41.8.1:8000/play/a005
+
 #EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/History HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",History HD
 http://ip1.orgip.net/414/video.m3u8?token=M4f082ab4c
-#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="../Channel/Logo/HISTORY2 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",History2 HD
-http://rr2.73mtv.org/109e1a3c05fcad5b22d13b9453dc0db5122/47392/hls/pl.m3u8
 
 #EXTINF:-1 group-title="Спорт ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Eurosport 1 HD
 http://95.142.88.250:80/Eurosport_1_HD/tracks-v1a1/mono.ts.m3u8

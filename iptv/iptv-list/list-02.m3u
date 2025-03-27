@@ -536,40 +536,37 @@ http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg+.png" group-title="US-news",Bloomberg TV+ (1080p)
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
---- 📺 Science | USA
+--- 📺 Public | World
 
-#EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="US-public" tvg-name="MTV",MTV (720p)
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Public" tvg-name="MTV",MTV US (720p)
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv-2.png" group-title="US-public" tvg-name="MTV2",MTV2 (720p)
+#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv-2.png" group-title="Public" tvg-name="MTV2",MTV2 US (720p)
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:-1 tvg-id="bbc-america-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="US-public",BBC America (720p)
+#EXTINF:-1 tvg-id="bbc-america-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Public",BBC America (720p)
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="bbc-earth-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="US-public",BBC Earth (1080p)
+#EXTINF:-1 tvg-id="bbc-earth-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Public",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 
-# EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="US-public",BBC Earth (720p)2
+# EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Public",BBC Earth (720p)2
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
-#EXTINF:-1 tvg-id="nat-geo" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo.png" group-title="Общественные",Nat Geo (1080p)
+#EXTINF:-1 tvg-id="nat-geo" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo.png" group-title="Public",Nat Geo (1080p)
 http://78.130.250.2:8023/play/a02e/index.m3u8
 
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Общественные",Nat Geo Wild (1080p)
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Public",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="US-public",Love Nature (2160p)
+#EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Public",Love Nature (2160p)
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-# EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="US-public",Love Nature (1080p)2
+# EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Public",Love Nature (1080p)2
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="US-public",Love Nature US (540p)
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Public",Love Nature US (540p)
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
-
-
-
 
 --- 📺 News | RUSSIA
 

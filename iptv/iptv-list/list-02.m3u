@@ -4,94 +4,18 @@
 
 
 #EXTINF:0 tvg-rec="3",Setanta Sports 3 HD GE
-#EXTGRP:Грузия | ქართული
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/2209/index.m3u8
+http://194.59.155.115/iptv/DLVYET7HYU7U2G/404/1743062295000.ts?md5=zWYy_MASNc3P7pmYzYTMdg
 
-#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD GE
-#EXTGRP:Грузия | ქართული
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/7168/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD GE
-#EXTGRP:Грузия | ქართული
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/7169/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 3 HD GE2
+http://5.182.231.243/iptv/DLVYET7HYU7U2G/404/1743062305000.ts?md5=WV-dyM-sy3ymHThtulkqwQ
 
-#EXTINF:0 tvg-rec="0",Setanta Sports HD MD
-#EXTGRP:Молдавия | Moldovenească
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/19441/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 3 HD GE3
+http://194.59.155.107/iptv/DLVYET7HYU7U2G/404/1743062315000.ts?md5=0emo4CACwn-GABDRn3c37g
+
+#EXTINF:0 tvg-rec="3",Setanta Sports 3 HD GE4
+http://93.189.56.228/iptv/DLVYET7HYU7U2G/404/1743062325000.ts?md5=0cD91yNhllMLNHCEiB3cvA
 
 
-#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/16026/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/16025/index.m3u8
-
-
-#EXTINF:0 tvg-rec="0",Setanta Event 1
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14180/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Event 2
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14181/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Event 3
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14182/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Event 4
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14183/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Event 5
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14184/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Event 6
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14185/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Event 1
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14186/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Event 2
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14187/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Event 3
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14188/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Event 4
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14189/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Event 5
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14190/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Event 6
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/14191/index.m3u8
-
-
-#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/5075/index.m3u8
-#EXTINF:0 tvg-rec="7",Eurosport 1
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/141/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 HD orig
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/5076/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/271/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports 1 FHD Baltic
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/5069/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/270/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/2399/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/272/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
-#EXTGRP:Спорт
-http://nccmmfnk.otttv.pw/iptv/DLVYET7HYU7U2G/5068/index.m3u8
 
 
 --- 📺 Sports | RUSSIA

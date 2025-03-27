@@ -17,71 +17,73 @@ http://xx001.vivat.live/t-1.0f6f.d/hd/00419/8m/index.m3u8
 http://185.50.148.2:7703/ViasatHistory/index.m3u8
 
 
-#EXTINF:0,History
-https://93.91.113.8:9999/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="Documentary",Polsat Viasat History (1080p)
+http://178.219.128.68:64888/POLSVIASHISTHD
 
-#EXTINF:0,History
-https://176.15.172.22:1/udp/233.33.221.24:5050
+#EXTINF:-1 tvg-id="WSOCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 9 Charlotte NC (WSOC) (720p)
+https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8
 
-#EXTINF:0,History
-https://95.25.23.213:34040/udp/233.33.221.24:5050
+#EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS 6 Richmond VA (WTVR) (720p)
+https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8
 
-#EXTINF:0,History
-https://37.145.105.82:34040/udp/233.33.221.24:5050
+#EXTINF:-1 tvg-id="WLKYDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="News",CBS 32 Louisville KY (WLKY) (720p)
+https://apollo.production-public.tubi.io/live/ac-wlky.m3u8
 
-#EXTINF:0,History
-https://37.144.116.67:2323/udp/233.33.221.24:5050
+#EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="https://i.imgur.com/FmtTbNY.png" group-title="News",CBS News Philadelphia (720p)
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 
-#EXTINF:0,History
-https://95.27.162.89:8080/udp/233.33.221.24:5050
 
-#EXTINF:0,History
-https://95.28.198.133:34040/udp/233.33.221.24:5050
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
-#EXTINF:0,History
-https://128.68.167.210:34040/udp/233.33.221.24:5050
 
-#EXTINF:0,History
-https://128.68.75.155:1/udp/233.33.221.24:5050
+#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
-#EXTINF:0,History HD
-https://95.28.198.133:34040/udp/233.33.221.23:5050
+#EXTINF:-1 tvg-id="CCTV.us" tvg-logo="https://i.imgur.com/feFWTb8.jpg" group-title="Undefined",Charlotte County CC-TV (Charlotte County FA) (720p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
 
-#EXTINF:0,History HD
-https://128.68.167.210:34040/udp/233.33.221.23:5050
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV (720p)
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
-#EXTINF:0,History HD
-https://37.144.116.67:2323/udp/233.33.221.23:5050
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dazn Ringside (1080p)
+https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dazn Womens Football (1080p)
+https://apollo.production-public.tubi.io/live/dazn-womens-football.m3u8
 
-#EXTINF:0,History HD
-https://95.28.198.133:34040/udp/233.33.221.23:5050
+#EXTINF:-1 tvg-id="ESTV.us" tvg-logo="https://i.imgur.com/qHNV0f5.png" group-title="Sports",ESTV (1080p)
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:0,History HD
-https://176.15.172.22:1/udp/233.33.221.23:5050
 
-#EXTINF:0,History HD
-https://176.15.172.22:1/udp/233.33.221.23:5050
+#EXTINF:-1 tvg-id="WAGADT1.us" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="News",FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://apollo.production-public.tubi.io/live/ac-waga.m3u8
+#EXTINF:-1 tvg-id="WTTGDT1.us" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="Undefined",FOX 5 Washington DC (WTTG) (720p)
+https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
 
-#EXTINF:0,History HD
-https://128.68.75.155:1/udp/233.33.221.23:5050
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="Undefined",FOX 29 Philadelphia PA (WTXF-TV) (720p)
+https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
 
-#EXTINF:0,History HD
-https://95.25.23.213:34040/udp/233.33.221.23:5050
 
-#EXTINF:0,History HD
-https://37.145.105.82:34040/udp/233.33.221.23:5050
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (360p)
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Sports",Fox Sports (720p)
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports en Espanol (720p)
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 
-#EXTINF:0,History HD
-https://128.68.167.210:34040/udp/233.33.221.23:5050
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NBC Philadelphia News
+https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:0,History HD
-https://37.144.116.67:2323/udp/233.33.221.23:5050
-
-#EXTINF:0,History HD
-https://128.68.75.155:1/udp/233.33.221.23:5050
-
-#EXTINF:0,History HD
-https://95.25.23.213:34040/udp/233.33.221.23:5050
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicHDEast.us" tvg-logo="https://i.imgur.com/8vp2CdP.png" group-title="Documentary",National Geographic HD East (360p)
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild East
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWildHDEast.us" tvg-logo="https://i.imgur.com/WEv09Ak.png" group-title="Documentary",National Geographic Wild HD East (360p)
+https://tvpass.org/live/NationalGeographicWildEast/sd
 
 
 

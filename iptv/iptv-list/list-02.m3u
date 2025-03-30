@@ -42,18 +42,8 @@ http://ottrb.crd-s.net/785/75d43273db2bba771463/live.m3u8
 #EXTINF:0 channel-id="596" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Спорт (HD)" tvg-id="setanta-plus-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta-plus-ua.png" tvg-name="Setanta Sports+ UA HD",Setanta Sports+ UA HD
 #EXTGRP:Спорт (HD)
 http://ottrb.crd-s.net/1108/75d43273db2bba771463/live.m3u8
-#EXTINF:0 channel-id="597" tvg-rec="0" group-title="Спорт (HD)" tvg-id="setanta-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta-sports.png" tvg-name="Setanta Казахстан HD",Setanta Казахстан HD
-#EXTGRP:Спорт (HD)
-http://ottrb.crd-s.net/802/75d43273db2bba771463/
-#EXTINF:0 channel-id="598" tvg-rec="0" group-title="Спорт (HD)" tvg-id="setanta1-ge" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta1-ge.png" tvg-name="Setanta Sports 1 Georgia HD",Setanta Sports 1 Georgia HD
-#EXTGRP:Спорт (HD)
-http://ottrb.crd-s.net/1447/75d43273db2bba771463/
-#EXTINF:0 channel-id="599" tvg-rec="0" group-title="Спорт (HD)" tvg-id="setanta2-ge" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta2-ge.png" tvg-name="Setanta Sports 2 Georgia HD",Setanta Sports 2 Georgia HD
-#EXTGRP:Спорт (HD)
-http://ottrb.crd-s.net/1454/75d43273db2bba771463/
-#EXTINF:0 channel-id="600" tvg-rec="0" group-title="Спорт (HD)" tvg-id="setanta3-ge" tvg-logo="https://mvvv.eu/b/templates/ottch/setanta3-ge.png" tvg-name="Setanta Sports 3 Georgia HD",Setanta Sports 3 Georgia HD
-#EXTGRP:Спорт (HD)
-http://ottrb.crd-s.net/1450/75d43273db2bba771463/
+
+
 
 
 
@@ -113,6 +103,9 @@ http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan (1080p)
 http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
 
+#EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan (1080p)2
+http://ottrb.crd-s.net/802/75d43273db2bba771463/
+
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan + (1080p)
 http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
 
@@ -121,6 +114,15 @@ http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Sports",Setanta Sports Ukraine + (1080p)
 http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
+
+#EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 1 Georgia (1080p)
+http://ottrb.crd-s.net/1447/75d43273db2bba771463/
+
+#EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 2 Georgia (1080p)
+http://ottrb.crd-s.net/1454/75d43273db2bba771463/
+
+#EXTINF:-1 tvg-id="setanta3-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-3.png" group-title="Sports",Setanta Sports 3 Georgia (1080p)
+http://ottrb.crd-s.net/1450/75d43273db2bba771463/
 
 --- 📺 Sports | Megogo UKRAINE
 

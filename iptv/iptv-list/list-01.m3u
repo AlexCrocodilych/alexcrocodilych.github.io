@@ -146,7 +146,7 @@ http://ottrb.crd-s.net/218/75d43273db2bba771463/live.m3u8
 # EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Science",Viju Explore (576p)2
 http://185.50.148.2:7703/ViasatExplorer/index.m3u8
 
-# EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Science",Love Nature (2160p)
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Science",Love Nature (2160p)
 http://ottrb.crd-s.net/982/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/animal-planet.png" group-title="Science",Animal Planet (1080p)

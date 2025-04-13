@@ -19,12 +19,6 @@ http://ip1.orgip.net/200/video.m3u8?token=A3b61a999e
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 12 (1080p)
 http://ip1.orgip.net/0200/video.m3u8?token=A3b61a999e
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - PL (1080p)
-http://178.219.128.68:64889/EURO1HD
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - FR (1080p)
-http://41.205.93.154/EUROSPORT1/index.m3u8
-
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 51 (1080p)
 http://ottrb.crd-s.net/274/75d43273db2bba771463/live.m3u8
 
@@ -38,10 +32,10 @@ https://eu01.sh365.org/264/mpegts?token=bmFDCX3eSxeKbH
 https://eu01.sh365.org/14335/mpegts?token=bmFDCX3eSxeKbH
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 63 (1080p)
-http://ua.online24.pm/play/15/6C79C1AAFA64E87/video.m3u8
+
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 64 (1080p)
-http://ua.online24.pm/play/145/6C79C1AAFA64E87/video.m3u8
+
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 65 (1080p)
 http://cdn.admuspeh.my/8013/video.m3u8?token=NWG6Wj6WEdNrhWCT
@@ -50,8 +44,13 @@ http://cdn.admuspeh.my/8013/video.m3u8?token=NWG6Wj6WEdNrhWCT
 http://cdn.admuspeh.my/8178/video.m3u8?token=NWG6Wj6WEdNrhWCT
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 67 (1080p)
-http://ua.online24.pm/play/822/6C79C1AAFA64E87/video.m3u8
 
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 71 (1080p)
+https://185-107-80-245.livesports24.online/eurosport1ru.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 72 (1080p)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts

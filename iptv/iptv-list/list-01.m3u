@@ -35,16 +35,19 @@ http://ottrb.crd-s.net/274/75d43273db2bba771463/live.m3u8
 https://eu01.sh365.org/264/mpegts?token=bmFDCX3eSxeKbH
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 62 (1080p)
-http://alt.xtream-ie.org/E9823466/E9823466/2eyJ1cmwiOiJodHRwOi8vODUuMTkyLjI4LjQ4L3Rlc3QvdGVzdC5waHA%2FZGo9ZXlKMWNtd2lPaUpvZEhSd09pOHZkSFl1YVc1bWIyMXBjaTVqYjIwdWRXRXZjM1JoYkd0bGNsOXdiM0owWVd3dmMyVnlkbVZ5TDJ4dllXUXVjR2h3SWl3aWRHOXJJam9pUkRWQk56UTFRVFF5UkRJM1FrWXlNMFkxUWpaQlJqQkNNamcxUTBOR01EVWlMQ0p0WVdNaU9pSXdNRG94UVRvM09UbzBRem8zUkRvNU5pSjkmaWQ9MTAwNjQiLCJpZCI6MjN9/fast
+https://eu01.sh365.org/14335/mpegts?token=bmFDCX3eSxeKbH
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 63 (1080p)
-https://eu01.sh365.org/14335/mpegts?token=bmFDCX3eSxeKbH
+
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 64 (1080p)
 
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 65 (1080p)
+http://cdn.admuspeh.my/8013/video.m3u8?token=NWG6Wj6WEdNrhWCT
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 66 (1080p)
+http://cdn.admuspeh.my/8178/video.m3u8?token=NWG6Wj6WEdNrhWCT
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)

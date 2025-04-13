@@ -47,6 +47,9 @@ http://cdn.admuspeh.my/8178/video.m3u8?token=NWG6Wj6WEdNrhWCT
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 71 (1080p)
 https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 72 (1080p)
+http://109.197.192.121:8080/eurosport/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts

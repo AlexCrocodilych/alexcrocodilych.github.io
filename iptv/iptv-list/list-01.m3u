@@ -29,16 +29,16 @@ http://41.205.93.154/EUROSPORT1/index.m3u8
 http://ottrb.crd-s.net/274/75d43273db2bba771463/live.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 4K (1080p) 
-http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/31475/index.m3u8
+
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 61 (1080p)
-http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/9026/index.m3u8
+https://eu01.sh365.org/264/mpegts?token=bmFDCX3eSxeKbH
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 62 (1080p)
-
+http://alt.xtream-ie.org/E9823466/E9823466/2eyJ1cmwiOiJodHRwOi8vODUuMTkyLjI4LjQ4L3Rlc3QvdGVzdC5waHA%2FZGo9ZXlKMWNtd2lPaUpvZEhSd09pOHZkSFl1YVc1bWIyMXBjaTVqYjIwdWRXRXZjM1JoYkd0bGNsOXdiM0owWVd3dmMyVnlkbVZ5TDJ4dllXUXVjR2h3SWl3aWRHOXJJam9pUkRWQk56UTFRVFF5UkRJM1FrWXlNMFkxUWpaQlJqQkNNamcxUTBOR01EVWlMQ0p0WVdNaU9pSXdNRG94UVRvM09UbzBRem8zUkRvNU5pSjkmaWQ9MTAwNjQiLCJpZCI6MjN9/fast
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 63 (1080p)
-
+https://eu01.sh365.org/14335/mpegts?token=bmFDCX3eSxeKbH
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 64 (1080p)
 
@@ -46,11 +46,6 @@ http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/9026/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 65 (1080p)
 
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 RO (1080p)
-http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/6992/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 SE (1080p)
-http://van8dcdi.megogo.xyz/iptv/ZD45AZ38T7NGUT/12047/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts

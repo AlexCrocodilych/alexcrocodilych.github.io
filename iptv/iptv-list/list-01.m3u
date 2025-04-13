@@ -47,19 +47,19 @@ http://cdn.admuspeh.my/8178/video.m3u8?token=NWG6Wj6WEdNrhWCT
 
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 71 (1080p)
-http://109.248.236.21:4433/udp/238.1.1.114:1234
+http://5.8.58.61:8080/eurosport/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 72 (1080p)
-http://ip1.orgip.net/200/video.m3u8?token=M4f082ab4c
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 73 (1080p)
-https://edge02.odtv.az/o7/eurosport/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 74 (1080p)
-http://otv.wotom.net:4433/udp/238.1.1.114:1234
+
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 75 (1080p)
-http://176.113.48.221:8986/63
+
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
@@ -80,11 +80,6 @@ http://ottrb.crd-s.net/454/75d43273db2bba771463/live.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - UK (1080p)
 http://185.189.225.157/EuroSport2/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - PL (1080p)
-http://91.217.198.226:8000/udp/239.100.10.95:2234
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - FR (1080p)
-http://41.205.93.154/EUROSPORT2/index.m3u8
 
 --- 📺 Матч | RUSSIA
 

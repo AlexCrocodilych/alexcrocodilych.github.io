@@ -45,10 +45,16 @@ http://cdn.admuspeh.my/8178/video.m3u8?token=NWG6Wj6WEdNrhWCT
 
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 71 (1080p)
-https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
+http://tv.blinktv.cc/deeurosport1hd/mpegts?token=t9syihaiii
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 72 (1080p)
-http://109.197.192.121:8080/eurosport/index.m3u8
+http://c1fdb02b.amazzin.pw/iptv/6FGDEDXUM6V7RD/141/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 73 (1080p)
+http://prokazov.ottolok.net/iptv/PMYQHR7ZQYMBABWQAG5GZQVK/228/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 74 (1080p)
+http://fadbac0d.amazzin.pw/iptv/KZKXK8DVZHHKK7/9026/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)

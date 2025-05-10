@@ -25,6 +25,31 @@ http://de.online24.pm/play/5453/2240B0431EF222F/video.m3u8
 #EXTINF:0 tvg-name="Eurosport 2 HD PL" group-title="PL",Eurosport 2 HD PL
 http://de.online24.pm/play/5454/2240B0431EF222F/video.m3u8
 
+#EXTINF:-1 tvg-id="37" catchup="shift" tvg-logo="http://epg.cdntv.online/img/37.png" timeshift="3" catchup-days="3" group-title="Спортивные",Eurosport 1
+http://ottlinks.club/hls/y9nmdvbth8/37.m3u8
+#EXTINF:-1 tvg-id="38" catchup="shift" tvg-logo="http://epg.cdntv.online/img/38.png" timeshift="3" catchup-days="3" group-title="Спортивные",Eurosport 1 HD
+http://ottlinks.club/hls/y9nmdvbth8/38.m3u8
+#EXTINF:-1 tvg-id="39" catchup="shift" tvg-logo="http://epg.cdntv.online/img/39.png" timeshift="3" catchup-days="3" group-title="Спортивные",Eurosport 2
+http://ottlinks.club/hls/y9nmdvbth8/39.m3u8
+#EXTINF:-1 tvg-id="40" catchup="shift" tvg-logo="http://epg.cdntv.online/img/40.png" timeshift="3" catchup-days="3" group-title="Спортивные",Eurosport 2 HD
+http://ottlinks.club/hls/y9nmdvbth8/40.m3u8
+
+
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD DE
+#EXTGRP:другие
+http://31eb3d91.akadatel.com/iptv/W4W9E4ZWLDW8WF/31314/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD DE
+#EXTGRP:другие
+http://31eb3d91.akadatel.com/iptv/W4W9E4ZWLDW8WF/31315/index.m3u8
+
+
+#EXTINF:-1 tvg-id="eurosport1.ru" tvg-logo="http://epg.one/img2/2052.png" tvg-name="Eurosport 1 HD" group-title="Спорт",Eurosport 1 HD
+http://x3m.li:80/live/YEnvgbVU/1ZjQz8RB/7802.m3u8
+#EXTINF:-1 tvg-id="eurosport1.ru" tvg-logo="http://epg.one/img2/2052.png" tvg-name="Eurosport 1" group-title="Спорт",Eurosport 1
+http://x3m.li:80/live/YEnvgbVU/1ZjQz8RB/7804.m3u8
+#EXTINF:-1 tvg-id="eurosport2.ru" tvg-logo="http://epg.one/img2/4313.png" tvg-name="Eurosport 2 HD" group-title="Спорт",Eurosport 2 HD
+http://x3m.li:80/live/YEnvgbVU/1ZjQz8RB/7806.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 

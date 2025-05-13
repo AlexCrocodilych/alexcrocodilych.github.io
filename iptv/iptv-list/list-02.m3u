@@ -9,26 +9,14 @@
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",Матч Премьер (1080p)
 http://ottrb.crd-s.net/370/75d43273db2bba771463/live.m3u8
 
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",Матч Премьер (1080p)2
-http://ip1.orgip.net/208/video.m3u8?token=A3b61a999e
-
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-1.png" group-title="Sports",Матч! Футбол 1 (1080p)
 http://ottrb.crd-s.net/1379/75d43273db2bba771463/
-
-#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-1.png" group-title="Sports",Матч! Футбол 1 (1080p)2
-http://ip1.orgip.net/202/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="match-football2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-2.png" group-title="Sports",Матч! Футбол 2 (1080p)
 http://ottrb.crd-s.net/1380/75d43273db2bba771463/
 
-#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-2.png" group-title="Sports",Матч! Футбол 2 (1080p)2
-http://ip1.orgip.net/203/video.m3u8?token=A3b61a999e
-
 #EXTINF:-1 tvg-id="match-football3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-3.png" group-title="Sports",Матч! Футбол 3 (1080p)
 http://ottrb.crd-s.net/1381/75d43273db2bba771463/
-
-#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-3.png" group-title="Sports",Матч! Футбол 3 (1080p)2
-http://ip1.orgip.net/204/video.m3u8?token=A3b61a999e
 
 
 # EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Sports",Спорт на Первом (1080p)
@@ -37,14 +25,8 @@ https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Спорт (1080p)
 http://89.23.113.132/oksphd/video.m3u8
 
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Спорт (1080p)2
-#EXTINF:-1http://ip1.orgip.net/238/video.m3u8?token=A3b61a999e
-
 #EXTINF:-1 tvg-id="okko-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Sports",Окко Футбол (1080p)
 http://ottrb.crd-s.net/1589/75d43273db2bba771463/live.m3u8
-
-#EXTINF:-1 tvg-id="okko-futbol" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-futbol.png" group-title="Sports",Окко Футбол (1080p)2
-http://ip1.orgip.net/232/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus-5.png" group-title="Sports",Беларусь 5 (1080p)
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w71084103_b2660000_sleng.m3u8
@@ -66,19 +48,10 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 01 (1080p)
 http://ottrb.crd-s.net/651/75d43273db2bba771463/
 
-#EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 01 (1080p)2
-http://ip1.orgip.net/220/video.m3u8?token=A3b61a999e
-
 #EXTINF:-1 tvg-id="setanta2-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 02 (1080p)
 http://ottrb.crd-s.net/1091/75d43273db2bba771463/
 
-#EXTINF:-1 tvg-id="setanta2-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 02 (1080p)2
-http://ip1.orgip.net/221/video.m3u8?token=A3b61a999e
-
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan (1080p)
-http://ip1.orgip.net/228/video.m3u8?token=A3b61a999e
-
-#EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan (1080p)2
 http://ottrb.crd-s.net/802/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan + (1080p)
@@ -87,14 +60,8 @@ http://de.kineskop.club/site2/1636/1009756_8a84ac70b0751482_0_0_fs2.m3u8
 ##EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Sports",Setanta Sports Ukraine (1080p)
 http://ottrb.crd-s.net/785/75d43273db2bba771463/live.m3u8
 
-#EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Sports",Setanta Sports Ukraine (1080p)2
-http://ip1.orgip.net/222/video.m3u8?token=A3b61a999e
-
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Sports",Setanta Sports Ukraine + (1080p)
 http://ottrb.crd-s.net/1108/75d43273db2bba771463/live.m3u8
-
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Sports",Setanta Sports Ukraine + (1080p)2
-http://ip1.orgip.net/214/video.m3u8?token=A3b61a999e
 
 #EXTINF:-1 tvg-id="setanta1-by" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Sports",Setanta Sports Belarus + (1080p)
 http://ottrb.crd-s.net/647/75d43273db2bba771463/live.m3u8
@@ -111,25 +78,16 @@ http://ottrb.crd-s.net/1450/75d43273db2bba771463/
 --- 📺 Sports | Megogo UKRAINE
 
 #EXTINF:-1 tvg-id="megogo-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Sports",Megogo Спорт (1080p)
-http://ip1.orgip.net/237/video.m3u8?token=A3b61a999e
+
 
 #EXTINF:-1 tvg-id="megogo-football-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol-1.png" group-title="Sports",Megogo Футбол 1 (1080p)
 http://ottrb.crd-s.net/1379/75d43273db2bba771463/
 
-#EXTINF:-1 tvg-id="megogo-football-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol-1.png" group-title="Sports",Megogo Футбол 1 (1080p)2
-http://ip1.orgip.net/233/video.m3u8?token=A3b61a999e
-
 #EXTINF:-1 tvg-id="megogo-football-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol-2.png" group-title="Sports",Megogo Футбол 2 (1080p)
 http://ottrb.crd-s.net/1380/75d43273db2bba771463/
 
-#EXTINF:-1 tvg-id="megogo-football-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol-2.png" group-title="Sports",Megogo Футбол 2 (1080p)2
-http://ip1.orgip.net/234/video.m3u8?token=A3b61a999e
-
 #EXTINF:-1 tvg-id="megogo-football-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol-3.png" group-title="Sports",Megogo Футбол 3 (1080p)
 http://ottrb.crd-s.net/1381/75d43273db2bba771463/
-
-#EXTINF:-1 tvg-id="megogo-football-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol-3.png" group-title="Sports",Megogo Футбол 3 (1080p)3
-http://ip1.orgip.net/235/video.m3u8?token=A3b61a999e
 
 --- 📺 Sports | POLAND
 
@@ -139,37 +97,37 @@ http://178.219.128.68:64888/TVPSPORHD
 #EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)
 http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
 
-# EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)2
+#EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)2
 http://109.233.89.170/Eleven_Sports_1_HD/index.m3u8
 
-# EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)3
+#EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)3
 http://178.219.128.68:64889/ELEVSPOR1HD
 
 #EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)
 http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
 
-# EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)2
+#EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)2
 http://109.233.89.170/Eleven_Sports_2_HD/index.m3u8
 
-# EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)3
+#EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)3
 http://178.219.128.68:64889/ELEVSPOR2HD
 
 #EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)
 http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 
-# EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)2
+#EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)2
 http://109.233.89.170/Eleven_Sports_3_HD/index.m3u8
 
-# EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)3
+#EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)3
 http://178.219.128.68:64889/ELEVSPOR3HD
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 
-# EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)2
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)2
 http://109.233.89.170/ELEVEN_SPORTS_4_HD/index.m3u8
 
-# EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)3
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)3
 http://178.219.128.68:64888/ELEVSPOR4HD
 
 --- 📺 Sports | Canal+ POLAND
@@ -180,7 +138,7 @@ http://178.219.128.68:64888/CANASPORHD
 #EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (1080p)
 http://178.219.128.68:64888/CANASPOR2HD
 
-# EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (1080p)2
+#EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (1080p)2
 http://185.236.229.62:9981/play/a05t
 
 #EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-3.png" group-title="Sports",Canal+ Sport 3 PL (1080p)

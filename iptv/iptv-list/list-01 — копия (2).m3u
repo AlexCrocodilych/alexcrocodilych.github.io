@@ -22,9 +22,6 @@ http://ottrb.crd-s.net/274/75d43273db2bba771463/live.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 1 - ES (1080p)
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 52 (1080p)
-http://myott.top/stream/DT6QU63K5VX/176.m3u8?checkedby:iptvcat.com
-
 
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
@@ -41,9 +38,6 @@ http://109.70.186.70:9090/udp/239.185.1.15:1234
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
 http://ottrb.crd-s.net/454/75d43273db2bba771463/live.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 52 (1080p)
-http://myott.top/stream/DT6QU63K5VX/192.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - UK (1080p)
 http://185.189.225.157/EuroSport2/tracks-v1a2/mono.m3u8

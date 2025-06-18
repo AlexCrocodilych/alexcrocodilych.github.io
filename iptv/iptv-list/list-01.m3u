@@ -8,7 +8,7 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 http://as01.sh365.org/264/index.m3u8?token=utySbURZ6AfQYL
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 03 (1080p)
-
+http://as01.sh365.org/14335/index.m3u8?token=utySbURZ6AfQYL
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 04 (1080p)
 
@@ -34,7 +34,7 @@ http://213.91.178.133:8000/play/a05y
 http://as01.sh365.org/265/index.m3u8?token=utySbURZ6AfQYL
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 03 (1080p)
-
+http://as01.sh365.org/14334/index.m3u8?token=utySbURZ6AfQYL
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 04 (1080p)
 

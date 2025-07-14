@@ -138,16 +138,16 @@ http://ottrb.crd-s.net/1381/75d43273db2bba771463/
 http://178.219.128.68:64888/TVPSPORHD
 
 #EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)
-http://ottrb.crd-s.net/1301/75d43273db2bba771463/
+http://ottrb.crd-s.net/1311/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)
-http://ottrb.crd-s.net/1303/75d43273db2bba771463/
+http://ottrb.crd-s.net/1321/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)
-http://ottrb.crd-s.net/1302/75d43273db2bba771463/
+http://ottrb.crd-s.net/1331/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)
-http://ottrb.crd-s.net/1304/75d43273db2bba771463/
+http://ottrb.crd-s.net/1341/75d43273db2bba771463/
 
 --- 📺 Sports | Canal+ POLAND
 
@@ -158,13 +158,13 @@ http://178.219.128.68:64889/CANASPORHD?checkedby:iptvcat.com
 http://78.130.250.2:8023/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-3.png" group-title="Sports",Canal+ Sport 3 PL (1080p)
-http://78.130.250.2:8023/play/a03w/index.m3u8
+http://ottrb.crd-s.net/1351/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="canal-pl-sport-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-4.png" group-title="Sports",Canal+ Sport 4 PL (1080p)
-http://78.130.250.2:8023/play/a04w/index.m3u8
+http://ottrb.crd-s.net/1361/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="canal-pl-sport-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-5.png" group-title="Sports",Canal+ Sport 5 PL (1080p)
-http://78.130.250.2:8023/play/a05w/index.m3u8
+http://ottrb.crd-s.net/1371/75d43273db2bba771463/
 
 --- 📺 Sports | Polsat POLAND
 

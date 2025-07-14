@@ -31,6 +31,9 @@ http://213.91.178.133:8000/play/a05y
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - GE (1080p)
 http://vod2.stb.tvime.ru/evrosport_1/video.m3u8?token=Q2Z0eXVpOHx8
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 4K (1080p)
+https://7pal.short.gy/eusport4k
+
 
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)

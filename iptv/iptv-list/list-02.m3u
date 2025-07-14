@@ -4,7 +4,52 @@
 
 
 
+#EXTINF:-1 tvg-id="okko-football" group-title="Спортивные", Окко Футбол HD
+https://tvoe.live/api/stream/ch3051/mono.m3u8?token=tvoelive.DSo0SUcalxD-kuqpxCblCnXoy64idI0mc0Snc716rr5sqW40oCKDpUvCoBZGOKhW
 
+#EXTINF:-1 tvg-id="okko-sport" group-title="Спортивные", Окко Спорт HD
+https://tvoe.live/api/stream/ch3050/mono.m3u8?token=tvoelive.DSo0SUcalxD-kuqpxCblCnXoy64idI0mc0Snc716rr5sqW40oCKDpUvCoBZGOKhW
+
+#EXTINF:-1 tvg-id="sport1-baltic" group-title="Спортивные", Sport 1 Baltic
+http://80.245.95.243:8888/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="sport2-baltic" group-title="Спортивные", Sport 2 Baltic
+http://80.245.95.243:8888/play/a22f/index.m3u8
+
+#EXTINF:-1 tvg-id="belarus5" group-title="Спортивные", Беларусь 5 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="belarus5-inet" group-title="Спортивные", Беларусь 5 Интернет
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b2660000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="Спортивные",Tennis Channel [US]
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://m.media-amazon.com/images/I/41NhI9FSeQL._AC_UL800_QL65_.png" group-title="Спортивные",TENNIS CHANNEL 2
+https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/35a24fd8-60c3-45d0-bd8a-ee3cc914581f/3.m3u8
+
+#EXTINF:-1 tvg-id="supertennis" group-title="Спортивные", SuperTennis HD
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="sky-sport-tennis-de" group-title="Спортивные",Sky Sport Tennis [DE]
+http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/426455
+
+
+#EXTINF:-1 tvg-id="diema-sport-1" group-title="Спортивные", Diema Sport HD
+http://213.91.178.133:8000/play/a06q
+
+#EXTINF:-1 tvg-id="max-sport-1" group-title="Спортивные", MAX Sport 1 HD
+http://213.91.178.133:8000/play/a0as
+
+#EXTINF:-1 tvg-id="max-sport-2" group-title="Спортивные", MAX Sport 2 HD
+http://213.91.178.133:8000/play/a0at
+
+#EXTINF:-1 tvg-id="max-sport-3" group-title="Спортивные", MAX Sport 3 HD
+http://213.91.178.133:8000/play/a0ar
+
+#EXTINF:-1 tvg-id="max-sport-4" group-title="Спортивные", MAX Sport 4 HD
+http://213.91.178.133:8000/play/a05n
 
 
 
@@ -140,7 +185,7 @@ http://178.219.128.68:64888/TVPSPORHD
 # EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport.png" group-title="Sports",Canal+ Sport PL (1080p)
 
 
-# EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (1080p)
+#EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (1080p)
 http://78.130.250.2:8023/play/a02w/index.m3u8
 
 # EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-3.png" group-title="Sports",Canal+ Sport 3 PL (1080p)
@@ -193,10 +238,11 @@ https://7pal.short.gy/tntspts4
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 
 #EXTINF:-1 tvg-id="tnt-sports5-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
+https://7pal.short.gy/tntspts5
 
 # EXTINF:-1 tvg-id="tnt-sports5-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)2
-https://7pal.short.gy/tntspts5
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
+
 
 --- 📺 Sports | Sky Sports UNITED KINGDOM
 

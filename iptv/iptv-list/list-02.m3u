@@ -5,18 +5,8 @@
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="Евроспорт 1" tvg-logo="" group-title="Спорт" catchup="flussonic" catchup-days="3",Евроспорт 1
-#EXTGRP:Спорт
-http://vod2.stb.tvime.ru/evrosport_1/video.m3u8?token=Q2Z0eXVpOHx8
-#EXTINF:0 tvg-id="" tvg-name="Евроспорт 2" tvg-logo="" group-title="Спорт" catchup="flussonic" catchup-days="3",Евроспорт 2
-#EXTGRP:Спорт
-http://vod2.stb.tvime.ru/eurosport_2/video.m3u8?token=Q2Z0eXVpOHx8
-#EXTINF:0 tvg-id="" tvg-name="SetantaSports1 HD" tvg-logo="" group-title="Спорт" catchup="flussonic" catchup-days="3",SetantaSports1 HD
-#EXTGRP:Спорт
-http://vod2.stb.tvime.ru/Setanta_Sports_1_HD/video.m3u8?token=Q2Z0eXVpOHx8
-#EXTINF:0 tvg-id="" tvg-name="SetantaSports2 HD" tvg-logo="" group-title="Спорт" catchup="flussonic" catchup-days="3",SetantaSports2 HD
-#EXTGRP:Спорт
-http://vod2.stb.tvime.ru/Setanta_Sports_2_HD/video.m3u8?token=Q2Z0eXVpOHx8
+
+
 
 
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="Спортивные",Матч! Футбол 1 HD
@@ -161,8 +151,14 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 01 (1080p)
 http://ottrb.crd-s.net/651/75d43273db2bba771463/
 
+# EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 01 (1080p)2
+http://vod2.stb.tvime.ru/Setanta_Sports_1_HD/video.m3u8?token=Q2Z0eXVpOHx8
+
 #EXTINF:-1 tvg-id="setanta2-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 02 (1080p)
 http://ottrb.crd-s.net/1091/75d43273db2bba771463/
+
+# EXTINF:-1 tvg-id="setanta2-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 02 (1080p)2
+http://vod2.stb.tvime.ru/Setanta_Sports_2_HD/video.m3u8?token=Q2Z0eXVpOHx8
 
 #EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan (1080p)
 http://ottrb.crd-s.net/802/75d43273db2bba771463/
@@ -264,7 +260,7 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
 #EXTINF:-1 tvg-id="tnt-sports4-hd-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 
-# EXTINF:-1 tvg-id="TNTSports4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)2
+#EXTINF:-1 tvg-id="TNTSports4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)2
 https://7pal.short.gy/tntspts4
 
 #EXTINF:-1 tvg-id="tnt-sports5-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)

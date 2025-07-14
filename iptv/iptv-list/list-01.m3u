@@ -17,7 +17,7 @@ http://as01.sh365.org/14335/index.m3u8?token=utySbURZ6AfQYL
 
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 11 (1080p)
-http://efo0agsw.siauliairsavlt.org/iptv/ZDBPDX2XC38D6FVS4YX9NR4M/9026/index.m3u8
+
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 51 (1080p)
 http://ottrb.crd-s.net/274/75d43273db2bba771463/live.m3u8
@@ -27,6 +27,9 @@ http://185.189.225.157/EuroSport1/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - BG (1080p)
 http://213.91.178.133:8000/play/a05y
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - GE (1080p)
+http://vod2.stb.tvime.ru/evrosport_1/video.m3u8?token=Q2Z0eXVpOHx8
 
 
 
@@ -56,6 +59,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - BG (1080p)
 http://213.91.178.133:8000/play/a04b
+
 
 
 --- 📺 Матч | RUSSIA

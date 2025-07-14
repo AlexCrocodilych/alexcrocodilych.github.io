@@ -3,45 +3,56 @@
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
 
-#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",01 (1080p)
-http://ottrb.crd-s.net/1340/75d43273db2bba771463/
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",00 (1080p)
+http://ottrb.crd-s.net/1/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",00 (1080p)
-http://ottrb.crd-s.net/1300/75d43273db2bba771463/
+http://ottrb.crd-s.net/01/75d43273db2bba771463/
+
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",00 (1080p)
+http://ottrb.crd-s.net/001/75d43273db2bba771463/
+
+
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",00 (1080p)
+http://ottrb.crd-s.net/1310/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",01 (1080p)
-http://ottrb.crd-s.net/1301/75d43273db2bba771463/
+http://ottrb.crd-s.net/1311/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",02 (1080p)
-http://ottrb.crd-s.net/1302/75d43273db2bba771463/
+http://ottrb.crd-s.net/1312/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",03 (1080p)
-http://ottrb.crd-s.net/1303/75d43273db2bba771463/
+http://ottrb.crd-s.net/1313/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",04 (1080p)
-http://ottrb.crd-s.net/1304/75d43273db2bba771463/
+http://ottrb.crd-s.net/1314/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",05 (1080p)
-http://ottrb.crd-s.net/1305/75d43273db2bba771463/
+http://ottrb.crd-s.net/1315/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",06 (1080p)
-http://ottrb.crd-s.net/1306/75d43273db2bba771463/
+http://ottrb.crd-s.net/1316/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",07 (1080p)
-http://ottrb.crd-s.net/1307/75d43273db2bba771463/
+http://ottrb.crd-s.net/1317/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",08 (1080p)
-http://ottrb.crd-s.net/1308/75d43273db2bba771463/
+http://ottrb.crd-s.net/1318/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",09 (1080p)
-http://ottrb.crd-s.net/1309/75d43273db2bba771463/
+http://ottrb.crd-s.net/1319/75d43273db2bba771463/
 
 
 
 #EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Setanta 01 (1080p)
 http://ottrb.crd-s.net/1341/75d43273db2bba771463/
 
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",mult 01 (1080p)
+http://ottrb.crd-s.net/1371/75d43273db2bba771463/
 
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",disney (1080p)
+http://ottrb.crd-s.net/1307/75d43273db2bba771463/
 
 
 

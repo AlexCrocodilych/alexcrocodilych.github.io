@@ -168,22 +168,34 @@ http://78.130.250.2:8023/play/a02w/index.m3u8
 
 --- 📺 Sports | TNT Sports UNITED KINGDOM
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
+#EXTINF:-1 tvg-id="	tnt-sports-prem-ar" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
+https://7pal.short.gy/tntspts1
+
+# EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)2
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Sports",TNT Sports 2 UK (1080p)
+https://7pal.short.gy/tntspts2
+
+# EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Sports",TNT Sports 2 UK (1080p)2
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 3 UK (1080p)
+https://7pal.short.gy/tntspts3
+
+# EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 3 UK (1080p)2
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
 
 #EXTINF:-1 tvg-id="tnt-sports4-hd-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
-
-#EXTINF:-1 tvg-id="TNTSports4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)2
 https://7pal.short.gy/tntspts4
 
+# EXTINF:-1 tvg-id="tnt-sports4-hd-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)2
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
+
 #EXTINF:-1 tvg-id="tnt-sports5-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)
+https://7pal.short.gy/tntspts5
+
+# EXTINF:-1 tvg-id="tnt-sports5-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)2
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
 
 --- 📺 Sports | Sky Sports UNITED KINGDOM

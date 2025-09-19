@@ -8,7 +8,125 @@
 
 
 
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра
+http://178.212.71.253:8000/play/56/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", Бокс ТВ
+http://185.46.16.239:8000/Eurosport_1
+
+#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БоксТВ HD
+http://195.42.154.178/test1/index.m3u8
+
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport
+http://138.201.250.184/eurosport1/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
+http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD 1
+http://194.26.229.4/live/prosto.tv2.php?id=id344&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD 🇪🇸
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
+http://138.201.250.184/eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
+http://dmi3y-tv.ru/hls/CH_EUROSPORT2HD.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 SD
+http://194.26.229.4/live/prosto.tv2.php?id=id92&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
+http://185.189.225.157/EuroSport2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="rossia-24" group-title="Новости", Россия 24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
+
+#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+
+#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD
+http://94.130.221.219/matcharena/mpegts
+
+
+EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра
+http://87.120.142.11:18000/Match!Igra
+
+#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра HD
+http://94.130.221.219/matchigra/mpegts
+
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч! Страна
+http://178.217.72.66:8080/Match_Nash_Sport/index.m3u8
+
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч Страна
+http://77.235.1.19:8000/play/a00f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер HD
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1
+http://45.11.139.43:8555/fut1/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Y0fHFaKSxSTEU9VqsJmnlA,1758229215/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2
+http://45.11.139.43:8555/fut2/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные", Матч Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/YegCuwIRx1BaCMIOvszo-w,1758229215/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+
+#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/nYMvxUMIzUlbiyw5SRfm7A,1758229215/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные", Сетанта Спорт 1 HD
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные", Сетанта Спорт 2 HD
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="setanta1-ge" group-title="Спортивные", Setanta Sports 1 Georgia
+http://94.43.1.138:8081/setanta1/index.m3u8
+
+#EXTINF:-1 tvg-id="setanta2-ge" group-title="Спортивные", Setanta Sports 2 Georgia
+http://94.43.1.138:8081/setanta2/index.m3u8
+
+#EXTINF:-1 tvg-id="okko-sport-2" group-title="Спортивные", Окко.Прайм Спорт
+http://185.221.213.254:8080/Okko/index.m3u8
 
 
 

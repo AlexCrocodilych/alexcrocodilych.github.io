@@ -64,7 +64,6 @@ http://185.189.225.157/EuroSport2/index.m3u8
 
 
 
-
 --- 📺 Матч | RUSSIA
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (1080p)
@@ -90,12 +89,6 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч! Арена (576p)2
 http://194.143.148.28:8080/MatchArena/mpegts
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч! Арена (576p)3
-http://91.205.199.3/2x2tv/index.m3u8
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч! Арена (576p)4
-http://45.11.139.43:8555/matcharena/index.m3u8
 
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-igra.png" group-title="Спортивные",Матч! Игра (1080p)
 http://ottrb.crd-s.net/386/75d43273db2bba771463/live.m3u8

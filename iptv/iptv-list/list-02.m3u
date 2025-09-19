@@ -131,6 +131,41 @@ http://185.221.213.254:8080/Okko/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
+http://vod2.stb.tvime.ru/Nat_Geo_Wild_HD/video.m3u8?token=billing_w7zMwxDfeEzh!BOw3c3IduQe&21yo=0
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
+http://dmi3y-tv.ru/hls/CH_NATGEOTV_WILDHD.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", National Geo Wild HD
+http://194.26.229.4/live/prosto.tv2.php?id=id408&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
+http://vod2.stb.tvime.ru/National_Geographic_HD/video.m3u8?token=billing_w7zMwxDfeEzh!BOw3c3IduQe&21yo=0
+
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
+http://dmi3y-tv.ru/hls/CH_NATGEOTVHD.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", Nat Geographic HD
+http://194.26.229.4/live/prosto.tv2.php?id=id178&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery
+http://194.26.229.4/live/prosto.tv2.php?id=id209&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery HD
+http://vod2.stb.tvime.ru/Discovery_HD/video.m3u8?token=billing_w7zMwxDfeEzh!BOw3c3IduQe&21yo=0
+
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel HD
+http://dmi3y-tv.ru/hls/CH_DISCOVERY_CHANNELHD.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="premier-sports-1-uk" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sports 1
 https://7pal.short.gy/prsport1
 

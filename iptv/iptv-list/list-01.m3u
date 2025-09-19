@@ -116,9 +116,6 @@ http://87.120.142.11:18000/Match!
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Спорт (1080p)
 http://185.221.213.254:8080/Okko/index.m3u8
 
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Спорт (1080p)2
-http://185.221.213.254:8080/Okko/tracks-v1a1/mono.m3u8
-
 --- 📺 Дом | RUSSIA
 
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 01 (576p)
@@ -151,7 +148,7 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 http://ottrb.crd-s.net/316/75d43273db2bba771463/live.m3u8
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history.png" group-title="Science",History - 02 (1080p)
-http://ip1.orgip.net/414/video.m3u8?token=M4f082ab4c
+http://ott.watch/stream/DJDLVK3M7TR/113.m3u8
 
 #EXTINF:-1 tvg-id="history2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history2.png" group-title="Science",History 2 - 01 (1080p)
 http://ottrb.crd-s.net/290/75d43273db2bba771463/live.m3u8
@@ -159,13 +156,16 @@ http://ottrb.crd-s.net/290/75d43273db2bba771463/live.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Science",Discovery (1080p)
 http://ottrb.crd-s.net/1255/75d43273db2bba771463/
 
-# EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Science",Discovery (1080p)2
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Science",Discovery (1080p)2
+http://ott.watch/stream/DJDLVK3M7TR/177.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Science",Discovery (1080p)3
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Science",Viju Explore (1080p)
 http://ottrb.crd-s.net/218/75d43273db2bba771463/live.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Science",Viju Explore (576p)2
+#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Science",Viju Explore (576p)
 http://185.50.148.2:7703/ViasatExplorer/index.m3u8
 
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Science",Love Nature (2160p)
@@ -174,19 +174,25 @@ http://ottrb.crd-s.net/982/75d43273db2bba771463/
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/animal-planet.png" group-title="Science",Animal Planet (1080p)
 http://stream01.vnet.am/AnimalPlanet/index.m3u8
 
-# EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/animal-planet.png" group-title="Science",Animal Planet (1080p)2
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/animal-planet.png" group-title="Science",Animal Planet (1080p)2
 http://x3m.li:80/live/YEnvgbVU/1ZjQz8RB/7804.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Science",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
-# EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Science",Nat Geo Wild (576p)2
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Science",Nat Geo Wild (1080p)2
+http://ott.watch/stream/DJDLVK3M7TR/149.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Science",Nat Geo Wild (576p)
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Science",National Geographic (1080p)
 http://ottrb.crd-s.net/272/75d43273db2bba771463/live.m3u8
 
-# EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Science",National Geographic (1080p)2
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Science",National Geographic (1080p)2
+http://ott.watch/stream/DJDLVK3M7TR/116.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Science",National Geographic (1080p)3
 http://ip1.orgip.net/402/video.m3u8?token=A3b61a999e
 
 --- 📺 TV | RUSSIA

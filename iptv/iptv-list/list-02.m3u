@@ -6,75 +6,30 @@
 
 
 
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery HD
+#EXTGRP:Познавательные
+http://ott.watch/stream/DJDLVK3M7TR/177.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Investigation Discovery
+#EXTGRP:Познавательные
+http://ott.watch/stream/DJDLVK3M7TR/205.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",National Geographic HD
+#EXTGRP:Познавательные
+http://ott.watch/stream/DJDLVK3M7TR/116.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://ott.watch/stream/DJDLVK3M7TR/149.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",History HD
+#EXTGRP:Познавательные
+http://ott.watch/stream/DJDLVK3M7TR/113.m3u8
+
+#EXTINF:0,Пиноккио Гильермо дель Торо (2022)
+#EXTGRP:Мультфильмы
+https://m.cdntv.online/f/a4p5fd6hkucr/Guillermo_del_Toros_Pinocchio_2022.m3u8
 
 
 
 
 
-
-#EXTINF:-1 tvg-id="rossia-24" group-title="Новости", Россия 24 HD
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-
-
-#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-
-#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD
-http://94.130.221.219/matcharena/mpegts
-
-
-EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра
-http://87.120.142.11:18000/Match!Igra
-
-#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра HD
-http://94.130.221.219/matchigra/mpegts
-
-#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч! Страна
-http://178.217.72.66:8080/Match_Nash_Sport/index.m3u8
-
-#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч Страна
-http://77.235.1.19:8000/play/a00f/index.m3u8
-
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер HD
-http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-
-#EXTINF:-1 group-title="Caspel",Investigation Discovery
-http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
-#EXTINF:-1 group-title="Caspel",Viasat History
-http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.
-
-
-
-#EXTINF:-1 group-title="Знания", Animal Planet HD
-http://95.85.109.219:7000/play/a088
-
-
-
-#EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет HD
-http://138.201.250.184/B5/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
-http://95.85.109.219:7000/play/a067
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
-http://95.85.109.219:7000/play/a068
-
-
-
-
-
-#EXTINF:-1 group-title="Развлечение", History HD
-http://95.85.109.219:7000/play/a069
-
-#EXTINF:-1 group-title="Знания", National Geographic
-http://95.85.109.219:7000/play/a063
-
-#EXTINF:-1 group-title="Спорт", Q Sport Kyrgyzstan HD
-http://95.85.109.219:7000/play/a05u
 
 
 #EXTINF:-1 tvg-id="premier-sports-2-uk" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sports 2
@@ -90,6 +45,9 @@ https://7pal.short.gy/prsport2
 --- 📺 Sports | RUSSIA
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",Матч Премьер (1080p)
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+
+# EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",Матч Премьер (1080p)2
 http://ottrb.crd-s.net/370/75d43273db2bba771463/live.m3u8
 
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-1.png" group-title="Sports",Матч! Футбол 1 (1080p)
@@ -117,10 +75,10 @@ https://tvoe.live/api/stream/ch3051/mono.m3u8?token=tvoelive.DSo0SUcalxD-kuqpxCb
 http://ottrb.crd-s.net/1589/75d43273db2bba771463/live.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus-5.png" group-title="Sports",Беларусь 5 (1080p)
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
 #EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus-5-internet.png" group-title="Sports",Беларусь 5 Интернет (1080p)
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b2660000_sleng.m3u8
+http://138.201.250.184/B5/index.m3u8
 
 #EXTINF:-1 tvg-id="football-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/futbol.png" group-title="Sports",Футбол (1080p)
 http://ottrb.crd-s.net/766/75d43273db2bba771463/

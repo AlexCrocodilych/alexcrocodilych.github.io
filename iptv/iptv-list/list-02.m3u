@@ -51,6 +51,100 @@ http://mfe02.cliptv.az/dash/History_HDqdbi69.ism/playlist.mpd
 #EXTINF:-1 group-title="Caspel",Big Planet
 http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 
+#EXTINF:-1 group-title="Общие", Первый канал HD
+http://77.235.1.19:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="Общие", Первый канал HD +4
+http://77.235.1.19:8000/play/a073/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Discovery HD
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Box Memory HD
+http://178.217.72.66:8080/BOX_MEMORY_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Box Travel HD
+http://178.217.72.66:8080/BOX_travel_HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Развлечение", Travel+Adventure
+http://178.217.72.66:8080/Travel_And_Adventure/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Travel Channel
+http://178.217.72.66:8080/Travel_Channel/video.m3u8
+
+
+#EXTINF:-1 group-title="Знания", Animal Planet
+http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 group-title="Знания", Animal Planet HD
+http://95.85.109.219:7000/play/a088
+
+#EXTINF:-1 group-title="Знания", History 2 HD 🛡️
+http://95.67.12.81:10620
+#EXTINF:-1 group-title="Знания", Love Nature HD 🛡️
+http://95.67.12.82:9098
+#EXTINF:-1 group-title="Знания", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+
+#EXTINF:-1 group-title="Знания", National Geographic
+http://95.85.109.219:7000/play/a063
+#EXTINF:-1 group-title="Знания", National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic Wild
+http://188.237.47.212:6005
+#EXTINF:-1 group-title="Знания", National Geographic Wild HD
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 group-title="Знания", The Explorers HD
+http://77.235.1.19:8000/play/a058/index.m3u8
+
+#EXTINF:-1 group-title="Знания", viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Знания", viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+
+#EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет HD
+http://138.201.250.184/B5/index.m3u8
+
+
+#EXTINF:-1 group-title="Спорт", Матч! Игра HD
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+
+#EXTINF:-1 group-title="Спорт", Матч! Арена HD
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
+
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+
+
+#EXTINF:-1 group-title="Спорт", Eurosport 1
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2
+http://138.201.250.184/eurosport2/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2 HD
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 4K 🛡️
+https://7pal.short.gy/eusport4k
+
+#EXTINF:-1 group-title="Спорт", Okko Спорт. Прайм HD
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+http://94.130.221.219/setanta1/mpegts
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
+http://95.85.109.219:7000/play/a067
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
+http://95.85.109.219:7000/play/a068
+
 
 
 

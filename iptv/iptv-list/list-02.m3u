@@ -5,7 +5,18 @@
 
 
 
-
+#EXTINF:0 tvg-name="Eurosport", Eurosport
+#EXTGRP:Спорт
+http://gr.seetv.cc/play/15/FB4F94DA00C3BE0/mpegts
+#EXTINF:0 tvg-name="Eurosport HD", Eurosport HD
+#EXTGRP:Спорт
+http://gr.seetv.cc/play/145/FB4F94DA00C3BE0/mpegts
+#EXTINF:0 tvg-name="Eurosport 2", Eurosport 2
+#EXTGRP:Спорт
+http://gr.seetv.cc/play/43/FB4F94DA00C3BE0/mpegts
+#EXTINF:0 tvg-name="Eurosport 2 HD", Eurosport 2 HD
+#EXTGRP:Спорт
+http://gr.seetv.cc/play/361/FB4F94DA00C3BE0/mpegts
 
 
 

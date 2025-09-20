@@ -5,21 +5,27 @@
 
 
 
-#EXTINF:-1 group-title="Каналы с VPN",eurosport2 HD
-http://5.188.159.128:8070/eurosport2/index.m3u8
-#EXTINF:-1 group-title="Каналы с VPN",NationalGeographic HD
-http://5.188.159.128:8070/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
+http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра
+http://178.212.71.253:8000/play/56/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1
-http://178.212.71.253:8000/play/143/index.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://178.212.71.253:8000/play/34/index.m3u8
-
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eurosport 1 HD
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eurosport 2 HD
-http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
-
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+http://158.160.149.81:8080/4536/index.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
+http://95.85.109.219:7000/play/a067
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
+http://95.85.109.219:7000/play/a068
+#EXTINF:-1 group-title="Спорт", Setanta Sports+ HD
+http://158.160.149.81:8080/8829/index.m3u8
 
 
 

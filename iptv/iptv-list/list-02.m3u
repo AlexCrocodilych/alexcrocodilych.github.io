@@ -4,20 +4,84 @@
 
 
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
-http://109.197.192.121:8080/eurosport/index.m3u8
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 HD
-http://109.70.186.70:9090/udp/239.185.1.15:1234
+#EXTINF:-1 group-title="Спорт", Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Спорт", Конный мир
+http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Арена HD
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Боец
+http://77.235.1.19:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Игра
+http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт", Матч! Игра HD
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 group-title="Спорт", Матч! Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Страна
+http://77.235.1.19:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+http://77.235.1.19:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://77.235.1.19:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Мир баскетбола
+http://77.235.1.19:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Спорт", Старт
+http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт", Старт Триумф
+http://77.235.1.19:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Спорт", Футбол
+http://178.217.72.66:8080/telefootbol/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Arena Sport 1
+http://78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Спорт", Astrakhan.RU Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Bein Sports HD
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Спорт", Bein Sports Xtra 🛡️
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Canal+ Sport 2
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Спорт", Diema Sport
+http://213.169.39.30:5134
+#EXTINF:-1 group-title="Спорт", Diema Sport 2
+http://213.169.39.30:5136
+#EXTINF:-1 group-title="Спорт", Diema Sport 3
+http://213.169.39.30:5216
+#EXTINF:-1 group-title="Спорт", Eleven Sports 1 🛡️
+http://145.239.19.144:18088/271/mpegts
+#EXTINF:-1 group-title="Спорт", Eleven Sports 2 🛡️
+http://145.239.19.144:18088/270/mpegts
+#EXTINF:-1 group-title="Спорт", Eleven Sports 3 🛡️
+http://145.239.19.144:18088/269/mpegts
+#EXTINF:-1 group-title="Спорт", Eleven Sports 4 🛡️
+http://145.239.19.144:18088/272/mpegts
+#EXTINF:-1 group-title="Спорт", Eurosport 1
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2
+http://138.201.250.184/eurosport2/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2 HD
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="premier-sports-2-uk" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sports 2
 https://7pal.short.gy/prsport2
-
-#EXTINF:-1 group-title="С сайтов" ,Бобер
-#EXTVLCOPT:http-referrer=https://bober.ru
-https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
 
 
 

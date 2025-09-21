@@ -11,19 +11,16 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://94.130.221.219/match/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)0
-http://94.130.221.219/matchfootball/mpegts
+http://94.130.221.219/football1/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)0111
-http://94.130.221.219/matchfootball1/mpegts
+http://94.130.221.219/premier/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)1
-http://94.130.221.219/matchfutball1/mpegts
+http://94.130.221.219/futball1/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)10
 http://94.130.221.219/matchfutball/mpegts
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)2
-http://94.130.221.219/setanta/mpegts
 
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)4

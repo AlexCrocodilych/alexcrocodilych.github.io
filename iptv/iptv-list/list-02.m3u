@@ -14,22 +14,22 @@ http://94.130.221.219/match/mpegts
 http://94.130.221.219/eurosport/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)2
-http://94.130.221.219/eurosport1/mpegts
+http://94.130.221.219/matchstrana/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)3
-http://94.130.221.219/eurosport-1/mpegts
+http://94.130.221.219/okko/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)4
-http://94.130.221.219/eurosport-01/mpegts
+http://94.130.221.219/bobior/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)5
-http://94.130.221.219/evrosport/mpegts
+http://94.130.221.219/ntv/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)6
-http://94.130.221.219/evrosport-1/mpegts
+http://94.130.221.219/history/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)7
-http://94.130.221.219/evrosport-01/mpegts
+http://94.130.221.219/discovery/mpegts
 
 
 

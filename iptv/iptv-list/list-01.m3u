@@ -133,12 +133,6 @@ http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bober.png" group-title="Общественные",Бобёр - 01 (576p)
 http://178.212.71.253:8002/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="bobior" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bober.png" group-title="Общественные",Бобёр - 01 (576p)000
-http://178.217.72.66:8080/Bober/index.m3u8
-
-#EXTINF:-1 tvg-id="bobior" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bober.png" group-title="Общественные",Бобёр - 02 (576p)
-http://195.18.23.20:8000/play/1/index.m3u8
-
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 01 (512p)
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 

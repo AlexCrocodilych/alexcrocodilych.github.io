@@ -23,11 +23,11 @@ http://94.130.221.219/matchfutball1/mpegts
 http://94.130.221.219/matchfutball/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)2
-http://94.130.221.219/setana/mpegts
+http://94.130.221.219/setanta/mpegts
 
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)4
-http://94.130.221.219/setana1/mpegts
+http://94.130.221.219/setanta1/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)5
 http://94.130.221.219/futbol/mpegts
@@ -40,6 +40,21 @@ http://94.130.221.219/matchfutbol/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)8
 http://94.130.221.219/matchfutbol1/mpegts
+
+#EXTINF:-1 tvg-id="VitalFootball.ru",VITAL Football [Not 24/7]
+https://vslive.pw/stream/48682/index.m3u8
+#EXTINF:-1 tvg-id="VitalPlus.ru",VITAL Plus [Not 24/7]
+https://vslive.pw/stream/48683/index.m3u8
+#EXTINF:-1 tvg-id="VitalSport.ru",VITAL Sport [Not 24/7]
+https://vslive.pw/stream/48527/index.m3u8
+#EXTINF:-1 tvg-id="VitalTennis.ru",VITAL Tennis [Not 24/7]
+https://vslive.pw/stream/48685/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru",Россия 1 / ГТРК Кузбасс
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Sibir24.ru@KYA",Сибирь 24 (Красноярск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 
 
 

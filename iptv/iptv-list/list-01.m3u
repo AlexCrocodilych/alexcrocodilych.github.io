@@ -83,7 +83,7 @@ http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 
 # EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (2160p)
  
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч Арена (1080p)
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч Арена (720p)
 http://94.130.221.219/matcharena/mpegts
 
 # EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч Арена (1080p)2
@@ -92,7 +92,7 @@ http://ottrb.crd-s.net/1384/75d43273db2bba771463/
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч! Арена (576p)
 http://194.143.148.28:8080/MatchArena/mpegts
 
-#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-igra.png" group-title="Спортивные",Матч! Игра (1080p)
+#EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-igra.png" group-title="Спортивные",Матч! Игра (720p)
 http://94.130.221.219/matchigra/mpegts
 
 # EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-igra.png" group-title="Спортивные",Матч! Игра (1080p)2
@@ -101,7 +101,7 @@ http://ottrb.crd-s.net/386/75d43273db2bba771463/live.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-igra.png" group-title="Спортивные",Матч! Игра (576p)
 http://87.120.142.11:18000/Match!Igra
 
-#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-strana.png" group-title="Спортивные",Матч! Страна (1080p)
+# EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-strana.png" group-title="Спортивные",Матч! Страна (1080p)
 http://ottrb.crd-s.net/1084/75d43273db2bba771463/live.m3u8
 
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-strana.png" group-title="Спортивные",Матч! Страна (576p)

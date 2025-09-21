@@ -16,6 +16,9 @@ http://109.70.186.70:9090/udp/239.185.1.15:1234
 #EXTINF:-1 tvg-id="premier-sports-2-uk" tvg-logo="http://epg.one/img2/3553.png" group-title="Спортивные",Premier Sports 2
 https://7pal.short.gy/prsport2
 
+#EXTINF:-1 group-title="С сайтов" ,Бобер
+#EXTVLCOPT:http-referrer=https://bober.ru
+https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
 
 
 

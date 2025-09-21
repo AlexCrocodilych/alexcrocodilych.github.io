@@ -232,6 +232,17 @@ http://x3m.li:80/live/YEnvgbVU/1ZjQz8RB/7802.m3u8
 
 # EXTINF:-1 tvg-id="sibir-24" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sibir-24.png" group-title="Общественные",Сибирь 24 (1080p)
 
+--- 📺 Films | RUSSIA
+
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Мульт (720p)
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Мультимузыка (576p)
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Рыжий (576p)
+http://31.148.48.15/Rizhiy/index.m3u8
+
 --- 📺 Radio | RUSSIA
 
 #EXTINF:-1 tvg-id="europa-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/europa-plus.png" group-title="Радио",Европа Плюс FM

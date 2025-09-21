@@ -4,18 +4,10 @@
 
 
 
-
-#EXTINF:-1 group-title="Развлечение", History
-http://95.85.109.219:7000/play/a069
-#EXTINF:-1 group-title="Развлечение", History HD
-http://45.159.74.22/Channel_123/mono.m3u8
-
-#EXTINF:-1 group-title="Спорт", Q Sport Kyrgyzstan HD
-http://95.85.109.219:7000/play/a05u
-
-
-#EXTINF:-1 group-title="Спорт", Okko Спорт. Прайм HD
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1,EUROSPORTS
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278834/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+#EXTINF:-1,EUROSPORTS 2
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278835/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
 
 
 

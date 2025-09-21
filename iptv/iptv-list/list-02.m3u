@@ -10,26 +10,33 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)
 http://94.130.221.219/match/mpegts
 
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)0
+http://94.130.221.219/okko/mpegts
+
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)1
 http://94.130.221.219/eurosport/mpegts
 
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)2
-http://94.130.221.219/matchstrana/mpegts
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)10
+http://94.130.221.219/eurosport1/mpegts
 
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)3
-http://94.130.221.219/okko/mpegts
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)2
+http://94.130.221.219/bobr/mpegts
+
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)4
-http://94.130.221.219/bobior/mpegts
+http://94.130.221.219/bober/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)5
-http://94.130.221.219/ntv/mpegts
+http://94.130.221.219/mult/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)6
 http://94.130.221.219/history/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)7
 http://94.130.221.219/discovery/mpegts
+
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч (720p)8
+http://94.130.221.219/matchhd/mpegts
 
 
 

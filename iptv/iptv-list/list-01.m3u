@@ -117,6 +117,9 @@ http://ottrb.crd-s.net/1163/75d43273db2bba771463/live.m3u8
 http://87.120.142.11:18000/Match!
 
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Спорт (1080p)
+http://94.130.221.219/okko/mpegts
+
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Прайм (1080p)
 http://185.221.213.254:8080/Okko/index.m3u8
 
 --- 📺 Дом | RUSSIA

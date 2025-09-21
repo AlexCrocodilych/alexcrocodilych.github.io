@@ -4,33 +4,6 @@
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобер" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Бобер
-http://195.18.23.20:8000/play/1/index.m3u8
-
-#EXTINF:-1 group-title="Ялта (VPN)",Бобёр
-http://178.212.71.253:8000/play/77/index.m3u8
-
-#EXTINF:-1,Бобер
-http://195.26.83.96:7022/play/a00t/index.m3u8
-
-#EXTINF:-1,Бобер
-http://195.26.83.96:7022/play/a00t/index.m3u8
-#EXTINF:-1,Бобер
-http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:-1,Бобер
-http://86.57.211.182:32200/Bober/index.m3u8
-#EXTINF:-1,Бобер
-http://94.232.104.237:8000/play/044/index.m3u8
-#EXTINF:-1,Бобер
-http://176.113.48.221:8986/39
-#EXTINF:-1,Бобер
-http://92.242.110.52:9835/udp/238.1.11.24:1234
-#EXTINF:-1,Бобер
-http://188.113.190.15/131/tracks-v1a1/index.m3u8
-#EXTINF:-1,Бобер
-http://otv.wotom.net:4433/udp/238.1.1.179:1234
-
-
 #EXTINF:-1 tvg-id="Russia1.ru",Россия 1 / ГТРК Кузбасс
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
 

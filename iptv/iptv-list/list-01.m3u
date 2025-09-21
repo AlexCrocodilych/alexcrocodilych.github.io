@@ -5,7 +5,7 @@
 http://178.134.1.158:8081/eurosport/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 02 (1080p)
-http://109.233.89.166/Eurosport_1_HD/mono.m3u8
+http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgwMTMiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTIvODAxMy90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjIxIiwiYWZwIjoiODAxMyIsImF0cyI6IjMzNiIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjEzIiwidCI6ImEzYTM0NWEzYTkzODY1YmM2NWZkNjhkNDNmM2M2OGJiIiwiZCI6IjI4MDc4MCIsInIiOiIyODYzNjUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMTMvbXBlZ3RzP3Rva2VuPVtzdGJ
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 03 (1080p)
 http://217.27.239.226:8888/play/35/index.m3u8
@@ -39,8 +39,8 @@ https://7pal.short.gy/eusport4k
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
 
 
-# EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (1080p)
-
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (1080p)
+http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgwMTQiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTIvODAxNC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjIxIiwiYWZwIjoiODAxNCIsImF0cyI6IjMzNiIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjE0IiwidCI6ImEzYTM0NWEzYTkzODY1YmM2NWZkNjhkNDNmM2M2OGJiIiwiZCI6IjI4MDc4MCIsInIiOiIyODYzNjUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMTQvbXBlZ3RzP3Rva2VuPVtzdGJ
 
 # EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 03 (1080p)
 

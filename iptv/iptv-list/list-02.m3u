@@ -4,35 +4,13 @@
 
 
 
-#EXTINF:-1 tvg-id="Russia1.ru",Россия 1 / ГТРК Кузбасс
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Setanta 1(720p)4
 http://94.130.221.219/setanta1/mpegts
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Setanta 2(720p)4
 http://94.130.221.219/setanta2/mpegts
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Setanta 3(720p)4
-http://94.130.221.219/setanta3/mpegts
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Setanta 11(720p)4
-http://94.130.221.219/setantaua1/mpegts
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Setanta 21(720p)4
-http://94.130.221.219/setantage1/mpegts
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Eurosport 1 (720p)0
-http://94.130.221.219/eurosport1/mpegts
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Eurosport 1 (720p)1
-http://94.130.221.219/euro-sport1/mpegts
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Eurosport 1 (720p)0
-http://94.130.221.219/evrosport1/mpegts
-
-#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Eurosport 1 (720p)1
-http://94.130.221.219/evro-sport1/mpegts
 
 
 
@@ -567,10 +545,12 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/rossia-24.png" group-title="RU-news",Россия 24 (1080p)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/rossia-24.png" group-title="RU-news",ГТРК Кузбасс (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
+
 --- 📺 Relax | RUSSIA
 
-#EXTINF:-1 tvg-id="fireplace" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Relax",TV Камин (1080p)
-https://river-1.rutube.ru/hls-vod/iM4pevvdbmTpCWon-kkSag/1741987494/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
+# EXTINF:-1 tvg-id="fireplace" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Relax",TV Камин (1080p)
 
 
 --- 📺 NHL | USA

@@ -162,13 +162,10 @@ http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgxODAiLCJzdHAiOiIwIiwiYW
 # EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Наука",Discovery (1080p)2
 http://ottrb.crd-s.net/1255/75d43273db2bba771463/
 
-# EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Наука",Viju Explore (1080p)
-http://ottrb.crd-s.net/218/75d43273db2bba771463/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Наука",Viju History (720p)
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Наука",Viju History (720p)
 http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgwODYiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTIvODA4Ni90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjIxIiwiYWZwIjoiODA4NiIsImF0cyI6IjMzNiIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6Ijg0IiwidCI6ImEzYTM0NWEzYTkzODY1YmM2NWZkNjhkNDNmM2M2OGJiIiwiZCI6IjI4MDc4MCIsInIiOiIyODYzNjUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwODYvbXBlZ3RzP3Rva2VuPVtzdGJ
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Наука",Viju Explore (720p)
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Наука",Viju Explore (720p)
 http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgwODUiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTIvODA4NS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjIxIiwiYWZwIjoiODA4NSIsImF0cyI6IjMzNiIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjgzIiwidCI6ImEzYTM0NWEzYTkzODY1YmM2NWZkNjhkNDNmM2M2OGJiIiwiZCI6IjI4MDc4MCIsInIiOiIyODYzNjUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwODUvbXBlZ3RzP3Rva2VuPVtzdGJ
 
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Наука",Love Nature (2160p)
@@ -237,16 +234,16 @@ http://x3m.li:80/live/YEnvgbVU/1ZjQz8RB/7802.m3u8
 
 --- 📺 Films | RUSSIA
 
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Мульт (1080p)
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Мульт (1080p)
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Мультимузыка (576p)
+#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Мультимузыка (576p)
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Ани (576p)
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Ани (576p)
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Рыжий (576p)
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Мульт",Рыжий (576p)
 http://31.148.48.15/Rizhiy/index.m3u8
 
 --- 📺 Radio | RUSSIA

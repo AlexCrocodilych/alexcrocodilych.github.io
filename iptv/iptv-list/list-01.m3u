@@ -240,19 +240,13 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/multimuzyka.png" group-title="Мульт",Мультимузыка (576p)
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ani" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ani.png" group-title="Мульт",Ани (576p)
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ani.png" group-title="Мульт",Ани (1080p)
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ryzhy.png" group-title="Мульт",Рыжий (576p)
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ryzhy.png" group-title="Мульт",Рыжий (1080p)
 http://31.148.48.15/Rizhiy/index.m3u8
 
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ani.png" group-title="Мульт",Мульт (1080p)
-http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
-
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ani.png" group-title="Мульт",Мульт (1080p)2
-http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="karusel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/karusel.png" group-title="Мульт",Карусель (1080p)
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/karusel.png" group-title="Мульт",Карусель (576p)
 https://streaming.goodstream.cyou/live/232.m3u8
 
 --- 📺 Radio | RUSSIA

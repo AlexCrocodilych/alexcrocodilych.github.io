@@ -632,11 +632,20 @@ http://fl5.moveonjoy.com/NBA_13/index.m3u8
 
 --- 📺 Kids | RUSSIA
 
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Kids",Мульт (1080p)
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mult.png" group-title="Мульт",Мульт (1080p)
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 
-#EXTINF:-1 tvg-id="karusel-int" tvg-logo="http://only4.tv/ch/carousel.png" group-title="Kids",Карусель (1080p)
-https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/multimuzyka.png" group-title="Мульт",Мультимузыка (576p)
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ani.png" group-title="Мульт",Ани (1080p)
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ryzhy.png" group-title="Мульт",Рыжий (1080p)
+http://31.148.48.15/Rizhiy/index.m3u8
+
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/karusel.png" group-title="Мульт",Карусель (576p)
+https://streaming.goodstream.cyou/live/232.m3u8
 
 --- 📺 Films | RUSSIA
 

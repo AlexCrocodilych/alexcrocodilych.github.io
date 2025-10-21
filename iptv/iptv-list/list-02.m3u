@@ -400,12 +400,6 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="US-local",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
 https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 
-#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="US-local",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)2
-https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/a.m3u8
-
-#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="US-local",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)3
-https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/a.m3u8?ad=desktop&ad.url=https%3A%2F%2Fwral.com&ad.description_url=https%3A%2F%2Fwral.com&euid=desktop&expand=live&pbs=115fee189da1481ab29ae67fb9832c8c
-
 #EXTINF:-1 tvg-id="WTVDDT1247News.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvd.png" group-title="US-local",WTVD ABC 11 Raleigh-Durham NC [Neutral] (720p)
 https://content-aeui1.uplynk.com/channel/a260e6e674f3429f874819f0f232eb08/f.m3u8?pbs=2c188923559248a6a968d283242c86ad
 
@@ -453,24 +447,8 @@ https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/
 
 --- 📺 News | US
 
-#EXTINF:-1,CBSN Philadelphia
-https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
-
-#EXTINF:-1,Fox News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1,MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
-
-
-#EXTINF:-1,NBC
-http://4.59.210.197:8815/udp/127.0.0.1:6009
-
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn.png" group-title="US-news",CNN [Democratic] (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="cnn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn.png" group-title="US-news",CNN [Democratic] (720p)2
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="US-news",Fox News [Republican] (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8

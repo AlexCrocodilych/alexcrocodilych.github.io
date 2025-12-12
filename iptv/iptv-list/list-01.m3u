@@ -2,20 +2,6 @@
 #PLAYLIST:My
 
 
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport.png" tvg-name="" group-title="BE| SPORTS",EUROSPORT 1 HD
-http://x3m.li/live/buk8YDg1/kXBoUb25/12736.m3u8
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport2.png" tvg-name="" group-title="BE| SPORTS",EUROSPORT 2 HD
-http://x3m.li/live/buk8YDg1/kXBoUb25/12737.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1.bg" tvg-logo="http://picons.cmshulk.com/picons/812019.png" tvg-name="" group-title="BE| SPORTS",EUROSPORT 1 HEVC
-http://x3m.li/live/buk8YDg1/kXBoUb25/12743.m3u8
-#EXTINF:-1 tvg-id="eurosport2.cy" tvg-logo="http://picons.cmshulk.com/picons/812018.png" tvg-name="" group-title="BE| SPORTS",EUROSPORT 2 HEVC
-http://x3m.li/live/buk8YDg1/kXBoUb25/12744.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport2.png" tvg-name="" group-title="CZ| SPORTS",EUROSPORT 2 HD
-http://x3m.li/live/buk8YDg1/kXBoUb25/17301.m3u8
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport.png" tvg-name="" group-title="CZ| SPORTS",EUROSPORT HD
-http://x3m.li/live/buk8YDg1/kXBoUb25/17302.m3u8
 
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)
@@ -57,6 +43,9 @@ http://84.54.128.52:9090/play/4003/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - EN-01 (1080p)
 http://185.166.252.230/Eurosport1/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - PL-01 (1080p)
+http://x3m.li/live/buk8YDg1/kXBoUb25/17302.m3u8
+
 
 # EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 4K (1080p)
 https://7pal.short.gy/eusport4k
@@ -96,6 +85,8 @@ http://84.54.128.52:9090/play/4004/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - EN-01 (1080p)
 http://185.166.252.230/Eurosport2/index.m3u8
 
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - PL-01 (1080p)
+http://x3m.li/live/buk8YDg1/kXBoUb25/17301.m3u8
 
 
 

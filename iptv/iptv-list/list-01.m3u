@@ -3,22 +3,59 @@
 
 
 
-#EXTINF:0 tvg-id="Xeurosport1" tvg-name="Eurosport 1" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png"  tvg-rec="5" timeshift="5", Eurosport
-#EXTGRP:Спорт
-http://ade.online24.pm/play/15/303F8EB71B9D1C7/video.m3u8
-#EXTINF:0 tvg-id="Xeurosport1" tvg-name="Eurosport 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png"  tvg-rec="5" timeshift="5", Eurosport HD
-#EXTGRP:Спорт
-http://ade.online24.pm/play/145/303F8EB71B9D1C7/video.m3u8
-#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png"  tvg-rec="5" timeshift="5", Eurosport 2
-#EXTGRP:Спорт
-http://ade.online24.pm/play/43/303F8EB71B9D1C7/video.m3u8
-#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png"  tvg-rec="5" timeshift="5", Eurosport 2 HD
-#EXTGRP:Спорт
-http://ade.online24.pm/play/361/303F8EB71B9D1C7/video.m3u8
 
 
 
 
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/264.png" catchup-days="6" catchup-type="flussonic" group-title="RU Спорт", Eurosport 1 HD
+http://as01.plinkspile.su/264/index.m3u8?token=Aw9AhNycZYUkLf
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/265.png" catchup-days="6" catchup-type="flussonic" group-title="RU Спорт", Eurosport 2 HD
+http://as01.plinkspile.su/265/index.m3u8?token=Aw9AhNycZYUkLf
+
+
+
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eurosport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Eurosport 2 HD
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+
+
+#EXTINF:-1 group-title="TEST ⓵", Eurosport 2 HD
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
+
+
+#EXTINF:0 tvg-id="37" tvg-logo="http://epg.cdntv.online/img/37.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 1
+#EXTGRP:Спортивные
+http://vipl.one/high/3ylmr5bzg6/37.m3u8
+#EXTINF:0 tvg-id="38" tvg-logo="http://epg.cdntv.online/img/38.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 1 HD
+#EXTGRP:Спортивные
+http://vipl.one/high/3ylmr5bzg6/38.m3u8
+#EXTINF:0 tvg-id="39" tvg-logo="http://epg.cdntv.online/img/39.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 2
+#EXTGRP:Спортивные
+http://vipl.one/high/3ylmr5bzg6/39.m3u8
+#EXTINF:0 tvg-id="40" tvg-logo="http://epg.cdntv.online/img/40.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 2 HD
+#EXTGRP:Спортивные
+http://vipl.one/high/3ylmr5bzg6/40.m3u8
+
+
+
+#EXTINF:-1 group-title="Объединенные сети",Eurosport 1 HD
+http://146.120.14.239:3001/play/a07b
+#EXTINF:-1 group-title="Объединенные сети",Eurosport 2 HD
+http://146.120.14.239:3001/play/a07c
+
+
+
+#EXTINF:0 CUID="13" number="60" tvg-id="epg1:Eurosport 1" tvg-name="epg1:Eurosport 1" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Eurosport 1.png" group-title="Спорт",Eurosport 1
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzgwMTMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjBmYzYyZTIyIiwicCI6IjBmYzYyZTIyNGJhZGMzMjQiLCJjIjoiMTMiLCJ0IjoiYmFlYmQ4ODc0YjgzY2QxOTkyMzA3YjUzZmU4ODM0MGYiLCJkIjoiNDMzNTQzIiwiciI6IjQ0NTQ0MiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDEzL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTINF:0 CUID="14" number="61" tvg-id="epg1:Eurosport 2" tvg-name="epg1:Eurosport 2" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Eurosport 2.png" group-title="Спорт",Eurosport 2
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzgwMTQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjBmYzYyZTIyIiwicCI6IjBmYzYyZTIyNGJhZGMzMjQiLCJjIjoiMTQiLCJ0IjoiYmFlYmQ4ODc0YjgzY2QxOTkyMzA3YjUzZmU4ODM0MGYiLCJkIjoiNDMzNTQzIiwiciI6IjQ0NTQ0MiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MDE0L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+
+
+#EXTINF:0 CUID="168" number="336" tvg-id="epg1:Eurosport 1" tvg-name="epg1:Eurosport 1" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Eurosport 1 HD1.png" group-title="Спорт",Eurosport 1 HD
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzgxNzgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjBmYzYyZTIyIiwicCI6IjBmYzYyZTIyNGJhZGMzMjQiLCJjIjoiMTY4IiwidCI6ImJhZWJkODg3NGI4M2NkMTk5MjMwN2I1M2ZlODgzNDBmIiwiZCI6IjQzMzU0MyIsInIiOiI0NDU0NDIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MTc4L2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
+#EXTINF:0 CUID="153" number="337" tvg-id="epg1:Eurosport 2" tvg-name="epg1:Eurosport 2" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Eurosport 2 HD1.png" group-title="Спорт",Eurosport 2 HD
+http://ost.ru-tv.site/0Yl90b2tlbl0iLCJhIjoiaHR0cDovLzU3LjEyOS41Mi4xNjo4ODgwLzgxNjMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjBmYzYyZTIyIiwicCI6IjBmYzYyZTIyNGJhZGMzMjQiLCJjIjoiMTUzIiwidCI6ImJhZWJkODg3NGI4M2NkMTk5MjMwN2I1M2ZlODgzNDBmIiwiZCI6IjQzMzU0MyIsInIiOiI0NDU0NDIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzU3LjEyOS41Mi4xNi84MTYzL2luZGV4Lm0zdTg_dG9rZW49W3N/index.m3u8
 
 
 

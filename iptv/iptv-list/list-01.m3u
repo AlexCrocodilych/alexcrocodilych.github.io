@@ -1,6 +1,29 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG"
 #PLAYLIST:My
 
+
+
+#EXTINF:0 tvg-id="Xeurosport1" tvg-name="Eurosport 1" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png"  tvg-rec="5" timeshift="5", Eurosport
+#EXTGRP:Спорт
+http://ade.online24.pm/play/15/303F8EB71B9D1C7/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport1" tvg-name="Eurosport 1 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png"  tvg-rec="5" timeshift="5", Eurosport HD
+#EXTGRP:Спорт
+http://ade.online24.pm/play/145/303F8EB71B9D1C7/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png"  tvg-rec="5" timeshift="5", Eurosport 2
+#EXTGRP:Спорт
+http://ade.online24.pm/play/43/303F8EB71B9D1C7/video.m3u8
+#EXTINF:0 tvg-id="Xeurosport2" tvg-name="Eurosport 2 HD" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png"  tvg-rec="5" timeshift="5", Eurosport 2 HD
+#EXTGRP:Спорт
+http://ade.online24.pm/play/361/303F8EB71B9D1C7/video.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)
 http://178.134.1.158:8081/eurosport/index.m3u8
 

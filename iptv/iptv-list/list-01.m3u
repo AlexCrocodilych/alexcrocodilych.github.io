@@ -209,13 +209,10 @@ http://ottrb.crd-s.net/272/75d43273db2bba771463/live.m3u8
 --- 📺 TV | RUSSIA
 
 #EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый +4 (720p)
-https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-
-#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый +4 (576p)
-http://dmi3y-tv.ru/hls/T2/CH_1TV_4.m3u8
-
-#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый +4 (576p)3
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
+
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый +4 (720p)2
+https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/pervy.png" group-title="Общественные",Первый (720p)
 http://95.66.188.74/PerviyHD/mono.m3u8
@@ -229,7 +226,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 +4 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="RENTVInternational" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",Россия 1 +4 (1080p)2
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 +4 (1080p)2
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 (1080p)
@@ -252,7 +249,6 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RENTVInternational" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",РЕН ТВ International (1080p)
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-
 
 
 #EXTINF:-1 tvg-id="ren" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",РЕН ТВ (1080p)

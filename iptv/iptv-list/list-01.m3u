@@ -7,7 +7,39 @@
 
 
 
+#EXTINF:-1 tvg-id="RadioShanson.ru@SD",Радио Шансон (720p) [Not 24/7]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
+
+#EXTINF:-1 tvg-id="RENTVInternational.ru@SD",РЕН ТВ International
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+4)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+
+#EXTINF:-1 group-title="NNT",Рен ТВ
+http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
+
+#EXTINF:-1 group-title="KIM-RAY (VPN)",Рен ТВ
+http://31.47.199.45:1401/rentv/index.m3u8
+
+#EXTINF:-1 group-title="Таттелеком (VPN)",Рен ТВ
+http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
+
+
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Первый HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Первый канал
+http://95.66.188.74/PerviyKanal/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Рен ТВ
+http://95.66.188.74/RenTV/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Россия 1 HD
+http://95.66.188.74/Rossia1HD/mono.m3u8
 
 
 

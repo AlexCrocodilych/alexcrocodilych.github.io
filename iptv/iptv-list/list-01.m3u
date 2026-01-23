@@ -9,24 +9,15 @@
 
 
 
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/54.png" tvg-id="eurosport1",Eurosport 1 CEE
-http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=7NDbKyE
-
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/57.png" tvg-id="eurosport2",Eurosport 2 CEE
-http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=7NDbKyE
-
-#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/2753.png" tvg-id="eurosport-4k",Eurosport 4K
-http://lb.wisp.cat/lb0/EuAB39EE13test4K1/video.m3u8?token=7NDbKyE
-
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/54.png" tvg-id="eurosport1",Eurosport 1 CEE
-http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=AWYh9Vrv4z
 
 
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/57.png" tvg-id="eurosport2",Eurosport 2 CEE
-http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=AWYh9Vrv4z
 
-#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/2753.png" tvg-id="eurosport-4k",Eurosport 4K
-http://lb.wisp.cat/lb0/EuAB39EE13test4K1/video.m3u8?token=AWYh9Vrv4z
+#EXTINF:-1 tvg-id="ttv25285" tvg-rec="7" timeshift="7",Eurosport 1 CEE НD
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/172/stream.m3u8
+#EXTINF:-1 tvg-id="ttv17973",Eurosport 1 HD (DE)
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/1677/stream.m3u8
+#EXTINF:-1 tvg-id="ttv15845" tvg-rec="7" timeshift="7",Eurosport 2 CEE HD
+http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/173/stream.m3u8
 
 
 

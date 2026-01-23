@@ -29,7 +29,8 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 11 (1080p)
 http://vipl.one/high/3ylmr5bzg6/38.m3u8
 
-# EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 21 (1080p)
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 21 (1080p)
+http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI5Lm94dHZlLmxpdmU6OTk4MS9ldXJvc3BvcnQxaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFkNjc1NzVjIiwicCI6ImFkNjc1NzVjNGU1NjEyNzkiLCJjIjoiMzMiLCJ0IjoiZmU3MDgyZGNmMTI5MWU3NjZkYjlkMzY4YzJlNjczOTAiLCJkIjoiMzM4ODUiLCJyIjoiMTMzODg5IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDFoZC9pbmR/index.m3u8
 
 # EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 22 (1080p)
 
@@ -63,7 +64,8 @@ https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 11 (1080p)
 http://vipl.one/high/3ylmr5bzg6/40.m3u8
 
-# EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 21 (1080p)
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 21 (1080p)
+http://ost.fox-tv.fun/leC5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI5Lm94dHZlLmxpdmU6OTk4MS9ldXJvc3BvcnQyaGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImFkNjc1NzVjIiwicCI6ImFkNjc1NzVjNGU1NjEyNzkiLCJjIjoiMTQ4IiwidCI6ImZlNzA4MmRjZjEyOTFlNzY2ZGI5ZDM2OGMyZTY3MzkwIiwiZCI6IjMzODg1IiwiciI6IjEzMzg4OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDJoZC9pbmR/index.m3u8
 
 # EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 22 (1080p)
 

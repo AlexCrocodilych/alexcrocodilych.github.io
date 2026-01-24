@@ -2,12 +2,84 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
+#EXTINF:0 tvg-country="AM" tvg-logo="https://i.imgur.com/VmaYUcq.png" group-title="Sport",Fast Sports (1080p)
+http://stream01.vnet.am/Channel_131/index.m3u8?checkedby:iptvcat.com
 
 
 
 
+#EXTINF:0 tvg-country="AT" tvg-logo="" group-title="Sport",DAZN INTL Football x Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b79c057d934100080b3583/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d63b0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=340d00cb-a526-4167-8bcd-1c35305a875e&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Sport",NBA TV Canada (1080p)
+http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",beIN SPORTS XTRA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Sport",Canal+ Sport
+http://78.130.250.2:8023/play/a02v/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Sport",Canal+ Sport 2 (1080i)
+http://78.130.250.2:8023/play/a02w/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",DAZN INTL Football x Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b79c057d934100080b3583/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8bde990f-1091-4d79-87b7-0e0363b40e3c&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Sport",Fox Sports
+https://ott.udptv.com/stream/udptv/foxsports/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Sport",Fox Sports
+https://ott.udptv.com/stream/udptv/foxsports/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Sport",Fox Sports Premium (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8?checkedby:iptvcat.com
 
 
+#EXTINF:0 tvg-country="NZ" tvg-logo="" group-title="Sport",Sky Sport 1 (1080p)
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Canal+ Sport (1080p)
+http://178.219.128.68:64888/CANASPORHD?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TVP Sport (1080p)
+https://turbotv.tv/play/link/c28f5f5d-8830-4768-9452-733a1d80646f/eyJpdiI6Ik02dExRMUpoVThnUUFDYXZnSm5QbXc9PSIsInZhbHVlIjoiR2E3cysyRTJnQXVUanhsR3hxdXdHUGlkSzZsZFJiSkZ5b00xdjVTckIwTDV5cW53OE03WW9tRmg2RGxDZWZtTm9BSXZsVnVwSHpRK0Y1UnlnK3hOZGUxSVN6azlBNzI2N2FvdHBUQnlXUFk9IiwibWFjIjoiYzRhOTZhY2Y1ZjBmMzFkMWQzODJlNGY0ZjIzYWFmMjVlNDBmNjhjYmM1YzJhODQxNGY4ZjNmZTJmOTFhZTU1MiIsInRhZyI6IiJ9.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sport",ESPN U (720p)
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FOX Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV (1080p) [Geo-blocked]
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sport",NBA TV (720p)
+https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Eurosport 1 HD
+http://myott.top/stream/DT6QU63K5VX/176.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Eurosport 2 HD
+http://myott.top/stream/DT6QU63K5VX/192.m3u8?checkedby:iptvcat.com
 
 
 

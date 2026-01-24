@@ -2,47 +2,41 @@
 #PLAYLIST:My
 
 
-#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Eurosport 1
-https://taptv.ru/channel/LQAFFA6I56G49639H4/1000.m3u8
-#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 1
-https://taptv.ru/channel/LQAFFA6I56G49639H4/1001.m3u8
-#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Eurosport 1 HD
-https://taptv.ru/channel/LQAFFA6I56G49639H4/1002.m3u8
-#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 1 HD
-https://taptv.ru/channel/LQAFFA6I56G49639H4/1003.m3u8
-#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Eurosport 1 FHD
-https://taptv.ru/channel/LQAFFA6I56G49639H4/1004.m3u8
-#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Eurosport 2 HD
-https://taptv.ru/channel/LQAFFA6I56G49639H4/1005.m3u8
-#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 2 HD
-https://taptv.ru/channel/LQAFFA6I56G49639H4/1006.m3u8
-#EXTINF:0 group-title="⚽️ Спорт",Eurosport 4K
-https://taptv.ru/channel/LQAFFA6I56G49639H4/1007.m3u8
 
 
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport.png" tvg-name="" group-title="ГЕРМАНИЯ",EUROSPORT 1 HD
-http://x3m.li/live/K5ZQEu2w/TpwmdSDj/3343.ts
+
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/Eurosport%201%20HD.png" catchup="flussonic" catchup-days="7" tvg-id="Eurosport 1", Eurosport 1
+#EXTGRP:Спорт
+http://cdn.admuspeh.my/8013/video.m3u8?token=5FotNrrFnxVdhmgt
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/Eurosport%20HD%20DE.png" catchup="flussonic" catchup-days="7" tvg-id="Eurosport 1 HD", Eurosport 1 HD
+#EXTGRP:Спорт
+http://cdn.admuspeh.my/8178/video.m3u8?token=5FotNrrFnxVdhmgt
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/EUROSPORT%202%20HD%20SE.png" catchup="flussonic" catchup-days="7" tvg-id="Eurosport 2", Eurosport 2
+#EXTGRP:Спорт
+http://cdn.admuspeh.my/8014/video.m3u8?token=5FotNrrFnxVdhmgt
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/EUROSPORT%202%20HD%20SE.png" catchup="flussonic" catchup-days="7" tvg-id="Eurosport 2 HD", Eurosport 2 HD
+#EXTGRP:Спорт
+http://cdn.admuspeh.my/8163/video.m3u8?token=5FotNrrFnxVdhmgt
 
 
-#EXTINF:-1 tvg-id="eurosport1.no" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png" tvg-name="" group-title="СПОРТ",EUROSPORT
-http://x3m.li/live/K5ZQEu2w/TpwmdSDj/2048.ts
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport.png" tvg-name="" group-title="СПОРТ",EUROSPORT HD
-http://x3m.li/live/K5ZQEu2w/TpwmdSDj/2049.ts
-#EXTINF:-1 tvg-id="20mediaset.it" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png" tvg-name="" group-title="СПОРТ",EUROSPORT 2
-http://x3m.li/live/K5ZQEu2w/TpwmdSDj/2050.ts
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport2.png" tvg-name="" group-title="СПОРТ",EUROSPORT 2 HD
-http://x3m.li/live/K5ZQEu2w/TpwmdSDj/2051.ts
+#EXTINF:0,Eurosport 1 HD
+http://ott.server-iptv.live/200/video.m3u8?token=Ceba8e4412
+#EXTINF:0,Eurosport 1 HD
+http://ott.server-iptv.live/0200/video.m3u8?token=Ceba8e4412
+#EXTINF:0,Eurosport 2 HD
+http://ott.server-iptv.live/201/video.m3u8?token=Ceba8e4412
+#EXTINF:0,Eurosport 2 HD
+http://ott.server-iptv.live/0201/video.m3u8?token=Ceba8e4412
 
 
-#EXTINF:0 CUID="33" tvg-name="1:101" tvg-id="1:101" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/EUROSPORT1HD200.png" group-title="Спортивные",Eurosport 1 HD
-http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDFoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjMzIiwidCI6Ijg5YWY2ODMyYTQwZjIxOWFjZjJiOWE4NTY5YjNhMWVmIiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDFoZC9tcGV
-#EXTINF:0 CUID="148" tvg-name="1:98" tvg-id="1:98" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/EUROSPORT2HD200.png" group-title="Спортивные",Eurosport 2 HD
-http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDJoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjE0OCIsInQiOiI4OWFmNjgzMmE0MGYyMTlhY2YyYjlhODU2OWIzYTFlZiIsImQiOiI4ODc1NyIsInIiOiIxNzk3NTkiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDJoZC9tcGV
+#EXTINF:0 tvg-id="" tvg-name="Евроспорт 1" tvg-logo="" group-title="Спорт" catchup="flussonic" catchup-days="3",Евроспорт 1
+#EXTGRP:Спорт
+http://vod2.stb.tvime.ru/evrosport_1/video.m3u8?token=billing_6WJDKE9cG25U
+#EXTINF:0 tvg-id="" tvg-name="Евроспорт 2" tvg-logo="" group-title="Спорт" catchup="flussonic" catchup-days="3",Евроспорт 2
+#EXTGRP:Спорт
+http://vs6.cdn.mrf.tvime.ru/Eurosport_2/video.m3u8?token=billing_6WJDKE9cG25U
 
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/54.png" tvg-id="eurosport1",Eurosport 1 CEE
-http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=7NDbKyE
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/57.png" tvg-id="eurosport2",Eurosport 2 CEE
-http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=7NDbKyE
+
 
 
 
@@ -62,6 +56,9 @@ http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/172/stre
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 22 (1080p)
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 23 (1080p)
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 31 (1080p)
+http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDFoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjMzIiwidCI6Ijg5YWY2ODMyYTQwZjIxOWFjZjJiOWE4NTY5YjNhMWVmIiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDFoZC9tcGV
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 41 (1080p)
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
@@ -104,7 +101,7 @@ http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/173/stre
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 23 (1080p)
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 31 (1080p)
-http://5.188.159.128:8070/eurosport2/index.m3u8
+http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDJoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjE0OCIsInQiOiI4OWFmNjgzMmE0MGYyMTlhY2YyYjlhODU2OWIzYTFlZiIsImQiOiI4ODc1NyIsInIiOiIxNzk3NTkiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDJoZC9tcGV
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 41 (1080p)
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8

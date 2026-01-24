@@ -2,7 +2,47 @@
 #PLAYLIST:My
 
 
+#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Eurosport 1
+https://taptv.ru/channel/LQAFFA6I56G49639H4/1000.m3u8
+#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 1
+https://taptv.ru/channel/LQAFFA6I56G49639H4/1001.m3u8
+#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Eurosport 1 HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/1002.m3u8
+#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 1 HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/1003.m3u8
+#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Eurosport 1 FHD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/1004.m3u8
+#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Eurosport 2 HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/1005.m3u8
+#EXTINF:0 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 2 HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/1006.m3u8
+#EXTINF:0 group-title="⚽️ Спорт",Eurosport 4K
+https://taptv.ru/channel/LQAFFA6I56G49639H4/1007.m3u8
 
+
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport.png" tvg-name="" group-title="ГЕРМАНИЯ",EUROSPORT 1 HD
+http://x3m.li/live/K5ZQEu2w/TpwmdSDj/3343.ts
+
+
+#EXTINF:-1 tvg-id="eurosport1.no" tvg-logo="https://ip-tv.dev/epg/icon/eurosport1.png" tvg-name="" group-title="СПОРТ",EUROSPORT
+http://x3m.li/live/K5ZQEu2w/TpwmdSDj/2048.ts
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport.png" tvg-name="" group-title="СПОРТ",EUROSPORT HD
+http://x3m.li/live/K5ZQEu2w/TpwmdSDj/2049.ts
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-logo="https://ip-tv.dev/epg/icon/eurosport2.png" tvg-name="" group-title="СПОРТ",EUROSPORT 2
+http://x3m.li/live/K5ZQEu2w/TpwmdSDj/2050.ts
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/eurosport2.png" tvg-name="" group-title="СПОРТ",EUROSPORT 2 HD
+http://x3m.li/live/K5ZQEu2w/TpwmdSDj/2051.ts
+
+
+#EXTINF:0 CUID="33" tvg-name="1:101" tvg-id="1:101" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/EUROSPORT1HD200.png" group-title="Спортивные",Eurosport 1 HD
+http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDFoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjMzIiwidCI6Ijg5YWY2ODMyYTQwZjIxOWFjZjJiOWE4NTY5YjNhMWVmIiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDFoZC9tcGV
+#EXTINF:0 CUID="148" tvg-name="1:98" tvg-id="1:98" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/EUROSPORT2HD200.png" group-title="Спортивные",Eurosport 2 HD
+http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDJoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjE0OCIsInQiOiI4OWFmNjgzMmE0MGYyMTlhY2YyYjlhODU2OWIzYTFlZiIsImQiOiI4ODc1NyIsInIiOiIxNzk3NTkiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDJoZC9tcGV
+
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/54.png" tvg-id="eurosport1",Eurosport 1 CEE
+http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=7NDbKyE
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/57.png" tvg-id="eurosport2",Eurosport 2 CEE
+http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=7NDbKyE
 
 
 

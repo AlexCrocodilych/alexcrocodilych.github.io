@@ -4,20 +4,46 @@
 
 
 
+#EXTINF:0 tvg-id="37" tvg-logo="http://epg.cdntv.online/img/37.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 1
+#EXTGRP:Спортивные
+http://vipl.one/high/3ylmr5bzg6/37.m3u8
+#EXTINF:0 tvg-id="38" tvg-logo="http://epg.cdntv.online/img/38.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 1 HD
+#EXTGRP:Спортивные
+http://vipl.one/high/3ylmr5bzg6/38.m3u8
+#EXTINF:0 tvg-id="39" tvg-logo="http://epg.cdntv.online/img/39.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 2
+#EXTGRP:Спортивные
+http://vipl.one/high/3ylmr5bzg6/39.m3u8
+#EXTINF:0 tvg-id="40" tvg-logo="http://epg.cdntv.online/img/40.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 2 HD
+#EXTGRP:Спортивные
+http://vipl.one/high/3ylmr5bzg6/40.m3u8
 
-#EXTINF:0 catchup="fs" catchup-days="6" tvg-id="264" tvg-name="Eurosport 1 HD" tvg-logo="http://iptv-content.rv77.pw/logos/264.png" group-title="RU Спорт",Eurosport 1 HD
-http://ru01.plinkspile.su/264/index.m3u8?token=9t7DFF3yBcfHHr
-#EXTINF:0 catchup="fs" catchup-days="6" tvg-id="265" tvg-name="Eurosport 2 HD" tvg-logo="http://iptv-content.rv77.pw/logos/265.png" group-title="RU Спорт",Eurosport 2 HD
-http://ru01.plinkspile.su/265/index.m3u8?token=9t7DFF3yBcfHHr
-#EXTINF:0 catchup="fs" catchup-days="6" tvg-id="933" tvg-name="Setanta Sports 1 HD" tvg-logo="http://iptv-content.rv77.pw/logos/933.png" group-title="RU Спорт",Setanta Sports 1 HD
-http://ru01.plinkspile.su/933/index.m3u8?token=9t7DFF3yBcfHHr
-#EXTINF:0 catchup="fs" catchup-days="6" tvg-id="934" tvg-name="Setanta Sports 2 HD" tvg-logo="http://iptv-content.rv77.pw/logos/934.png" group-title="RU Спорт",Setanta Sports 2 HD
-http://ru01.plinkspile.su/934/index.m3u8?token=9t7DFF3yBcfHHr
+#EXTINF:-1 group-title="TEST ⓵", Eurosport 2 HD
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 
-#EXTINF:-1 CUID="13" number="44" tvg-id="" tvg-name="" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Eurosport 1 HD.png" group-title="Спорт",Eurosport
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDEzIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgwMTMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MDEzIiwiYXRzIjoiMzM2IiwibCI6IjNkMjczZWE3IiwicCI6IjNkMjczZWE3NGY1NWFjYjEiLCJjIjoiMTMiLCJ0IjoiMjkyMzY5MzdmM2M0YTk2Mzc1MzRhODk3NTNiNzNjZTgiLCJkIjoiMTg0OTk1IiwiciI6IjE4ODYzMiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMTMvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-#EXTINF:-1 CUID="14" number="45" tvg-id="" tvg-name="" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/EUROSPORT2HD200.png" group-title="Спорт",Eurosport 2
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDE0Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgwMTQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MDE0IiwiYXRzIjoiMzM2IiwibCI6IjNkMjczZWE3IiwicCI6IjNkMjczZWE3NGY1NWFjYjEiLCJjIjoiMTQiLCJ0IjoiMjkyMzY5MzdmM2M0YTk2Mzc1MzRhODk3NTNiNzNjZTgiLCJkIjoiMTg0OTk1IiwiciI6IjE4ODYzMiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMTQvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 group-title="Объединенные сети",Eurosport 1 HD
+http://146.120.14.239:3001/play/a07b
+#EXTINF:-1 group-title="Объединенные сети",Eurosport 2 HD
+http://146.120.14.239:3001/play/a07c
+
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="SPORT 🏆",setanta1 HD GEO
+http://94.43.1.138:8081/setanta1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",setanta2 HD GEO
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 GE
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
+http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
+http://169.150.223.25/Eurosport2HD/index.m3u8
 
 
 

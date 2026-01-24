@@ -4,52 +4,20 @@
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="SetantaSports1 HD" tvg-logo="" group-title="Спорт" catchup="flussonic" catchup-days="3",SetantaSports1 HD
-#EXTGRP:Спорт
-http://vod2.stb.tvime.ru/Setanta_Sports_1_HD/video.m3u8?token=billing_6WJDKE9cG25U
-#EXTINF:0 tvg-id="" tvg-name="SetantaSports2 HD" tvg-logo="" group-title="Спорт" catchup="flussonic" catchup-days="3",SetantaSports2 HD
-#EXTGRP:Спорт
-http://vod2.stb.tvime.ru/Setanta_Sports_2_HD/video.m3u8?token=billing_6WJDKE9cG25U
 
+#EXTINF:0 catchup="fs" catchup-days="6" tvg-id="264" tvg-name="Eurosport 1 HD" tvg-logo="http://iptv-content.rv77.pw/logos/264.png" group-title="RU Спорт",Eurosport 1 HD
+http://ru01.plinkspile.su/264/index.m3u8?token=9t7DFF3yBcfHHr
+#EXTINF:0 catchup="fs" catchup-days="6" tvg-id="265" tvg-name="Eurosport 2 HD" tvg-logo="http://iptv-content.rv77.pw/logos/265.png" group-title="RU Спорт",Eurosport 2 HD
+http://ru01.plinkspile.su/265/index.m3u8?token=9t7DFF3yBcfHHr
+#EXTINF:0 catchup="fs" catchup-days="6" tvg-id="933" tvg-name="Setanta Sports 1 HD" tvg-logo="http://iptv-content.rv77.pw/logos/933.png" group-title="RU Спорт",Setanta Sports 1 HD
+http://ru01.plinkspile.su/933/index.m3u8?token=9t7DFF3yBcfHHr
+#EXTINF:0 catchup="fs" catchup-days="6" tvg-id="934" tvg-name="Setanta Sports 2 HD" tvg-logo="http://iptv-content.rv77.pw/logos/934.png" group-title="RU Спорт",Setanta Sports 2 HD
+http://ru01.plinkspile.su/934/index.m3u8?token=9t7DFF3yBcfHHr
 
-#EXTINF:0 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",National Geographic HD
-#EXTGRP:Познавательные
-http://vod2.stb.tvime.ru/National_Geographic_HD/video.m3u8?token=billing_6WJDKE9cG25U
-#EXTINF:0 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",Discovery HD
-#EXTGRP:Познавательные
-http://vod2.stb.tvime.ru/Discovery_HD/video.m3u8?token=billing_6WJDKE9cG25U
-#EXTINF:0 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",Nat Geo Wild HD
-#EXTGRP:Познавательные
-http://vod2.stb.tvime.ru/Nat_Geo_Wild_HD/video.m3u8?token=billing_6WJDKE9cG25U
-#EXTINF:0 tvg-id="" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",Investigation Discovery HD
-#EXTGRP:Познавательные
-http://vod.stb.tvime.ru/Investigation_Discovery_HD_CEE/video.m3u8?token=billing_6WJDKE9cG25U
-#EXTINF:0 tvg-id="" tvg-name="Дикая Рыбалка HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",Дикая Рыбалка HD
-#EXTGRP:Познавательные
-http://vs6.cdn.mrf.tvime.ru/Dikaia_ribalka_HD/video.m3u8?token=billing_6WJDKE9cG25U
-#EXTINF:0 tvg-id="" tvg-name="Дикая Охота HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",Дикая Охота HD
-#EXTGRP:Познавательные
-http://vs6.cdn.mrf.tvime.ru/Dikaia_okhota_HD/video.m3u8?token=billing_6WJDKE9cG25U
-#EXTINF:0 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",Animal Planet HD
-#EXTGRP:Познавательные
-http://vs6.cdn.mrf.tvime.ru/Animal_Planet_CEE_HD/video.m3u8?token=billing_6WJDKE9cG25U
-
-
-#EXTINF:0 tvg-id="" tvg-name="viju Explore" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",viju Explore
-#EXTGRP:Познавательные
-http://vod2.stb.tvime.ru/viju_Explore_HD/video.m3u8?token=billing_6WJDKE9cG25U
-#EXTINF:0 tvg-id="" tvg-name="Viasat History HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",Viasat History HD
-#EXTGRP:Познавательные
-http://vod2.stb.tvime.ru/viju_History_HD/video.m3u8?token=billing_6WJDKE9cG25U
-
-
-#EXTINF:0 tvg-id="" tvg-name="Живая природа HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",Живая природа HD
-#EXTGRP:Познавательные
-http://vod2.stb.tvime.ru/Zhivaia_Priroda_HD/video.m3u8?token=billing_6WJDKE9cG25U
-#EXTINF:0 tvg-id="" tvg-name="Загородная жизнь HD" tvg-logo="" group-title="Познавательные" catchup="flussonic" catchup-days="3",Загородная жизнь HD
-#EXTGRP:Познавательные
-http://vod2.stb.tvime.ru/Zagorodnaia_Zhizn/video.m3u8?token=billing_6WJDKE9cG25U
-
+#EXTINF:-1 CUID="13" number="44" tvg-id="" tvg-name="" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Eurosport 1 HD.png" group-title="Спорт",Eurosport
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDEzIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgwMTMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MDEzIiwiYXRzIjoiMzM2IiwibCI6IjNkMjczZWE3IiwicCI6IjNkMjczZWE3NGY1NWFjYjEiLCJjIjoiMTMiLCJ0IjoiMjkyMzY5MzdmM2M0YTk2Mzc1MzRhODk3NTNiNzNjZTgiLCJkIjoiMTg0OTk1IiwiciI6IjE4ODYzMiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMTMvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 CUID="14" number="45" tvg-id="" tvg-name="" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/EUROSPORT2HD200.png" group-title="Спорт",Eurosport 2
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDE0Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTUyLzgwMTQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MDE0IiwiYXRzIjoiMzM2IiwibCI6IjNkMjczZWE3IiwicCI6IjNkMjczZWE3NGY1NWFjYjEiLCJjIjoiMTQiLCJ0IjoiMjkyMzY5MzdmM2M0YTk2Mzc1MzRhODk3NTNiNzNjZTgiLCJkIjoiMTg0OTk1IiwiciI6IjE4ODYzMiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMTQvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 
 
 
@@ -75,7 +43,7 @@ http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/172/stre
 http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDFoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjMzIiwidCI6Ijg5YWY2ODMyYTQwZjIxOWFjZjJiOWE4NTY5YjNhMWVmIiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDFoZC9tcGV
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 32 (1080p)
-http://vs6.cdn.mrf.tvime.ru/Eurosport_2/video.m3u8?token=billing_6WJDKE9cG25U
+
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 41 (1080p)
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
@@ -119,6 +87,9 @@ http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/173/stre
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 31 (1080p)
 http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDJoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjE0OCIsInQiOiI4OWFmNjgzMmE0MGYyMTlhY2YyYjlhODU2OWIzYTFlZiIsImQiOiI4ODc1NyIsInIiOiIxNzk3NTkiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDJoZC9tcGV
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 32 (1080p)
+http://vs6.cdn.mrf.tvime.ru/Eurosport_2/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 41 (1080p)
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8

@@ -4,50 +4,6 @@
 
 
 
-#EXTINF:0 tvg-id="37" tvg-logo="http://epg.cdntv.online/img/37.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 1
-#EXTGRP:Спортивные
-http://vipl.one/high/3ylmr5bzg6/37.m3u8
-#EXTINF:0 tvg-id="38" tvg-logo="http://epg.cdntv.online/img/38.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 1 HD
-#EXTGRP:Спортивные
-http://vipl.one/high/3ylmr5bzg6/38.m3u8
-#EXTINF:0 tvg-id="39" tvg-logo="http://epg.cdntv.online/img/39.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 2
-#EXTGRP:Спортивные
-http://vipl.one/high/3ylmr5bzg6/39.m3u8
-#EXTINF:0 tvg-id="40" tvg-logo="http://epg.cdntv.online/img/40.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Eurosport 2 HD
-#EXTGRP:Спортивные
-http://vipl.one/high/3ylmr5bzg6/40.m3u8
-
-#EXTINF:-1 group-title="TEST ⓵", Eurosport 2 HD
-https://flussonic.salomtv.uz/eurosport_2/video.m3u8
-
-#EXTINF:-1 group-title="Объединенные сети",Eurosport 1 HD
-http://146.120.14.239:3001/play/a07b
-#EXTINF:-1 group-title="Объединенные сети",Eurosport 2 HD
-http://146.120.14.239:3001/play/a07c
-
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
-http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="SPORT 🏆",setanta1 HD GEO
-http://94.43.1.138:8081/setanta1/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",setanta2 HD GEO
-http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 GE
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
-http://178.134.1.158:8081/eurosport/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
-http://169.150.223.25/Eurosport1HD/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
-http://169.150.223.25/Eurosport2HD/index.m3u8
-
-
-
-
 
 
 
@@ -119,6 +75,12 @@ http://vs6.cdn.mrf.tvime.ru/Eurosport_2/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 41 (1080p)
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
+http://vs6.cdn.mrf.tvime.ru/Eurosport_2/video.m3u8?token=billing_6WJDKE9cG25U
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 52 (1080p)
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - CZ-01 (1080p)
 https://176.116.105.82/Eurosport2_HD/index.m3u8

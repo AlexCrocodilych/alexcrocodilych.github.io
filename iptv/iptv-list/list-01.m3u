@@ -3,29 +3,49 @@
 
 
 
-#EXTINF:-1 CUID="13" number="44" tvg-id="" tvg-name="" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Eurosport 1 HD.png" group-title="Спорт",Eurosport
-http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgwMTMiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTIvODAxMy90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjIxIiwiYWZwIjoiODAxMyIsImF0cyI6IjMzNiIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjEzIiwidCI6ImEzYTM0NWEzYTkzODY1YmM2NWZkNjhkNDNmM2M2OGJiIiwiZCI6IjI4MDc4MCIsInIiOiIyODYzNjUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMTMvbXBlZ3RzP3Rva2VuPVtzdGJ
-#EXTINF:-1 CUID="14" number="45" tvg-id="" tvg-name="" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/EUROSPORT2HD200.png" group-title="Спорт",Eurosport 2
-http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgwMTQiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTIvODAxNC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjIxIiwiYWZwIjoiODAxNCIsImF0cyI6IjMzNiIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjE0IiwidCI6ImEzYTM0NWEzYTkzODY1YmM2NWZkNjhkNDNmM2M2OGJiIiwiZCI6IjI4MDc4MCIsInIiOiIyODYzNjUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMTQvbXBlZ3RzP3Rva2VuPVtzdGJ
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
+http://109.197.192.121:8080/eurosport/index.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 HD
+http://109.70.186.70:9090/udp/239.185.1.15:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-eurosport-live.png" group-title="Спортивные",Eurosport LIVE HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport
+http://138.201.250.184/eurosport1/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
+http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD 1
+http://194.26.229.4/live/prosto.tv2.php?id=id344&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD 🇪🇸
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
+http://138.201.250.184/eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
+http://dmi3y-tv.ru/hls/CH_EUROSPORT2HD.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 SD
+http://194.26.229.4/live/prosto.tv2.php?id=id92&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
+http://185.189.225.157/EuroSport2/index.m3u8
 
 
-
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 1 HD
-#EXTGRP:Спорт
-http://ott.watch/stream/DJDLVK3M7TR/176.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 2 HD
-#EXTGRP:Спорт
-http://ott.watch/stream/DJDLVK3M7TR/192.m3u8
 
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Прайм (1080p)
 http://185.221.213.254:8080/Okko/index.m3u8
 
-#EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport
-#EXTGRP:Спорт
-http://ip1.orgip.net/200/video.m3u8?token=M4f082ab4c
-#EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2
-#EXTGRP:Спорт
-http://ip1.orgip.net/201/video.m3u8?token=M4f082ab4c
+
 
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)

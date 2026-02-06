@@ -17,6 +17,16 @@ http://ott.watch/stream/DJDLVK3M7TR/176.m3u8
 #EXTGRP:Спорт
 http://ott.watch/stream/DJDLVK3M7TR/192.m3u8
 
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Прайм (1080p)
+http://185.221.213.254:8080/Okko/index.m3u8
+
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport
+#EXTGRP:Спорт
+http://ip1.orgip.net/200/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2
+#EXTGRP:Спорт
+http://ip1.orgip.net/201/video.m3u8?token=M4f082ab4c
+
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)
 http://178.134.1.158:8081/eurosport/index.m3u8

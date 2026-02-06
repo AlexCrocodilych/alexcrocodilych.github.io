@@ -4,21 +4,29 @@
 
 
 
+
+
+
 #EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
 #EXTGRP:Спорт
-http://ott.server-iptv.live/200/video.m3u8?token=M4f082ab4c
+http://ott.server-iptv.live/200/video.m3u8?token=Md7ac19a92
 #EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
 #EXTGRP:Спорт
-http://ott.server-iptv.live/0200/video.m3u8?token=M4f082ab4c
+http://ott.server-iptv.live/0200/video.m3u8?token=Md7ac19a92
 #EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
 #EXTGRP:Спорт
-http://ott.server-iptv.live/201/video.m3u8?token=M4f082ab4c
+http://ott.server-iptv.live/201/video.m3u8?token=Md7ac19a92
 #EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
 #EXTGRP:Спорт
-http://ott.server-iptv.live/0201/video.m3u8?token=M4f082ab4c
+http://ott.server-iptv.live/0201/video.m3u8?token=Md7ac19a92
 
 
-
+#EXTINF:0 channel-id="552" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Спорт (SD)" tvg-id="eurosport1" tvg-logo="https://mvvv.eu/b/templates/ottch/eurosport1.png" tvg-name="Eurosport 1",Eurosport 1
+#EXTGRP:Спорт (SD)
+http://ottrb.crd-s.net/498/75d43273db2bba771463/live.m3u8
+#EXTINF:0 channel-id="553" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Спорт (SD)" tvg-id="eurosport2" tvg-logo="https://mvvv.eu/b/templates/ottch/eurosport2.png" tvg-name="Eurosport 2",Eurosport 2
+#EXTGRP:Спорт (SD)
+http://ottrb.crd-s.net/499/75d43273db2bba771463/live.m3u8
 
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)

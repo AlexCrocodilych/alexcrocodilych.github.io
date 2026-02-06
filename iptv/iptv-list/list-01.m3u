@@ -2,43 +2,97 @@
 #PLAYLIST:My
 
 
+#EXTINF:-1 group-title="SPORT 🏆",ПРАЙМ СПОРТ HD OKKO
+http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SETANTA SPORT 1 HD
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SETANTA SPORT 2 HD
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="Спортивные",Eurosport 1 HD
-http://109.197.192.121:8080/eurosport/index.m3u8
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png" group-title="Спортивные",Eurosport 2 HD
-http://109.70.186.70:9090/udp/239.185.1.15:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-eurosport-live.png" group-title="Спортивные",Eurosport LIVE HD
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", 150-SETANTA GEO 1 audo change
+http://2.57.217.85:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", 151-SETANTA GEO 2 audo change
+http://2.57.217.85:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", 152-SETANTA GEO 3 audo change
+http://2.57.217.85:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", ori-  150  SETANTA GEO 1 HD
+http://2.57.217.85:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", ori-  151  SETANTA GEO 2 HD
+http://2.57.217.85:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", ori-  152 SETANTA GEO 3 HD
+http://2.57.217.85:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SETANTA1 SRT  HD GEO
+http://2.57.217.85:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SETANTA2 SRT  HD GEO
+http://2.57.217.85:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SETANTA3 SRT  HD GEO
+http://2.57.217.85:8000/play/a07i/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport
-http://138.201.250.184/eurosport1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Super Sport 1 HD Alb
+http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Super Sport 2 HD Alb
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Super Sport 3 HD Alb
+http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Super Sport 4 HD Alb
+http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport 1 HD cz
+https://176.116.105.82/Nova_Sport1_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport 2 SK HD
+https://176.116.105.82/NovaSport2_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport 3 SK HD
+https://176.116.105.82/NovaSport3_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport 4 SK HD
+https://176.116.105.82/NovaSport4_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport 5 SK HD
+https://176.116.105.82/NovaSport5_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport 6 HD cz
+https://176.116.105.82/NovaSport6_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 1 HD
+https://176.116.105.82/Arena_Sport1_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 2 HD
+https://176.116.105.82/Arena_Sport2_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",FightBox HD
+https://176.116.105.82/FightBox_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 1 HD cz
+https://176.116.105.82/Sport1_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 2 HD cz
+https://176.116.105.82/Sport2_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",JOJ Sport HD
+https://176.116.105.82/JOJSport_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Golf Channel HD cz
+https://176.116.105.82/GolfChannel_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport HD cz
+https://176.116.105.82/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD cz
+https://176.116.105.82/Eurosport2_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD
-http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
-http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_1
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_4
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_5
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CT SPORT HD
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT 1 HD
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT 2 HD
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Nova Sport BG
+http://213.169.39.30:5102
 
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD 1
-http://194.26.229.4/live/prosto.tv2.php?id=id344&token=MjIyMjoyMjIyMjI=
 
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD 🇪🇸
-http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
-http://138.201.250.184/eurosport2/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
-http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
-http://dmi3y-tv.ru/hls/CH_EUROSPORT2HD.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 SD
-http://194.26.229.4/live/prosto.tv2.php?id=id92&token=MjIyMjoyMjIyMjI=
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
-http://185.189.225.157/EuroSport2/index.m3u8
 
 
 

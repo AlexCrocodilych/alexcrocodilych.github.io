@@ -8,30 +8,15 @@
 
 
 
-
 #EXTINF:-1 tvg-id="ABC.us@East",ABC
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us@SD",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
 
-#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV US (720p)
-https://bloomberg.com/media-manifest/streams/us.m3u8
+
 
 #EXTINF:-1 tvg-id="CBNNews.us@SD",CBN News Channel (1080p)
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
-
-
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-
-
-#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
-#EXTVLCOPT:http-referrer=https://www.newslive.com/business/cnbc-live-free.html
-
-#EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (360p)
-https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
@@ -39,41 +24,20 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2.us@HD",Fox Sports 2 (720p)
-http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional",Fox Sports 3 Latin America
-http://104.238.205.28:8989/278768_.m3u8
-
-
-#EXTINF:-1 tvg-id="NBC.us@East",NBC
-https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD",NBC News NOW (1080p)
-https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-
-
-#EXTINF:-1 tvg-id="NHLCenterIce12.us@SD",NHL Center Ice 12 (720p)
-http://fl1.moveonjoy.com/NHL_12/index.m3u8
-#EXTINF:-1 tvg-id="NHLCenterIce13.us@SD",NHL Center Ice 13 (720p)
-http://fl1.moveonjoy.com/NHL_13/index.m3u8
-#EXTINF:-1 tvg-id="NHLCenterIce14.us@SD",NHL Center Ice 14 (720p)
-http://fl1.moveonjoy.com/NHL_14/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD",NBC News NOW (1080p)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
-#EXTINF:-1 tvg-id="BloombergOriginals.us@SD",Bloomberg Originals (1080p)
-https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 
 
 
 
-
-
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
+https://7pal.short.gy/event2
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 3
+https://7pal.short.gy/event3
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
+https://7pal.short.gy/event4
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 5
+https://7pal.short.gy/event5
 
 
 

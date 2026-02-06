@@ -2,16 +2,20 @@
 #PLAYLIST:My
 
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
-https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 3
-https://7pal.short.gy/event3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
-https://7pal.short.gy/event4
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 5
-https://7pal.short.gy/event5
+
+
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
+#EXTGRP:Спорт
+http://ott.server-iptv.live/200/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
+#EXTGRP:Спорт
+http://ott.server-iptv.live/0200/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
+#EXTGRP:Спорт
+http://ott.server-iptv.live/201/video.m3u8?token=M4f082ab4c
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
+#EXTGRP:Спорт
+http://ott.server-iptv.live/0201/video.m3u8?token=M4f082ab4c
 
 
 

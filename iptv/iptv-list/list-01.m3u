@@ -2,65 +2,18 @@
 #PLAYLIST:My
 
 
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/54.png" tvg-id="eurosport1",Eurosport 1 CEE
-http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=tvqBYZSvuq
-
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/57.png" tvg-id="eurosport2",Eurosport 2 CEE
-http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=tvqBYZSvuq
-
-#EXTINF:0 tvg-name="Eurosport HD", Eurosport HD
-#EXTGRP:Румыния
-http://bde.online24.pm/play/11083/0535027E0696131/mpegts
-
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/54.png" tvg-id="eurosport1",Eurosport 1 CEE
-http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=tqFXthkRDP
- 
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/57.png" tvg-id="eurosport2",Eurosport 2 CEE
-http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=tqFXthkRDP
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
+https://7pal.short.gy/event2
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 3
+https://7pal.short.gy/event3
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
+https://7pal.short.gy/event4
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 5
+https://7pal.short.gy/event5
 
 
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:Спорт
-http://ip1.orgip.net/0200/video.m3u8?token=Ceba8e4412
-
-
-#EXTINF:0,Eurosport 2 HD
-#EXTGRP:Спорт
-http://ip1.orgip.net/0201/video.m3u8?token=Ceba8e4412
-
-
-#EXTINF:0,Setanta Sports 1
-#EXTGRP:Спорт
-http://ip1.orgip.net/220/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Setanta Sports 2
-#EXTGRP:Спорт
-http://ip1.orgip.net/221/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Setanta Sports Ukraine
-#EXTGRP:Спорт
-http://ip1.orgip.net/222/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Setanta Sports Ukraine +
-#EXTGRP:Спорт
-http://ip1.orgip.net/214/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Setanta Qazaqstan HD
-#EXTGRP:Спорт
-http://ip1.orgip.net/228/video.m3u8?token=Ceba8e4412
-
-
-#EXTINF:0,Беларусь 5
-#EXTGRP:Спорт
-http://ip1.orgip.net/219/video.m3u8?token=Ceba8e4412
-
-
-
-#EXTINF:0,Окко Футбол HD
-#EXTGRP:Спорт
-http://ip1.orgip.net/232/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Окко Спорт HD
-#EXTGRP:Спорт
-http://ip1.orgip.net/238/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Окко Прайм Спорт
-#EXTGRP:Спорт
-http://ip1.orgip.net/236/video.m3u8?token=Ceba8e4412
 
 
 
@@ -85,6 +38,9 @@ http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/172/stre
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 41 (1080p)
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 61 (1080p)
+http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=tvqBYZSvuq
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - CZ-01 (1080p)
 http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
@@ -135,8 +91,8 @@ http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 51 (1080p)
 http://vs6.cdn.mrf.tvime.ru/Eurosport_2/video.m3u8?token=billing_6WJDKE9cG25U
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 52 (1080p)
-
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 61 (1080p)
+http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=tvqBYZSvuq
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - CZ-01 (1080p)
 http://185.112.249.46:9981/stream/channelid/737993602?profile=pass

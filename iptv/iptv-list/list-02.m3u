@@ -40,7 +40,20 @@ https://7pal.short.gy/event4
 https://7pal.short.gy/event5
 
 
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_1
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_4
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_5
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+ Sport BG
+http://213.169.39.30:5102
 
+
+#EXTINF:-1 group-title="SPORT 🏆",Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 
 
 

@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Прайм (1080p)
-http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Спорт (1080p)
+http://57.128.183.163/10403/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 
 
 

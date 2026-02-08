@@ -223,6 +223,39 @@ https://7pal.short.gy/event5
 
 
 
+#EXTINF:-1,Eurosport 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10446/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Eurosport 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10447/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Eurosport 4K
+#EXTGRP:Спортивные
+http://57.128.183.163/20590/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10451/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Премьер HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10455/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Футбол 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10457/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Футбол 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10458/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Футбол 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10459/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Футбол 1 FHD
+#EXTGRP:Спортивные
+http://57.128.183.163/10462/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Футбол 2 FHD
+#EXTGRP:Спортивные
+http://57.128.183.163/10463/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Футбол 3 FHD
+#EXTGRP:Спортивные
+http://57.128.183.163/10464/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1,Окко Футбол HD
 #EXTGRP:Спортивные
 http://57.128.183.163/10515/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
@@ -271,6 +304,454 @@ http://57.128.183.163/10467/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=htt
 #EXTINF:-1,Setanta Sports 3 Georgia
 #EXTGRP:Спортивные
 http://57.128.183.163/10468/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Silk Sport 1 HD Georgia
+#EXTGRP:Спортивные
+http://57.128.183.163/20600/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Silk Sport 2 HD Georgia
+#EXTGRP:Спортивные
+http://57.128.183.163/20601/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Silk Sport 3 HD Georgia
+#EXTGRP:Спортивные
+http://57.128.183.163/20602/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Bein Sport 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10422/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Bein Sport 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10423/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Bein Sport 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10424/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Premium 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20603/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Premium 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20604/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Premium 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20605/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1,Arena Premium 4 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20606/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Premium 5 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20607/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Футбол
+#EXTGRP:Спортивные
+http://57.128.183.163/10473/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Футбол HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10474/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Футбольный HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10475/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Football-HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10478/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Megogo Футбол 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10509/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Megogo Футбол 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10510/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Megogo Футбол 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10511/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Megogo Гонг
+#EXTGRP:Спортивные
+http://57.128.183.163/10512/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Megogo Спорт
+#EXTGRP:Спортивные
+http://57.128.183.163/10516/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Q Sport League
+#EXTGRP:Спортивные
+http://57.128.183.163/10410/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Игра
+#EXTGRP:Спортивные
+http://57.128.183.163/10454/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Страна
+#EXTGRP:Спортивные
+http://57.128.183.163/10456/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Боец
+#EXTGRP:Спортивные
+http://57.128.183.163/10453/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Удар HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10507/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Бокс ТВ
+#EXTGRP:Спортивные
+http://57.128.183.163/10506/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Матч! Арена
+#EXTGRP:Спортивные
+http://57.128.183.163/10452/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MMA-TV!
+#EXTGRP:Спортивные
+http://57.128.183.163/10508/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UFC
+#EXTGRP:Спортивные
+http://57.128.183.163/10420/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Fight
+#EXTGRP:Спортивные
+http://57.128.183.163/20609/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,FUBO Sports Network HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10426/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,FightBox HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10449/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Extreme Sports
+#EXTGRP:Спортивные
+http://57.128.183.163/10460/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Russian Extreme TV
+#EXTGRP:Спортивные
+http://57.128.183.163/10461/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Старт HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10465/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Старт Триумф HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20615/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Старт Триумф HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20621/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Старт Баскет HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20611/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Спортивный HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10476/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Хоккейный HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10477/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,NHL
+#EXTGRP:Спортивные
+http://57.128.183.163/10419/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KHL
+#EXTGRP:Спортивные
+http://57.128.183.163/10469/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KHL HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10470/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KHL Prime
+#EXTGRP:Спортивные
+http://57.128.183.163/10471/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,KHL Prime HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10472/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,NBA TV
+#EXTGRP:Спортивные
+http://57.128.183.163/10421/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Мир Баскетбола
+#EXTGRP:Спортивные
+http://57.128.183.163/10513/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Super-Tennis HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10418/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Golf TV HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10417/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Sport 1 Baltic
+#EXTGRP:Спортивные
+http://57.128.183.163/10442/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Sport 1 UA
+#EXTGRP:Спортивные
+http://57.128.183.163/10443/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Sport 2 UA
+#EXTGRP:Спортивные
+http://57.128.183.163/10450/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Спорт 3 Украина
+#EXTGRP:Спортивные
+http://57.128.183.163/20613/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Спорт 4 Украина
+#EXTGRP:Спортивные
+http://57.128.183.163/20614/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Xsport
+#EXTGRP:Спортивные
+http://57.128.183.163/10444/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Xsport+
+#EXTGRP:Спортивные
+http://57.128.183.163/10445/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Divi Sport HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10588/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Суспільне Спорт
+#EXTGRP:Спортивные
+http://57.128.183.163/10589/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,UPL.TV HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10514/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Київстар ТБ Ексклюзив HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20612/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dynamo Kyiv TV HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10586/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Equalympic HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10587/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,DAZN 1
+#EXTGRP:Спортивные
+http://57.128.183.163/10404/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,DAZN 2
+#EXTGRP:Спортивные
+http://57.128.183.163/10405/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,FOX Sport 1 USA
+#EXTGRP:Спортивные
+http://57.128.183.163/10406/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,FOX Sport 2 USA
+#EXTGRP:Спортивные
+http://57.128.183.163/10407/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ESPN 1 USA
+#EXTGRP:Спортивные
+http://57.128.183.163/10408/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ESPN 2 USA
+#EXTGRP:Спортивные
+http://57.128.183.163/10409/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10416/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Sky Sport 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10413/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Sky Sport 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10414/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Sky Sports F1
+#EXTGRP:Спортивные
+http://57.128.183.163/10415/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,RTVS :Sport HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10425/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dubai Sports 2
+#EXTGRP:Спортивные
+http://57.128.183.163/10427/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Dubai Sports 3
+#EXTGRP:Спортивные
+http://57.128.183.163/10428/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MAX Sport 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10429/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MAX Sport 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10430/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MAX Sport 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10431/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,MAX Sport 4 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10432/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,PRIMA Sport 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10433/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,PRIMA Sport 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10434/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,PRIMA Sport 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10435/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,PRIMA Sport 4 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10436/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Digi Sport 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10437/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Digi Sport 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10438/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Digi Sport 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10439/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Digi Sport 4 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10440/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Nova Sport 1
+#EXTGRP:Спортивные
+http://57.128.183.163/10441/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Viju+ Sport
+#EXTGRP:Спортивные
+http://57.128.183.163/10448/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,SuperSport 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10486/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,SuperSport 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10487/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,SuperSport 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10488/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,SuperSport 4 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10489/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Sport 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10490/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Sport 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10491/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Sport 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10492/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Sport 4 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10493/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Sport 5 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10494/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Sport 6 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10495/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Arena Sport 8 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10497/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Go3 Sport
+#EXTGRP:Спортивные
+http://57.128.183.163/10525/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Go3 Sport 2
+#EXTGRP:Спортивные
+http://57.128.183.163/10526/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Go3 Sport 3
+#EXTGRP:Спортивные
+http://57.128.183.163/10527/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Go3 Sport Open
+#EXTGRP:Спортивные
+http://57.128.183.163/10528/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Fint Ga 1
+#EXTGRP:Спортивные
+http://57.128.183.163/10530/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Fint Ga 2
+#EXTGRP:Спортивные
+http://57.128.183.163/10531/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Fint Ga 3
+#EXTGRP:Спортивные
+http://57.128.183.163/10532/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Fint Ga 4
+#EXTGRP:Спортивные
+http://57.128.183.163/10533/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Pimple TV 1
+#EXTGRP:Спортивные
+http://57.128.183.163/10534/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Pimple TV 2
+#EXTGRP:Спортивные
+http://57.128.183.163/10535/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Pimple TV 3
+#EXTGRP:Спортивные
+http://57.128.183.163/10536/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Pimple TV 4
+#EXTGRP:Спортивные
+http://57.128.183.163/10537/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Pimple TV 5
+#EXTGRP:Спортивные
+http://57.128.183.163/10538/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Pimple TV 6
+#EXTGRP:Спортивные
+http://57.128.183.163/10539/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 1
+#EXTGRP:Спортивные
+http://57.128.183.163/10540/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 2
+#EXTGRP:Спортивные
+http://57.128.183.163/10541/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 3
+#EXTGRP:Спортивные
+http://57.128.183.163/10542/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 4
+#EXTGRP:Спортивные
+http://57.128.183.163/10543/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 5
+#EXTGRP:Спортивные
+http://57.128.183.163/10544/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 6
+#EXTGRP:Спортивные
+http://57.128.183.163/10545/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 7
+#EXTGRP:Спортивные
+http://57.128.183.163/10546/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 8
+#EXTGRP:Спортивные
+http://57.128.183.163/10547/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 9
+#EXTGRP:Спортивные
+http://57.128.183.163/10548/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 10
+#EXTGRP:Спортивные
+http://57.128.183.163/10549/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 11
+#EXTGRP:Спортивные
+http://57.128.183.163/10550/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 12
+#EXTGRP:Спортивные
+http://57.128.183.163/10551/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,ViP Sport 13
+#EXTGRP:Спортивные
+http://57.128.183.163/10552/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Vital Sport 1
+#EXTGRP:Спортивные
+http://57.128.183.163/10553/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Vital Sport 2
+#EXTGRP:Спортивные
+http://57.128.183.163/10554/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Vital Sport 3
+#EXTGRP:Спортивные
+http://57.128.183.163/10555/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Vital Sport 4
+#EXTGRP:Спортивные
+http://57.128.183.163/10556/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Vital Sport 5
+#EXTGRP:Спортивные
+http://57.128.183.163/10557/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Vital Sport 6
+#EXTGRP:Спортивные
+http://57.128.183.163/10558/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CANAL+ EXTRA 1 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10580/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CANAL+ EXTRA 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10581/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CANAL+ EXTRA 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10582/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CANAL+ EXTRA 4 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10583/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CANAL+ 360 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10584/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CANAL+ Sport 2 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/10585/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CANAL+ Sport 3 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20586/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CANAL+ Sport 4 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20587/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,CANAL+ Sport 5 HD
+#EXTGRP:Спортивные
+http://57.128.183.163/20588/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Eleven Sports 1 4K PL
+#EXTGRP:Спортивные
+http://57.128.183.163/10411/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Polsat Sport
+#EXTGRP:Спортивные
+http://57.128.183.163/10590/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Polsat Sport Premium 1
+#EXTGRP:Спортивные
+http://57.128.183.163/10591/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Polsat Sport Premium 2
+#EXTGRP:Спортивные
+http://57.128.183.163/10592/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Tennis channel international
+#EXTGRP:Спортивные
+http://57.128.183.163/10594/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,DAZN Combat
+#EXTGRP:Спортивные
+http://57.128.183.163/10595/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,FIFA TV
+#EXTGRP:Спортивные
+http://57.128.183.163/10596/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 
 
 

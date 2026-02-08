@@ -2,22 +2,17 @@
 #PLAYLIST:My
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 2
-http://cdntv.online/high/47eurvkpm6/39.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
+http://vs6.cdn.mrf.tvime.ru/Eurosport1/video.m3u8?token=billing_6WJDKE9cG25U
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
+http://vs6.cdn.mrf.tvime.ru/Eurosport-1/video.m3u8?token=billing_6WJDKE9cG25U
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 21
-http://cdntv.online/high/47eurvkpm6/38.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 22
-http://cdntv.online/high/47eurvkpm6/37.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 23
-http://cdntv.online/high/47eurvkpm6/36.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 24
-http://cdntv.online/high/47eurvkpm6/40.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 25
-http://cdntv.online/high/47eurvkpm6/41.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 26
-http://cdntv.online/high/47eurvkpm6/42.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
+http://vs6.cdn.mrf.tvime.ru/Eurosport_01/video.m3u8?token=billing_6WJDKE9cG25U
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
+http://vs6.cdn.mrf.tvime.ru/Eurosport_1/video.m3u8?token=billing_6WJDKE9cG25U
 
 
 
@@ -49,12 +44,18 @@ http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/172/stre
 
 # EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 41 (1080p)
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 100 (1080p)
+http://cdntv.online/high/47eurvkpm6/38.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 101 (1080p)
 http://vs6.cdn.mrf.tvime.ru/Eurosport_1/video.m3u8?token=billing_6WJDKE9cG25U
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
 http://vs6.cdn.mrf.tvime.ru/Eurosport/video.m3u8?token=billing_6WJDKE9cG25U
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - CZ-01 (1080p)

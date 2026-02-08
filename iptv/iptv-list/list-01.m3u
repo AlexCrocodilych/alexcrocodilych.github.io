@@ -3,24 +3,9 @@
 
 
 
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports | 4K UHD",EuroSport 4K 
-https://7pal.short.gy/eusport4k
-
-#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/2753.png" tvg-id="eurosport-4k",Eurosport 4K
-http://lb.wisp.cat/lb0/EuAB39EE13test4K1/video.m3u8?token=tvqBYZSvuq
-
-#EXTINF:-1 group-title="Спортивні" tvg-id="",Eurosport 3 HD Polska
-http://lb.wisp.cat/lb0/Eurosport_3_PL/video.m3u8?token=tvqBYZSvuq
-
-#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1806.png" tvg-id="eurosport1",Eurosport 1 HD CEE
-http://lb.wisp.cat/lb0/Eurosport_1_HD_CEE/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1807.png" tvg-id="eurosport2",Eurosport 2 HD CEE
-http://lb.wisp.cat/lb0/Eurosport_2_HD_CEE/video.m3u8?token=tvqBYZSvuq
-
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2809.png" tvg-id="okko-sport-2",Окко Prime
-http://lb.wisp.cat/lb0/Okko_Prime/video.m3u8?token=tvqBYZSvuq
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2810.png" tvg-id="okko-sport",Окко Спорт
-http://lb.wisp.cat/lb0/Okko_sport/video.m3u8?token=tvqBYZSvuq
+#EXTINF:0 tvg-name="Eurosport HD", Eurosport HD
+#EXTGRP:Румыния
+http://bde.online24.pm/play/11083/0535027E0696131/mpegts
 
 
 

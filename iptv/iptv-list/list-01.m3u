@@ -2,10 +2,26 @@
 #PLAYLIST:My
 
 
-#EXTINF:-1,Eurosport 1
-http://gorod.tv/s/live/501/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Eurosport 2
-http://gorod.tv/s/live/502/86.169.51.136/0/0.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)
+http://ottlinks.club/hls/y9nmdvbth8/37.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 02 (1080p)
+http://ottlinks.club/hls/y9nmdvbth8/38.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 03 (1080p)
+http://x3m.li:80/live/YEnvgbVU/1ZjQz8RB/7802.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 04 (1080p)
+http://x3m.li:80/live/YEnvgbVU/1ZjQz8RB/7804.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 05 (1080p)
+http://178.212.71.253:8000/play/143/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 51 (1080p)
+http://ottrb.crd-s.net/274/75d43273db2bba771463/live.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 1 - ES (1080p)
+http://185.189.225.157/EuroSport1/index.m3u8
 
 
 

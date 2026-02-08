@@ -4,33 +4,6 @@
 
 
 
-#EXTINF:-1,Eurosport 1 HD
-#EXTGRP:Спортивные
-http://57.128.183.163/10446/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Eurosport 2 HD
-#EXTGRP:Спортивные
-http://57.128.183.163/10447/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1,Eurosport 4K
-#EXTGRP:Спортивные
-http://57.128.183.163/20590/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-
-
-#EXTINF:0 CUID="33" tvg-name="1:101" tvg-id="1:101" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/EUROSPORT1HD200.png" group-title="Спортивные",Eurosport 1 HD
-http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDFoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjMzIiwidCI6ImE4OTBhNzhjNDQyYzY5ZWEwZTZkNWZiMzliMzA2M2RhIiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDFoZC9tcGV
-#EXTINF:0 CUID="148" tvg-name="1:98" tvg-id="1:98" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/EUROSPORT2HD200.png" group-title="Спортивные",Eurosport 2 HD
-http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDJoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjE0OCIsInQiOiJhODkwYTc4YzQ0MmM2OWVhMGU2ZDVmYjM5YjMwNjNkYSIsImQiOiI4ODc1NyIsInIiOiIxNzk3NTkiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDJoZC9tcGV
-
-
-#EXTINF:0,Eurosport 1 HD
-http://ott.server-iptv.live/200/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Eurosport 1 HD
-http://ott.server-iptv.live/0200/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Eurosport 2 HD
-http://ott.server-iptv.live/201/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Eurosport 2 HD
-http://ott.server-iptv.live/0201/video.m3u8?token=Ceba8e4412
-
-
 #EXTINF:0 tvg-id="" tvg-name="Евроспорт 1" tvg-logo="" group-title="Спорт" catchup="flussonic" catchup-days="3",Евроспорт 1
 #EXTGRP:Спорт
 http://vod2.stb.tvime.ru/evrosport_1/video.m3u8?token=billing_6WJDKE9cG25U
@@ -42,18 +15,6 @@ http://vs6.cdn.mrf.tvime.ru/Eurosport_2/video.m3u8?token=billing_6WJDKE9cG25U
 
 
 
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
-http://vs6.cdn.mrf.tvime.ru/erosport1/video.m3u8?token=billing_6WJDKE9cG25U
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
-http://vs6.cdn.mrf.tvime.ru/eurosport-1/video.m3u8?token=billing_6WJDKE9cG25U
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
-http://vs6.cdn.mrf.tvime.ru/eurosport_01/video.m3u8?token=billing_6WJDKE9cG25U
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
-http://vs6.cdn.mrf.tvime.ru/eurosport_1/video.m3u8?token=billing_6WJDKE9cG25U
 
 
 
@@ -91,12 +52,6 @@ http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 100 (1080p)
 http://cdntv.online/high/47eurvkpm6/38.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 101 (1080p)
-http://vs6.cdn.mrf.tvime.ru/eurosport_1/video.m3u8?token=billing_6WJDKE9cG25U
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 102 (1080p)
-http://vs6.cdn.mrf.tvime.ru/eurosport/video.m3u8?token=billing_6WJDKE9cG25U
 
 
 

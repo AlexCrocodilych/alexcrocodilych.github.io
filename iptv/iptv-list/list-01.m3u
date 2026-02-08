@@ -2,27 +2,10 @@
 #PLAYLIST:My
 
 
-#EXTINF:0 group-title="Спорт" tvg-id="2747" tvg-logo="http://epg.one/img/2747.png" tvg-rec="0",Eurosport 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/29XR4ZMWUMHQM2/31475/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img/2052.png" tvg-rec="7",Eurosport 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/29XR4ZMWUMHQM2/228/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.one/img/4313.png" tvg-rec="7",Eurosport 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/29XR4ZMWUMHQM2/234/index.m3u8
-
-#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img/2052.png" tvg-rec="3",Eurosport 1 FHD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/29XR4ZMWUMHQM2/9026/index.m3u8
-
-#EXTINF:0 tvg-id="esp-hd" group-title="RU Sport" timeshift="7",Eurosport 1 HD
-http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/228/index.m3u8
-#EXTINF:0 tvg-id="esp-4k" group-title="RU Sport" timeshift="7",Eurosport 4K
-http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/4004/index.m3u8
-#EXTINF:0 tvg-id="esp2" group-title="RU Sport" timeshift="7",Eurosport 2 North-East HD orig
-http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/5076/index.m3u8
-#EXTINF:0 tvg-id="esp2" group-title="RU Sport" timeshift="7",Eurosport 2 North-East HD
-http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/234/index.m3u8
-#EXTINF:0 tvg-id="esp-gold" group-title="RU Sport",Eurosport Gold HD
-http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/15226/index.m3u8
-
+#EXTINF:-1,Eurosport 1
+http://gorod.tv/s/live/501/86.169.51.136/0/0.m3u8
+#EXTINF:-1,Eurosport 2
+http://gorod.tv/s/live/502/86.169.51.136/0/0.m3u8
 
 
 

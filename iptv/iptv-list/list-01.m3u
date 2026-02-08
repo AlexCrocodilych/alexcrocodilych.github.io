@@ -1,22 +1,23 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG"
 #PLAYLIST:My
 
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/54.png" tvg-id="eurosport1",Eurosport 1 CEE
-http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=7NDbKyE
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2819.png" tvg-id="viasat-golf-hd",V Sport Golf HD
-http://lb.wisp.cat/lb0/Viasat_Sport_Premium/video.m3u8?token=7NDbKyE
-#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/57.png" tvg-id="eurosport2",Eurosport 2 CEE
-http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=7NDbKyE
 
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1 HD" tvg-logo="https://iptvx.one/picons/eurosport1.png" group-title="СПОРТ",Eurosport 1 HD
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="СПОРТ",Eurosport 1 HD
-http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 2
 http://cdntv.online/high/47eurvkpm6/39.m3u8
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 21
+http://cdntv.online/high/47eurvkpm6/38.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 22
+http://cdntv.online/high/47eurvkpm6/37.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 23
+http://cdntv.online/high/47eurvkpm6/36.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 24
+http://cdntv.online/high/47eurvkpm6/40.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 25
+http://cdntv.online/high/47eurvkpm6/41.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 26
+http://cdntv.online/high/47eurvkpm6/42.m3u8
 
 
 
@@ -79,6 +80,9 @@ https://7pal.short.gy/eusport4k
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 01 (1080p)
 http://vs6.cdn.mrf.tvime.ru/Eurosport_2/video.m3u8?token=billing_6WJDKE9cG25U
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 02 (1080p)
+http://cdntv.online/high/47eurvkpm6/39.m3u8
 
 # EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 11 (1080p)
 

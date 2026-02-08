@@ -1,18 +1,24 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG"
 #PLAYLIST:My
 
-#EXTINF:0,Eurosport 1
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/264.png" catchup-days="6" catchup-type="flussonic" group-title="RU Спорт", Eurosport 1 HD
+https://am01.links-tv-channels.org/264/index.m3u8?token=LFYb7ziCTnE6qn
+#EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/265.png" catchup-days="6" catchup-type="flussonic" group-title="RU Спорт", Eurosport 2 HD
+https://am01.links-tv-channels.org/265/index.m3u8?token=LFYb7ziCTnE6qn
+
+
+#EXTINF:0 tvg-name="Eurosport", Eurosport
 #EXTGRP:Спорт
-http://ip1.orgip.net/200/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Eurosport 1 HD
+http://bpl.online24.pm/play/15/75BA4FC1CA5013E/mpegts
+#EXTINF:0 tvg-name="Eurosport HD", Eurosport HD
 #EXTGRP:Спорт
-http://ip1.orgip.net/0200/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Eurosport 2
+http://bpl.online24.pm/play/145/75BA4FC1CA5013E/mpegts
+#EXTINF:0 tvg-name="Eurosport 2", Eurosport 2
 #EXTGRP:Спорт
-http://ip1.orgip.net/201/video.m3u8?token=Ceba8e4412
-#EXTINF:0,Eurosport 2 HD
+http://bpl.online24.pm/play/43/75BA4FC1CA5013E/mpegts
+#EXTINF:0 tvg-name="Eurosport 2 HD", Eurosport 2 HD
 #EXTGRP:Спорт
-http://ip1.orgip.net/0201/video.m3u8?token=Ceba8e4412
+http://bpl.online24.pm/play/361/75BA4FC1CA5013E/mpegts
 
 
 

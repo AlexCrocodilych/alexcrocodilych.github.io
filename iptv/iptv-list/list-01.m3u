@@ -1,10 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG"
 #PLAYLIST:My
 
-#EXTINF:-1 group-title="SPORT 🏆",SETANTA SPORT 1 HD
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SETANTA SPORT 2 HD
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
@@ -95,8 +92,8 @@ http://57.128.183.163/10447/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=htt
 http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDJoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjE0OCIsInQiOiJhODkwYTc4YzQ0MmM2OWVhMGU2ZDVmYjM5YjMwNjNkYSIsImQiOiI4ODc1NyIsInIiOiIxNzk3NTkiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDJoZC9tcGV
 
 
-# EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - CZ-01 (1080p)
-
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - CZ-01 (1080p)
+http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
 
 # EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - BG-01 (1080p)
 

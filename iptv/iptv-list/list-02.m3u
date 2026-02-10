@@ -2,26 +2,7 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
-#EXTINF:-1 group-title="SPORT 🏆",0
-http://87.246.54.249:8080/ArenaSport4/index.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",11
-http://87.246.54.249:8080/eurosport/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",12
-http://87.246.54.249:8080/eurosport1/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",13
-http://87.246.54.249:8080/eurosport2/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",21
-http://87.246.54.249:8080/evrosport2/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",22
-http://87.246.54.249:8080/evrosport/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",23
-http://87.246.54.249:8080/evrosport1/index.m3u8
 
 
 
@@ -37,59 +18,30 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 
 
-#EXTINF:-1 group-title="SPORT 🏆",Sport 1 Israel
-http://185.132.134.159:80/sport1/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 2 Israel
-http://185.132.134.159:80/sport2/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 3 Israel
-http://185.132.134.159:80/sport3/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 4 Israel
-http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 5 Israel
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 6 Israel
-http://185.132.134.159:80/sport6/index.m3u8
-
-
-
-
-
---- ⚽ Sports | 4K UHD
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Sports | EPL", Hub Premier1 FHD
-https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="Sports | EPL", Hub Premier2 FHD
-https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="Sports | EPL", Hub Premier3 FHD
-https://7pal.short.gy/HPremier3
 
 
 
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="Sports | EPL", USA NetWork FHD
-https://7pal.short.gy/usanetwork
 
 
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Sports | US", ESPN 
-https://7pal.short.gy/espnus
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Sports | US" ESPN2 
-https://7pal.short.gy/espn2
 
-#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://i.imgur.com/QCT1frc.png" group-title="Sports | US", Tennis Channel
-https://7pal.short.gy/tennisc
 
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Sports | World", Premier Sports 1 FHD
-https://7pal.short.gy/prsport1
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Sports | World", Premier Sports 2 FHD
-https://7pal.short.gy/prsport2
 
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | World",Ziggo Sport FHD
-https://7pal.short.gy/zigosfhd
+
+
+
+
+
+
+
+
+
 
 
 
@@ -207,6 +159,26 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 
 #EXTINF:-1 tvg-id="setanta3-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-3.png" group-title="Sports",Setanta Sports 3 Georgia (1080p)
+
+--- 📺 Sports | ISRAEL
+
+#EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Sports",Sport 1 IS (1080p)
+http://185.132.134.159:80/sport1/index.m3u8
+
+#EXTINF:-1 tvg-id="sport2-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Sports",Sport 2 IS (1080p)
+http://185.132.134.159:80/sport2/index.m3u8
+
+#EXTINF:-1 tvg-id="sport3-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Sports",Sport 3 IS (1080p)
+http://185.132.134.159:80/sport3/index.m3u8
+
+#EXTINF:-1 tvg-id="sport4-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Sports",Sport 4 IS (1080p)
+http://185.132.134.159:80/sport4/index.m3u8
+
+#EXTINF:-1 tvg-id="sport5-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Sports",Sport 5 IS (1080p)
+http://185.132.134.159:80/sport5/index.m3u8
+
+#EXTINF:-1 tvg-id="sport6-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Sports",Sport 6 IS (1080p)
+http://185.132.134.159:80/sport6/index.m3u8
 
 
 --- 📺 Sports | Megogo UKRAINE
@@ -370,6 +342,16 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 
 # EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-5.png" group-title="Sports",TSN 5 CA (1080p)
 
+--- 📺 Sports | Premier Liga UK
+
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Sports",Hub Premier1 UK (1080p)
+https://7pal.short.gy/HPremier1
+
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Sports",Hub Premier2 UK (1080p)
+https://7pal.short.gy/HPremier2
+
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Sports",Hub Premier3 UK (1080p)
+https://7pal.short.gy/HPremier3
 
 --- 📺 Sports | Fox Sports USA
 
@@ -392,10 +374,12 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 
 --- 📺 Sports | ESPN
 
-# EXTINF:-1 tvg-id="espn-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn.png" group-title="Sports",ESPN US (1080p)
+#EXTINF:-1 tvg-id="espn-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn.png" group-title="Sports",ESPN US (1080p)
+https://7pal.short.gy/espnus
 
 
-# EXTINF:-1 tvg-id="espn1-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 US (1080p)
+#EXTINF:-1 tvg-id="espn1-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 US (1080p)
+https://7pal.short.gy/espn2
 
 
 #EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-deportes.png" group-title="Sports",ESPN DEPORTES US (1080p)
@@ -435,6 +419,18 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 
 --- 📺 Sports | WORLD
 
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",USA NetWork US (1080p)
+https://7pal.short.gy/usanetwork
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",USA NetWork NL (1080p)
+https://7pal.short.gy/zigosfhd
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",Premier Sports 1 IE (1080p)
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",Premier Sports 2 IE (1080p)
+https://7pal.short.gy/prsport2
+
 # EXTINF:-1 tvg-id="fast-sport-am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",Fast Sports AM (1080p)
 
 
@@ -460,8 +456,8 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Tennis",Super Tennis (1080p)
 
 
-#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Tennis",Tennis Channel (720p)
-
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Tennis",Tennis Channel US(1080p)
+https://7pal.short.gy/tennisc
 
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Tennis",T2 Tennis (1080p)
 

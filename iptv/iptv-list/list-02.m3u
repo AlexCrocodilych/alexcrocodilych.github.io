@@ -255,7 +255,7 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 --- 📺 Sports | TNT Sports UNITED KINGDOM
 
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (3840p)
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (2160p)
 https://7pal.short.gy/TNTUltimate
 
 #EXTINF:-1 tvg-id="tnt-sports-prem-ar" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
@@ -279,7 +279,7 @@ https://7pal.short.gy/tntspts5
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (3840p)
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (2160p)
 https://7pal.short.gy/SSMEuhd
 
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (576p)
@@ -297,7 +297,7 @@ https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-action.png" group-title="Sports",Sky Sports Action (1080p)
 https://7pal.short.gy/ssportsat
 
-#EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Sports",Sky Sports F1 (3840p)
+#EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Sports",Sky Sports F1 (2160p)
 https://7pal.short.gy/SSF1uhd
 
 --- 📺 Sports | Sky Sport NEW ZEALAND

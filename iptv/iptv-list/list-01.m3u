@@ -2,6 +2,35 @@
 #PLAYLIST:My
 
 
+#EXTINF:0 CUID="260" tvg-id="Iptv X:eurosport1" tvg-name="Iptv X:eurosport1" arc-timeshift="0" tvg-logo="http://stb.mymagic.tv/images/logo_chanel/noroot[1].png" group-title="Спортивные",Eurosport
+http://ost.mymagic.tv/sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjI2MCIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZXVyb3Nwb3J0MV9/video.m3u8
+#EXTINF:0 CUID="261" tvg-id="Iptv X:eurosport1" tvg-name="Iptv X:eurosport1" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.mymagic.tv/images/logo_chanel/noroot[1].png" group-title="Спортивные",Eurosport 1 HD
+http://ost.mymagic.tv/oZF9sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xNjkuMTUwLjIwNi4xMjk6ODA4MC9zcnYxL2V1cm9zcG9ydDFfaGRfbG8vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjI2MSIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZXVyb3Nwb3J0MV9/video.m3u8
+#EXTINF:0 CUID="262" tvg-id="Iptv X:eurosport2" tvg-name="Iptv X:eurosport2" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.mymagic.tv/images/logo_chanel/eurosport-2-logo-768x432[1].png" group-title="Спортивные",Eurosport 2 North-East
+http://ost.mymagic.tv/sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xNjkuMTUwLjIwNi4xMjk6ODA4MC9zcnYyL2V1cm9zcG9ydDJfbG8vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjI2MiIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZXVyb3Nwb3J0Ml9/video.m3u8
+
+
+
+#EXTINF:0 group-title="Спорт ТВ"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
+#EXTGRP:Спорт ТВ
+http://ott.server-iptv.live/200/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт ТВ"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
+#EXTGRP:Спорт ТВ
+http://ott.server-iptv.live/0200/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт ТВ"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
+#EXTGRP:Спорт ТВ
+http://ott.server-iptv.live/201/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0 group-title="Спорт ТВ"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
+#EXTGRP:Спорт ТВ
+http://ott.server-iptv.live/0201/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+
+
+#EXTINF:0 CUID="1504" tvg-id="1:1557" tvg-name="1:1557" arc-timeshift="0" tvg-logo="http://stb.mymagic.tv/images/logo_chanel/eurosport1[1].png" group-title="Германия",DE: DE: Eurosport
+http://ost.mymagic.tv/0L3ZpZGVvLm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiNGQwMWUwNzMiLCJwIjoiZmZkMjNlN2YiLCJjIjoiMTUwNCIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZGVfZXVyb3Nwb3J/video.m3u8
+#EXTINF:0 CUID="366" tvg-id="1:1558" tvg-name="1:1558" arc-timeshift="0" tvg-logo="http://stb.mymagic.tv/images/logo_chanel/eurosport2[1].png" group-title="Германия",DE: DE: Eurosport 2
+http://ost.mymagic.tv/0X2hkL3ZpZGVvLm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiNGQwMWUwNzMiLCJwIjoiZmZkMjNlN2YiLCJjIjoiMzY2IiwidCI6IjIwMjJiNjU3NmE2NWM0MGVkZTQyYTdkNDk0MWI1NDcxIiwiZCI6IjUzNjYxNTgiLCJyIjoiMjQzOTcifQeyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZGVfZXVyb3Nwb3J/video.m3u8
+
+
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD

@@ -5,9 +5,9 @@
 #EXTINF:0 CUID="260" tvg-id="Iptv X:eurosport1" tvg-name="Iptv X:eurosport1" arc-timeshift="0" tvg-logo="http://stb.mymagic.tv/images/logo_chanel/noroot[1].png" group-title="Спортивные",Eurosport
 http://ost.mymagic.tv/sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjI2MCIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZXVyb3Nwb3J0MV9/video.m3u8
 #EXTINF:0 CUID="261" tvg-id="Iptv X:eurosport1" tvg-name="Iptv X:eurosport1" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.mymagic.tv/images/logo_chanel/noroot[1].png" group-title="Спортивные",Eurosport 1 HD
-http://ost.mymagic.tv/oZF9sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xNjkuMTUwLjIwNi4xMjk6ODA4MC9zcnYxL2V1cm9zcG9ydDFfaGRfbG8vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjI2MSIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZXVyb3Nwb3J0MV9/video.m3u8
+
 #EXTINF:0 CUID="262" tvg-id="Iptv X:eurosport2" tvg-name="Iptv X:eurosport2" arc-timeshift="72" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.mymagic.tv/images/logo_chanel/eurosport-2-logo-768x432[1].png" group-title="Спортивные",Eurosport 2 North-East
-http://ost.mymagic.tv/sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xNjkuMTUwLjIwNi4xMjk6ODA4MC9zcnYyL2V1cm9zcG9ydDJfbG8vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjI2MiIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZXVyb3Nwb3J0Ml9/video.m3u8
+
 
 
 
@@ -65,6 +65,9 @@ http://57.128.183.163/10446/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=htt
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 72 (1080p)
 http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDFoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjMzIiwidCI6ImE4OTBhNzhjNDQyYzY5ZWEwZTZkNWZiMzliMzA2M2RhIiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDFoZC9tcGV
 
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 81 (1080p)
+http://ost.mymagic.tv/oZF9sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xNjkuMTUwLjIwNi4xMjk6ODA4MC9zcnYxL2V1cm9zcG9ydDFfaGRfbG8vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjI2MSIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZXVyb3Nwb3J0MV9/video.m3u8
+
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 100 (1080p)
 http://cdntv.online/high/47eurvkpm6/38.m3u8
 
@@ -119,6 +122,9 @@ http://57.128.183.163/10447/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=htt
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 72 (1080p)
 http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL2V1cm9zcG9ydDJoZC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjE0OCIsInQiOiJhODkwYTc4YzQ0MmM2OWVhMGU2ZDVmYjM5YjMwNjNkYSIsImQiOiI4ODc1NyIsInIiOiIxNzk3NTkiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2V1cm9zcG9ydDJoZC9tcGV
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 81 (1080p)
+http://ost.mymagic.tv/sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xNjkuMTUwLjIwNi4xMjk6ODA4MC9zcnYyL2V1cm9zcG9ydDJfbG8vdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjRkMDFlMDczIiwicCI6ImZmZDIzZTdmIiwiYyI6IjI2MiIsInQiOiIyMDIyYjY1NzZhNjVjNDBlZGU0MmE3ZDQ5NDFiNTQ3MSIsImQiOiI1MzY2MTU4IiwiciI6IjI0Mzk3In0eyJ1IjoiaHR0cDovLzE2OS4xNTAuMjA2LjEyOTo4MDgwL3NydjMvZXVyb3Nwb3J0Ml9/video.m3u8
 
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - CZ-01 (1080p)

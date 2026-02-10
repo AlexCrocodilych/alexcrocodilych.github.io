@@ -4,8 +4,7 @@
 
 
 
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 GE
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
 #EXTINF:-1 group-title="SPORT 🏆",Sport 1 HD
 http://87.246.54.249:8080/ArenaSport1/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sport 2 HD
@@ -14,8 +13,6 @@ http://87.246.54.249:8080/ArenaSport2/index.m3u8
 http://87.246.54.249:8080/ArenaSport3/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sport 4 HD
 http://87.246.54.249:8080/ArenaSport4/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",Беларусь 5 HD
 
 
 #EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_1
@@ -26,12 +23,8 @@ https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_5
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",CT SPORT HD
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SPORT 1 HD
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SPORT 2 HD
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="SPORT 🏆",Sport 1 Israel
@@ -47,22 +40,14 @@ http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sport 6 Israel
 http://185.132.134.159:80/sport6/index.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆" tvg-id="be33d52a2037d5a1afc981819e605de3" ,CZ EUROSPORT11 kolo
-http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
-#EXTINF:-1 group-title="SPORT 🏆" tvg-id="82e3fcab219bfeaaff332e60e63801e5" ,CZ EUROSPORT22
-http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
 
 
 
 
 --- ⚽ Sports | 4K UHD
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
-https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
-https://7pal.short.gy/SSF1uhd
 
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="Sports | 4K UHD",TNT Sports Ultimate
-https://7pal.short.gy/TNTUltimate
+
+
 
 
 
@@ -120,17 +105,6 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
-https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 3
-https://7pal.short.gy/event3
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
-https://7pal.short.gy/event4
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 5
-https://7pal.short.gy/event5
 
 
 #EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_1
@@ -213,7 +187,7 @@ http://194.143.148.28:8080/KHL_HD/mpegts
 
 
 #EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 1 Georgia (1080p)
-
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 2 Georgia (1080p)
 
@@ -281,10 +255,24 @@ http://194.143.148.28:8080/KHL_HD/mpegts
 
 # EXTINF:-1 tvg-id="polsat-sport-fight" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport-fight.png" group-title="Sports",Polsat Sport Fight (1080p)
 
+--- 📺 Sports | Czech
+
+#EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",CT SPORT CZ (1080p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",SPORT 1 CZ (1080p)
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",SPORT 2 CZ (1080p)
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
 
 --- 📺 Sports | TNT Sports UNITED KINGDOM
 
-#EXTINF:-1 tvg-id="	tnt-sports-prem-ar" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (3840p)
+https://7pal.short.gy/TNTUltimate
+
+#EXTINF:-1 tvg-id="tnt-sports-prem-ar" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
 https://7pal.short.gy/tntspts1
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Sports",TNT Sports 2 UK (1080p)
@@ -305,6 +293,9 @@ https://7pal.short.gy/tntspts5
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)
 https://7pal.short.gy/ssportspl
 
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (3840p)
+https://7pal.short.gy/SSMEuhd
+
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (576p)
 https://7pal.short.gy/skspmaine
 
@@ -320,8 +311,8 @@ https://7pal.short.gy/ssportplus
 #EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-action.png" group-title="Sports",Sky Sports Action (1080p)
 https://7pal.short.gy/ssportsat
 
-#EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Sports",Sky Sports F1 (1080p)
-https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Sports",Sky Sports F1 (3840p)
+https://7pal.short.gy/SSF1uhd
 
 --- 📺 Sports | Sky Sport NEW ZEALAND
 

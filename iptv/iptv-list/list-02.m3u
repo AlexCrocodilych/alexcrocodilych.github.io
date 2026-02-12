@@ -379,17 +379,17 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",USA NetWork US (1080p)
 https://7pal.short.gy/usanetwork
 
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",USA NetWork NL (1080p)
+#EXTINF:-1 tvg-id="ziggo-sport1-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ziggo-sport.png" group-title="Sports",Ziggo Sport NL (1080p)
 https://7pal.short.gy/zigosfhd
 
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",Premier Sports 1 IE (1080p)
+#EXTINF:-1 tvg-id="premier-sports-1-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-ie.png" group-title="Sports",Premier Sports 1 IE (1080p)
 https://7pal.short.gy/prsport1
 
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",Premier Sports 2 IE (1080p)
+#EXTINF:-1 tvg-id="premier-sports-2-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-ie.png" group-title="Sports",Premier Sports 2 IE (1080p)
 https://7pal.short.gy/prsport2
 
 #EXTINF:-1 tvg-id="fast-sport-am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",Fast Sports AM (1080p)
-https://a3285272783-s80718.cdn.ngenix.net//hls/CH_FAST_SPORTHD//video_1920x1080_avc1/playlist.m3u8
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//video_1920x1080_avc1/playlist.m3u8
 
 # EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Sports",Ring BG (1080p)
 

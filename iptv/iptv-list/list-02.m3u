@@ -144,14 +144,15 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 --- 📺 Sports | Canal+ POLAND
 
-# EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport.png" group-title="Sports",Canal+ Sport PL (1080p)
+#EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport.png" group-title="Sports",Canal+ Sport PL (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591269
 
 
-# EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (1080p)
+#EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591268
 
-
-# EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-3.png" group-title="Sports",Canal+ Sport 3 PL (1080p)
-
+#EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-3.png" group-title="Sports",Canal+ Sport 3 PL (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591267
 
 # EXTINF:-1 tvg-id="canal-pl-sport-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal+-sport-4.png" group-title="Sports",Canal+ Sport 4 PL (1080p)
 
@@ -242,7 +243,7 @@ http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591248
 #EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Sports",Sky Sports F1 (2160p)
 https://7pal.short.gy/SSF1uhd
 
-#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-action.png" group-title="Sports",Sky Sports Mix (720p)
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591246
 
 --- 📺 Sports | Sky Sport NEW ZEALAND

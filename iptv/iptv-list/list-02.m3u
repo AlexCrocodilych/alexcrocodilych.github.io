@@ -3,10 +3,6 @@
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
 
-#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN U (1080p)
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
-
-
 
 --- 📺 Sports | RUSSIA
 
@@ -309,17 +305,19 @@ https://7pal.short.gy/HPremier3
 
 --- 📺 Sports | ESPN
 
-#EXTINF:-1 tvg-id="espn-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn.png" group-title="Sports",ESPN US (1080p)
+#EXTINF:-1 tvg-id="espn-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn.png" group-title="Sports",ESPN US (720p)
 https://7pal.short.gy/espnus
 
-
-#EXTINF:-1 tvg-id="espn1-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 US (1080p)
-https://7pal.short.gy/espn2
-
-#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN (720p)00
+#EXTINF:-1 tvg-id="espn-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn.png" group-title="Sports",ESPN US (720p)02
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/14197
 
-#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN U (720p)
+#EXTINF:-1 tvg-id="espn1-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 US (720p)
+https://7pal.short.gy/espn2
+
+#EXTINF:-1 tvg-id="espn1-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 US (720p)02
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/2210
+
+#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN U US (720p)
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
 
 

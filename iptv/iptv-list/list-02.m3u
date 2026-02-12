@@ -6,14 +6,7 @@
 
 
 
-#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_1
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_2
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_4
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_5
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
 
 
 
@@ -21,7 +14,6 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
  Sport BG
 http://213.169.39.30:5102
-
 
 
 
@@ -120,6 +112,20 @@ http://185.132.134.159:80/sport5/index.m3u8
 
 #EXTINF:-1 tvg-id="sport6-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-6-israel.png" group-title="Sports",Sport 6 IS (1080p)
 http://185.132.134.159:80/sport6/index.m3u8
+
+--- 📺 Sports | Premier Sports MONGOLIA
+
+#EXTINF:-1 tvg-id="PremierSports1.mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 1 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports2.mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 2 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports4.mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 4 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports5.mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 5 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 
 --- 📺 Sports | Megogo UKRAINE

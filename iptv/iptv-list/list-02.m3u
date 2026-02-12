@@ -95,22 +95,22 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 --- 📺 Sports | Sport ISRAEL
 
-#EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Sport 1 IS (1080p)
+#EXTINF:-1 tvg-id="sport1.is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Sport 1 IS (1080p)
 http://185.132.134.159:80/sport1/index.m3u8
 
-#EXTINF:-1 tvg-id="sport2-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-israel.png" group-title="Sports",Sport 2 IS (1080p)
+#EXTINF:-1 tvg-id="sport2.is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-israel.png" group-title="Sports",Sport 2 IS (1080p)
 http://185.132.134.159:80/sport2/index.m3u8
 
-#EXTINF:-1 tvg-id="sport3-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-3-israel.png" group-title="Sports",Sport 3 IS (1080p)
+#EXTINF:-1 tvg-id="sport3.is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-3-israel.png" group-title="Sports",Sport 3 IS (1080p)
 http://185.132.134.159:80/sport3/index.m3u8
 
-#EXTINF:-1 tvg-id="sport4-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-4-israel.png" group-title="Sports",Sport 4 IS (1080p)
+#EXTINF:-1 tvg-id="sport4.is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-4-israel.png" group-title="Sports",Sport 4 IS (1080p)
 http://185.132.134.159:80/sport4/index.m3u8
 
-#EXTINF:-1 tvg-id="sport5-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 IS (1080p)
+#EXTINF:-1 tvg-id="sport5.is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 IS (1080p)
 http://185.132.134.159:80/sport5/index.m3u8
 
-#EXTINF:-1 tvg-id="sport6-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-6-israel.png" group-title="Sports",Sport 6 IS (1080p)
+#EXTINF:-1 tvg-id="sport6.is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-6-israel.png" group-title="Sports",Sport 6 IS (1080p)
 http://185.132.134.159:80/sport6/index.m3u8
 
 --- 📺 Sports | Premier Sports MONGOLIA
@@ -190,13 +190,13 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 --- 📺 Sports | Czech
 
-#EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",CT SPORT CZ (1080p)
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ctsport-cz.png" group-title="Sports",CT SPORT CZ (1080p)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",SPORT 1 CZ (1080p)
+#EXTINF:-1 tvg-id="sport-1-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-cz.png" group-title="Sports",SPORT 1 CZ (1080p)
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",SPORT 2 CZ (1080p)
+#EXTINF:-1 tvg-id="sport-2-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-cz.png" group-title="Sports",SPORT 2 CZ (1080p)
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 

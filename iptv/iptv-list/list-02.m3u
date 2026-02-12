@@ -288,15 +288,15 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 
 # EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-5.png" group-title="Sports",TSN 5 CA (1080p)
 
---- 📺 Sports | Premier Liga UK
+--- 📺 Sports | Premier Liga SINGAPORE
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Sports",Hub Premier1 UK (1080p)
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-1-sg.png" group-title="Sports",Hub Premier 1 SG (1080p)
 https://7pal.short.gy/HPremier1
 
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Sports",Hub Premier2 UK (1080p)
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-2-sg.png" group-title="Sports",Hub Premier 2 SG (1080p)
 https://7pal.short.gy/HPremier2
 
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Sports",Hub Premier3 UK (1080p)
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-3-sg.png" group-title="Sports",Hub Premier 3 SG (1080p)
 https://7pal.short.gy/HPremier3
 
 --- 📺 Sports | Fox Sports USA

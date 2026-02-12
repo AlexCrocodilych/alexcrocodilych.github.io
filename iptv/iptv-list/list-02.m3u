@@ -373,6 +373,9 @@ http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
 
 --- 📺 Sports | WORLD
 
+#EXTINF:-1 tvg-id="fox-sports1-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Sports", FoxSports 1 US (1080p)
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
+
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",USA NetWork US (1080p)
 https://7pal.short.gy/usanetwork
 

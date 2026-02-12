@@ -4,34 +4,34 @@
 
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)10
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591270
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591280
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)11
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591271
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591281
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)12
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591272
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591282
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)13
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591273
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591283
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)14
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591274
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591284
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)15
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591275
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591285
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)16
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591276
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591286
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)17
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591277
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591287
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)18
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591278
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591288
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)19
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591279
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591289
 
 
 
@@ -79,6 +79,12 @@ http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591268
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Canal+ 1 FR (720p)19
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591269
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Eurosport 1 PL (720p)15
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591275
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Eurosport 2 PL (720p)14
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591274
 
 
 --- 📺 Sports | RUSSIA
@@ -207,17 +213,18 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 # EXTINF:-1 tvg-id="tvp-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tvp-sport.png" group-title="Sports",TVP Sport PL (1080p)
 
-# EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)
 
+#EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591273
 
-# EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)
+#EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591272
 
+#EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591271
 
-# EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)
-
-
-# EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)
-
+#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591270
 
 --- 📺 Sports | Canal+ POLAND
 

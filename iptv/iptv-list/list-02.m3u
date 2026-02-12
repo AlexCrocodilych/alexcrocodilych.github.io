@@ -190,7 +190,7 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 --- 📺 Sports | Czech
 
-#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ctsport-cz.png" group-title="Sports",CT SPORT CZ (1080p)
+#EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ctsport-cz.png" group-title="Sports",CT SPORT CZ (1080p)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport-1-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-cz.png" group-title="Sports",SPORT 1 CZ (1080p)
@@ -202,22 +202,22 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 --- 📺 Sports | TNT Sports UNITED KINGDOM
 
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (2160p)
+#EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (2160p)
 https://7pal.short.gy/TNTUltimate
 
-#EXTINF:-1 tvg-id="tnt-sports-prem-ar" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
 https://7pal.short.gy/tntspts1
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Sports",TNT Sports 2 UK (1080p)
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Sports",TNT Sports 2 UK (1080p)
 https://7pal.short.gy/tntspts2
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 3 UK (1080p)
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 3 UK (1080p)
 https://7pal.short.gy/tntspts3
 
-#EXTINF:-1 tvg-id="tnt-sports4-hd-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)
 https://7pal.short.gy/tntspts4
 
-#EXTINF:-1 tvg-id="tnt-sports5-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)
 https://7pal.short.gy/tntspts5
 
 
@@ -226,7 +226,7 @@ https://7pal.short.gy/tntspts5
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (2160p)
+#EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (2160p)
 https://7pal.short.gy/SSMEuhd
 
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (576p)

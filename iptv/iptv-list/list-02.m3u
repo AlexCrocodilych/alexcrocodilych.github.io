@@ -207,6 +207,9 @@ https://7pal.short.gy/tntspts5
 
 --- 📺 Sports | Sky Sports UNITED KINGDOM
 
+#EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)00
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591248
+
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)
 https://7pal.short.gy/ssportspl
 

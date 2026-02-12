@@ -3,7 +3,7 @@
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
 
-#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",ESPN (1080p)
+#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN U (1080p)
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
 
 
@@ -315,6 +315,12 @@ https://7pal.short.gy/espnus
 
 #EXTINF:-1 tvg-id="espn1-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 US (1080p)
 https://7pal.short.gy/espn2
+
+#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN (720p)00
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/14197
+
+#EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN U (720p)
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
 
 
 # EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-deportes.png" group-title="Sports",ESPN DEPORTES US (1080p)

@@ -235,7 +235,7 @@ https://7pal.short.gy/skspmaine
 #EXTINF:-1 tvg-id="sky-sports-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-football.png" group-title="Sports",Sky Sports Football (1080p)
 https://7pal.short.gy/ssportsfb
 
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-tennis.png" group-title="Sports",Sky Sports Tennis (1080p)
+#EXTINF:-1 tvg-id="sky-sports-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-tennis.png" group-title="Sports",Sky Sports Tennis (1080p)
 https://7pal.short.gy/ssportstn
 
 #EXTINF:-1 tvg-id="sky-sports-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-plus.png" group-title="Sports",Sky Sports + (1080p)
@@ -258,13 +258,13 @@ https://7pal.short.gy/skyspt2nz
 #EXTINF:-1 tvg-id="sky-sport-hd3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-3.png" group-title="Sports",Sky Sport 3 NZ (1080p)
 https://7pal.short.gy/skyspt3nz
 
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-4.png" group-title="Sports",Sky Sport 4 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-hd4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-4.png" group-title="Sports",Sky Sport 4 NZ (1080p)
 https://7pal.short.gy/skyspt4nz
 
 #EXTINF:-1 tvg-id="sky-sport-hd5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-5.png" group-title="Sports",Sky Sport 5 NZ (1080p)
 https://7pal.short.gy/skyspt5nz
 
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-6.png" group-title="Sports",Sky Sport 6 NZ (1080p)
+#EXTINF:-1 tvg-id="sky-sport-hd6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-6.png" group-title="Sports",Sky Sport 6 NZ (1080p)
 https://7pal.short.gy/skyspt6nz
 
 #EXTINF:-1 tvg-id="sky-sport-hd7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-7.png" group-title="Sports",Sky Sport 7 NZ (1080p)

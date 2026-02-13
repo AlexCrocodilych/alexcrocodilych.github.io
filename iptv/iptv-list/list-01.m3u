@@ -92,7 +92,7 @@ http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591274
 --- 📺 Матч | RUSSIA
 
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (1080p)
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 # EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-tv.png" group-title="Спортивные",Матч ТВ (720p)
 http://94.130.221.219/match/mpegts
@@ -104,38 +104,35 @@ http://ottrb.crd-s.net/1378/75d43273db2bba771463/
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 
 # EXTINF:-1 tvg-id="match-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-ultra.png" group-title="Спортивные",МАТЧ! Ультра - 01 (2160p)
- 
+
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч Арена (720p)
 http://94.130.221.219/matcharena/mpegts
-
-# EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч Арена (1080p)2
-http://ottrb.crd-s.net/1384/75d43273db2bba771463/
 
 #EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч! Арена (576p)
 http://194.143.148.28:8080/MatchArena/mpegts
 
+#EXTINF:-1 tvg-id="match-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-arena.png" group-title="Спортивные",Матч Арена (576p)
+http://87.120.142.11:18000/Match!Arena
+
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-igra.png" group-title="Спортивные",Матч! Игра (720p)
 http://94.130.221.219/matchigra/mpegts
-
-# EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-igra.png" group-title="Спортивные",Матч! Игра (1080p)2
-http://ottrb.crd-s.net/386/75d43273db2bba771463/live.m3u8
 
 #EXTINF:-1 tvg-id="match-igra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-igra.png" group-title="Спортивные",Матч! Игра (576p)
 http://87.120.142.11:18000/Match!Igra
 
-# EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-strana.png" group-title="Спортивные",Матч! Страна (1080p)
-http://ottrb.crd-s.net/1084/75d43273db2bba771463/live.m3u8
+#EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-strana.png" group-title="Спортивные",Матч! Страна (720p)
+http://31.148.48.15/Match_Strana/index.m3u8
 
 #EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-strana.png" group-title="Спортивные",Матч! Страна (576p)
 http://178.212.71.253:8000/play/51/index.m3u8
 
+# EXTINF:-1 tvg-id="match-nash-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-strana.png" group-title="Спортивные",Матч! Страна (576p)2
+http://185.46.16.239:8000/Match_Nash_Sport
+
 #EXTINF:-1 tvg-id="match-planeta" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-planeta.png" group-title="Спортивные",Матч! Планета (576p)
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 
-# EXTINF:-1 tvg-id="match-boets" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-boets.png" group-title="Спортивные",Матч! Боец - 01 (1080p)
-http://ottrb.crd-s.net/1163/75d43273db2bba771463/live.m3u8
-
-#EXTINF:-1 tvg-id="match-boets" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-boets.png" group-title="Спортивные",Матч! Боец - 01 (576p)
+#EXTINF:-1 tvg-id="match-boets" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-boets.png" group-title="Спортивные",Матч! Боец (576p)
 http://87.120.142.11:18000/Match!
 
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Спортивные",Окко Спорт (1080p)

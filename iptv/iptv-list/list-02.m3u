@@ -413,13 +413,13 @@ http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591239
 
 --- 📺 Sports | Bein Sport
 
-#EXTINF:-1 tvg-id="bein-sports-1-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-01.png" group-title="Sports",Bein Sport 1 FR (720p)
+#EXTINF:-1 tvg-id="bein-sport-1-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-1.png" group-title="Sports",Bein Sport 1 FR (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591260
 
-#EXTINF:-1 tvg-id="bein-sports-2-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-02.png" group-title="Sports",Bein Sport 2 FR (720p)
+#EXTINF:-1 tvg-id="bein-sport-2-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-2.png" group-title="Sports",Bein Sport 2 FR (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591259
 
-#EXTINF:-1 tvg-id="bein-sports-3-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-03.png" group-title="Sports",Bein Sport 3 FR (720p)
+#EXTINF:-1 tvg-id="bein-sport-3-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-3.png" group-title="Sports",Bein Sport 3 FR (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591258
 
 # EXTINF:-1 tvg-id="bein-sports-1-en" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Sports",Bein Sports UK (720p)

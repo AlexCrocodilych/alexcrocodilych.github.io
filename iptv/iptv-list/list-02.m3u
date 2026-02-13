@@ -267,7 +267,7 @@ https://7pal.short.gy/tntspts5
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)02
+# EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)02
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591248
 
 #EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (2160p)
@@ -406,10 +406,10 @@ https://7pal.short.gy/espn2
 #EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN U US (720p)
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
 
-#EXTINF:-1 tvg-id="espn4-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN 4 US (720p)
+#EXTINF:-1 tvg-id="espn4-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-4.png" group-title="Sports",ESPN 4 US (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591282
 
-#EXTINF:-1 tvg-id="espn-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN News US (720p)
+#EXTINF:-1 tvg-id="espn-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-news.png" group-title="Sports",ESPN News US (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591239
 
 # EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-deportes.png" group-title="Sports",ESPN DEPORTES US (1080p)

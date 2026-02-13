@@ -174,35 +174,19 @@ http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591270
 
 --- 📺 Sports | Canal+ POLAND
 
-#EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-1.png" group-title="Sports",Canal+ Sport PL (1080p)
+#EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-1.png" group-title="Sports",Canal+ Sport 1 PL (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591269
 
-#EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (1080p)
+#EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591268
 
-#EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-3.png" group-title="Sports",Canal+ Sport 3 PL (1080p)
+#EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-3.png" group-title="Sports",Canal+ Sport 3 PL (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591267
 
-# EXTINF:-1 tvg-id="canal-pl-sport-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-4.png" group-title="Sports",Canal+ Sport 4 PL (1080p)
-
-# EXTINF:-1 tvg-id="canal-pl-sport-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-5.png" group-title="Sports",Canal+ Sport 5 PL (1080p)
-
-
---- 📺 Sports | Canal+ FRANCE
-
-#EXTINF:-1 tvg-id="canal-pl-sport-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-1.png" group-title="Sports",Canal+ Sport 1 FR (720p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591269
-
-#EXTINF:-1 tvg-id="canal-pl-sport-2-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-2.png" group-title="Sports",Canal+ Sport 2 FR (720p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591268
-
-#EXTINF:-1 tvg-id="canal-pl-sport-3-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-3.png" group-title="Sports",Canal+ Sport 3 FR (720p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591267
-
-#EXTINF:-1 tvg-id="canal-pl-extra-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-4.png" group-title="Sports",Canal+ Sport 4 FR (720p)
+#EXTINF:-1 tvg-id="canal-pl-sport-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-4.png" group-title="Sports",Canal+ Sport 4 PL (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591266
 
-#EXTINF:-1 tvg-id="canal-pl-sport-5-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-5.png" group-title="Sports",Canal+ Sport 5 FR (720p)
+#EXTINF:-1 tvg-id="canal-pl-sport-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-5.png" group-title="Sports",Canal+ Sport 5 PL (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591265
 
 

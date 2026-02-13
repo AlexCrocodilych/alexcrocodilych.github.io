@@ -340,13 +340,13 @@ https://7pal.short.gy/HPremier3
 
 --- 📺 Sports | Fox Sports USA
 
-#EXTINF:-1 tvg-id="fox-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Sports",Fox Sports 1 US (720p)
+#EXTINF:-1 tvg-id="fox-sports1-ar" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Sports",Fox Sports 1 US (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591238
 
 # EXTINF:-1 tvg-id="fox-sports1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Sports", FoxSports 1 US (1080p)02
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-2.png" group-title="Sports",Fox Sports 2 US (720p)
+#EXTINF:-1 tvg-id="fox-sports2-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-2.png" group-title="Sports",Fox Sports 2 US (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591237
 
 

@@ -321,16 +321,16 @@ https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Sports",TSN 1 CA (720p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
 
-# EXTINF:-1 tvg-id="tsn2-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-2.png" group-title="Sports",TSN 2 CA (1080p)
+#EXTINF:-1 tvg-id="tsn2-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-2.png" group-title="Sports",TSN 2 CA (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15928.ts
 
-# EXTINF:-1 tvg-id="tsn3-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-3.png" group-title="Sports",TSN 3 CA (1080p)
+#EXTINF:-1 tvg-id="tsn3-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-3.png" group-title="Sports",TSN 3 CA (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15927.ts
 
-# EXTINF:-1 tvg-id="tsn4-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-4.png" group-title="Sports",TSN 4 CA (1080p)
+#EXTINF:-1 tvg-id="tsn4-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-4.png" group-title="Sports",TSN 4 CA (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15926.ts
 
-# EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-5.png" group-title="Sports",TSN 5 CA (1080p)
+#EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-5.png" group-title="Sports",TSN 5 CA (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
 
 

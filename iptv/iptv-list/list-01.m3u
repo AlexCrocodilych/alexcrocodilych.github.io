@@ -168,19 +168,14 @@ http://176.118.197.125/viju-Explore/index.m3u8
 http://176.118.197.125/viju-Nature/index.m3u8
 
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Наука",Love Nature (2160p)
-http://ottrb.crd-s.net/982/75d43273db2bba771463/
+
 
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/animal-planet.png" group-title="Наука",Animal Planet (1080p)
-http://ott.watch/stream/DJDLVK3M7TR/114.m3u8
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Наука",Nat Geo Wild (1080p)
-http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgxODgiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTMvODE4OC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjI1IiwiYWZwIjoiODE4OCIsImF0cyI6IjE2OCIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjE3NyIsInQiOiJhM2EzNDVhM2E5Mzg2NWJjNjVmZDY4ZDQzZjNjNjhiYiIsImQiOiIyODA3ODAiLCJyIjoiMjg2MzY1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxODgvbXBlZ3RzP3Rva2VuPVtzdGJ
 
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Наука",National Geographic (1080p)
-http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgxNzYiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTMvODE3Ni90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjI1IiwiYWZwIjoiODE3NiIsImF0cyI6IjE2OCIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjE2NiIsInQiOiJhM2EzNDVhM2E5Mzg2NWJjNjVmZDY4ZDQzZjNjNjhiYiIsImQiOiIyODA3ODAiLCJyIjoiMjg2MzY1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxNzYvbXBlZ3RzP3Rva2VuPVtzdGJ
-
-# EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/national-geographic.png" group-title="Наука",National Geographic (1080p)2
-http://ottrb.crd-s.net/272/75d43273db2bba771463/live.m3u8
 
 --- 📺 TV | RUSSIA
 

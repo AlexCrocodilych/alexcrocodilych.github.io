@@ -49,6 +49,28 @@ http://195.26.83.96:7013/play/37/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature" tvg-logo="" group-title="РАЗНОЕ",Viasat Nature
 http://193.25.8.59:8000/nature
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD" tvg-logo="" group-title="РАЗНОЕ",Animal Planet HD
+http://31.148.48.15:80/Animal_Planet_HD/index.m3u8
+
+EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Animal Planet
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="" group-title="РАЗНОЕ",Nat Geo
+http://185.164.82.18:9010/ykMHqK_NatGeo
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="" group-title="РАЗНОЕ",Nat Geo Wild
+http://185.164.82.18:9010/ykMHqK_NatGeoWild
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="РАЗНОЕ",NBA TV
+http://fl31.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="РАЗВЛЕЧЕНИЕ",Nat Geo Wild HD
+http://188.237.47.212:6005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",National Geographic
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic Wild" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",National Geographic Wild
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)10

@@ -131,7 +131,7 @@ http://185.132.134.159:80/sport6/index.m3u8
 
 --- 📺 Sports | Premier Sports MONGOLIA
 
-#EXTINF:-1 tvg-id="PremierSports1.mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 1 MN (1080p)
+#EXTINF:-1 tvg-id="premier-sports-1-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 1 MN (1080p)
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports2.mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-mn.png" group-title="Sports",Premier Sports 2 MN (1080p)
@@ -159,16 +159,16 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 # EXTINF:-1 tvg-id="tvp-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tvp-sport.png" group-title="Sports",TVP Sport PL (1080p)
 
-#EXTINF:-1 tvg-id="eleven-sport1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)
+#EXTINF:-1 tvg-id="eleven-sports-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591273
 
-#EXTINF:-1 tvg-id="eleven-sport2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)
+#EXTINF:-1 tvg-id="eleven-sports-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591272
 
-#EXTINF:-1 tvg-id="eleven-sport3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)
+#EXTINF:-1 tvg-id="eleven-sports-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591271
 
-#EXTINF:-1 tvg-id="eleven-sport4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)
+#EXTINF:-1 tvg-id="eleven-sports-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591270
 
 
@@ -390,10 +390,10 @@ https://7pal.short.gy/espn2
 #EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN U US (720p)
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/10255
 
-#EXTINF:-1 tvg-id="espn4-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-4.png" group-title="Sports",ESPN 4 US (720p)
+#EXTINF:-1 tvg-id="espn4-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-4.png" group-title="Sports",ESPN 4 US (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591282
 
-#EXTINF:-1 tvg-id="espn-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-news.png" group-title="Sports",ESPN News US (720p)
+#EXTINF:-1 tvg-id="espn-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-news.png" group-title="Sports",ESPN News US (720p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591239
 
 # EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-deportes.png" group-title="Sports",ESPN DEPORTES US (1080p)

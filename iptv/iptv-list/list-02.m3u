@@ -3,8 +3,27 @@
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="История" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",История
-http://176.118.197.125/Istoria/index.m3u8
+
+
+#EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 1 Georgia (1080p)
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 2 Georgia (1080p)
+http://94.43.1.138:8081/setanta2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 1 Georgia (1080p)
+http://94.43.1.138:8081/setanta1/index.m3u8
+
+#EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 3 Georgia (1080p)
+http://94.43.1.138:8081/setanta3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 2 Georgia (1080p)
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia2
+
+#EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 3 Georgia (1080p)
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia3
 
 
 --- 📺 Sports | RUSSIA

@@ -152,7 +152,7 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 
 # EXTINF:-1 tvg-id="history2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history2.png" group-title="Наука",History 2 (1080p)
 
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Наука",Discovery (1080p)
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Наука",Discovery (720p)
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-history.png" group-title="Наука",Viju History (576p)
@@ -166,13 +166,13 @@ http://176.118.197.125/viju-Nature/index.m3u8
 
 # EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Наука",Love Nature (2160p)
 
-#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/animal-planet.png" group-title="Наука",Animal Planet (1080p)
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/animal-planet.png" group-title="Наука",Animal Planet (720p)
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo.png" group-title="Наука",National Geographic (1080p)
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo.png" group-title="Наука",National Geographic (720p)
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Наука",Nat Geo Wild (1080p)
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Наука",Nat Geo Wild (720p)
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 
 

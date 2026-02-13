@@ -29,15 +29,6 @@ http://200.125.170.122:8000/play/a00j/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/discoveryscience.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Viasat Explore
-http://176.118.197.125/viju-Explore/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Viasat History
-http://176.118.197.125/viju-History/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Viasat Nature
-http://176.118.197.125/viju-Nature/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju History" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",viju History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore" tvg-logo="" group-title="РАЗНОЕ",Viasat Explore
 http://85.11.144.9:4222/ViasatExplorer
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History" tvg-logo="" group-title="РАЗНОЕ",Viasat History
@@ -48,29 +39,36 @@ http://213.169.39.30:5087
 http://195.26.83.96:7013/play/37/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature" tvg-logo="" group-title="РАЗНОЕ",Viasat Nature
 http://193.25.8.59:8000/nature
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Sport" tvg-logo="" group-title="РАЗНОЕ",Viasat Sport
+http://195.26.83.96:7013/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vida RTV Plus" tvg-logo="" group-title="РАЗНОЕ",Vida RTV Plus
+http://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Videolina TV (Italia)" tvg-logo="" group-title="РАЗНОЕ",Videolina TV (Italia)
+http://streamcdnb4-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vidusdaugavas TV" tvg-logo="" group-title="РАЗНОЕ",Vidusdaugavas TV
+http://straume.vdtv.lv/vdtv3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju Explore" tvg-logo="" group-title="РАЗНОЕ",Viju Explore
+http://176.118.197.125/viju-Explore/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju Explore" tvg-logo="" group-title="РАЗНОЕ",Viju Explore
+http://45.145.32.13:20440/viasat_explore/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju History" tvg-logo="" group-title="РАЗНОЕ",Viju History
+http://45.145.32.13:20440/viasat_history/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju History" tvg-logo="" group-title="РАЗНОЕ",Viju History
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju History" tvg-logo="" group-title="РАЗНОЕ",Viju History
+http://176.118.197.125/viju-History/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju History" tvg-logo="" group-title="РАЗНОЕ",Viju History
+http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD" tvg-logo="" group-title="РАЗНОЕ",Animal Planet HD
-http://31.148.48.15:80/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Histoire" tvg-logo="" group-title="РАЗНОЕ",Histoire
+http://151.80.18.177:86/Histoire/index.m3u8
 
-EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Animal Planet
-http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="" group-title="РАЗНОЕ",Nat Geo
-http://185.164.82.18:9010/ykMHqK_NatGeo
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="" group-title="РАЗНОЕ",Nat Geo Wild
-http://185.164.82.18:9010/ykMHqK_NatGeoWild
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="РАЗНОЕ",NBA TV
-http://fl31.moveonjoy.com/NBA_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="РАЗВЛЕЧЕНИЕ",Nat Geo Wild HD
-http://188.237.47.212:6005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",National Geographic
-http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic Wild" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",National Geographic Wild
-http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="" group-title="РАЗНОЕ",History
+http://190.11.225.124:5000/live/history_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 2" tvg-logo="" group-title="РАЗНОЕ",History 2
+http://45.173.201.51:4000/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History HD" tvg-logo="" group-title="РАЗНОЕ",History HD
+http://5.57.74.130:8000/play/a02p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)10
@@ -712,8 +710,8 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 #EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Public",BBC Earth (720p)2
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
-#EXTINF:-1 tvg-id="nat-geo" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo.png" group-title="Public",Nat Geo (1080p)
-http://78.130.250.2:8023/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="nat-geo" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo.png" group-title="Public",National Geographic (1080p)
+http://188.237.47.212:6005
 
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Public",Nat Geo Wild (1080p)
 http://78.130.250.2:8023/play/a02c/index.m3u8

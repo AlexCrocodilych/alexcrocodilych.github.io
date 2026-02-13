@@ -6,11 +6,6 @@
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="Sky Sport UHD" tvg-name="Sky Sport UHD" tvg-logo="https://lighticons.art/storage/images/channels/51b1417b0107a1b7afc7a9c6c290bf80.png?d=1711532707" group-title="СПОРТ",Sky Sport UHD
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591247
 #EXTINF:-1 tvg-id="4578" tvg-name="SKY SPORTS GOLF UK" tvg-logo="http://epg.one/img2/4578.png" group-title="СПОРТ",SKY SPORTS GOLF UK
@@ -380,31 +375,31 @@ http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591304
 #EXTINF:-1 tvg-id="dazn2-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-2.png" group-title="Sports",Dazn 2 DE (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591303
 
-#EXTINF:-1 tvg-id="dazn3-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-3.png" group-title="Sports",Dazn 3 DE (1080p)
+# EXTINF:-1 tvg-id="dazn3-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-3.png" group-title="Sports",Dazn 3 DE (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591302
 
-#EXTINF:-1 tvg-id="dazn4-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-4.png" group-title="Sports",Dazn 4 DE (1080p)
+# EXTINF:-1 tvg-id="dazn4-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-4.png" group-title="Sports",Dazn 4 DE (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591301
 
-#EXTINF:-1 tvg-id="dazn5-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-5.png" group-title="Sports",Dazn 5 DE (1080p)
+# EXTINF:-1 tvg-id="dazn5-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-5.png" group-title="Sports",Dazn 5 DE (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591300
 
 
---- 📺 Sports | Dazn POLAND
+--- 📺 Sports | Dazn SPAIN
 
-#EXTINF:-1 tvg-id="dazn1-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-1.png" group-title="Sports",Dazn 1 PL (1080p)
+# EXTINF:-1 tvg-id="dazn1-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-1.png" group-title="Sports",Dazn 1 ES (1080p)
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167746
 
-#EXTINF:-1 tvg-id="dazn2-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-2.png" group-title="Sports",Dazn 2 PL (1080p)
+# EXTINF:-1 tvg-id="dazn2-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-2.png" group-title="Sports",Dazn 2 ES (1080p)
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167747
 
-#EXTINF:-1 tvg-id="dazn3-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-3.png" group-title="Sports",Dazn 3 PL (1080p)
+#EXTINF:-1 tvg-id="dazn3-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-3.png" group-title="Sports",Dazn 3 ES (1080p)
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167748
 
-#EXTINF:-1 tvg-id="dazn4-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-4.png" group-title="Sports",Dazn 4 PL (1080p)
+#EXTINF:-1 tvg-id="dazn4-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-4.png" group-title="Sports",Dazn 4 ES (1080p)
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167749
 
-#EXTINF:-1 tvg-id="dazn5-pl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-5.png" group-title="Sports",Dazn 5 PL (1080p)
+#EXTINF:-1 tvg-id="dazn5-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-5.png" group-title="Sports",Dazn 5 ES (1080p)
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167750
 
 

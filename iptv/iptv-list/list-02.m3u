@@ -6,7 +6,48 @@
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Discovery
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel HD" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="РАЗВЛЕЧЕНИЕ",Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Discovery HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel Asia" tvg-logo="" group-title="РАЗНОЕ",Discovery Channel Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel CZ" tvg-logo="" group-title="РАЗНОЕ",Discovery Channel CZ
+http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery channel HD" tvg-logo="" group-title="РАЗНОЕ",Discovery channel HD
+https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel USA" tvg-logo="" group-title="РАЗНОЕ",Discovery Channel USA
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="" group-title="РАЗНОЕ",Discovery HD
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="" group-title="РАЗНОЕ",Discovery Kids
+http://200.125.170.122:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science HD" tvg-logo="" group-title="РАЗНОЕ",Discovery Science HD
+https://livetv.mylifeisgood.net.ru/channels/discoveryscience.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Viasat Explore
+http://176.118.197.125/viju-Explore/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Viasat History
+http://176.118.197.125/viju-History/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Viasat Nature
+http://176.118.197.125/viju-Nature/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju History" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",viju History
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore" tvg-logo="" group-title="РАЗНОЕ",Viasat Explore
+http://85.11.144.9:4222/ViasatExplorer
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History" tvg-logo="" group-title="РАЗНОЕ",Viasat History
+http://5.57.74.130:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature" tvg-logo="" group-title="РАЗНОЕ",Viasat Nature
+http://213.169.39.30:5087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature" tvg-logo="" group-title="РАЗНОЕ",Viasat Nature
+http://195.26.83.96:7013/play/37/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature" tvg-logo="" group-title="РАЗНОЕ",Viasat Nature
+http://193.25.8.59:8000/nature
 
 
 

@@ -147,25 +147,25 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 --- 📺 Science | RUSSIA
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history.png" group-title="Наука",History (1080p)
-http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgzNTYiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTMvODM1Ni90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjM3IiwiYWZwIjoiODM1NiIsImF0cyI6IjMzNiIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjI3NSIsInQiOiJhM2EzNDVhM2E5Mzg2NWJjNjVmZDY4ZDQzZjNjNjhiYiIsImQiOiIyODA3ODAiLCJyIjoiMjg2MzY1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgzNTYvbXBlZ3RzP3Rva2VuPVtzdGJ
+
 
 # EXTINF:-1 tvg-id="history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history.png" group-title="Наука",History (1080p)2
 http://ottrb.crd-s.net/316/75d43273db2bba771463/live.m3u8
 
 # EXTINF:-1 tvg-id="history2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/history2.png" group-title="Наука",History 2 (1080p)
-http://ottrb.crd-s.net/290/75d43273db2bba771463/live.m3u8
+
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Наука",Discovery (1080p)
-http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgxODAiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTMvODE4MC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjI1IiwiYWZwIjoiODE4MCIsImF0cyI6IjE2OCIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjE3MCIsInQiOiJhM2EzNDVhM2E5Mzg2NWJjNjVmZDY4ZDQzZjNjNjhiYiIsImQiOiIyODA3ODAiLCJyIjoiMjg2MzY1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxODAvbXBlZ3RzP3Rva2VuPVtzdGJ
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 
-# EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/discovery.png" group-title="Наука",Discovery (1080p)2
-http://ottrb.crd-s.net/1255/75d43273db2bba771463/
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-history.png" group-title="Наука",Viju History (576p)
+http://176.118.197.125/viju-History/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Наука",Viju History (720p)
-http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgwODYiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTIvODA4Ni90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjIxIiwiYWZwIjoiODA4NiIsImF0cyI6IjMzNiIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6Ijg0IiwidCI6ImEzYTM0NWEzYTkzODY1YmM2NWZkNjhkNDNmM2M2OGJiIiwiZCI6IjI4MDc4MCIsInIiOiIyODYzNjUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwODYvbXBlZ3RzP3Rva2VuPVtzdGJ
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Наука",Viju Explore (576p)
+http://176.118.197.125/viju-Explore/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-explore.png" group-title="Наука",Viju Explore (720p)
-http://rso.uspeh.sbs/fdG9rZW5dIiwidWZ0IjoiMiIsInVmcCI6IjgwODUiLCJzdHAiOiIwIiwiYWRsIjoiMTQiLCJhIjoiaHR0cDovLzMxLjIyMi4yMDcuMTMxOjkxNTIvODA4NS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS50cz90b2tlbj1bc3RiX3Rva2VuXSIsImFmdCI6IjIxIiwiYWZwIjoiODA4NSIsImF0cyI6IjMzNiIsImwiOiIxZmEzZGJmMSIsInAiOiIxZmEzZGJmMTljY2Y1MGY2IiwiYyI6IjgzIiwidCI6ImEzYTM0NWEzYTkzODY1YmM2NWZkNjhkNDNmM2M2OGJiIiwiZCI6IjI4MDc4MCIsInIiOiIyODYzNjUiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwODUvbXBlZ3RzP3Rva2VuPVtzdGJ
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-nature.png" group-title="Наука",Viju Nature (576p)
+http://176.118.197.125/viju-Nature/index.m3u8
 
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Наука",Love Nature (2160p)
 http://ottrb.crd-s.net/982/75d43273db2bba771463/

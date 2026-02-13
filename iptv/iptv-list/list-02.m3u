@@ -50,6 +50,37 @@ http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591228
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591229
 
 
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)30
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35240
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)31
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35241
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)32
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35242
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)33
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35243
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)34
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35244
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)35
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35245
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)36
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35246
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)37
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35247
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)38
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35248
+
+#EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)39
+http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35249
+
+
 
 
 --- 📺 Sports | RUSSIA
@@ -131,21 +162,6 @@ http://185.132.134.159:80/sport5/index.m3u8
 
 #EXTINF:-1 tvg-id="sport6-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-6-israel.png" group-title="Sports",Sport 6 IS (1080p)
 http://185.132.134.159:80/sport6/index.m3u8
-
-
---- 📺 Sports | Premier Sports MONGOLIA
-
-#EXTINF:-1 tvg-id="premier-sports-1-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 1 MN (1080p)
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-
-#EXTINF:-1 tvg-id="premier-sports-2-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-mn.png" group-title="Sports",Premier Sports 2 MN (1080p)
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-
-#EXTINF:-1 tvg-id="premier-sports-4-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-4-mn.png" group-title="Sports",Premier Sports 4 MN (1080p)
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-
-#EXTINF:-1 tvg-id="premier-sports-5-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-5-mn.png" group-title="Sports",Premier Sports 5 MN (1080p)
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 
 --- 📺 Sports | Megogo UKRAINE
@@ -344,6 +360,21 @@ https://7pal.short.gy/HPremier2
 
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-3-sg.png" group-title="Sports",Hub Premier 3 SG (1080p)
 https://7pal.short.gy/HPremier3
+
+
+--- 📺 Sports | Premier Sports MONGOLIA
+
+#EXTINF:-1 tvg-id="premier-sports-1-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 1 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+
+#EXTINF:-1 tvg-id="premier-sports-2-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-mn.png" group-title="Sports",Premier Sports 2 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+
+#EXTINF:-1 tvg-id="premier-sports-4-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-4-mn.png" group-title="Sports",Premier Sports 4 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+
+#EXTINF:-1 tvg-id="premier-sports-5-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-5-mn.png" group-title="Sports",Premier Sports 5 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 
 --- 📺 Sports | Fox Sports USA

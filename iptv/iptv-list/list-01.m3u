@@ -1,18 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG"
 #PLAYLIST:My
 
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 00 (1080p)
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/173/stream.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/171/stream.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 02 (1080p)
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/170/stream.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 03 (1080p)
-http://streamer.enchart.one/42/7cc07d6b76635d8d2618bf6a58b26b60870811a6/174/stream.m3u8
-
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)
 http://178.134.1.158:8081/eurosport/index.m3u8

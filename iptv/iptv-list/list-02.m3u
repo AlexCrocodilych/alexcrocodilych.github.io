@@ -356,14 +356,11 @@ https://7pal.short.gy/espn2
 
 --- 📺 Sports | Bein Sport
 
-#EXTINF:-1 tvg-id="bein-sport-1-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-1.png" group-title="Sports",Bein Sport 1 FR (720p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591260
+# EXTINF:-1 tvg-id="bein-sport-1-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-1.png" group-title="Sports",Bein Sport 1 FR (720p)
 
-#EXTINF:-1 tvg-id="bein-sport-2-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-2.png" group-title="Sports",Bein Sport 2 FR (720p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591259
+# EXTINF:-1 tvg-id="bein-sport-2-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-2.png" group-title="Sports",Bein Sport 2 FR (720p)
 
-#EXTINF:-1 tvg-id="bein-sport-3-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-3.png" group-title="Sports",Bein Sport 3 FR (720p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591258
+# EXTINF:-1 tvg-id="bein-sport-3-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-3.png" group-title="Sports",Bein Sport 3 FR (720p)
 
 # EXTINF:-1 tvg-id="bein-sports-1-en" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Sports",Bein Sports UK (720p)
 
@@ -376,8 +373,7 @@ http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591258
 
 --- 📺 Sports | WORLD
 
-#EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Sports", NBA TV US (1080p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591235
+# EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Sports", NBA TV US (1080p)
 
 #EXTINF:-1 tvg-id="usa-network" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/usa-network.png" group-title="Sports",USA NetWork US (1080p)
 https://7pal.short.gy/usanetwork
@@ -482,31 +478,21 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 #EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="US-news",Fox News [Republican] (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
-NF:-1 tvg-id="fox-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="US-news",Fox News [Republican] (720p)2
-#EXTVLCOPT:http-referrer=https://www.newslive.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+# EXTINF:-1 tvg-id="fox-live-now" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-live-now.png" group-title="US-news",FOX LiveNow [Republican] (720p)
 
-#EXTINF:-1 tvg-id="fox-live-now" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-live-now.png" group-title="US-news",FOX LiveNow [Republican] (720p)
-https://fox-foxnewsnow-vizio.amagi.tv/playlist720-p.m3u8
 
-#EXTINF:-1 tvg-id="nbc-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="US-news",NBC News Now [Neutral] (1080p)
-https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
+# EXTINF:-1 tvg-id="nbc-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="US-news",NBC News Now [Neutral] (1080p)
 
-#EXTINF:-1 tvg-id="abc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news-live.png" group-title="US-news",ABC News Live [Neutral] (720p)
-https://livetv-fa.tubi.video/abc-news/index_1.m3u8
 
-#EXTINF:-1 tvg-id="abc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news-live.png" group-title="US-news",ABC News [Neutral] (720p)
-http://41.205.93.154/ABC/index.m3u8
+# EXTINF:-1 tvg-id="abc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news-live.png" group-title="US-news",ABC News Live [Neutral] (720p)
+
+# EXTINF:-1 tvg-id="abc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news-live.png" group-title="US-news",ABC News [Neutral] (720p)
 
 #EXTINF:-1 tvg-id="cbc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="US-news",CBS News [Neutral] (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
-#EXTINF:-1 tvg-id="cbc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="US-news",CBN News [Neutral] (720p)
-https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
+# EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="US-news",MSNBC News [Democratic] (720p)
 
-#EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="US-news",MSNBC News [Democratic] (720p)
-http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg+.png" group-title="US-news",Bloomberg TV+ (1080p)
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -514,49 +500,31 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 --- 📺 Public | World
 
-#EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Public" tvg-name="MTV",MTV US (720p)
-http://fl2.moveonjoy.com/MTV/index.m3u8
+# EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Public" tvg-name="MTV",MTV US (720p)
 
-#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv-2.png" group-title="Public" tvg-name="MTV2",MTV2 US (720p)
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
+# EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv-2.png" group-title="Public" tvg-name="MTV2",MTV2 US (720p)
 
-#EXTINF:-1 tvg-id="bbc-america-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Public",BBC America (720p)
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+# EXTINF:-1 tvg-id="bbc-america-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Public",BBC America (720p)
 
-#EXTINF:-1 tvg-id="bbc-earth-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Public",BBC Earth (1080p)
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Public",BBC Earth (720p)2
-https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+# EXTINF:-1 tvg-id="bbc-earth-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Public",BBC Earth (1080p)
 
 #EXTINF:-1 tvg-id="nat-geo" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo.png" group-title="Public",National Geographic (1080p)
 http://188.237.47.212:6005
 
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Public",Nat Geo Wild (1080p)
-http://78.130.250.2:8023/play/a02c/index.m3u8
+# EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Public",Nat Geo Wild (1080p)
 
-#EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Public",Love Nature (2160p)
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Public",Love Nature (1080p)2
-https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Public",Love Nature US (540p)
-http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+# EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Public",Love Nature (2160p)
 
 
 --- 📺 News | RUSSIA
 
-#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dozhd.png" group-title="RU-news",Дождь (1080p)
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+# EXTINF:-1 tvg-id="dozhd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dozhd.png" group-title="RU-news",Дождь (1080p)
+
 
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="RU-news",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nastoyaschee-vremia.png" group-title="RU-news",Настоящее время (1080p)
-https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
-
-#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nastoyaschee-vremia.png" group-title="RU-news",Настоящее время (1080p)2
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
 
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/rbk.png" group-title="RU-news",РБК (1080p)
@@ -593,5 +561,4 @@ https://streaming.goodstream.cyou/live/232.m3u8
 
 --- 📺 Films | RUSSIA
 
-#EXTINF:-1  type="video" group-title="Кино" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", Анора (2024)
-http://vod.orgip.net/vod100/Anora/index.m3u8?token=A3b61a999e
+# EXTINF:-1  type="video" group-title="Кино" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", Анора (2024)

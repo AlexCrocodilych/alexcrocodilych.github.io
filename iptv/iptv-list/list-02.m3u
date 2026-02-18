@@ -4,6 +4,76 @@
 
 
 
+
+
+
+
+
+#EXTINF:-1,Spartak
+http://88.212.15.9:5000/live/spartak/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT",EUROSPORT 1 HD
+http://myott.top/stream/DT6QU63K5VX/176.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORT",EUROSPORT 2 HD
+http://myott.top/stream/DT6QU63K5VX/192.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png",DD SPORTS HD (1080p)
+http://103.78.149.54:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 group-title="Public;Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/330px-Esport3.svg.png",Esport3 (1080p) [Not 24/7]
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/t5qCejI.png",Premier Sports 1 (480p)
+http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/eMNWhDq.png",Premier Sports 2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XHBJ7UB.png",Premier Sports 4 (480p)
+http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/LkIe9gR.png",Premier Sports 5 (480p)
+http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png",PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6PEevOM.png",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/wMrtS1qZ/rtshsport.png",RTSH Sport (1080p)
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PGm944g.png",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EyCDhgN.png",SportsTVPlus
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=6S5T4Kl7B10
+
+
+#EXTINF:-1 group-title="General;Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/320px-TVR_Sport_Logo_2023.svg.png",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Lwwq62E.png",TVS Sports (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+
+#EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 000
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 001
+http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 001
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 01
 http://88.212.15.19/live/test_eurosport_25p/playlist.m3u8
 

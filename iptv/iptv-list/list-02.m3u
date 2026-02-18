@@ -432,26 +432,19 @@ https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="US-local",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
 https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 
-#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="US-local",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)3
-https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8
-
-#EXTINF:-1 tvg-id="WTVDDT1247News.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvd.png" group-title="US-local",WTVD ABC 11 Raleigh-Durham NC [Neutral] (720p)
-https://content-aeui1.uplynk.com/channel/a260e6e674f3429f874819f0f232eb08/f.m3u8?pbs=2c188923559248a6a968d283242c86ad
+# EXTINF:-1 tvg-id="WTVDDT1247News.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvd.png" group-title="US-local",WTVD ABC 11 Raleigh-Durham NC [Neutral] (720p)
 
 #EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="US-local",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)
 https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
 
-#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="US-local",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)2
+# EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="US-local",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)2
 https://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 
-#EXTINF:-1 tvg-id="WSOCDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsoc.png" group-title="US-local",WSOC ABC 9 Charlotte NC [Neutral] (720p)
-https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8
+# EXTINF:-1 tvg-id="WSOCDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsoc.png" group-title="US-local",WSOC ABC 9 Charlotte NC [Neutral] (720p)
 
-#EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="US-local",WFMY CBS 2 Greensboro NC [Neutral] (1080p)
-https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/index_1.m3u8
+# EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="US-local",WFMY CBS 2 Greensboro NC [Neutral] (1080p)
 
-#EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxii.png" group-title="US-local",WXII NBC 12 Winston-Salem NC [Neutral] (720p)
-https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
+# EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxii.png" group-title="US-local",WXII NBC 12 Winston-Salem NC [Neutral] (720p)
 
 # EXTINF:-1 tvg-id="WYFFDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wyff.png" group-title="US-local",WYFF NBC 4 Greenville SC [Neutral] (720p)
 

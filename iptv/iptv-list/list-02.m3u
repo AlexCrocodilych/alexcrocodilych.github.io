@@ -2,31 +2,31 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 01
-http://88.212.15.19/live/test_eurosport/playlist.m3u8
+http://88.212.15.19/live/test_eurosport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 02
-http://88.212.15.19/live/test_eurosport1/playlist.m3u8
+http://88.212.15.19/live/test_eurosport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 03
-http://88.212.15.19/live/test_evrosport/playlist.m3u8
+http://88.212.15.19/live/test_evrosport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 04
-http://88.212.15.19/live/test_evrosport1/playlist.m3u8
+http://88.212.15.19/live/test_evrosport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 05
-http://88.212.15.19/live/eurosport/playlist.m3u8
+http://88.212.15.19/live/eurosport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 06
-http://88.212.15.19/live/eurosport1/playlist.m3u8
+http://88.212.15.19/live/eurosport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 07
-http://88.212.15.19/live/test_eurosport-1/playlist.m3u8
+http://88.212.15.19/live/test_eurosport-1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 08
-http://88.212.15.19/live/eurosport-1/playlist.m3u8
+http://88.212.15.19/live/eurosport-1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Evro 09
 http://185.132.134.159:80/euro-sport-1/index.m3u8

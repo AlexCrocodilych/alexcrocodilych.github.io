@@ -432,8 +432,8 @@ https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="US-local",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
 https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
 
-#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="US-local",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)2
-https://media-hls.wral.com/livehttporigin/_definst_/mp4:encoder25-medium/master.m3u8
+#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="US-local",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)3
+https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5/e.m3u8
 
 #EXTINF:-1 tvg-id="WTVDDT1247News.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvd.png" group-title="US-local",WTVD ABC 11 Raleigh-Durham NC [Neutral] (720p)
 https://content-aeui1.uplynk.com/channel/a260e6e674f3429f874819f0f232eb08/f.m3u8?pbs=2c188923559248a6a968d283242c86ad

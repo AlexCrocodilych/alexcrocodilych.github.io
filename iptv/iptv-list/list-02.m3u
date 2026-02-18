@@ -6,7 +6,18 @@
 
 
 
-
+#EXTINF:0 tvg-rec="0",Окко Прайм Спорт
+#EXTGRP:HD
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20135/index.m3u
+#EXTINF:0 tvg-rec="0",Окко Спорт HD
+#EXTGRP:HD
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20138/index.m3u
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:HD
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/228/index.m3u
+#EXTINF:0 tvg-rec="7",Eurosport 2 HD
+#EXTGRP:HD
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/234/index.m3u
 
 
 

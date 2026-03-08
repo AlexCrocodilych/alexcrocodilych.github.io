@@ -2,6 +2,69 @@
 #PLAYLIST:My
 
 
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
+#EXTGRP:Спорт
+http://ott.server-iptv.live/200/video.m3u8?token=Afe63fb2d9
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
+#EXTGRP:Спорт
+http://ott.server-iptv.live/201/video.m3u8?token=Afe63fb2d9
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport 1 HD
+#EXTGRP:Спорт
+http://ott.server-iptv.live/0200/video.m3u8?token=Afe63fb2d9
+#EXTINF:0 group-title="Спорт"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2 HD
+#EXTGRP:Спорт
+http://ott.server-iptv.live/0201/video.m3u8?token=Afe63fb2d9
+
+#EXTINF:-1 tvg-rec="0" group-title="Спорт",Eurosport 4K
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/31475/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Спорт",Eurosport 1 HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/228/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Спорт",Eurosport 2 HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/234/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="3" group-title="Спорт",Eurosport 1 FHD orig
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/9026/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="3" group-title="Спорт",Eurosport 1 HD orig
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/5075/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Спорт",Eurosport 1
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/141/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Спорт",Eurosport 2 HD orig
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/5076/index.m3u8
+
+#EXTINF:-1 tvg-rec="3" group-title="Спорт",Eurosport 1 orig
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/9247/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Euro Sport 1 HD
+http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Euro Sport 2 HD
+http://169.150.223.25/Eurosport2HD/index.m3u8
+
+
+
+#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-logo="../Channel/Logo/Eurosport 4K.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Eurosport
+http://87.246.54.249:8080/Eurosport/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Eurosport 1 HD
+http://87.76.32.36:8001/eurosport1hd
+#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Eurosport 2 HD
+http://rr3.tvdosug.net/~20197578c58a8027c24ee952ff568e8fad3/32273/hlsx/pl.m3u8
+#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Eurosport2
+http://87.246.54.249:8080/Eurosport2/index.m3u8
+
+
+#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",PL: EUROSPORT 1 HD
+http://4.team.ga:80/ch891/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8GQ_-tWUEe-jbPsumnYwIMRhd4_dFKttC2kMr3bEdf2
+#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",PL: EUROSPORT 2 HD
+http://4.team.ga:80/ch892/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6C7eF4zOsEgl9KMoUjsM9d1OJJCz94hcSgp88Tek6aE
+
+
+
+
+
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 01 (1080p)
 http://178.134.1.158:8081/eurosport/index.m3u8
 

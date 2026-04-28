@@ -5,17 +5,25 @@
 
 
 
-#EXTINF:-1 group-title="Спортивні" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/54.png" tvg-id="eurosport1",Eurosport 1 CEE
-http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=TXWnaBlEev
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
+http://169.150.223.25/Eurosport1HD/index.m3u8
 
-#EXTINF:-1 group-title="Спортивні" tvg-logo="https://img.tvoetv.io/stalker_portal/misc/logos/original/57.png" tvg-id="eurosport2",Eurosport 2 CEE
-http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=TXWnaBlEev
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
+http://169.150.223.25/Eurosport2HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%201%20HD.png" tvg-rec="1" catchup-type="flussonic" catchup_days="1" group-title="СПОРТ ⚽",Eurosport 1 HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529591&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%202%20HD.png" tvg-rec="1" catchup-type="flussonic" catchup_days="1" group-title="СПОРТ ⚽",Eurosport 2 HD
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529592&extension=ts
+#EXTINF:-1 group-title="SPORT 🏆",EuroSport 1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORT 🏆",EuroSport 2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+
+#EXTINF:-1 group-title="StarNet (VPN)" group-title="StarNet" ,Eurosport 1
+http://hls.stb.md/ESPHD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3MzMwMjYzOSwiZXhwIjoxNzczMzg5MDM5LCJpYXQiOjE3NzMzMDI2MzksImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.2Bf1RvaLtlwCbLZBciui8e1sY7fVx-YbhdytFQjP8zI
+
+#EXTINF:-1 group-title="StarNet (VPN)" group-title="StarNet" ,Eurosport 2 HD
+http://hls.stb.md/EUROSPORT2HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3MzMwMjYzOSwiZXhwIjoxNzczMzg5MDM5LCJpYXQiOjE3NzMzMDI2MzksImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.2Bf1RvaLtlwCbLZBciui8e1sY7fVx-YbhdytFQjP8zI
 
 
 

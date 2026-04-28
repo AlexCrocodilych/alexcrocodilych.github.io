@@ -5,25 +5,17 @@
 
 
 
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
-http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/14335.png" catchup-days="6" catchup-type="flussonic" group-title="Спорт +",Eurosport 1 HD (CEE)
+http://ru01.plinks-pile.su/14335/index.m3u8?token=xeeFBzRkRP6uSK
 
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
-http://169.150.223.25/Eurosport2HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/14334.png" catchup-days="6" catchup-type="flussonic" group-title="Спорт +",Eurosport 2 HD (CEE)
+http://ru01.plinks-pile.su/14334/index.m3u8?token=xeeFBzRkRP6uSK
 
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Спорт",Eurosport 1
+http://ott.watch/stream/M2OKG1JWDY/176.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",EuroSport 1 HD
-http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
-
-
-#EXTINF:-1 group-title="SPORT 🏆",EuroSport 2 HD
-http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
-
-#EXTINF:-1 group-title="StarNet (VPN)" group-title="StarNet" ,Eurosport 1
-http://hls.stb.md/ESPHD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3MzMwMjYzOSwiZXhwIjoxNzczMzg5MDM5LCJpYXQiOjE3NzMzMDI2MzksImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.2Bf1RvaLtlwCbLZBciui8e1sY7fVx-YbhdytFQjP8zI
-
-#EXTINF:-1 group-title="StarNet (VPN)" group-title="StarNet" ,Eurosport 2 HD
-http://hls.stb.md/EUROSPORT2HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3MzMwMjYzOSwiZXhwIjoxNzczMzg5MDM5LCJpYXQiOjE3NzMzMDI2MzksImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.2Bf1RvaLtlwCbLZBciui8e1sY7fVx-YbhdytFQjP8zI
+#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Спорт",Eurosport 2
+http://ott.watch/stream/M2OKG1JWDY/192.m3u8
 
 
 

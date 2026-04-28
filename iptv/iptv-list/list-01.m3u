@@ -36,7 +36,8 @@ http://ost.mymagic.tv/oZF9sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0d
 
 # EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - EN-01 (1080p)
 
-# EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - PL-01 (1080p)
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - PL-01 (1080p)
+http://169.150.223.25/Eurosport1HD/index.m3u8
 
 # EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - DE-01 (1080p)
 
@@ -76,8 +77,8 @@ http://ost.mymagic.tv/sby92aWRlby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6L
 
 # EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - EN-01 (1080p)
 
-# EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - PL-01 (1080p)
-
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - PL-01 (1080p)
+http://169.150.223.25/Eurosport2HD/index.m3u8
 
 
 --- 📺 Матч | RUSSIA

@@ -5,17 +5,49 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/14335.png" catchup-days="6" catchup-type="flussonic" group-title="Спорт +",Eurosport 1 HD (CEE)
-http://ru01.plinks-pile.su/14335/index.m3u8?token=xeeFBzRkRP6uSK
+#EXTINF:-1 group-title="All",EUROSPORT 1 ʜᴅ
+http://boxviptv.net:25461/Android0375/nfXZx6x4gO/211
 
-#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/14334.png" catchup-days="6" catchup-type="flussonic" group-title="Спорт +",Eurosport 2 HD (CEE)
-http://ru01.plinks-pile.su/14334/index.m3u8?token=xeeFBzRkRP6uSK
+#EXTINF:-1 group-title="All",EUROSPORT 2 ʜᴅ
+http://boxviptv.net:25461/Android0375/nfXZx6x4gO/216
 
-#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Спорт",Eurosport 1
-http://ott.watch/stream/M2OKG1JWDY/176.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1
+#EXTGRP:спорт
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/141/index.m3u8
 
-#EXTINF:-1 tvg-rec="7" timeshift="7" group-title="Спорт",Eurosport 2
-http://ott.watch/stream/M2OKG1JWDY/192.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
+#EXTGRP:HD Orig
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/5075/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD orig
+#EXTGRP:HD Orig
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/5076/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Eurosport 1 HD
+https://stream11.itv.uz/1439/index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Eurosport 2 HD
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="РАЗНОЕ",Eurosport 1 HD
+https://stream11.itv.uz/1439/index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="РАЗНОЕ",Eurosport 2 HD
+http://5.188.159.128:8070/eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="РАЗНОЕ",Eurosport 2 HD
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1" tvg-logo="" group-title="СПОРТ",Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="СПОРТ",Eurosport 1 HD
+http://tmptv.sunduk.tv/CH29/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="СПОРТ",Eurosport 2 HD
+http://tmptv.sunduk.tv/CH75/index.m3u8
 
 
 

@@ -7,13 +7,26 @@
 
 
 
-#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
-#EXTGRP:HD Orig
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/5075/index.m3u8
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 1 HD
+http://hls.stb.md/ESPHD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzM1OTIxNiwiZXhwIjoxNzc3NDQ1NjE2LCJpYXQiOjE3NzczNTkyMTYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.5kHxmv2b4YFOHeqI9lrETdcRomoKcWLGj07uaFEaXwI
 
-#EXTINF:0 tvg-rec="3",Eurosport 2 HD orig
-#EXTGRP:HD Orig
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/5076/index.m3u8
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 2 HD
+http://hls.stb.md/EUROSPORT2HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzM1OTIxNiwiZXhwIjoxNzc3NDQ1NjE2LCJpYXQiOjE3NzczNTkyMTYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.5kHxmv2b4YFOHeqI9lrETdcRomoKcWLGj07uaFEaXwI
+
+#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 1 HD
+http://85.117.37.41/eurosport1/index.m3u8
+
+#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 2 HD
+http://85.117.37.41/eurosport2/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Eurosport 1
+http://46.32.176.50/eurosport/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Eurosport 2
+http://46.32.176.50/eurosport2/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
+http://77.245.98.18:8000/play/a00h
 
 
 

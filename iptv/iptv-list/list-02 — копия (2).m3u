@@ -1,0 +1,585 @@
+#EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://iptvx.one/EPG"
+#PLAYLIST:My-02
+#EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
+
+
+
+
+
+
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 1 HD
+http://hls.stb.md/ESPHD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzM1OTIxNiwiZXhwIjoxNzc3NDQ1NjE2LCJpYXQiOjE3NzczNTkyMTYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.5kHxmv2b4YFOHeqI9lrETdcRomoKcWLGj07uaFEaXwI
+
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 2 HD
+http://hls.stb.md/EUROSPORT2HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzM1OTIxNiwiZXhwIjoxNzc3NDQ1NjE2LCJpYXQiOjE3NzczNTkyMTYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.5kHxmv2b4YFOHeqI9lrETdcRomoKcWLGj07uaFEaXwI
+
+#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 1 HD
+http://85.117.37.41/eurosport1/index.m3u8
+
+#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 2 HD
+http://85.117.37.41/eurosport2/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Eurosport 1
+http://46.32.176.50/eurosport/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Eurosport 2
+http://46.32.176.50/eurosport2/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
+http://77.245.98.18:8000/play/a00h
+
+
+
+
+
+--- 📺 Sports | RUSSIA
+
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",Матч Премьер (1080p)
+http://87.246.54.249:8080/ArenaSport4/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-1.png" group-title="Sports",Матч! Футбол 1 (1080p)
+http://87.246.54.249:8080/ArenaSport1/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-2.png" group-title="Sports",Матч! Футбол 2 (1080p)
+http://87.246.54.249:8080/ArenaSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-3.png" group-title="Sports",Матч! Футбол 3 (1080p)
+http://87.246.54.249:8080/ArenaSport3/index.m3u8
+
+# EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-na-pervom.png" group-title="Sports",Спорт на Первом (1080p)
+https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
+
+# EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Спорт (1080p)
+
+#EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Прайм (1080p)
+http://185.221.213.254:8080/Okko/index.m3u8
+
+#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus-5.png" group-title="Sports",Беларусь 5 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus-5-internet.png" group-title="Sports",Беларусь 5 Интернет (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
+
+# EXTINF:-1 tvg-id="football-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/futbol.png" group-title="Sports",Футбол (1080p)
+
+# EXTINF:-1 tvg-id="khl-prime" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/khl-prime.png" group-title="Sports",KHL Prime (720p)
+http://194.143.148.28:8080/KHL_HD/mpegts
+
+
+--- 📺 Sports | Setanta
+
+# EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 01 (1080p)
+
+# EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 02 (1080p)
+
+# EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan (1080p)
+
+# EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan + (1080p)
+
+# EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Sports",Setanta Sports Ukraine (1080p)
+
+# EXTINF:-1 tvg-id="setanta-plus-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Sports",Setanta Sports Ukraine + (1080p)
+
+# EXTINF:-1 tvg-id="setanta1-by" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Sports",Setanta Sports Belarus + (1080p)
+
+#EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 1 Georgia (1080p)
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 2 Georgia (1080p)
+http://94.43.1.138:8081/setanta2/index.m3u8
+
+#EXTINF:-1 tvg-id="setanta3-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-3.png" group-title="Sports",Setanta Sports 3 Georgia (1080p)
+http://94.43.1.138:8081/setanta3/index.m3u8
+
+
+--- 📺 Sports | Sport ISRAEL
+
+#EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Sport 1 IS (1080p)
+http://185.132.134.159:80/sport1/index.m3u8
+
+#EXTINF:-1 tvg-id="sport2-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-israel.png" group-title="Sports",Sport 2 IS (1080p)
+http://185.132.134.159:80/sport2/index.m3u8
+
+#EXTINF:-1 tvg-id="sport3-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-3-israel.png" group-title="Sports",Sport 3 IS (1080p)
+http://185.132.134.159:80/sport3/index.m3u8
+
+#EXTINF:-1 tvg-id="sport4-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-4-israel.png" group-title="Sports",Sport 4 IS (1080p)
+http://185.132.134.159:80/sport4/index.m3u8
+
+#EXTINF:-1 tvg-id="sport5-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 IS (1080p)
+http://185.132.134.159:80/sport5/index.m3u8
+
+#EXTINF:-1 tvg-id="sport6-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-6-israel.png" group-title="Sports",Sport 6 IS (1080p)
+http://185.132.134.159:80/sport6/index.m3u8
+
+
+--- 📺 Sports | Megogo UKRAINE
+
+# EXTINF:-1 tvg-id="megogo-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-sport.png" group-title="Sports",Megogo Спорт (1080p)
+
+# EXTINF:-1 tvg-id="megogo-football-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol-1.png" group-title="Sports",Megogo Футбол 1 (1080p)
+
+# EXTINF:-1 tvg-id="megogo-football-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol-2.png" group-title="Sports",Megogo Футбол 2 (1080p)
+
+# EXTINF:-1 tvg-id="megogo-football-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/megogo-futbol-3.png" group-title="Sports",Megogo Футбол 3 (1080p)
+
+
+--- 📺 Sports | POLAND
+
+# EXTINF:-1 tvg-id="tvp-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tvp-sport.png" group-title="Sports",TVP Sport PL (1080p)
+
+# EXTINF:-1 tvg-id="eleven-sports-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-1.png" group-title="Sports",Eleven Sports 1 PL (1080p)
+
+# EXTINF:-1 tvg-id="eleven-sports-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-2.png" group-title="Sports",Eleven Sports 2 PL (1080p)
+
+# EXTINF:-1 tvg-id="eleven-sports-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-3.png" group-title="Sports",Eleven Sports 3 PL (1080p)
+
+# EXTINF:-1 tvg-id="eleven-sports-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eleven-sports-4.png" group-title="Sports",Eleven Sports 4 PL (1080p)
+
+
+--- 📺 Sports | Canal+ POLAND
+
+# EXTINF:-1 tvg-id="canal-pl-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-1.png" group-title="Sports",Canal+ Sport 1 PL (720p)
+
+# EXTINF:-1 tvg-id="canal-pl-sport-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-2.png" group-title="Sports",Canal+ Sport 2 PL (720p)
+
+# EXTINF:-1 tvg-id="canal-pl-sport-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-3.png" group-title="Sports",Canal+ Sport 3 PL (720p)
+
+# EXTINF:-1 tvg-id="canal-pl-sport-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-4.png" group-title="Sports",Canal+ Sport 4 PL (720p)
+
+# EXTINF:-1 tvg-id="canal-pl-sport-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/canal-pl-sport-5.png" group-title="Sports",Canal+ Sport 5 PL (720p)
+
+
+--- 📺 Sports | Polsat POLAND
+
+# EXTINF:-1 tvg-id="polsat-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport-1.png" group-title="Sports",Polsat Sport 1 (1080p)
+
+# EXTINF:-1 tvg-id="polsat-sport-extra" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport-2.png" group-title="Sports",Polsat Sport 2 (1080p)
+
+# EXTINF:-1 tvg-id="polsat-sport-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport-3.png" group-title="Sports",Polsat Sport 3 (1080p)
+
+# EXTINF:-1 tvg-id="polsat-sport-fight" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/polsat-sport-fight.png" group-title="Sports",Polsat Sport Fight (1080p)
+
+
+--- 📺 Sports | Czech
+
+#EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ctsport-cz.png" group-title="Sports",CT SPORT CZ (1080p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport-1-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-cz.png" group-title="Sports",SPORT 1 CZ (1080p)
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sport-2-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-cz.png" group-title="Sports",SPORT 2 CZ (1080p)
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+
+--- 📺 Sports | TNT Sports UNITED KINGDOM
+
+# EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (2160p)
+https://7pal.short.gy/TNTUltimate
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 1 UK (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591244
+
+# EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)02
+https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 2 UK (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591243
+
+# EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Sports",TNT Sports 2 UK (1080p)02
+https://7pal.short.gy/tntspts2
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 3 UK (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591242
+
+# EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 3 UK (1080p)02
+https://7pal.short.gy/tntspts3
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 4 UK (1080p)
+http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591241
+
+# EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)02
+https://7pal.short.gy/tntspts4
+
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)
+https://7pal.short.gy/tntspts5
+
+
+--- 📺 Sports | Sky Sports UNITED KINGDOM
+
+#EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (2160p)
+https://7pal.short.gy/SSMEuhd
+
+#EXTINF:-1 tvg-id="sky-sports-maine" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-main-event.png" group-title="Sports",Sky Sports Main Event (1080p)
+https://7pal.short.gy/skspmaine
+
+#EXTINF:-1 tvg-id="sky-sports-football" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-football.png" group-title="Sports",Sky Sports Football (1080p)
+https://7pal.short.gy/ssportsfb
+
+#EXTINF:-1 tvg-id="sky-sports-tennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-tennis.png" group-title="Sports",Sky Sports Tennis (1080p)
+https://7pal.short.gy/ssportstn
+
+#EXTINF:-1 tvg-id="sky-sports-arena" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-plus.png" group-title="Sports",Sky Sports + (1080p)
+https://7pal.short.gy/ssportplus
+
+#EXTINF:-1 tvg-id="sky-sports-action" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-action.png" group-title="Sports",Sky Sports Action (1080p)
+https://7pal.short.gy/ssportsat
+
+#EXTINF:-1 tvg-id="sky-sports-f1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-f1.png" group-title="Sports",Sky Sports F1 (2160p)
+https://7pal.short.gy/SSF1uhd
+
+# EXTINF:-1 tvg-id="sky-sports-mix" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-mix.png" group-title="Sports",Sky Sports Mix (720p)
+
+
+--- 📺 Sports | Sky Sport NEW ZEALAND
+
+#EXTINF:-1 tvg-id="sky-sport-hd1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-1.png" group-title="Sports",Sky Sport 1 NZ (1080p)
+https://7pal.short.gy/skyspt1nz
+
+#EXTINF:-1 tvg-id="sky-sport-hd2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-2.png" group-title="Sports",Sky Sport 2 NZ (1080p)
+https://7pal.short.gy/skyspt2nz
+
+#EXTINF:-1 tvg-id="sky-sport-hd3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-3.png" group-title="Sports",Sky Sport 3 NZ (1080p)
+https://7pal.short.gy/skyspt3nz
+
+#EXTINF:-1 tvg-id="sky-sport-hd4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-4.png" group-title="Sports",Sky Sport 4 NZ (1080p)
+https://7pal.short.gy/skyspt4nz
+
+#EXTINF:-1 tvg-id="sky-sport-hd5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-5.png" group-title="Sports",Sky Sport 5 NZ (1080p)
+https://7pal.short.gy/skyspt5nz
+
+#EXTINF:-1 tvg-id="sky-sport-hd6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-6.png" group-title="Sports",Sky Sport 6 NZ (1080p)
+https://7pal.short.gy/skyspt6nz
+
+#EXTINF:-1 tvg-id="sky-sport-hd7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-7.png" group-title="Sports",Sky Sport 7 NZ (1080p)
+https://7pal.short.gy/skyspt7nz
+
+#EXTINF:-1 tvg-id="sky-sport-hd8" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sport-pl.png" group-title="Sports", Sky Sport Premier League (1080p)
+https://7pal.short.gy/skyspt8nz
+
+
+--- 📺 Sports | TSN CANADA
+
+#EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Sports",TSN 1 CA (720p)
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
+
+#EXTINF:-1 tvg-id="tsn2-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-2.png" group-title="Sports",TSN 2 CA (1080p)
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15928.ts
+
+#EXTINF:-1 tvg-id="tsn3-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-3.png" group-title="Sports",TSN 3 CA (1080p)
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15927.ts
+
+#EXTINF:-1 tvg-id="tsn4-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-4.png" group-title="Sports",TSN 4 CA (1080p)
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15926.ts
+
+#EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-5.png" group-title="Sports",TSN 5 CA (1080p)
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
+
+
+--- 📺 Sports | Premier Liga SINGAPORE
+
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-1-sg.png" group-title="Sports",Hub Premier 1 SG (1080p)
+https://7pal.short.gy/HPremier1
+
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-2-sg.png" group-title="Sports",Hub Premier 2 SG (1080p)
+https://7pal.short.gy/HPremier2
+
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-3-sg.png" group-title="Sports",Hub Premier 3 SG (1080p)
+https://7pal.short.gy/HPremier3
+
+
+--- 📺 Sports | Premier Sports MONGOLIA
+
+#EXTINF:-1 tvg-id="premier-sports-1-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 1 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+
+#EXTINF:-1 tvg-id="premier-sports-2-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-mn.png" group-title="Sports",Premier Sports 2 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+
+#EXTINF:-1 tvg-id="premier-sports-4-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-4-mn.png" group-title="Sports",Premier Sports 4 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+
+#EXTINF:-1 tvg-id="premier-sports-5-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-5-mn.png" group-title="Sports",Premier Sports 5 MN (1080p)
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
+
+--- 📺 Sports | Fox Sports USA
+
+#EXTINF:-1 tvg-id="fox-sports1-ar" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Sports",Fox Sports 1 US (720p)
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
+
+#EXTINF:-1 tvg-id="fox-sports2-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-2.png" group-title="Sports",Fox Sports 2 US (720p)
+
+
+--- 📺 Sports | Premier Sports IRELAND
+
+#EXTINF:-1 tvg-id="premier-sports-1-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-ie.png" group-title="Sports",Premier Sports 1 IE (1080p)
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1 tvg-id="premier-sports-2-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-ie.png" group-title="Sports",Premier Sports 2 IE (1080p)
+https://7pal.short.gy/prsport2
+
+
+--- 📺 Sports | Dazn DEUTCHLAND
+
+# EXTINF:-1 tvg-id="dazn1-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-1.png" group-title="Sports",Dazn 1 DE (1080p)
+
+# EXTINF:-1 tvg-id="dazn2-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-2.png" group-title="Sports",Dazn 2 DE (1080p)
+
+# EXTINF:-1 tvg-id="dazn3-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-3.png" group-title="Sports",Dazn 3 DE (1080p)
+
+# EXTINF:-1 tvg-id="dazn4-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-4.png" group-title="Sports",Dazn 4 DE (1080p)
+
+# EXTINF:-1 tvg-id="dazn5-de" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-5.png" group-title="Sports",Dazn 5 DE (1080p)
+
+
+--- 📺 Sports | Dazn SPAIN
+
+# EXTINF:-1 tvg-id="dazn1-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-1.png" group-title="Sports",Dazn 1 ES (1080p)
+
+# EXTINF:-1 tvg-id="dazn2-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-2.png" group-title="Sports",Dazn 2 ES (1080p)
+
+# EXTINF:-1 tvg-id="dazn3-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-3.png" group-title="Sports",Dazn 3 ES (1080p)
+
+# EXTINF:-1 tvg-id="dazn4-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-4.png" group-title="Sports",Dazn 4 ES (1080p)
+
+# EXTINF:-1 tvg-id="dazn5-es" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dazn-5.png" group-title="Sports",Dazn 5 ES (1080p)
+
+
+--- 📺 Sports | ESPN
+
+#EXTINF:-1 tvg-id="espn-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn.png" group-title="Sports",ESPN US (720p)
+https://7pal.short.gy/espnus
+
+#EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 US (720p)
+https://7pal.short.gy/espn2
+
+# EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN U US (720p)
+
+# EXTINF:-1 tvg-id="espn4-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-4.png" group-title="Sports",ESPN 4 US (720p)
+
+# EXTINF:-1 tvg-id="espn-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-news.png" group-title="Sports",ESPN News US (720p)
+
+# EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-deportes.png" group-title="Sports",ESPN DEPORTES US (1080p)
+
+# EXTINF:-1 tvg-id="espn-premium-co" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-premium.png" group-title="Sports",ESPN Premium CO (1080p)
+
+# EXTINF:-1 tvg-id="espn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-3.png" group-title="Sports",ESPN 2 MX (720p)
+
+# EXTINF:-1 tvg-id="espn2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 CO (1080p)
+
+# EXTINF:-1 tvg-id="espn3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-3.png" group-title="Sports",ESPN 3 CO (720p)
+
+# EXTINF:-1 tvg-id="espn4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-4.png" group-title="Sports",ESPN 4 CO (720p)
+
+# EXTINF:-1 tvg-id="espn6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-6.png" group-title="Sports",ESPN 6 CO (1080p)
+
+
+--- 📺 Sports | Bein Sport
+
+# EXTINF:-1 tvg-id="bein-sport-1-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-1.png" group-title="Sports",Bein Sport 1 FR (720p)
+
+# EXTINF:-1 tvg-id="bein-sport-2-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-2.png" group-title="Sports",Bein Sport 2 FR (720p)
+
+# EXTINF:-1 tvg-id="bein-sport-3-fr" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-3.png" group-title="Sports",Bein Sport 3 FR (720p)
+
+# EXTINF:-1 tvg-id="bein-sports-1-en" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Sports",Bein Sports UK (720p)
+
+# EXTINF:-1 tvg-id="bein-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Sports",Bein Sports QA (540p)
+
+# EXTINF:-1 tvg-id="bein-sports-xtra-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Sports",BeIN Sports XTRA US (1080p)
+
+# EXTINF:-1 tvg-id="bein-sports-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra-n.png" group-title="Sports",BeIN Sports XTRA Ñ ES (1080p)
+
+
+--- 📺 Sports | WORLD
+
+# EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Sports", NBA TV US (1080p)
+
+#EXTINF:-1 tvg-id="usa-network" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/usa-network.png" group-title="Sports",USA NetWork US (1080p)
+https://7pal.short.gy/usanetwork
+
+#EXTINF:-1 tvg-id="ziggo-sport1-nl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ziggo-sport.png" group-title="Sports",Ziggo Sport NL (1080p)
+https://7pal.short.gy/zigosfhd
+
+#EXTINF:-1 tvg-id="fast-sport-1-am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",Fast Sports AM (1080p)
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//video_1920x1080_avc1/playlist.m3u8
+
+# EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Sports",Ring BG (1080p)
+
+# EXTINF:-1 tvg-id="scooore" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/scooore.png" group-title="Sports",Scooore DE (1080p)
+
+# EXTINF:-1 tvg-id="astro-sports-plus" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/astro-football.png" group-title="Sports",Astro Football MY (1080p)
+
+# EXTINF:-1 tvg-id="fifa+" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fifa+.png" group-title="Sports",FIFA+ (720p)
+
+
+--- 📺 Sports | Tennis
+
+# EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Tennis",Super Tennis IT (1080p)
+
+# EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Tennis",Super Tennis US (1080p)
+
+# EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Tennis",Super Tennis (1080p)
+
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Tennis",Tennis Channel US(1080p)
+https://7pal.short.gy/tennisc
+
+# EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Tennis",T2 Tennis (1080p)
+
+
+--- 📺 Sports | USA
+
+# EXTINF:-1 tvg-id="cbs-sports-network" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-sports-network.png" group-title="Sports",CBS Sports Network US (720p)
+
+# EXTINF:-1 tvg-id="nbc-sports-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-sports.png" group-title="Sports",NBC Sports US (1080p)
+
+# EXTINF:-1 tvg-id="nhl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nhl-tv.png" group-title="Sports-US" ,NHL TV (1080p)
+
+# EXTINF:-1 tvg-id="nba" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Sports-US",NBA TV (720p)
+
+# EXTINF:-1 tvg-id="nfl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-tv.png" group-title="Sports-US",NFL TV (720p)
+
+# EXTINF:-1 tvg-id="nfl-network" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nfl-network.png" group-title="Sports-US",NFL Network (720p)
+https://7pal.short.gy/nflnw
+
+# EXTINF:-1 tvg-id="mlb-network" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mlb-network.png" group-title="Sports-US",MLB (720p)
+
+# EXTINF:-1 tvg-id="ufc-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ufc.png" group-title="Sports-US",UFC (1080p)
+
+
+--- 📺 News Regional | US
+
+#EXTINF:-1 tvg-id="wral" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wral.png" group-title="US-local",WRAL-TV NBC 5 Raleigh NC [Neutral] (720p)
+https://content-aeui1.uplynk.com/channel/4f69a64fd31e4e80bf62e31d1d57f9e5.m3u8
+
+# EXTINF:-1 tvg-id="WTVDDT1247News.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvd.png" group-title="US-local",WTVD ABC 11 Raleigh-Durham NC [Neutral] (720p)
+
+#EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="US-local",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)
+https://livevideo01.wcnc.com/hls/live/2015505/newscasts/index_1.m3u8
+
+# EXTINF:-1 tvg-id="wcnc" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcnc-tv.png" group-title="US-local",WCNC-TV NBC 36 Charlotte NC [Neutral] (1080p)2
+https://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+
+# EXTINF:-1 tvg-id="WSOCDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsoc.png" group-title="US-local",WSOC ABC 9 Charlotte NC [Neutral] (720p)
+
+# EXTINF:-1 tvg-id="wfmy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wfmy.png" group-title="US-local",WFMY CBS 2 Greensboro NC [Neutral] (1080p)
+
+# EXTINF:-1 tvg-id="WXIIDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxii.png" group-title="US-local",WXII NBC 12 Winston-Salem NC [Neutral] (720p)
+
+# EXTINF:-1 tvg-id="WYFFDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wyff.png" group-title="US-local",WYFF NBC 4 Greenville SC [Neutral] (720p)
+
+# EXTINF:-1 tvg-id="NBCNewsLive.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wrc.png" group-title="US-local",WRC-TV NBC 4 Washington DC [Neutral] (1080p)
+
+# EXTINF:-1 tvg-id="WUSADT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wusa.png" group-title="US-local",WUSA CBS 9 Washington DC [Neutral] (720p)
+
+# EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wtvr.png" group-title="US-local",WTVR CBS 6 Richmond VA [Neutral] (720p)
+
+# EXTINF:-1 tvg-id="WTVRDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wsb.png" group-title="US-local",WSB-TV ABC 2 Atlanta GA [Neutral] (1080p)
+
+# EXTINF:-1 tvg-id="WAGADT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/waga.png" group-title="US-local",WAGA FOX 5 Atlanta GA [Republican] (720p)
+
+# EXTINF:-1 tvg-id="WXIADT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wxia.png" group-title="US-local",WXIA NBC 11 Atlanta GA [Neutral] (1080p)
+
+# EXTINF:-1 tvg-id="WCAUDT1.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/wcau.png" group-title="US-local",WCAU NBC 10 Philadelphia PA [Neutral] (1080p)
+
+#EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/kyw-tv.png" group-title="US-local",KYW-TV CBS 3 Philadelphia PA [Neutral] (720p)
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+
+
+--- 📺 News | US
+
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cnn.png" group-title="US-news",CNN [Democratic] (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-news.png" group-title="US-news",Fox News [Republican] (720p)
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+# EXTINF:-1 tvg-id="fox-live-now" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-live-now.png" group-title="US-news",FOX LiveNow [Republican] (720p)
+
+
+# EXTINF:-1 tvg-id="nbc-news-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-news.png" group-title="US-news",NBC News Now [Neutral] (1080p)
+
+
+# EXTINF:-1 tvg-id="abc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news-live.png" group-title="US-news",ABC News Live [Neutral] (720p)
+
+# EXTINF:-1 tvg-id="abc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/abc-news-live.png" group-title="US-news",ABC News [Neutral] (720p)
+
+#EXTINF:-1 tvg-id="cbc-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/cbs-news.png" group-title="US-news",CBS News [Neutral] (720p)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
+
+# EXTINF:-1 tvg-id="msnbc-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/msnbc.png" group-title="US-news",MSNBC News [Democratic] (720p)
+
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bloomberg+.png" group-title="US-news",Bloomberg TV+ (1080p)
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+
+--- 📺 Public | World
+
+# EXTINF:-1 tvg-id="mtv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv.png" group-title="Public" tvg-name="MTV",MTV US (720p)
+
+# EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mtv-2.png" group-title="Public" tvg-name="MTV2",MTV2 US (720p)
+
+# EXTINF:-1 tvg-id="bbc-america-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-america.png" group-title="Public",BBC America (720p)
+
+# EXTINF:-1 tvg-id="bbc-earth-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bbc-earth.png" group-title="Public",BBC Earth (1080p)
+
+#EXTINF:-1 tvg-id="nat-geo" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo.png" group-title="Public",National Geographic (1080p)
+http://188.237.47.212:6005
+
+# EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nat-geo-wild.png" group-title="Public",Nat Geo Wild (1080p)
+
+# EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/love-nature.png" group-title="Public",Love Nature (2160p)
+
+
+--- 📺 News | RUSSIA
+
+# EXTINF:-1 tvg-id="dozhd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dozhd.png" group-title="RU-news",Дождь (1080p)
+
+
+#EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/dw-russian.png" group-title="RU-news",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nastoyaschee-vremia.png" group-title="RU-news",Настоящее время (1080p)
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
+
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/rbk.png" group-title="RU-news",РБК (1080p)
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/rossia-24.png" group-title="RU-news",Россия 24 (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/rossia-24.png" group-title="RU-news",ГТРК Кузбасс (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
+
+--- 📺 Relax | RUSSIA
+
+#EXTINF:-1 tvg-id="fireplace" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fireplace.png" group-title="Relax",TV Камин (1080p)
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+
+
+--- 📺 Kids | RUSSIA
+
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/mult.png" group-title="Мульт",Мульт (1080p)
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+
+#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/multimuzyka.png" group-title="Мульт",Мультимузыка (576p)
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ani" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ani.png" group-title="Мульт",Ани (1080p)
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ryzhy.png" group-title="Мульт",Рыжий (1080p)
+http://31.148.48.15/Rizhiy/index.m3u8
+
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/karusel.png" group-title="Мульт",Карусель (576p)
+https://streaming.goodstream.cyou/live/232.m3u8
+
+--- 📺 Films | RUSSIA
+
+# EXTINF:-1  type="video" group-title="Кино" tvg-logo="http://hom.orgip.net/logo/Im_Westen_nichts_Neues.jpg", Анора (2024)

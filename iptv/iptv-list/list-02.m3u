@@ -5,6 +5,15 @@
 
 
 
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч ТВ
+http://46.32.176.50/matchtv/index.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆", Матч HD
+http://46.32.176.50/MatchTVHD/index.m3u8
+
+EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
+http://185.46.16.239:8000/Match_TV
+
 
 
 #EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 1 HD

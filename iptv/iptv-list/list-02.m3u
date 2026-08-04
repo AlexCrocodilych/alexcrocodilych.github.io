@@ -8,23 +8,23 @@
 
 
 
-#EXTINF:-1  group-title="TEST* 📺"  tvg-id="eurosport1"   tvg-rec="7" timeshift="7",Eurosport 1
-http://stream.mcquack.net/176/index.m3u8
-#EXTINF:-1  group-title="TEST* 📺"  tvg-id="eurosport2"   tvg-rec="7" timeshift="7",Eurosport 2
-http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
 
-#EXTINF:-1  group-title="Onair8k2* 👀"  tvg-id="eurosport1" ,Eurosport 1
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132477&extension=ts
-#EXTINF:-1  group-title="Onair8k2* 👀"  tvg-id="eurosport2" ,Eurosport 2 SD
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132478&extension=ts
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="Sports",Match! Strana (720p)
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Sports",Match! Ultra (720p)
+http://stream.mcquack.net/169/index.m3u8
 
-#EXTINF:-1  group-title="Onair8k2* 👀"  tvg-id="eurosport1" ,Eurosport 1 HD
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132481&extension=ts
 
-#EXTINF:-1  group-title="line.tivi-one*"  tvg-id="eurosport1"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EUROSPORT 1.png" ,EUROSPORT 1 HD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031933&extension=ts&play_token=bEI2KpG7Ws
-#EXTINF:-1  group-title="line.tivi-one*"  tvg-id="eurosport2"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EUROSPORT 2.png" ,EUROSPORT 2 HD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031934&extension=ts&play_token=3sswe5QZNJ
+#EXTINF:-1 tvg-id="OkkoSport.ru@SD" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="Sports",Okko Sport (1080p)
+http://stream.mcquack.net/492/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MatchArena.ru@SD" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="Sports",МАТЧ! Арена (720p)
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru@SD" tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="Sports",МАТЧ! Игра (720p)
+http://31.148.48.15/Match_Igra_HD/index.m3u8
 
 
 

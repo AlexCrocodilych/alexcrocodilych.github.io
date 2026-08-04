@@ -8,9 +8,15 @@
 
 
 
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 1 HD
+http://hls.stb.md/ESPHD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc4NTgyNjIzMCwiZXhwIjoxNzg1OTEyNjMwLCJpYXQiOjE3ODU4MjYyMzAsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.wCXZBce287PRQ8R9J_4wdBRfihei-vjLWCb9aYTpEik
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 2 HD
+http://hls.stb.md/EUROSPORT2HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc4NTgyNjIzMCwiZXhwIjoxNzg1OTEyNjMwLCJpYXQiOjE3ODU4MjYyMzAsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.wCXZBce287PRQ8R9J_4wdBRfihei-vjLWCb9aYTpEik
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://185.46.16.239:8000/Match_TV
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1
+http://smotrim.org/000002478.m3u8
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2
+http://smotrim.org/000002479.m3u8
 
 
 

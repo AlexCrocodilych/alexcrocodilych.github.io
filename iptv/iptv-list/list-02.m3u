@@ -8,20 +8,23 @@
 
 
 
-#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 1 HD
-http://hls.stb.md/ESPHD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc4ODQxODAxNCwiZXhwIjoxNzg4NTA0NDE0LCJpYXQiOjE3ODg0MTgwMTQsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.95cbe33RGwfZZc6fGjXAuTJ-WPNSR9FVhJ7BQIIwcSU
-#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Eurosport 2 HD
-http://hls.stb.md/EUROSPORT2HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc4ODQxODAxNCwiZXhwIjoxNzg4NTA0NDE0LCJpYXQiOjE3ODg0MTgwMTQsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.95cbe33RGwfZZc6fGjXAuTJ-WPNSR9FVhJ7BQIIwcSU
+#EXTINF:-1  group-title="TEST* 📺"  tvg-id="eurosport1"   tvg-rec="7" timeshift="7",Eurosport 1
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1  group-title="TEST* 📺"  tvg-id="eurosport2"   tvg-rec="7" timeshift="7",Eurosport 2
+http://stream.mcquack.net/192/index.m3u8
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
-http://195.64.140.147:10114/114
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
-http://195.64.140.147:10115/115
+#EXTINF:-1  group-title="Onair8k2* 👀"  tvg-id="eurosport1" ,Eurosport 1
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132477&extension=ts
+#EXTINF:-1  group-title="Onair8k2* 👀"  tvg-id="eurosport2" ,Eurosport 2 SD
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132478&extension=ts
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
-https://stream3.cinerama.uz/1439/mono.m3u8
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
-https://stream3.cinerama.uz/1452/mono.m3u8
+#EXTINF:-1  group-title="Onair8k2* 👀"  tvg-id="eurosport1" ,Eurosport 1 HD
+https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132481&extension=ts
+
+#EXTINF:-1  group-title="line.tivi-one*"  tvg-id="eurosport1"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EUROSPORT 1.png" ,EUROSPORT 1 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031933&extension=ts&play_token=bEI2KpG7Ws
+#EXTINF:-1  group-title="line.tivi-one*"  tvg-id="eurosport2"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EUROSPORT 2.png" ,EUROSPORT 2 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031934&extension=ts&play_token=3sswe5QZNJ
 
 
 

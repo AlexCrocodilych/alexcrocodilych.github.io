@@ -8,25 +8,18 @@
 
 
 
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",Eurosport 1
-http://86.87.15.10:8005/play/a00e/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
-http://178.134.1.158:8081/eurosport/index.m3u8?token=tva.in.ua
-
-#EXTINF:-1 group-title="SPORT 🏆",EUROSPORT 1
-https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD 🇫🇷
-http://99.27.51.147:8080/EuroSport/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆", EUROSPORT1-ali3 cz
-#EXTVLCOPT:network-caching=1000
-http://45.129.141.180:9981/stream/channelid/718615486?profile=iptv.org.ua
-
-#EXTINF:1 group-title="Sport-Test",Eurosport 1
-http://znty.dyndns.org:5010/hls/eurosport.m3u8
-
+#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img2/2052.png" tvg-rec="7",Eurosport 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W8RT6FMR5C4EVX772FFU2CNC/228/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img2/2052.png" tvg-rec="3",Eurosport 1 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W8RT6FMR5C4EVX772FFU2CNC/5075/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img2/2052.png" tvg-rec="7",Eurosport 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W8RT6FMR5C4EVX772FFU2CNC/141/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img2/2052.png" tvg-rec="3",Eurosport 1 orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W8RT6FMR5C4EVX772FFU2CNC/9247/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.one/img2/4313.png" tvg-rec="7",Eurosport 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W8RT6FMR5C4EVX772FFU2CNC/234/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.one/img2/4313.png" tvg-rec="3",Eurosport 2 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W8RT6FMR5C4EVX772FFU2CNC/5076/index.m3u8
 
 
 

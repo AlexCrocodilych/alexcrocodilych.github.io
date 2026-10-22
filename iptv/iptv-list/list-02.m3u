@@ -7,32 +7,7 @@
 
 
 
-#EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Russia (1080p)
-http://stream.mcquack.net/176/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Russia (1080p)
-http://stream.mcquack.net/192/index.m3u8
 
-#EXTINF:-1 group-title="Селектел (VPN)",Eurosport 1
-http://5.188.159.128:8070/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Селектел (VPN)",Eurosport 2
-http://5.188.159.128:8070/eurosport2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",Eurosport 1
-http://86.87.15.10:8005/play/a00e/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD 🇫🇷
-http://99.27.51.147:8080/EuroSport/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆", EUROSPORT1-ali3 cz
-#EXTVLCOPT:network-caching=1000
-http://45.129.141.180:9981/stream/channelid/718615486?profile=iptv.org.ua
-
-#EXTINF:-1 group-title="SPORT 🏆", EUROSPORT2-ali3 cz
-#EXTVLCOPT:network-caching=1000
-http://45.129.141.180:9981/stream/channelid/737993602?profile=iptv.org.ua
-
-#EXTINF:1 group-title="Sport-Test",Eurosport 1
-http://znty.dyndns.org:5010/hls/eurosport.m3u8
 
 
 --- 📺 Sports | RUSSIA

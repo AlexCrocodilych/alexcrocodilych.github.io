@@ -8,26 +8,29 @@
 
 
 
-#EXTINF:-1  group-title="TEST* 📺"  tvg-id="eurosport1"   tvg-rec="7" timeshift="7",Eurosport 1
-http://stream.mcquack.net/176/index.m3u8
-#EXTINF:-1  group-title="TEST* 📺"  tvg-id="eurosport2"   tvg-rec="7" timeshift="7",Eurosport 2
-http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Eurosport 1 HD
+http://31.148.5.241/Eurosport_1_HD/index.m3u8
 
-#EXTINF:-1  group-title="Onair8k2* 👀"  tvg-id="eurosport1" ,Eurosport 1
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132477&extension=ts
-#EXTINF:-1  group-title="Onair8k2* 👀"  tvg-id="eurosport2" ,Eurosport 2 SD
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132478&extension=ts
+#EXTINF:-1 group-title="TEST ⓵",Eurosport 2 HD
+http://31.148.5.241/Eurosport_2_HD/index.m3u8
 
-#EXTINF:-1  group-title="Onair8k2* 👀"  tvg-id="eurosport1" ,Eurosport 1 HD
-https://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:00:13:94&stream=132481&extension=ts
+#EXTINF:-1 group-title="TEST (VPN)",Eurosport 1
+http://5.188.159.128:8070/eurosport1/index.m3u8
 
-#EXTINF:-1  group-title="line.tivi-one*"  tvg-id="eurosport1"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EUROSPORT 1.png" ,EUROSPORT 1 HD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031933&extension=ts&play_token=bEI2KpG7Ws
-#EXTINF:-1  group-title="line.tivi-one*"  tvg-id="eurosport2"  tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/EUROSPORT 2.png" ,EUROSPORT 2 HD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031934&extension=ts&play_token=3sswe5QZNJ
+#EXTINF:-1 group-title="TEST (VPN)",Eurosport 2
+http://5.188.159.128:8070/eurosport2/index.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",Окко Спорт 2
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Eurosport 1
+http://stream.mcquack.net/176/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ott Club+Реклама",Eurosport 2
+http://stream.mcquack.net/192/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
+http://195.64.140.147:10114/114
+
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
+http://195.64.140.147:10115/115
 
 
 

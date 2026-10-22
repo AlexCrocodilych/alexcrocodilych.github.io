@@ -5,23 +5,34 @@
 
 
 
-#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",Eurosport 4K
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpKxl4X_c1ZYd75lyyzKepkhXO6uD5NnwjnHgcxt_yM_8
-#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="7",Eurosport 1 HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82guEyDm2VmgOLGMiorhtG23ezvNitM1AzGVNN3gv2Uw8
-#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="7",Eurosport 2 HD
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82w9aF9wjMGS96LejDn9cQo77G9qyKTeW4-f6wF5JS4LE
-#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="3",Eurosport 1 FHD orig
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-EeeZuSIwEhDAlo0Tul56V0VARw8D-iKD-adFoV0CCHLi-_gMy6O4A8LKTxQGq9oE
-#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="3",Eurosport 1 HD orig
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9utocN8ZjQXaWIi0jPC781tb4i7PinUFa7FtJng1-pPo6KX6WT_aPy833W4_G9JFk
-#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="7",Eurosport 1
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOvzseovVLZpVKzQO-ODaHtxpfmSNY_yBPkYCtohJM8L8
-#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="3",Eurosport 2 HD orig
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9utocN8ZjQXaWIi0jPC781IN_LICD67x84-LugnP9ijb2a-RNyCX3nmPKnekH3hUE
-#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="3",Eurosport 1 orig
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-EeeZuSIwEhDAlo0Tul56VwG8IeQ7ij-I1hFs2fOCh0AohwqgJcyxk8szm7DPYZ_Y
 
+
+#EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Russia (1080p)
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Russia (1080p)
+http://stream.mcquack.net/192/index.m3u8
+
+#EXTINF:-1 group-title="Селектел (VPN)",Eurosport 1
+http://5.188.159.128:8070/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)",Eurosport 2
+http://5.188.159.128:8070/eurosport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",Eurosport 1
+http://86.87.15.10:8005/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD 🇫🇷
+http://99.27.51.147:8080/EuroSport/index.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆", EUROSPORT1-ali3 cz
+#EXTVLCOPT:network-caching=1000
+http://45.129.141.180:9981/stream/channelid/718615486?profile=iptv.org.ua
+
+#EXTINF:-1 group-title="SPORT 🏆", EUROSPORT2-ali3 cz
+#EXTVLCOPT:network-caching=1000
+http://45.129.141.180:9981/stream/channelid/737993602?profile=iptv.org.ua
+
+#EXTINF:1 group-title="Sport-Test",Eurosport 1
+http://znty.dyndns.org:5010/hls/eurosport.m3u8
 
 
 --- 📺 Sports | RUSSIA

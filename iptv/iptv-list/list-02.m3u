@@ -4,46 +4,39 @@
 
 
 
---- 📺 NBA | USA
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nba-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 1 (720p)
-http://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional",DSports (1080p)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional",DSports (720p)
+http://15.204.146.163:8002/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional",DSports
+http://45.186.254.75:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us@Panregional",DSports 2 (1080p)
+http://187.102.208.209:8000/play/a0bq/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 2 (720p)
-http://fl5.moveonjoy.com/NBA_2/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 3 (720p)
-http://fl5.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
+https://tvsen7.aynascope.net/foxsports1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD",Fox Sports 2 (720p)
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 4 (720p)
-http://fl5.moveonjoy.com/NBA_4/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 5 (720p)
-http://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 tvg-id="FTFSports.us@SD",FTF Sports (720p)
+https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+#EXTINF:-1 tvg-id="FTFSports.us@SD",FTF Sports (720p)
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 
-#EXTINF:-1 tvg-id="nba-6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 6 (720p)
-http://fl5.moveonjoy.com/NBA_6/index.m3u8
 
-#EXTINF:-1 tvg-id="nba-7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 7 (720p)
-http://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
-#EXTINF:-1 tvg-id="nba-8" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 8 (720p)
-http://fl5.moveonjoy.com/NBA_8/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-9" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 9 (720p)
-http://fl5.moveonjoy.com/NBA_9/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-10" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 10 (720p)
-http://fl5.moveonjoy.com/NBA_10/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-11" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 11 (720p)
-http://fl5.moveonjoy.com/NBA_11/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-12" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 12 (720p)
-http://fl5.moveonjoy.com/NBA_12/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-13" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 13 (720p)
-http://fl5.moveonjoy.com/NBA_13/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us@SD",TVS Sports (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us@SD",TVS Sports Bureau (720p)
 
 
 

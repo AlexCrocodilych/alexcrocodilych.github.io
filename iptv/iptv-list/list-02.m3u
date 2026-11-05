@@ -4,12 +4,9 @@
 
 
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
@@ -18,27 +15,9 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 
 
 
-#EXTINF:-1 group-title="TEST ⓵",Матч Премьер
-http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-http://195.64.140.147:10100/100
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
-http://195.64.140.147:10101/101
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
-http://195.64.140.147:10102/102
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Премьер HD
-http://195.64.140.147:10103/99103
 
-#EXTINF:-1 group-title="Селектел (VPN)",Megogo Спорт
-http://5.188.159.128:8070/megogo_sport/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ HD
-http://tv.ttk.mx:9094
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://tv.ttk.mx:9002
 
 
 #EXTINF:-1 group-title="Rutube (VPN)",NBA TV
@@ -56,23 +35,13 @@ https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 group-title="Rutube (VPN)",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=Qc0E12r7mbYYZOZbGGsklg&e=2093822240&scheme=https
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="SportsGrid.us@SD",SportsGrid (1080p)
-https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",T2 Tennis Channel (1080p)
-https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="CBSSportsHQ.us@SD",CBS Sports HQ (720p)
-https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
-
-#EXTINF:-1 tvg-id="",NBA FAST Channel (720p)
-https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
+#EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=1ru9xT2N2ZAS_Nk9iBHMuA&e=2093822241&scheme=https
 
 
 
@@ -82,7 +51,10 @@ https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b
 --- 📺 Sports | RUSSIA
 
 #EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",Матч Премьер (1080p)
-http://87.246.54.249:8080/ArenaSport4/index.m3u8
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-premier.png" group-title="Sports",Матч Премьер (1080p)2
+http://195.64.140.147:10103/99103
 
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/match-futbol-1.png" group-title="Sports",Матч! Футбол 1 (1080p)
 http://87.246.54.249:8080/ArenaSport1/index.m3u8
@@ -222,32 +194,17 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 --- 📺 Sports | TNT Sports UNITED KINGDOM
 
-# EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (2160p)
-https://7pal.short.gy/TNTUltimate
-
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 1 UK (1080p)
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591244
 
-# EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)02
-https://7pal.short.gy/tntspts1
-
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 2 UK (1080p)
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Sports",TNT Sports 2 UK (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591243
-
-# EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Sports",TNT Sports 2 UK (1080p)02
-https://7pal.short.gy/tntspts2
 
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 3 UK (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591242
 
-# EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 3 UK (1080p)02
-https://7pal.short.gy/tntspts3
-
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 4 UK (1080p)
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591241
-
-# EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)02
-https://7pal.short.gy/tntspts4
 
 #EXTINF:-1 tvg-id="TNTSports5.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)
 https://7pal.short.gy/tntspts5
@@ -357,9 +314,9 @@ https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 --- 📺 Sports | Fox Sports USA
 
 #EXTINF:-1 tvg-id="fox-sports1-ar" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-1.png" group-title="Sports",Fox Sports 1 US (720p)
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="fox-sports2-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-2.png" group-title="Sports",Fox Sports 2 US (720p)
+# EXTINF:-1 tvg-id="fox-sports2-mx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fox-sport-2.png" group-title="Sports",Fox Sports 2 US (720p)
 
 
 --- 📺 Sports | Premier Sports IRELAND
@@ -438,7 +395,8 @@ https://7pal.short.gy/espn2
 
 # EXTINF:-1 tvg-id="bein-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Sports",Bein Sports QA (540p)
 
-# EXTINF:-1 tvg-id="bein-sports-xtra-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Sports",BeIN Sports XTRA US (1080p)
+#EXTINF:-1 tvg-id="bein-sports-xtra-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Sports",BeIN Sports XTRA US (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 # EXTINF:-1 tvg-id="bein-sports-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra-n.png" group-title="Sports",BeIN Sports XTRA Ñ ES (1080p)
 

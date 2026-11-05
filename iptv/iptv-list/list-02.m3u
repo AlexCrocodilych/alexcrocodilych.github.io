@@ -9,8 +9,6 @@
 
 
 
-#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
 
 
@@ -19,33 +17,22 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 
 
 
+--- 📺 Sports | NOW
 
-#EXTINF:-1 group-title="Rutube (VPN)",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 group-title="Rutube (VPN)",TNT SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 (1080p)
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=R0lKBfyRYuG7XY0z2aNxig&e=2093822240&scheme=https
 
-
-#EXTINF:-1 group-title="Спорткомплекс 🏆" ,1TV Sport
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Rutube (VPN)",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Sports",NBA TV (1080p)
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=Qc0E12r7mbYYZOZbGGsklg&e=2093822240&scheme=https
 
-#EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=1ru9xT2N2ZAS_Nk9iBHMuA&e=2093822241&scheme=https
 
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nbc-sports.png",NBC Sports NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
-
-
+#EXTINF:-1 tvg-id="1tv-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sports.png" group-title="Sports",1TV Sport
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 
 
 --- 📺 Sports | RUSSIA

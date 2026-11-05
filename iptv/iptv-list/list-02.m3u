@@ -11,7 +11,25 @@
 
 
 
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Setanta Sports 1
+http://hls.stb.md/SETANTA_HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc5MzgyMjA4NiwiZXhwIjoxNzkzOTA4NDg2LCJpYXQiOjE3OTM4MjIwODYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.86FybCdyXUlDavf5GcRYgNAwtcx_weIvFNgjqIELd4o
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Setanta Sports 2
+http://hls.stb.md/SETANTAPLUS_HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc5MzgyMjA4NiwiZXhwIjoxNzkzOTA4NDg2LCJpYXQiOjE3OTM4MjIwODYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.86FybCdyXUlDavf5GcRYgNAwtcx_weIvFNgjqIELd4o
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Setanta Sports Ukraine
+http://hls.stb.md/SETANTASPORTS_HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc5MzgyMjA4NiwiZXhwIjoxNzkzOTA4NDg2LCJpYXQiOjE3OTM4MjIwODYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.86FybCdyXUlDavf5GcRYgNAwtcx_weIvFNgjqIELd4o
 
+
+#EXTINF:-1 group-title="Ott Club+Реклама",Setanta Sports 1
+http://stream.mcquack.net/234/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Ott Club+Реклама",Setanta Sports 2
+http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Setanta Sports 1 HD
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Setanta Sports 2 HD
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Setanta Sports 3 HD
+http://127.0.0.1:6878/ace/getstream?infohash=04759f636ad9c8dc35b5eb560d393eab3e2a6f30
 
 
 

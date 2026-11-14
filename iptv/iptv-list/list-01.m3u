@@ -26,7 +26,8 @@ http://31.148.5.241/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 22 (1080p)
 http://5.188.159.128:8070/eurosport1/index.m3u8
 
-# EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 31 (1080p)
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 31 (1080p)
+https://s7.iptv-24.net/1439/playlist.m3u8
 
 # EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",Eurosport 1 - 41 (1080p)
 
@@ -80,6 +81,9 @@ http://31.148.5.241/Eurosport_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 22 (1080p)
 http://5.188.159.128:8070/eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - 31 (1080p)
+https://s7.iptv-24.net/1452/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-2.png" group-title="Спортивные",Eurosport 2 - CZ-01 (1080p)
 http://45.129.141.180:9981/stream/channelid/737993602?profile=iptv.org.ua

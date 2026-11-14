@@ -34,25 +34,140 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20074/ind
 
 
 #EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sport",Fox Sports (1080p)
-http://138.59.227.20:8000/play/a085/index.m3u8?checkedby:iptvcat.net
+http://138.59.227.20:8000/play/a085/index.m3u8
 
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",ESPN Premium HD
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8?checkedby:iptvcat.net
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sport",ESPN (Brazil) (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 group-title="Спорт" tvg-id="2878" tvg-logo="http://epg.one/img2/2878.png" tvg-rec="0",Sky Sport 1 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19028/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6489" tvg-logo="http://epg.one/img2/6489.png" tvg-rec="0",Sky Sport 3 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19030/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6490" tvg-logo="http://epg.one/img2/6490.png" tvg-rec="0",Sky Sport 4 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19031/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6491" tvg-logo="http://epg.one/img2/6491.png" tvg-rec="0",Sky Sport 5 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19032/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6492" tvg-logo="http://epg.one/img2/6492.png" tvg-rec="0",Sky Sport 6 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19033/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6493" tvg-logo="http://epg.one/img2/6493.png" tvg-rec="0",Sky Sport 7 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19034/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6494" tvg-logo="http://epg.one/img2/6494.png" tvg-rec="0",Sky Sport 8 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19035/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6495" tvg-logo="http://epg.one/img2/6495.png" tvg-rec="0",Sky Sport 9 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19036/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6496" tvg-logo="http://epg.one/img2/6496.png" tvg-rec="0",Sky Sport 10 HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19037/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6507" tvg-logo="http://epg.one/img2/6507.png" tvg-rec="0",TNT Sports 4 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19054/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6513" tvg-logo="http://epg.one/img2/6513.png" tvg-rec="0",ESPN HD BR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19056/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6509" tvg-logo="http://epg.one/img2/6509.png" tvg-rec="0",ESPN 2 HD BR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19061/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6510" tvg-logo="http://epg.one/img2/6510.png" tvg-rec="0",ESPN 6 HD BR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19057/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6513" tvg-logo="http://epg.one/img2/6513.png" tvg-rec="0",ESPN BR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19060/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="0",beIN Sports Max 1 FHD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19062/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports Haber HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19064/index.m3u8
 
-#EXTINF:0 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 Latin America Colombia (1080p)
-http://190.61.47.54:8000/play/a005/index.m3u8?checkedby:iptvcat.net
 
-#EXTINF:0 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sport",ESPN 3 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8?checkedby:iptvcat.net
+#EXTINF:0 group-title="Спорт" tvg-id="6581" tvg-logo="http://epg.one/img2/6581.png" tvg-rec="0",ESPN 2 HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19155/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6582" tvg-logo="http://epg.one/img2/6582.png" tvg-rec="0",ESPN HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19156/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2915" tvg-logo="http://epg.one/img2/2915.png" tvg-rec="0",DAZN 1 FHD PT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19158/index.m3u8
 
-#EXTINF:0 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sport",ESPN 4 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8?checkedby:iptvcat.net
+#EXTINF:0 group-title="Спорт" tvg-id="6586" tvg-logo="http://epg.one/img2/6586.png" tvg-rec="0",V Sport Ultra HD SE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19163/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6534" tvg-logo="http://epg.one/img2/6534.png" tvg-rec="0",Rai Sport HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19106/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6533" tvg-logo="http://epg.one/img2/6533.png" tvg-rec="0",Sky Sport F1 HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19105/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6584" tvg-logo="http://epg.one/img2/6584.png" tvg-rec="0",Benfica TV FHD PT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19160/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6687" tvg-logo="http://epg.one/img2/6687.png" tvg-rec="0",ESPN 3 HD NL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19203/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6685" tvg-logo="http://epg.one/img2/6685.png" tvg-rec="0",ESPN 1 HD NL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19201/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6686" tvg-logo="http://epg.one/img2/6686.png" tvg-rec="0",ESPN 2 HD NL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19202/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6688" tvg-logo="http://epg.one/img2/6688.png" tvg-rec="0",ESPN 4 HD NL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19204/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6850" tvg-logo="http://epg.one/img2/6850.png" tvg-rec="0",BOX Be On Edge Live 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19422/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6851" tvg-logo="http://epg.one/img2/6851.png" tvg-rec="0",BOX Be On Edge Live 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19423/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6852" tvg-logo="http://epg.one/img2/6852.png" tvg-rec="0",BOX Be On Edge HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19424/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="3058" tvg-logo="http://epg.one/img2/3058.png" tvg-rec="3",Canal+ Sport 2 HD PL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6099/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7233" tvg-logo="http://epg.one/img2/7233.png" tvg-rec="0",Spor Smart HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20060/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="9378" tvg-logo="http://epg.one/img2/9378.png" tvg-rec="0",Eurosport 1 HD PL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20058/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7235" tvg-logo="http://epg.one/img2/7235.png" tvg-rec="0",Q Arena HD KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20061/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7236" tvg-logo="http://epg.one/img2/7236.png" tvg-rec="0",Q League HD KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20062/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7238" tvg-logo="http://epg.one/img2/7238.png" tvg-rec="0",Setanta Sports 1 FHD KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20065/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7255" tvg-logo="http://epg.one/img2/7255.png" tvg-rec="0",Eleven Sports 1 4K PL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20068/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7539" tvg-logo="http://epg.one/img2/7539.png" tvg-rec="3",ViP Sport 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20099/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7540" tvg-logo="http://epg.one/img2/7540.png" tvg-rec="3",ViP Sport 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20103/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7541" tvg-logo="http://epg.one/img2/7541.png" tvg-rec="3",ViP Sport 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20104/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7542" tvg-logo="http://epg.one/img2/7542.png" tvg-rec="3",ViP Sport 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20105/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7543" tvg-logo="http://epg.one/img2/7543.png" tvg-rec="3",ViP Sport 5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20106/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7544" tvg-logo="http://epg.one/img2/7544.png" tvg-rec="3",ViP Sport 6
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20107/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7545" tvg-logo="http://epg.one/img2/7545.png" tvg-rec="3",ViP Sport 7
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20108/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7546" tvg-logo="http://epg.one/img2/7546.png" tvg-rec="0",ViP Sport 8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20109/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7547" tvg-logo="http://epg.one/img2/7547.png" tvg-rec="0",ViP Sport 9
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20110/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7548" tvg-logo="http://epg.one/img2/7548.png" tvg-rec="3",ViP Sport 10
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20100/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7549" tvg-logo="http://epg.one/img2/7549.png" tvg-rec="3",ViP Sport 11
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20101/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7550" tvg-logo="http://epg.one/img2/7550.png" tvg-rec="3",ViP Sport 12
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20102/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7534" tvg-logo="http://epg.one/img2/7534.png" tvg-rec="0",Pimple TV 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20094/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7535" tvg-logo="http://epg.one/img2/7535.png" tvg-rec="0",Pimple TV 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20095/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7536" tvg-logo="http://epg.one/img2/7536.png" tvg-rec="0",Pimple TV 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20096/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7537" tvg-logo="http://epg.one/img2/7537.png" tvg-rec="0",Pimple TV 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20097/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7538" tvg-logo="http://epg.one/img2/7538.png" tvg-rec="3",Pimple TV 5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20098/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7531" tvg-logo="http://epg.one/img2/7531.png" tvg-rec="3",Fint Ga 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20091/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7532" tvg-logo="http://epg.one/img2/7532.png" tvg-rec="0",Fint Ga 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20092/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7533" tvg-logo="http://epg.one/img2/7533.png" tvg-rec="0",Fint Ga 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20093/index.m3u8
 
-#EXTINF:0 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" group-title="Sport",ESPN 5 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8?checkedby:iptvcat.net
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Russia (1080p)
@@ -60,19 +175,6 @@ https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Russia (1080p)
 https://s7.iptv-24.net/1452/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Sports",Okko Futbol (576p)
-http://178.124.179.122:8080/Setanta1/index.m3u8
-
-#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="Sports",Okko Prajm Sport (1080p)
-http://stream.mcquack.net/493/index.m3u8
-
-
-#EXTINF:-1 tvg-id="SetantaSports1.ru@SD" tvg-logo="https://i.imgur.com/8ANUZAu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 tvg-id="SetantaSports2.ru@SD" tvg-logo="https://i.imgur.com/NOBACb6.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 
 
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@HD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Sports",viju+ Sport HD (1080p)

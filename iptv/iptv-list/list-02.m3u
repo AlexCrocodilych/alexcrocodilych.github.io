@@ -4,47 +4,32 @@
 
 
 
---- 📺 NBA | USA
-
-#EXTINF:-1 tvg-id="nba-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 1 (720p)
-http://fl5.moveonjoy.com/NBA_1/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-2" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 2 (720p)
-http://fl5.moveonjoy.com/NBA_2/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-3" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 3 (720p)
-http://fl5.moveonjoy.com/NBA_3/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 4 (720p)
-http://fl5.moveonjoy.com/NBA_4/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 5 (720p)
-http://fl5.moveonjoy.com/NBA_5/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-6" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 6 (720p)
-http://fl5.moveonjoy.com/NBA_6/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-7" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 7 (720p)
-http://fl5.moveonjoy.com/NBA_7/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-8" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 8 (720p)
-http://fl5.moveonjoy.com/NBA_8/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-9" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 9 (720p)
-http://fl5.moveonjoy.com/NBA_9/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-10" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 10 (720p)
-http://fl5.moveonjoy.com/NBA_10/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-11" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 11 (720p)
-http://fl5.moveonjoy.com/NBA_11/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-12" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 12 (720p)
-http://fl5.moveonjoy.com/NBA_12/index.m3u8
-
-#EXTINF:-1 tvg-id="nba-13" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="NBA",NBA 13 (720p)
-http://fl5.moveonjoy.com/NBA_13/index.m3u8
-
+#EXTINF:0 group-title="Спорт" tvg-id="2363" tvg-logo="http://epg.one/img2/2363.png" tvg-rec="3",Setanta Sports 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/270/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7517" tvg-logo="http://epg.one/img2/7517.png" tvg-rec="0",Setanta Sports 1 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6541/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7517" tvg-logo="http://epg.one/img2/7517.png" tvg-rec="0",Setanta Sports 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6543/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2363" tvg-logo="http://epg.one/img2/2363.png" tvg-rec="0",Setanta Sports 2 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6542/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7517" tvg-logo="http://epg.one/img2/7517.png" tvg-rec="3",Setanta Sports 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/271/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2363" tvg-logo="http://epg.one/img2/2363.png" tvg-rec="0",Setanta Sports 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6544/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6861" tvg-logo="http://epg.one/img2/6861.png" tvg-rec="3",Setanta Baltic 1 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/5069/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2630" tvg-logo="http://epg.one/img2/2630.png" tvg-rec="3",Setanta Qazaqstan HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2399/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2370" tvg-logo="http://epg.one/img2/2370.png" tvg-rec="3",Setanta Sports FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/272/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2370" tvg-logo="http://epg.one/img2/2370.png" tvg-rec="0",Setanta Sports HD UA orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/15183/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="3",Setanta Sports+ FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/5068/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6860" tvg-logo="http://epg.one/img2/6860.png" tvg-rec="0",Setanta Sports+ HD UA orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/15184/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="7244" tvg-logo="http://epg.one/img2/7244.png" tvg-rec="0",Setanta Moldova FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20074/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Russia (1080p)

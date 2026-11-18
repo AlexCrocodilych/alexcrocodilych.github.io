@@ -3,6 +3,89 @@
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
 
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/6541/index.m3u
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD orig
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/6542/index.m3u
+#EXTINF:0 tvg-rec="0",Setanta Sports 1
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/6543/index.m3u
+#EXTINF:0 tvg-rec="0",Setanta Sports 2
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/6544/index.m3u
+
+
+#EXTINF:0 tvg-rec="0",CBS Sports Network HD US
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/7324/index.m3u
+#EXTINF:0 tvg-rec="0",NBC Sports Network HD US
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/7327/index.m3u
+
+
+#EXTINF:0 tvg-rec="7",Fint Ga 1
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20091/index.m3u
+#EXTINF:0 tvg-rec="7",Fint Ga 2
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20092/index.m3u
+#EXTINF:0 tvg-rec="0",Fint Ga 3
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20093/index.m3u
+#EXTINF:0 tvg-rec="7",Pimple TV 1
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20094/index.m3u
+#EXTINF:0 tvg-rec="1",Pimple TV 2
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20095/index.m3u
+#EXTINF:0 tvg-rec="0",Pimple TV 3
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20096/index.m3u
+#EXTINF:0 tvg-rec="3",Pimple TV 4
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20097/index.m3u
+#EXTINF:0 tvg-rec="0",Pimple TV 5
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20098/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 1
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20099/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 2
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20103/index.m3u
+#EXTINF:0 tvg-rec="3",ViP Sport 3
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20104/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 4
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20105/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 5
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20106/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 6
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20107/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 7
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20108/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 8
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20109/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 9
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20110/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 10
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20100/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 11
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20101/index.m3u
+#EXTINF:0 tvg-rec="0",ViP Sport 12
+#EXTGRP:спорт
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/20102/index.m3u
+
 
 
 #EXTINF:-1 group-title="SPORT 🏆",ViP Sport 099

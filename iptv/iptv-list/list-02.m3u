@@ -2,6 +2,61 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sportcast" , BOX SportCast HD
+https://tinyurl.com/22ha6p6h
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sportcast-live1" , BOX SportCast Live 1 HD
+https://tinyurl.com/28bcytuo
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sportcast-live2" , BOX SportCast Live 2 HD
+https://tinyurl.com/27ulbmh7
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sportcast-live3" , BOX SportCast Live 3 HD
+https://tinyurl.com/25syrzfl
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sportcast-live4" , BOX SportCast Live 4 HD
+https://tinyurl.com/2xketpde
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sportcast-live5" , BOX SportCast Live 5 HD
+https://tinyurl.com/2cgz35xt
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sportcast-live6" , BOX SportCast Live 6 HD
+https://tinyurl.com/29jh5j59
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sportcast-live7" , BOX SportCast Live 7 HD
+https://tinyurl.com/2cu8qced
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sr-sport-2-live-4k-hdr" , BOX SR Sport 2 Live 4K HDR
+https://tinyurl.com/23uk2lat
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sr-sport-4k-hdr" , Box SR Sport 4K HDR
+https://tinyurl.com/223jghqx
+#EXTINF:-1  group-title="КИНОЗАЛЫ ТЕСТ"  tvg-id="box-sr-sport-live-4k-hdr" , BOX SR Sport Live 4K HDR
+https://tinyurl.com/29p8cndp
+
+
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",BOX Be On Edge Live 1 HD
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOMuZZg6n8taxy9M9WpzK7qqgOrJfir3naF8q8qmNeeqU
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",BOX Be On Edge Live 2 HD
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fO0RdmsdMNtHA1ltI70uToq4S7BIR0dvT77SRxNLxJnnI
+
+
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 1
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82GdoWUsm3DSSJwRQXOepFM-utyI-LLn7-74OZrImbZLU
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 2
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82k8Oyg2bLIsusR0NjO4a9RZJmvchVRPWQUAbYvTVv0KU
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="3",ViP Sport 3
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82uFap-qcpUUJpywm2MOcguDIzIeEpRiBLMUHa8XWg_vY
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 4
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82JejRXTUtxnv1pgmjWEFqA0u-hawiNjmqYz3kZxTYpnI
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 5
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g825kHOtjm69TSB4A4mMhbOxu_okXblv-OfT5yUuTLrAeo
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 6
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82LhK-fhadfGm2UNDldYWyBNo3LBQjRpa2IykYseVGPYQ
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 7
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82flakk4sN83PqqfTGQdF93X68RLBPZIGQLK6HZIx4898
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 8
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82qUusvw_s3WuMZOyVZ_m02LGyQmnNu-hsr3NBxDW74q0
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 9
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g826UyD-UXvP3Y_fgo1rXtovn_T2hczRi7F0XyWPXnWCRw
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 10
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82uiLM7r4yd965mEGSaWhHqWwtWH1q3fnfHd-Ot1OCwmI
+#EXTINF:-1 group-title="ЧЕБУРАШ ТЕСТ" tvg-rec="0",ViP Sport 11
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g82vg5cRJCY4Koh-XrTD0vxBiIKkq-yaZfBhoE0K3_29MM
+
+
+
 
 
 #EXTINF:0 group-title="Общие" tvg-id="7239" tvg-logo="http://epg.one/img2/7239.png" tvg-rec="0",Setanta Sports 2 HD KZ

@@ -2,73 +2,34 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
-#EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Sport",Setanta Sports 3 GE (1080p)
-http://85.117.61.84/setanta3/index.m3u8
 
-#EXTINF:0 tvg-country="IE" tvg-logo="" group-title="Sport",Setanta Sports 1 Eurasia (1080p)
-http://stream.mcquack.net/234/index.m3u8
-
-#EXTINF:0 tvg-country="IE" tvg-logo="" group-title="Sport",Setanta Sports 2 Eurasia (1080p)
-http://stream.mcquack.net/235/index.m3u8
 
 
 #EXTINF:-1 group-title="SPORT 🏆",ViP Sport 1
 http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20099/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",ViP Sport 2
 http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20103/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 3
-http://ozaesnna.megatv.fun/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/20104/index.m3u8
 
 
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport1HD
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport2HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 100
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20100/index.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
-http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2 HD
-http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
-
-#EXTINF:-1 group-title="SPORT 🏆",Sport 1 Israel
-http://185.132.134.159:80/sport1/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 2 Israel
-http://185.132.134.159:80/sport2/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 3 Israel
-http://185.132.134.159:80/sport3/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 4 Israel
-http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 5 Israel
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport 6 Israel
-http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 101
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20101/index.m3u8
 
 
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 102
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20102/index.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 1
-http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 2
-http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 3
-http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 4
-http://stream-msk-07.ott.tricolor.tv/dtv/id834_MSKSG-PVR-1--Nash_khokkey4/01/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 5
-http://stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 6
-http://stream-msk-08.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/01/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 7
-http://stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/01/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 8
-http://stream-msk-04.ott.tricolor.tv/dtv/id747_MSKSG-PVR-1--Nash_khokkey8/01/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 9
-http://stream-msk-08.ott.tricolor.tv/dtv/id749_MSKSG-PVR-1--Nash_khokkey9/01/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 10
-http://stream-msk-04.ott.tricolor.tv/dtv/id797_MSKSG-PVR-1--Nash_sport10/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 104
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20104/index.m3u8
 
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 105
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20105/index.m3u8
 
-#EXTINF:-1 group-title="Cloudflare (🇺🇦)",ViP Sport 3
-http://ott.server-iptv.live/241/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 106
+http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20106/index.m3u8
+
 
 
 

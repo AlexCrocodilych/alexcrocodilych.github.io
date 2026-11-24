@@ -1041,13 +1041,13 @@ http://185.132.134.159:80/sport6/index.m3u8
 --- 📺 Sports | Czech
 
 #EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ctsport-cz.png" group-title="Sports",CT SPORT CZ (1080p)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport-1-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-cz.png" group-title="Sports",SPORT 1 CZ (1080p)
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+http://88.212.7.11/live/test_sport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sport-2-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-cz.png" group-title="Sports",SPORT 2 CZ (1080p)
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
+http://88.212.7.11/live/test_sport_2/playlist.m3u8
 
 
 --- 📺 Sports | TNT Sports UNITED KINGDOM

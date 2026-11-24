@@ -2,46 +2,40 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
-#EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые", Digital Desire
-#EXTVLCOPT:http-user-agent=Wink
+#EXTINF:-1 tvg-id="digital-desire" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",Digital Desire (1080p)
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="brazzers-tv-europe" group-title="Взрослые", Brazzers TV Europe
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",Brazzers TV Europe (1080p)
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dorcel" group-title="Взрослые", Dorcel TV HD
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="dorcel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",Dorcel TV HD (1080p)
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eroxxxhd" group-title="Взрослые",Eroxxx HD
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="Dusk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",DUSK (1080p)
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Deroxxxhd" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",Eroxxx HD (1080p)
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="erox" group-title="Взрослые",Erox
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="erox" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",Erox (1080p)
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="Взрослые", Extasy TV
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="ExtasyTV" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",Extasy TV (1080p)
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="babes-tv" group-title="Взрослые",Babes TV
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="babes-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",Babes TV (1080p)
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-18-2048x902.png" group-title="Взрослые", Leo TV
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",Leo TV (1080p)
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" tvg-id="no_epg_xxx" group-title="Взрослые", Reality Kings TV
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",Reality Kings TV (1080p)
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 089
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",XXX 001 (1080p)
 http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20089/index.m3u8
 
-#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 090
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/xxx.png" group-title="Adult",XXX 002 (1080p)
 http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20090/index.m3u8
 
 #EXTINF:-1 tvg-id="vip-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/vip-sport.png" group-title="Sports",ViP Sport 101 (1080p)
@@ -1077,10 +1071,10 @@ http://185.132.134.159:80/sport6/index.m3u8
 #EXTINF:-1 tvg-id="ct-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ctsport-cz.png" group-title="Sports",CT SPORT CZ (1080p)
 http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sport-1-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-cz.png" group-title="Sports",SPORT 1 CZ (1080p)
+#EXTINF:-1 tvg-id="sport1-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-cz.png" group-title="Sports",SPORT 1 CZ (1080p)
 http://88.212.7.11/live/test_sport1_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sport-2-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-cz.png" group-title="Sports",SPORT 2 CZ (1080p)
+#EXTINF:-1 tvg-id="sport2-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-cz.png" group-title="Sports",SPORT 2 CZ (1080p)
 http://88.212.7.11/live/test_sport_2/playlist.m3u8
 
 

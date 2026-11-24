@@ -23,6 +23,12 @@ https://s7.iptv-24.net/1435/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",36 (1080p)
 https://s7.iptv-24.net/1436/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="",НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?checkedby:iptvcat.net
+
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="",Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2&checkedby:iptvcat.net
+
 
 #EXTINF:-1 tvg-id="vip-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/vip-sport.png" group-title="Sports",ViP Sport 101 (1080p)
 http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20099/index.m3u8

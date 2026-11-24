@@ -19,6 +19,15 @@ https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
 
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ 000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/ntv/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ 001
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/style/tracks-v1a1/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="vip-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/vip-sport.png" group-title="Sports",ViP Sport 101 (1080p)
 http://ozaesnna.megatv.fun/iptv/QGP3QXDP95UFB4/20099/index.m3u8
 

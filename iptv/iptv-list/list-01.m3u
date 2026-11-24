@@ -141,16 +141,10 @@ http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 01 (576p)
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv-style.png" group-title="Общественные",НТВ Стиль - 02 (576p)
-http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bober.png" group-title="Общественные",Бобёр - 01 (576p)
 http://88.212.15.50/live/test_bober/playlist.m3u8
 
-#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 01 (512p)
-http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 02 (512p)
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ (512p)
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 # EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/europa-plus-tv.png" group-title="Общественные",Europa Plus TV - 01 (576p)
@@ -234,7 +228,7 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ryzhy.png" group-title="Мульт",Рыжий (1080p)
-http://31.148.48.15/Rizhiy/index.m3u8
+https://s7.iptv-24.net/1407/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="karusel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/karusel.png" group-title="Мульт",Карусель (720p)
 http://185.37.150.46/Karusel/index.m3u8

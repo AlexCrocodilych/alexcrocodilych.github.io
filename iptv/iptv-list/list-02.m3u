@@ -2,30 +2,22 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ +4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ Стиль
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ 000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 group-title="С сайтов (VPN)" ,НТВ 001
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ
+http://109.248.114.17:4044/udp/239.195.32.7:1234
+#EXTINF:-1 ,НТВ
+http://109.248.114.17:4044/udp/239.195.0.7:1234
+#EXTINF:-1 ,НТВ (+2)
+http://109.248.114.17:4044/udp/239.195.52.7:1234
+#EXTINF:-1 ,НТВ (+4)
+http://109.248.114.17:4044/udp/239.195.54.7:1234
+#EXTINF:-1 ,НТВ (+7)
+http://109.248.114.17:4044/udp/239.195.57.7:1234
+#EXTINF:-1 ,НТВ Право
+http://109.248.114.17:4044/udp/239.195.1.124:1234
+#EXTINF:-1 ,НТВ Сериал
+http://109.248.114.17:4044/udp/239.195.1.123:1234
+#EXTINF:-1 ,НТВ Стиль
+http://109.248.114.17:4044/udp/239.195.1.122:1234
 
 
 #EXTINF:-1 tvg-id="vip-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/vip-sport.png" group-title="Sports",ViP Sport 101 (1080p)

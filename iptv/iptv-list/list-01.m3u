@@ -145,7 +145,7 @@ http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bober.png" group-title="Общественные",Бобёр - 01 (576p)
-http://178.212.71.253:8002/play/a00m/index.m3u8
+http://88.212.15.50/live/test_bober/playlist.m3u8
 
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/shanson-tv.png" group-title="Общественные",Шансон ТВ - 01 (512p)
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
@@ -203,22 +203,19 @@ https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 +4 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+https://stream.smotrim.ru/hls2/russia1_plus4/playlist_5.m3u8
 
-# EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 +4 (1080p)2
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 +4 (1080p)2
+https://live.smotrim.ru/vgtrk/0/russia1_plus4/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/russia-1.png" group-title="Общественные",Россия 1 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv-pl4" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ +4 (576p)
 https://cdn.ntv.ru/ntv4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)
-http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-
-# EXTINF:-1 tvg-id="ntv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",НТВ (1080p)2
-https://cdn.ntv.ru/ntv0/playlist.m3u8
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
 
 # EXTINF:-1 tvg-id="RENTVInternational" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ntv.png" group-title="Общественные",РЕН ТВ International (1080p)
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
@@ -239,8 +236,8 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ryzhy.png" group-title="Мульт",Рыжий (1080p)
 http://31.148.48.15/Rizhiy/index.m3u8
 
-#EXTINF:-1 tvg-id="karusel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/karusel.png" group-title="Мульт",Карусель (576p)
-https://streaming.goodstream.cyou/live/232.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/karusel.png" group-title="Мульт",Карусель (720p)
+http://185.37.150.46/Karusel/index.m3u8
 
 --- 📺 Radio | RUSSIA
 

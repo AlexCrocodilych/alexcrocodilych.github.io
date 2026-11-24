@@ -2,22 +2,26 @@
 #PLAYLIST:My-02
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
-#EXTINF:-1 ,НТВ
-http://109.248.114.17:4044/udp/239.195.32.7:1234
-#EXTINF:-1 ,НТВ
-http://109.248.114.17:4044/udp/239.195.0.7:1234
-#EXTINF:-1 ,НТВ (+2)
-http://109.248.114.17:4044/udp/239.195.52.7:1234
-#EXTINF:-1 ,НТВ (+4)
-http://109.248.114.17:4044/udp/239.195.54.7:1234
-#EXTINF:-1 ,НТВ (+7)
-http://109.248.114.17:4044/udp/239.195.57.7:1234
-#EXTINF:-1 ,НТВ Право
-http://109.248.114.17:4044/udp/239.195.1.124:1234
-#EXTINF:-1 ,НТВ Сериал
-http://109.248.114.17:4044/udp/239.195.1.123:1234
-#EXTINF:-1 ,НТВ Стиль
-http://109.248.114.17:4044/udp/239.195.1.122:1234
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",30 (1080p)
+https://s7.iptv-24.net/1430/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",31 (1080p)
+https://s7.iptv-24.net/1431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",32 (1080p)
+https://s7.iptv-24.net/1432/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",33 (1080p)
+https://s7.iptv-24.net/1433/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",34 (1080p)
+https://s7.iptv-24.net/1434/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",35 (1080p)
+https://s7.iptv-24.net/1435/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",36 (1080p)
+https://s7.iptv-24.net/1436/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="vip-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/vip-sport.png" group-title="Sports",ViP Sport 101 (1080p)

@@ -3,34 +3,34 @@
 #EXTIMG:https://alexcrocodilych.github.io/iptv/iptv-img/sun.png
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",30 (1080p)
-https://s7.iptv-24.net/1420/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1410/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",31 (1080p)
-https://s7.iptv-24.net/1421/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1411/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",32 (1080p)
-https://s7.iptv-24.net/1422/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1412/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",33 (1080p)
-https://s7.iptv-24.net/1423/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1413/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",34 (1080p)
-https://s7.iptv-24.net/1424/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1414/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",35 (1080p)
-https://s7.iptv-24.net/1425/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1415/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",36 (1080p)
-https://s7.iptv-24.net/1426/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1416/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",37 (1080p)
-https://s7.iptv-24.net/1427/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1417/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",38 (1080p)
-https://s7.iptv-24.net/1428/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1418/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/eurosport-1.png" group-title="Спортивные",39 (1080p)
-https://s7.iptv-24.net/1429/tracks-v1a1/mono.m3u8
+https://s7.iptv-24.net/1419/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="",НТВ
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8

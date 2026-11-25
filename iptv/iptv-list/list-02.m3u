@@ -78,8 +78,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RHWTLUP2GTDLZDGKNWU2UGBN
 #EXTINF:-1 tvg-id="vip-sport-12" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/vip-sport.png" group-title="Sports",ViP Sport 12 (1080p)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/20102/index.m3u8
 
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
-http://23.237.104.106:8080/USA_NBA/index.m3u8
+
 
 
 
@@ -99,47 +98,18 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="SetantaSports3.ge@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" group-title="Sports",Setanta Sports 3 (1080p)
 http://85.117.61.84/setanta3/index.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="TNTSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sports (Argentina)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Comedy;Movies;Series;Sports",USA Network (720p)
 http://200.32.231.178/USA_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@HD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Sports",viju+ Sport HD (1080p)
-http://46.53.200.153:7777/play/a01l/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 group-title="Общие" tvg-id="7239" tvg-logo="http://epg.one/img2/7239.png" tvg-rec="0",Setanta Sports 2 HD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/16025/index.m3u8
 
 #EXTINF:0 group-title="Кино" tvg-id="4579" tvg-logo="http://epg.one/img2/4579.png" tvg-rec="3",Sky Sports Action HD 50 UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/9155/index.m3u8
@@ -240,17 +210,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/11108/ind
 #EXTINF:0 group-title="Спорт" tvg-id="4803" tvg-logo="http://epg.one/img2/4803.png" tvg-rec="0",NESN HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/11109/index.m3u8
 
-#EXTINF:0 group-title="Спорт" tvg-id="4796" tvg-logo="http://epg.one/img2/4796.png" tvg-rec="0",V Sport Football SE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/11110/index.m3u8
-
-#EXTINF:0 group-title="Спорт" tvg-id="4797" tvg-logo="http://epg.one/img2/4797.png" tvg-rec="0",V Sport Vinter SE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/11111/index.m3u8
-
 #EXTINF:0 group-title="Спорт" tvg-id="11456" tvg-logo="http://epg.one/img2/11456.png" tvg-rec="0",Sportdigital Fussball HD DE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19023/index.m3u8
 
-#EXTINF:0 group-title="Спорт" tvg-id="6507" tvg-logo="http://epg.one/img2/6507.png" tvg-rec="0",TNT Sports 4 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19054/index.m3u8
+
 
 
 #EXTINF:0 group-title="Спорт" tvg-rec="0",Sky Sport Football IT
@@ -308,8 +271,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6099/inde
 
 
 
-#EXTINF:0 group-title="Спорт" tvg-id="7238" tvg-logo="http://epg.one/img2/7238.png" tvg-rec="0",Setanta Sports 1 FHD KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20065/index.m3u8
+
 #EXTINF:0 group-title="Спорт" tvg-id="7255" tvg-logo="http://epg.one/img2/7255.png" tvg-rec="0",Eleven Sports 1 4K PL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20068/index.m3u8
 
@@ -326,13 +288,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20168/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20169/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="7894" tvg-logo="http://epg.one/img2/7894.png" tvg-rec="0",BOX SportCast Live 5 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20170/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="3560" tvg-logo="http://epg.one/img2/3560.png" tvg-rec="3",TNT Sports 3 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6564/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6314" tvg-logo="http://epg.one/img2/6314.png" tvg-rec="0",Go3 Sport Open HD LV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/18025/index.m3u8
 
-#EXTINF:0 group-title="Познавательные" tvg-id="4570" tvg-logo="http://epg.one/img2/4570.png" tvg-rec="3",Sky Sports Football HD 50 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/9289/index.m3u8
+
+
 
 #EXTINF:0 group-title="Познавательные" tvg-id="7238" tvg-logo="http://epg.one/img2/7238.png" tvg-rec="0",Setanta Sports 1 HD KZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/16026/index.m3u8
@@ -374,9 +332,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/18011/ind
 #EXTINF:0 group-title="Латвия | Latvia" tvg-id="3381" tvg-logo="http://epg.one/img2/3381.png" tvg-rec="0",Go3 Sport 2 HD LV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/18012/index.m3u8
 
+#EXTINF:0 group-title="Спорт" tvg-id="6314" tvg-logo="http://epg.one/img2/6314.png" tvg-rec="0",Go3 Sport Open HD LV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/18025/index.m3u8
+
 
 #EXTINF:0 group-title="Латвия | Latvia" tvg-id="6313" tvg-logo="http://epg.one/img2/6313.png" tvg-rec="0",Best4Sport 2 HD LV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/18015/index.m3u8
+
+
 
 
 #EXTINF:0 group-title="Эстония | Eesti" tvg-id="3380" tvg-logo="http://epg.one/img2/3380.png" tvg-rec="0",Go3 Sport 1 HD EE
@@ -385,16 +348,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/18000/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/18001/index.m3u8
 
 
-#EXTINF:0 group-title="Армения | Հայկական" tvg-id="7089" tvg-logo="http://epg.one/img2/7089.png" tvg-rec="0",Fast Sports HD AM
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/15507/index.m3u8
 
-#EXTINF:0 group-title="Грузия | ქართული" tvg-id="7783" tvg-logo="http://epg.one/img2/7783.png" tvg-rec="3",Setanta Sports 3 HD GE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2209/index.m3u8
 
-#EXTINF:0 group-title="Грузия | ქართული" tvg-id="6806" tvg-logo="http://epg.one/img2/6806.png" tvg-rec="3",Setanta Sports 1 HD GE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7169/index.m3u8
-#EXTINF:0 group-title="Грузия | ქართული" tvg-id="6805" tvg-logo="http://epg.one/img2/6805.png" tvg-rec="3",Setanta Sports 2 HD GE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7168/index.m3u8
+
+
+
+
 
 #EXTINF:0 group-title="Германия | Germany" tvg-id="2879" tvg-logo="http://epg.one/img2/2879.png" tvg-rec="3",Sky Sport 2 HD DE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2479/index.m3u8
@@ -408,43 +367,18 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2503/inde
 #EXTINF:0 group-title="Германия | Germany" tvg-id="11086" tvg-logo="http://epg.one/img2/11086.png" tvg-rec="0",Sky Sport Top Event HD DE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19003/index.m3u8
 
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2682" tvg-logo="http://epg.one/img2/2682.png" tvg-rec="3",5Sport FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2341/index.m3u8
-
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3993" tvg-logo="http://epg.one/img2/3993.png" tvg-rec="3",5Sport Live FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2362/index.m3u8
-
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2720" tvg-logo="http://epg.one/img2/2720.png" tvg-rec="3",Sport 4 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2389/index.m3u8
-
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2682" tvg-logo="http://epg.one/img2/2682.png" tvg-rec="3",5Sport HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2391/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4313" tvg-logo="http://epg.one/img2/4313.png" tvg-rec="3",Eurosport 2 orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7203/index.m3u8
-
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3994" tvg-logo="http://epg.one/img2/3994.png" tvg-rec="0",5Sport Stars HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12232/index.m3u8
-
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2684" tvg-logo="http://epg.one/img2/2684.png" tvg-rec="0",Sport 1 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12249/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2683" tvg-logo="http://epg.one/img2/2683.png" tvg-rec="0",Sport 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12250/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2719" tvg-logo="http://epg.one/img2/2719.png" tvg-rec="0",Sport 3 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12251/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3992" tvg-logo="http://epg.one/img2/3992.png" tvg-rec="0",5Sport Gold HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12254/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3993" tvg-logo="http://epg.one/img2/3993.png" tvg-rec="0",5Sport Live HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12255/index.m3u8
 
 
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="3994" tvg-logo="http://epg.one/img2/3994.png" tvg-rec="0",5Sport Stars FHD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12278/index.m3u8
 
 
-#EXTINF:0 group-title="Польша | Poland" tvg-id="2901" tvg-logo="http://epg.one/img2/2901.png" tvg-rec="3",Eleven Sports 2 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2517/index.m3u8
+
+
+
+
 #EXTINF:0 group-title="Польша | Poland" tvg-id="2902" tvg-logo="http://epg.one/img2/2902.png" tvg-rec="3",Eleven Sports 1 HD PL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2518/index.m3u8
+#EXTINF:0 group-title="Польша | Poland" tvg-id="2901" tvg-logo="http://epg.one/img2/2901.png" tvg-rec="3",Eleven Sports 2 HD PL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2517/index.m3u8
 #EXTINF:0 group-title="Польша | Poland" tvg-id="2903" tvg-logo="http://epg.one/img2/2903.png" tvg-rec="3",Canal+ Sport 5 HD PL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2519/index.m3u8
 
@@ -542,8 +476,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2527/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2528/index.m3u8
 #EXTINF:0 group-title="Португалия | Portugal" tvg-id="2913" tvg-logo="http://epg.one/img2/2913.png" tvg-rec="3",Sport TV 5 HD PT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2529/index.m3u8
-#EXTINF:0 group-title="Португалия | Portugal" tvg-id="2914" tvg-logo="http://epg.one/img2/2914.png" tvg-rec="3",Sporting TV FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2530/index.m3u8
+
 #EXTINF:0 group-title="Португалия | Portugal" tvg-id="2915" tvg-logo="http://epg.one/img2/2915.png" tvg-rec="3",DAZN 1 HD PT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2531/index.m3u8
 #EXTINF:0 group-title="Португалия | Portugal" tvg-id="2916" tvg-logo="http://epg.one/img2/2916.png" tvg-rec="3",DAZN 2 FHD PT
@@ -558,12 +491,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2536/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7062/index.m3u8
 
 
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img2/2889.png" tvg-rec="3",TNT Sports 1 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6566/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img2/2889.png" tvg-rec="3",TNT Sports 1 FHD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2505/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="2890" tvg-logo="http://epg.one/img2/2890.png" tvg-rec="3",TNT Sports 2 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2506/index.m3u8
+
+
+
+#EXTINF:0 group-title="Познавательные" tvg-id="4570" tvg-logo="http://epg.one/img2/4570.png" tvg-rec="3",Sky Sports Football HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/9289/index.m3u8
+
 #EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" tvg-rec="3",Premier Sports 1 HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6555/index.m3u8
 #EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="3554" tvg-logo="http://epg.one/img2/3554.png" tvg-rec="3",Eurosport 2 HD UK
@@ -578,17 +511,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7337/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7339/index.m3u8
 #EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4579" tvg-logo="http://epg.one/img2/4579.png" tvg-rec="0",Sky Sports Action HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7340/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4575" tvg-logo="http://epg.one/img2/4575.png" tvg-rec="0",Sky Sports Racing HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7341/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4576" tvg-logo="http://epg.one/img2/4576.png" tvg-rec="0",Sky Sports F1 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7342/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4577" tvg-logo="http://epg.one/img2/4577.png" tvg-rec="0",Sky Sports Cricket HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7343/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7344/index.m3u8
 
-#EXTINF:0 group-title="США | USA" tvg-id="4587" tvg-logo="http://epg.one/img2/4587.png" tvg-rec="0",NBA TV HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7226/index.m3u8
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4313" tvg-logo="http://epg.one/img2/4313.png" tvg-rec="3",Eurosport 2 orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7203/index.m3u8
+
+
+
 #EXTINF:0 group-title="США | USA" tvg-id="4558" tvg-logo="http://epg.one/img2/4558.png" tvg-rec="0",Fox Sports 1 HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7322/index.m3u8
 #EXTINF:0 group-title="США | USA" tvg-id="8407" tvg-logo="http://epg.one/img2/8407.png" tvg-rec="0",Fox Sports 2 HD US
@@ -619,32 +547,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6478/inde
 #EXTINF:0 group-title="Канада | Canada" tvg-id="3622" tvg-logo="http://epg.one/img2/3622.png" tvg-rec="0",Sportsnet Pacific HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6479/index.m3u8
 
-#EXTINF:0 group-title="Канада | Canada" tvg-id="3634" tvg-logo="http://epg.one/img2/3634.png" tvg-rec="0",NBA TV Canada CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6491/index.m3u8
-#EXTINF:0 group-title="Канада | Canada" tvg-id="3635" tvg-logo="http://epg.one/img2/3635.png" tvg-rec="0",TSN 2 HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6492/index.m3u8
 
-#EXTINF:0 group-title="Канада | Canada" tvg-id="3663" tvg-logo="http://epg.one/img2/3663.png" tvg-rec="0",TSN 1 HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6521/index.m3u8
-#EXTINF:0 group-title="Канада | Canada" tvg-id="3664" tvg-logo="http://epg.one/img2/3664.png" tvg-rec="0",TSN 3 HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6522/index.m3u8
-
-#EXTINF:0 group-title="Канада | Canada" tvg-id="88030" tvg-logo="http://epg.one/img2/88030.png" tvg-rec="0",TSN 5 HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6517/index.m3u8
-
-
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3047" tvg-logo="http://epg.one/img2/3047.png" tvg-rec="0",beIN Sports 1 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6123/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3048" tvg-logo="http://epg.one/img2/3048.png" tvg-rec="0",beIN Sports 3 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6124/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3049" tvg-logo="http://epg.one/img2/3049.png" tvg-rec="0",beIN Sports 4 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6125/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3050" tvg-logo="http://epg.one/img2/3050.png" tvg-rec="0",beIN Sports 5 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6126/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3051" tvg-logo="http://epg.one/img2/3051.png" tvg-rec="0",beIN Sports 6 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6127/index.m3u8
-#EXTINF:0 group-title="Арабские | عربي" tvg-id="3052" tvg-logo="http://epg.one/img2/3052.png" tvg-rec="0",beIN Sports 7 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6128/index.m3u8
 
 
 #EXTINF:0 group-title="Египет | Egypt" tvg-id="88055" tvg-logo="http://epg.one/img2/88055.png" tvg-rec="3",ON Sport 1 HD EG
@@ -669,12 +572,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2561/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2540/index.m3u8
 
 
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4796" tvg-logo="http://epg.one/img2/4796.png" tvg-rec="0",V Sport Football HD SE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12032/index.m3u8
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4896" tvg-logo="http://epg.one/img2/4896.png" tvg-rec="0",V Sport Motor HD SE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12033/index.m3u8
-
-
 #EXTINF:0 group-title="Швеция | Sweden" tvg-id="88003" tvg-logo="http://epg.one/img2/88003.png" tvg-rec="0",TV4 Sportkanalen HD SE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12035/index.m3u8
 #EXTINF:0 group-title="Швеция | Sweden" tvg-id="4839" tvg-logo="http://epg.one/img2/4839.png" tvg-rec="0",TV4 Sport Live 1 HD SE
@@ -684,19 +581,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12037/ind
 #EXTINF:0 group-title="Швеция | Sweden" tvg-id="4842" tvg-logo="http://epg.one/img2/4842.png" tvg-rec="0",TV4 Sport Live 4 HD SE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12039/index.m3u8
 
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4902" tvg-logo="http://epg.one/img2/4902.png" tvg-rec="0",Eurosport 1 HD SE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12047/index.m3u8
-#EXTINF:0 group-title="Швеция | Sweden" tvg-id="4903" tvg-logo="http://epg.one/img2/4903.png" tvg-rec="0",Eurosport 2 HD SE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12048/index.m3u8
-
 #EXTINF:0 group-title="Швеция | Sweden" tvg-id="4910" tvg-logo="http://epg.one/img2/4910.png" tvg-rec="0",TV3 Sport SE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12100/index.m3u8
-
-#EXTINF:0 group-title="Турция | Türk" tvg-id="3894" tvg-logo="http://epg.one/img2/3894.png" tvg-rec="3",NBA TV HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6838/index.m3u8
-
-#EXTINF:0 group-title="США | USA" tvg-id="4587" tvg-logo="http://epg.one/img2/4587.png" tvg-rec="0",NBA TV HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7226/index.m3u8
 
 #EXTINF:0 group-title="США | USA" tvg-id="4588" tvg-logo="http://epg.one/img2/4588.png" tvg-rec="0",MSG HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7325/index.m3u8
@@ -710,18 +596,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/1102/inde
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@HD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Sports",viju+ Sport HD (1080p)
-http://46.53.200.153:7777/play/a01l/index.m3u8
-
-
-
-
-
-
 --- 📺 Sports | NOW
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 (1080p)
@@ -729,6 +603,15 @@ https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=R0
 
 #EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Sports",NBA TV (1080p)
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=Qc0E12r7mbYYZOZbGGsklg&e=2093822240&scheme=https
+
+#EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Sports",NBA TV (720p)
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+
+#EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Sports",NBA TV US (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7226/index.m3u8
+
+#EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/nba-tv.png" group-title="Sports",NBA TV CA (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6491/index.m3u8
 
 #EXTINF:-1 tvg-id="sky-sports-apl" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League (1080p)
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=1ru9xT2N2ZAS_Nk9iBHMuA&e=2093822241&scheme=https
@@ -765,6 +648,9 @@ https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 #EXTINF:-1 tvg-id="okko-sport" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/oкко-sport.png" group-title="Sports",Окко Прайм (1080p)
 http://185.221.213.254:8080/Okko/index.m3u8
 
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@HD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/viju-sport.png" group-title="Sports",viju+ Sport (1080p)
+http://46.53.200.153:7777/play/a01l/index.m3u8
+
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/belarus-5.png" group-title="Sports",Беларусь 5 (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 
@@ -783,9 +669,11 @@ http://194.143.148.28:8080/KHL_HD/mpegts
 
 # EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 02 (1080p)
 
-# EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan (1080p)
+#EXTINF:-1 tvg-id="setanta1-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/20065/index.m3u8
 
-# EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan + (1080p)
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-qazaqstan.png" group-title="Sports",Setanta Sports Qazaqstan + (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/16025/index.m3u8
 
 # EXTINF:-1 tvg-id="setanta-ua" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine.png" group-title="Sports",Setanta Sports Ukraine (1080p)
 
@@ -794,45 +682,63 @@ http://194.143.148.28:8080/KHL_HD/mpegts
 # EXTINF:-1 tvg-id="setanta1-by" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-ukraine+.png" group-title="Sports",Setanta Sports Belarus + (1080p)
 
 #EXTINF:-1 tvg-id="setanta1-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-1.png" group-title="Sports",Setanta Sports 1 Georgia (1080p)
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7169/index.m3u8
 
 #EXTINF:-1 tvg-id="setanta2-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-2.png" group-title="Sports",Setanta Sports 2 Georgia (1080p)
-http://94.43.1.138:8081/setanta2/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/7168/index.m3u8
 
 #EXTINF:-1 tvg-id="setanta3-ge" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/setanta-sports-3.png" group-title="Sports",Setanta Sports 3 Georgia (1080p)
-http://94.43.1.138:8081/setanta3/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2209/index.m3u8
 
 
 --- 📺 Sports | Sport ISRAEL
 
-#EXTINF:-1 tvg-id="5Gold.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 Gold IS (1080p)
+#EXTINF:-1 tvg-id="5Gold.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 Gold IL (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5Sport.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 Live IS (1080p)
+#EXTINF:-1 tvg-id="5Sport.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 Live IL (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 4K IS (1080p)
+#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 4K IL (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sport5-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 IS (1080p)
+#EXTINF:-1 tvg-id="sport5-il" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 IL (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
 
-# EXTINF:-1 tvg-id="sport1-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Sport 1 IS (1080p)
-http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 tvg-id="sport1-il" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-israel.png" group-title="Sports",Sport 1 IL (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12249/index.m3u8
 
-# EXTINF:-1 tvg-id="sport2-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-israel.png" group-title="Sports",Sport 2 IS (1080p)
-http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 tvg-id="sport2-il" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-israel.png" group-title="Sports",Sport 2 IL (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12250/index.m3u8
 
-# EXTINF:-1 tvg-id="sport3-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-3-israel.png" group-title="Sports",Sport 3 IS (1080p)
-http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 tvg-id="sport3-il" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-3-israel.png" group-title="Sports",Sport 3 IL (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12251/index.m3u8
 
-# EXTINF:-1 tvg-id="sport4-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-4-israel.png" group-title="Sports",Sport 4 IS (1080p)
-http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 tvg-id="sport4-il" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-4-israel.png" group-title="Sports",Sport 4 IL (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2389/index.m3u8
 
-# EXTINF:-1 tvg-id="sport5-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 IS (1080p)
-http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 tvg-id="sport5-il" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 IL (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2391/index.m3u8
 
-# EXTINF:-1 tvg-id="sport6-is" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-6-israel.png" group-title="Sports",Sport 6 IS (1080p)
+#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 4K IL (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2341/index.m3u8
+
+#EXTINF:-1 tvg-id="5Sport.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 Live IL (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2362/index.m3u8
+
+#EXTINF:-1 tvg-id="5Sport.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 Live IL (1080p)2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12255/index.m3u8
+
+#EXTINF:-1 tvg-id="5Gold.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 Stars IL (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12232/index.m3u8
+
+#EXTINF:-1 tvg-id="5Gold.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 Stars IL (1080p)2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12278/index.m3u8
+
+#EXTINF:-1 tvg-id="5Gold.il@SD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-5-israel.png" group-title="Sports",Sport 5 Gold IL (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/12254/index.m3u8
+
+#EXTINF:-1 tvg-id="sport6-il" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-6-israel.png" group-title="Sports",Sport 6 IL (1080p)
 http://185.132.134.159:80/sport6/index.m3u8
 
 
@@ -914,18 +820,21 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
 --- 📺 Sports | TNT Sports UNITED KINGDOM
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591244
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6566/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-1.png" group-title="Sports",TNT Sports 1 UK (1080p)2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2505/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-2.png" group-title="Sports",TNT Sports 2 UK (1080p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591243
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/2506/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-3.png" group-title="Sports",TNT Sports 3 UK (1080p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591242
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6564/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-4.png" group-title="Sports",TNT Sports 4 UK (1080p)
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591241
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/19054/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)
+# EXTINF:-1 tvg-id="TNTSports5.uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tnt-sports-5.png" group-title="Sports",TNT Sports 5 UK (1080p)
 https://7pal.short.gy/tntspts5
 
 
@@ -988,45 +897,45 @@ https://7pal.short.gy/skyspt8nz
 --- 📺 Sports | TSN CANADA
 
 #EXTINF:-1 tvg-id="tsn1-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-1.png" group-title="Sports",TSN 1 CA (720p)
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6521/index.m3u8
 
 #EXTINF:-1 tvg-id="tsn2-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-2.png" group-title="Sports",TSN 2 CA (1080p)
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15928.ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6492/index.m3u8
 
 #EXTINF:-1 tvg-id="tsn3-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-3.png" group-title="Sports",TSN 3 CA (1080p)
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15927.ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6522/index.m3u8
 
 #EXTINF:-1 tvg-id="tsn4-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-4.png" group-title="Sports",TSN 4 CA (1080p)
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15926.ts
 
 #EXTINF:-1 tvg-id="tsn5-ca" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tsn-5.png" group-title="Sports",TSN 5 CA (1080p)
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/6517/index.m3u8
 
 
 --- 📺 Sports | Premier Liga SINGAPORE
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-1-sg.png" group-title="Sports",Hub Premier 1 SG (1080p)
+# EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-1-sg.png" group-title="Sports",Hub Premier 1 SG (1080p)
 https://7pal.short.gy/HPremier1
 
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-2-sg.png" group-title="Sports",Hub Premier 2 SG (1080p)
+# EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-2-sg.png" group-title="Sports",Hub Premier 2 SG (1080p)
 https://7pal.short.gy/HPremier2
 
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-3-sg.png" group-title="Sports",Hub Premier 3 SG (1080p)
+# EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/hub-premier-3-sg.png" group-title="Sports",Hub Premier 3 SG (1080p)
 https://7pal.short.gy/HPremier3
 
 
 --- 📺 Sports | Premier Sports MONGOLIA
 
-#EXTINF:-1 tvg-id="premier-sports-1-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 1 MN (1080p)
+# EXTINF:-1 tvg-id="premier-sports-1-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-mn.png" group-title="Sports",Premier Sports 1 MN (1080p)
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 
-#EXTINF:-1 tvg-id="premier-sports-2-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-mn.png" group-title="Sports",Premier Sports 2 MN (1080p)
+# EXTINF:-1 tvg-id="premier-sports-2-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-mn.png" group-title="Sports",Premier Sports 2 MN (1080p)
 https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 
-#EXTINF:-1 tvg-id="premier-sports-4-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-4-mn.png" group-title="Sports",Premier Sports 4 MN (1080p)
+# EXTINF:-1 tvg-id="premier-sports-4-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-4-mn.png" group-title="Sports",Premier Sports 4 MN (1080p)
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 
-#EXTINF:-1 tvg-id="premier-sports-5-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-5-mn.png" group-title="Sports",Premier Sports 5 MN (1080p)
+# EXTINF:-1 tvg-id="premier-sports-5-mn" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-5-mn.png" group-title="Sports",Premier Sports 5 MN (1080p)
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 
@@ -1040,10 +949,10 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 --- 📺 Sports | Premier Sports IRELAND
 
-#EXTINF:-1 tvg-id="premier-sports-1-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-ie.png" group-title="Sports",Premier Sports 1 IE (1080p)
+# EXTINF:-1 tvg-id="premier-sports-1-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-1-ie.png" group-title="Sports",Premier Sports 1 IE (1080p)
 https://7pal.short.gy/prsport1
 
-#EXTINF:-1 tvg-id="premier-sports-2-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-ie.png" group-title="Sports",Premier Sports 2 IE (1080p)
+# EXTINF:-1 tvg-id="premier-sports-2-uk" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/premier-sports-2-ie.png" group-title="Sports",Premier Sports 2 IE (1080p)
 https://7pal.short.gy/prsport2
 
 
@@ -1114,7 +1023,7 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
 # EXTINF:-1 tvg-id="bein-sport-1" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports.png" group-title="Sports",Bein Sports QA (540p)
 
-#EXTINF:-1 tvg-id="bein-sports-xtra-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Sports",BeIN Sports XTRA US (1080p)
+# EXTINF:-1 tvg-id="bein-sports-xtra-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra.png" group-title="Sports",BeIN Sports XTRA US (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 # EXTINF:-1 tvg-id="bein-sports-news" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/bein-sports-xtra-n.png" group-title="Sports",BeIN Sports XTRA Ñ ES (1080p)
@@ -1131,7 +1040,7 @@ https://7pal.short.gy/usanetwork
 https://7pal.short.gy/zigosfhd
 
 #EXTINF:-1 tvg-id="fast-sport-1-am" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/fast-sports.png" group-title="Sports",Fast Sports AM (1080p)
-https://a3285272783-s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//video_1920x1080_avc1/playlist.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7TLM6FFAYGGL4N/15507/index.m3u8
 
 # EXTINF:-1 tvg-id="ring-bg" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/ring-bg.png" group-title="Sports",Ring BG (1080p)
 
@@ -1150,7 +1059,7 @@ https://a3285272783-s80718.cdn.ngenix.net//hls//CH_FAST_SPORTSHD//video_1920x108
 
 # EXTINF:-1 tvg-id="supertennis" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/super-tennis.png" group-title="Tennis",Super Tennis (1080p)
 
-#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Tennis",Tennis Channel US(1080p)
+# EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/tennis-channel.png" group-title="Tennis",Tennis Channel US(1080p)
 https://7pal.short.gy/tennisc
 
 # EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/t2-tennis.png" group-title="Tennis",T2 Tennis (1080p)

@@ -78,6 +78,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RHWTLUP2GTDLZDGKNWU2UGBN
 #EXTINF:-1 tvg-id="vip-sport-12" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/vip-sport.png" group-title="Sports",ViP Sport 12 (1080p)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RHWTLUP2GTDLZDGKNWU2UGBN/20102/index.m3u8
 
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 
 
 
@@ -86,11 +88,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RHWTLUP2GTDLZDGKNWU2UGBN
 
 
 
-#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2 (United States) HD (720p)
-http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="Sports",ESPN (United States) HD (720p)
-http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr@France" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
@@ -107,10 +104,6 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
 
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
-http://23.237.104.106:8080/USA_NBA/index.m3u8
-
-
 
 
 
@@ -120,19 +113,6 @@ http://85.117.61.84/setanta3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Sport1.cz@SD" tvg-logo="https://i.imgur.com/X5X3tKC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Sports",Sport1 (Czech Republic)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport1.cz@HD" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Sports",Sport1 (Czech Republic) HD
-http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sport2.cz@HD" tvg-logo="https://i.imgur.com/UxflVoU.png" group-title="Sports",Sport2 HD
-http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport2.hu@SD" tvg-logo="https://i.imgur.com/UxflVoU.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Sports",Sport 2 (Hungary)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.7.14/live/sport2_hun/index.m3u8
-#EXTINF:-1 tvg-id="Sport2.sk@HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/ff/Sport_2_%282020-.n.v.%29.png" group-title="Sports",Sport 2 (Slovakia)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
 
 
 #EXTINF:-1 tvg-id="TNTSports.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sports (Argentina)
@@ -1054,8 +1034,23 @@ http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="sport1-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-cz.png" group-title="Sports",SPORT 1 CZ (1080p)
 http://88.212.7.11/live/test_sport1_25p/playlist.m3u8
 
+# EXTINF:-1 tvg-id="sport1-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-cz.png" group-title="Sports",SPORT 1 CZ (1080p)2
+http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+
+# EXTINF:-1 tvg-id="sport1-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-1-cz.png" group-title="Sports",SPORT 1 CZ (1080p)3
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sport2-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-cz.png" group-title="Sports",SPORT 2 CZ (1080p)
 http://88.212.7.11/live/test_sport_2/playlist.m3u8
+
+# EXTINF:-1 tvg-id="sport2-cz" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-cz.png" group-title="Sports",SPORT 2 CZ (1080p)2
+http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.hu@HD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-cz.png" group-title="Sports",SPORT 2 HU (1080p)
+http://88.212.7.14/live/sport2_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.sk@HD" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/sport-2-cz.png" group-title="Sports",SPORT 2 SK (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
 
 
 --- 📺 Sports | TNT Sports UNITED KINGDOM
@@ -1223,10 +1218,10 @@ https://7pal.short.gy/prsport2
 --- 📺 Sports | ESPN
 
 #EXTINF:-1 tvg-id="espn-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn.png" group-title="Sports",ESPN US (720p)
-https://7pal.short.gy/espnus
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-2.png" group-title="Sports",ESPN 2 US (720p)
-https://7pal.short.gy/espn2
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
 # EXTINF:-1 tvg-id="espn-u-us" tvg-logo="https://alexcrocodilych.github.io/iptv/iptv-img/espn-u.png" group-title="Sports",ESPN U US (720p)
 
